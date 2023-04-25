@@ -1,4 +1,6 @@
-# mediatek
+# Mediatek <img src="assets/logos/logo1.png" height="170" align="right"/>
+
+[![pages-build-deployment](https://github.com/ahasverus/mediatek/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ahasverus/mediatek/actions/workflows/pages/pages-build-deployment)
 
 Site Web uniquement destiné à rouler en local.
 
