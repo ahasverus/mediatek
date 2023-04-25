@@ -1,0 +1,32 @@
+- imdbid: tt7322224
+  type: movie
+  title: Triangle of Sadness
+  year: 2022.0
+  runtime: 147.0
+  director: Ruben Östlund
+  writer: Ruben Östlund
+  actors:
+    - Charlbi Dean
+    - Harris Dickinson
+    - Woody Harrelson
+  genre:
+    - Comedy
+    - Drama
+  plot: A fashion model celebrity couple join an eventful cruise for the super-rich.
+  language:
+    - Akan
+    - English
+    - Swedish
+    - German
+    - French
+    - Greek
+    - Tagalog
+  country:
+    - Sweden
+    - France
+    - United Kingdom
+    - Germany
+    - Turkey
+    - Greece
+  imdbrating: 7.6
+  slug: triangle-of-sadness-2022

@@ -1,0 +1,24 @@
+- imdbid: tt0120201
+  type: movie
+  title: Starship Troopers
+  year: 1997.0
+  runtime: 129.0
+  director: Paul Verhoeven
+  writer:
+    - Edward Neumeier
+    - Robert A. Heinlein
+  actors:
+    - Casper Van Dien
+    - Dina Meyer
+    - Denise Richards
+    - Jake Busey
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: Humans in a fascist, militaristic future wage war with giant alien bugs.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: starship-troopers-1997

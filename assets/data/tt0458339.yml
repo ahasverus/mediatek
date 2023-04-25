@@ -1,0 +1,31 @@
+- imdbid: tt0458339
+  type: movie
+  title: 'Captain America: The First Avenger'
+  year: 2011.0
+  runtime: 124.0
+  director: Joe Johnston
+  writer:
+    - Christopher Markus
+    - Stephen McFeely
+    - Joe Simon
+    - Jack Kirby
+  actors:
+    - Chris Evans
+    - Hayley Atwell
+    - Sebastian Stan
+    - Tommy Lee Jones
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Steve Rogers, a rejected military soldier, transforms into Captain America after
+    taking a dose of a 'Super-Soldier serum'. But being Captain America comes at a price
+    as he attempts to take down a war monger and a terrorist organization.
+  language:
+    - English
+    - Norwegian
+    - French
+  country: USA
+  imdbrating: 6.9
+  slug: captain-america-the-first-avenger-2011

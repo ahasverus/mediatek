@@ -1,0 +1,28 @@
+- imdbid: tt7097896
+  type: movie
+  title: 'Venom: Let There Be Carnage'
+  year: 2021.0
+  runtime: 97.0
+  director: Andy Serkis
+  writer:
+    - Kelly Marcel
+    - Tom Hardy
+    - Todd McFarlane
+  actors:
+    - Tom Hardy
+    - Woody Harrelson
+    - Michelle Williams
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: Eddie Brock attempts to reignite his career by interviewing serial killer Cletus
+    Kasady, who becomes the host of the symbiote Carnage and escapes prison after a
+    failed execution.
+  language: English
+  country:
+    - United States
+    - United Kingdom
+    - Canada
+  imdbrating: 6.3
+  slug: venom-let-there-be-carnage-2021

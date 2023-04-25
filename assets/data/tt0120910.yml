@@ -1,0 +1,44 @@
+- imdbid: tt0120910
+  type: movie
+  title: Fantasia 2000
+  year: 1999.0
+  runtime: 75.0
+  director:
+    - James Algar
+    - Gaëtan Brizzi
+    - Paul Brizzi
+    - Hendel Butoy
+    - Francis Glebas
+    - Eric Goldberg
+    - Don Hahn
+    - Pixote Hunt
+  writer:
+    - Eric Goldberg
+    - Joe Grant
+    - Perce Pearce
+    - Carl Fallberg
+    - Gaëtan Brizzi
+    - Paul Brizzi
+    - Don Hahn
+    - David Reynolds
+    - Irene Mecchi
+    - Brenda Chapman
+    - Elena Driskill
+  actors:
+    - Steve Martin
+    - Itzhak Perlman
+    - Quincy Jones
+    - Bette Midler
+  genre:
+    - Animation
+    - Comedy
+    - Family
+    - Fantasy
+    - Music
+    - Disney
+  plot: An update of the original film with new interpretations of great works of classical
+    music.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: fantasia-2000-1999

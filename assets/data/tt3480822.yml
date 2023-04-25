@@ -1,0 +1,29 @@
+- imdbid: tt3480822
+  type: movie
+  title: Black Widow
+  year: 2021.0
+  runtime: 133.0
+  director: Cate Shortland
+  writer:
+    - Jac Schaeffer
+    - Ned Benson
+    - Eric Pearson
+    - Stan Lee
+    - Don Heck
+    - Don Rico
+  actors:
+    - Florence Pugh
+    - Scarlett Johansson
+    - Rachel Weisz
+    - David Harbour
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: A film about Natasha Romanoff in her quests between the films Civil War and
+    Infinity War.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: black-widow-2021

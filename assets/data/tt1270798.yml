@@ -1,0 +1,37 @@
+- imdbid: tt1270798
+  type: movie
+  title: 'X-Men: First Class'
+  year: 2011.0
+  runtime: 131.0
+  director: Matthew Vaughn
+  writer:
+    - Ashley Miller
+    - Zack Stentz
+    - Jane Goldman
+    - Matthew Vaughn
+    - Sheldon Turner
+    - Bryan Singer
+  actors:
+    - James McAvoy
+    - Laurence Belcher
+    - Michael Fassbender
+    - Bill Milner
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together
+    to find others like them, but Erik's vengeful pursuit of an ambitious mutant who
+    ruined his life causes a schism to divide them.
+  language:
+    - English
+    - German
+    - French
+    - Spanish
+    - Russian
+  country:
+    - USA
+    - UK
+  imdbrating: 7.7
+  slug: x-men-first-class-2011

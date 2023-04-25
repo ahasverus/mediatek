@@ -1,0 +1,32 @@
+- imdbid: tt1179025
+  type: movie
+  title: Les Aventures extraordinaires d'Adèle Blanc-Sec
+  year: 2010.0
+  runtime: 107.0
+  director: Luc Besson
+  writer:
+    - Luc Besson
+    - Jacques Tardi
+  actors:
+    - Louise Bourgoin
+    - Mathieu Amalric
+    - Gilles Lellouche
+    - Jean-Paul Rouve
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Mystery
+  plot: An adventure set in the early part of the 20th century and focused on a popular
+    novelist and her dealings with would-be suitors, the cops, monsters, and other distractions.
+  language:
+    - French
+    - English
+    - Spanish
+  country:
+    - France
+    - USA
+  imdbrating: 6.3
+  slug: les-aventures-extraordinaires-d-adele-blanc-sec-2010

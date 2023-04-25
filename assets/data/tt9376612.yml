@@ -1,0 +1,29 @@
+- imdbid: tt9376612
+  type: movie
+  title: Shang-Chi and the Legend of the Ten Rings
+  year: 2021.0
+  runtime: 132.0
+  director: Destin Daniel Cretton
+  writer:
+    - Dave Callaham
+    - Destin Daniel Cretton
+    - Andrew Lanham
+  actors:
+    - Simu Liu
+    - Awkwafina
+    - Tony Chiu-Wai Leung
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Marvel
+  plot: Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past
+    after being drawn into the Ten Rings organization.
+  language:
+    - English
+    - Mandarin
+  country:
+    - United States
+    - Australia
+  imdbrating: 7.8
+  slug: shang-chi-and-the-legend-of-the-ten-rings-2021

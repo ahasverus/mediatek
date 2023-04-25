@@ -1,0 +1,21 @@
+- imdbid: tt0441909
+  type: movie
+  title: Volver
+  year: 2006.0
+  runtime: 121.0
+  director: Pedro Almodóvar
+  writer: Pedro Almodóvar
+  actors:
+    - Penélope Cruz
+    - Carmen Maura
+    - Lola Dueñas
+    - Blanca Portillo
+  genre:
+    - Comedy
+    - Drama
+  plot: After her death, a mother returns to her home town in order to fix the situations
+    she couldn't resolve during her life.
+  language: Spanish
+  country: Spain
+  imdbrating: 7.6
+  slug: volver-2006

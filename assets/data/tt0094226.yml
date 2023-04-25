@@ -1,0 +1,26 @@
+- imdbid: tt0094226
+  type: movie
+  title: The Untouchables
+  year: 1987.0
+  runtime: 119.0
+  director: Brian De Palma
+  writer:
+    - David Mamet
+    - Oscar Fraley
+    - Eliot Ness
+  actors:
+    - Kevin Costner
+    - Sean Connery
+    - Charles Martin Smith
+    - Andy Garcia
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: During the era of Prohibition in the United States, Federal Agent Eliot Ness
+    sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption,
+    assembles a small, hand-picked team to help him.
+  language: English
+  country: USA
+  imdbrating: 7.9
+  slug: the-untouchables-1987

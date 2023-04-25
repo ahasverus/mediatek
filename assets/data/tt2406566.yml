@@ -1,0 +1,34 @@
+- imdbid: tt2406566
+  type: movie
+  title: Atomic Blonde
+  year: 2017.0
+  runtime: 115.0
+  director: David Leitch
+  writer:
+    - Kurt Johnstad
+    - Antony Johnston
+    - Sam Hart
+  actors:
+    - Charlize Theron
+    - James McAvoy
+    - Eddie Marsan
+    - John Goodman
+  genre:
+    - Action
+    - Adventure
+    - Mystery
+    - Thriller
+  plot: An undercover MI6 agent is sent to Berlin during the Cold War to investigate
+    the murder of a fellow agent and recover a missing list of double agents.
+  language:
+    - English
+    - German
+    - Russian
+    - Swedish
+  country:
+    - Germany
+    - Sweden
+    - USA
+    - Hungary
+  imdbrating: 6.7
+  slug: atomic-blonde-2017

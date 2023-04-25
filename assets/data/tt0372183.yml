@@ -1,0 +1,30 @@
+- imdbid: tt0372183
+  type: movie
+  title: The Bourne Supremacy
+  year: 2004.0
+  runtime: 108.0
+  director: Paul Greengrass
+  writer:
+    - Robert Ludlum
+    - Tony Gilroy
+  actors:
+    - Matt Damon
+    - Franka Potente
+    - Brian Cox
+    - Julia Stiles
+  genre:
+    - Action
+    - Mystery
+    - Thriller
+  plot: When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume
+    his former life as a trained assassin to survive.
+  language:
+    - English
+    - Russian
+    - German
+    - Italian
+  country:
+    - USA
+    - Germany
+  imdbrating: 7.7
+  slug: the-bourne-supremacy-2004

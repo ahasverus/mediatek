@@ -1,0 +1,26 @@
+- imdbid: tt0942903
+  type: movie
+  title: 'Stargate: The Ark of Truth'
+  year: 2008.0
+  runtime: 97.0
+  director: Robert C. Cooper
+  writer: Robert C. Cooper
+  actors:
+    - Ben Browder
+    - Amanda Tapping
+    - Christopher Judge
+    - Michael Shanks
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - Fantasy
+    - Sci-Fi
+  plot: SG-1 search for an Ancient artifact called the Ark of Truth to finally defeat
+    the Ori. However, the Ark is in the Ori's galaxy.
+  language: English
+  country:
+    - USA
+    - Canada
+  imdbrating: 7.4
+  slug: stargate-the-ark-of-truth-2008

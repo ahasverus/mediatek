@@ -1,0 +1,37 @@
+- imdbid: tt0114787
+  type: movie
+  title: Underground
+  year: 1995.0
+  runtime: 167.0
+  director: Emir Kusturica
+  writer:
+    - Dusan Kovacevic
+    - Emir Kusturica
+  actors:
+    - Predrag 'Miki' Manojlovic
+    - Lazar Ristovski
+    - Mirjana Jokovic
+    - Slavko Stimac
+  genre:
+    - Comedy
+    - Drama
+    - War
+  plot: A group of Serbian socialists prepares for the war in a surreal underground
+    filled by parties, tragedies, love and hate.
+  language:
+    - Serbian
+    - German
+    - French
+    - English
+    - Russian
+  country:
+    - Federal Republic of Yugoslavia
+    - France
+    - Germany
+    - Bulgaria
+    - Czech Republic
+    - Hungary
+    - UK
+    - USA
+  imdbrating: 8.1
+  slug: underground-1995

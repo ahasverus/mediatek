@@ -1,0 +1,39 @@
+- imdbid: tt3521164
+  type: movie
+  title: Moana
+  year: 2016.0
+  runtime: 107.0
+  director:
+    - Ron Clements
+    - John Musker
+    - Don Hall
+    - Chris Williams
+  writer:
+    - Jared Bush
+    - Ron Clements
+    - John Musker
+    - Chris Williams
+    - Don Hall
+    - Pamela Ribon
+    - Aaron Kandell
+    - Jordan Kandell
+  actors:
+    - Auli'i Cravalho
+    - Dwayne Johnson
+    - Rachel House
+    - Temuera Morrison
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Disney
+  plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches
+    Moana's island, she answers the Ocean's call to seek out the Demigod to set things
+    right.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: moana-2016

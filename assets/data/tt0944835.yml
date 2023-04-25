@@ -1,0 +1,25 @@
+- imdbid: tt0944835
+  type: movie
+  title: Salt
+  year: 2010.0
+  runtime: 100.0
+  director: Phillip Noyce
+  writer: Kurt Wimmer
+  actors:
+    - Angelina Jolie
+    - Liev Schreiber
+    - Chiwetel Ejiofor
+    - Daniel Olbrychski
+  genre:
+    - Action
+    - Mystery
+    - Thriller
+  plot: A CIA agent goes on the run after a defector accuses her of being a Russian
+    spy.
+  language:
+    - English
+    - Russian
+    - Korean
+  country: USA
+  imdbrating: 6.4
+  slug: salt-2010

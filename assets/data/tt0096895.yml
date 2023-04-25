@@ -1,0 +1,31 @@
+- imdbid: tt0096895
+  type: movie
+  title: Batman
+  year: 1989.0
+  runtime: 126.0
+  director: Tim Burton
+  writer:
+    - Bob Kane
+    - Sam Hamm
+    - Sam Hamm
+    - Warren Skaaren
+  actors:
+    - Michael Keaton
+    - Jack Nicholson
+    - Kim Basinger
+    - Robert Wuhl
+  genre:
+    - Action
+    - Adventure
+    - DC-Comics
+  plot: The Dark Knight of Gotham City begins his war on crime with his first major
+    enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+  language:
+    - English
+    - French
+    - Spanish
+  country:
+    - USA
+    - UK
+  imdbrating: 7.5
+  slug: batman-1989

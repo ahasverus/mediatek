@@ -1,0 +1,34 @@
+- imdbid: tt1136608
+  type: movie
+  title: District 9
+  year: 2009.0
+  runtime: 112.0
+  director: Neill Blomkamp
+  writer:
+    - Neill Blomkamp
+    - Terri Tatchell
+  actors:
+    - Sharlto Copley
+    - Jason Cope
+    - Nathalie Boltt
+    - Sylvaine Strike
+  genre:
+    - Action
+    - Sci-Fi
+    - Thriller
+  plot: Violence ensues after an extraterrestrial race forced to live in slum-like conditions
+    on Earth finds a kindred spirit in a government agent exposed to their biotechnology.
+  language:
+    - English
+    - Nyanja
+    - Afrikaans
+    - Zulu
+    - Xhosa
+    - Southern Sotho
+  country:
+    - South Africa
+    - USA
+    - New Zealand
+    - Canada
+  imdbrating: 7.9
+  slug: district-9-2009

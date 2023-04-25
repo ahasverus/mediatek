@@ -1,0 +1,28 @@
+- imdbid: tt10451312
+  type: movie
+  title: The Marco Effect
+  year: 2021.0
+  runtime: 125.0
+  director: Martin Zandvliet
+  writer:
+    - Jussi Adler-Olsen
+    - Anders Frithiof August
+    - Thomas Porsager
+  actors:
+    - Ulrich Thomsen
+    - Zaki Youssef
+    - Sofie Torp
+  genre:
+    - Crime
+    - Thriller
+  plot: One day Marco discovers a dead man. After learning that Marco may have invaluable
+    information, Commissioner Mørck is determined to find and rescue him.
+  language:
+    - Danish
+    - Romany
+  country:
+    - Denmark
+    - Germany
+    - Czech Republic
+  imdbrating: 5.2
+  slug: the-marco-effect-2021

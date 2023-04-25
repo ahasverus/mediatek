@@ -1,0 +1,32 @@
+- imdbid: tt0077928
+  type: movie
+  title: Midnight Express
+  year: 1978.0
+  runtime: 121.0
+  director: Alan Parker
+  writer:
+    - Oliver Stone
+    - Billy Hayes
+    - William Hoffer
+  actors:
+    - Brad Davis
+    - Irene Miracle
+    - Bo Hopkins
+    - Paolo Bonacelli
+  genre:
+    - Biography
+    - Crime
+    - Drama
+    - Thriller
+  plot: Billy Hayes, an American college student, is caught smuggling drugs out of Turkey
+    and thrown into prison.
+  language:
+    - English
+    - Maltese
+    - French
+    - Turkish
+  country:
+    - UK
+    - USA
+  imdbrating: 7.6
+  slug: midnight-express-1978

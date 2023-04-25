@@ -1,0 +1,39 @@
+- imdbid: tt0082406
+  type: movie
+  title: The Fox and the Hound
+  year: 1981.0
+  runtime: 83.0
+  director:
+    - Ted Berman
+    - Richard Rich
+    - Art Stevens
+    - David Hand
+    - Wolfgang Reitherman
+  writer:
+    - Daniel P. Mannix
+    - Larry Clemmons
+    - Ted Berman
+    - David Michener
+    - Peter Young
+    - Burny Mattinson
+    - Steve Hulett
+    - Earl Kress
+    - Vance Gerry
+  actors:
+    - Mickey Rooney
+    - Kurt Russell
+    - Pearl Bailey
+    - Jack Albertson
+  genre:
+    - Animation
+    - Adventure
+    - Drama
+    - Family
+    - Disney
+  plot: A little fox named Tod, and Copper, a hound puppy, vow to be best buddies forever.
+    But as Copper grows into a hunting dog, their unlikely friendship faces the ultimate
+    test.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: the-fox-and-the-hound-1981

@@ -1,0 +1,21 @@
+- imdbid: tt0243493
+  type: movie
+  title: Le Placard
+  year: 2001.0
+  runtime: 84.0
+  director: Francis Veber
+  writer:
+    - Francis Veber
+    - Francis Veber
+  actors:
+    - Daniel Auteuil
+    - Gérard Depardieu
+    - Thierry Lhermitte
+    - Michèle Laroque
+  genre: Comedy
+  plot: A man spreads the rumor of his fake homosexuality with the aid of his neighbor,
+    to prevent his imminent firing at his work.
+  language: French
+  country: France
+  imdbrating: 7.0
+  slug: le-placard-2001

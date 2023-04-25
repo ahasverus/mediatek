@@ -1,0 +1,25 @@
+- imdbid: tt9155512
+  type: movie
+  title: Le visiteur du futur
+  year: 2022.0
+  runtime: 105.0
+  director: François Descraques
+  writer:
+    - Slimane-Baptiste Berhoun
+    - François Descraques
+  actors:
+    - Florent Dorin
+    - Arnaud Ducret
+    - Enya Baroux
+  genre:
+    - Comedy
+    - Sci-Fi
+  plot: Alice, a young girl, protest against the construction of a nuclear plant created
+    by her father, a deputy. It is then that a strange visitor take them in 2555, a
+    future devastated by the explosion of the central.
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 6.5
+  slug: le-visiteur-du-futur-2022

@@ -1,0 +1,27 @@
+- imdbid: tt0117477
+  type: movie
+  title: Ridicule
+  year: 1996.0
+  runtime: 102.0
+  director: Patrice Leconte
+  writer:
+    - Rémi Waterhouse
+    - Michel Fessler
+    - Eric Vicaut
+    - Rémi Waterhouse
+  actors:
+    - Charles Berling
+    - Jean Rochefort
+    - Fanny Ardant
+    - Judith Godrèche
+  genre:
+    - Comedy
+    - Drama
+    - History
+    - Romance
+  plot: To get royal backing on a needed drainage project, a poor French lord must learn
+    to play the delicate games of wit at court at Versailles.
+  language: French
+  country: France
+  imdbrating: 7.4
+  slug: ridicule-1996

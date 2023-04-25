@@ -1,0 +1,25 @@
+- imdbid: tt1365050
+  type: movie
+  title: Beasts of No Nation
+  year: 2015.0
+  runtime: 137.0
+  director: Cary Joji Fukunaga
+  writer:
+    - Cary Joji Fukunaga
+    - Uzodinma Iweala
+  actors:
+    - Abraham Attah
+    - Emmanuel Affadzi
+    - Ricky Adelayitor
+    - Andrew Adote
+  genre:
+    - Drama
+    - War
+  plot: A drama based on the experiences of Agu, a child soldier fighting in the civil
+    war of an unnamed African country.
+  language:
+    - English
+    - Akan
+  country: USA
+  imdbrating: 7.7
+  slug: beasts-of-no-nation-2015

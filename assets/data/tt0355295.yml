@@ -1,0 +1,28 @@
+- imdbid: tt0355295
+  type: movie
+  title: The Brothers Grimm
+  year: 2005.0
+  runtime: 118.0
+  director: Terry Gilliam
+  writer: Ehren Kruger
+  actors:
+    - Matt Damon
+    - Heath Ledger
+    - Monica Bellucci
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+  plot: Will and Jake Grimm are traveling con-artists who encounter a genuine fairy-tale
+    curse which requires true courage instead of their usual bogus exorcisms.
+  language:
+    - English
+    - French
+    - German
+    - Italian
+  country:
+    - United States
+    - Czech Republic
+    - United Kingdom
+  imdbrating: 5.9
+  slug: the-brothers-grimm-2005

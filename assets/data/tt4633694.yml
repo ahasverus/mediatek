@@ -1,0 +1,33 @@
+- imdbid: tt4633694
+  type: movie
+  title: 'Spider-Man: Into the Spider-Verse'
+  year: 2018.0
+  runtime: 117.0
+  director:
+    - Bob Persichetti
+    - Peter Ramsey
+    - Rodney Rothman
+  writer:
+    - Phil Lord
+    - Rodney Rothman
+    - Phil Lord
+  actors:
+    - Shameik Moore
+    - Jake Johnson
+    - Hailee Steinfeld
+    - Mahershala Ali
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Family
+    - Sci-Fi
+    - Marvel
+  plot: Teen Miles Morales becomes Spider-Man of his reality, crossing his path with
+    five counterparts from other dimensions to stop a threat for all realities.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 8.4
+  slug: spider-man-into-the-spider-verse-2018

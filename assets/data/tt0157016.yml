@@ -1,0 +1,22 @@
+- imdbid: tt0157016
+  type: movie
+  title: Seul contre tous
+  year: 1998.0
+  runtime: 93.0
+  director: Gaspar Noé
+  writer: Gaspar Noé
+  actors:
+    - Philippe Nahon
+    - Blandine Lenoir
+    - Frankie Pain
+    - Martine Audrain
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A horse meat butcher's life and mind begins to breakdown as he lashes out against
+    various factions of society while attempting to reconnect with his estranged daughter.
+  language: French
+  country: France
+  imdbrating: 7.4
+  slug: seul-contre-tous-1998

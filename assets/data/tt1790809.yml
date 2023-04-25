@@ -1,0 +1,34 @@
+- imdbid: tt1790809
+  type: movie
+  title: 'Pirates of the Caribbean: Dead Men Tell No Tales'
+  year: 2017.0
+  runtime: 129.0
+  director:
+    - Joachim Rønning
+    - Espen Sandberg
+  writer:
+    - Jeff Nathanson
+    - Jeff Nathanson
+    - Terry Rossio
+    - Ted Elliott
+    - Terry Rossio
+    - Stuart Beattie
+    - Jay Wolpert
+  actors:
+    - Johnny Depp
+    - Javier Bardem
+    - Geoffrey Rush
+    - Brenton Thwaites
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: Captain Jack Sparrow is pursued by old rival Captain Salazar and a crew of deadly
+    ghosts who have escaped from the Devil's Triangle. They're determined to kill every
+    pirate at sea...notably Jack.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 6.6
+  slug: pirates-of-the-caribbean-dead-men-tell-no-tales-2017

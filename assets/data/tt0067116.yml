@@ -1,0 +1,27 @@
+- imdbid: tt0067116
+  type: movie
+  title: The French Connection
+  year: 1971.0
+  runtime: 104.0
+  director: William Friedkin
+  writer:
+    - Ernest Tidyman
+    - Robin Moore
+  actors:
+    - Gene Hackman
+    - Fernando Rey
+    - Roy Scheider
+    - Tony Lo Bianco
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job
+    with a French connection.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 7.7
+  slug: the-french-connection-1971

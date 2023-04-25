@@ -1,0 +1,30 @@
+- imdbid: tt1571222
+  type: movie
+  title: A Dangerous Method
+  year: 2011.0
+  runtime: 99.0
+  director: David Cronenberg
+  writer:
+    - Christopher Hampton
+    - Christopher Hampton
+    - John Kerr
+  actors:
+    - Keira Knightley
+    - Viggo Mortensen
+    - Michael Fassbender
+    - Vincent Cassel
+  genre:
+    - Biography
+    - Drama
+    - Romance
+    - Thriller
+  plot: A look at how the intense relationship between Carl Jung and Sigmund Freud gives
+    birth to psychoanalysis.
+  language: English
+  country:
+    - UK
+    - Germany
+    - Canada
+    - USA
+  imdbrating: 6.4
+  slug: a-dangerous-method-2011

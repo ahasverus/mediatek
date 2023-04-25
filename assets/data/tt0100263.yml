@@ -1,0 +1,26 @@
+- imdbid: tt0100263
+  type: movie
+  title: Nikita
+  year: 1990.0
+  runtime: 117.0
+  director: Luc Besson
+  writer: Luc Besson
+  actors:
+    - Anne Parillaud
+    - Marc Duret
+    - Patrick Fontana
+    - Alain Lathière
+  genre:
+    - Action
+    - Thriller
+  plot: Convicted felon Nikita, instead of going to jail, is given a new identity and
+    trained, stylishly, as a top secret spy/assassin.
+  language:
+    - French
+    - Italian
+    - English
+  country:
+    - France
+    - Italy
+  imdbrating: 7.3
+  slug: nikita-1990

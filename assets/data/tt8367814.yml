@@ -1,0 +1,29 @@
+- imdbid: tt8367814
+  type: movie
+  title: The Gentlemen
+  year: 2019.0
+  runtime: 113.0
+  director: Guy Ritchie
+  writer:
+    - Guy Ritchie
+    - Ivan Atkinson
+    - Marn Davies
+    - Guy Ritchie
+  actors:
+    - Matthew McConaughey
+    - Charlie Hunnam
+    - Michelle Dockery
+    - Jeremy Strong
+  genre:
+    - Action
+    - Comedy
+    - Crime
+  plot: An American expat tries to sell off his highly profitable marijuana empire in
+    London, triggering plots, schemes, bribery and blackmail in an attempt to steal
+    his domain out from under him.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 8.0
+  slug: the-gentlemen-2019

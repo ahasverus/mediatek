@@ -1,0 +1,29 @@
+- imdbid: tt2980516
+  type: movie
+  title: The Theory of Everything
+  year: 2014.0
+  runtime: 123.0
+  director: James Marsh
+  writer:
+    - Anthony McCarten
+    - Jane Hawking
+  actors:
+    - Eddie Redmayne
+    - Felicity Jones
+    - Tom Prior
+    - Sophie Perry
+  genre:
+    - Biography
+    - Drama
+    - Romance
+  plot: A look at the relationship between the famous physicist Stephen Hawking and
+    his wife.
+  language:
+    - English
+    - French
+  country:
+    - UK
+    - Japan
+    - USA
+  imdbrating: 7.7
+  slug: the-theory-of-everything-2014

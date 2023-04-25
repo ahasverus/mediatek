@@ -1,0 +1,28 @@
+- imdbid: tt0107002
+  type: movie
+  title: Germinal
+  year: 1993.0
+  runtime: 160.0
+  director: Claude Berri
+  writer:
+    - Claude Berri
+    - Arlette Langmann
+    - Émile Zola
+  actors:
+    - Miou-Miou
+    - Renaud
+    - Jean Carmet
+    - Judith Henry
+  genre:
+    - Drama
+    - Romance
+  plot: In mid-nineteenth-century northern France, a coal mining town's workers are
+    exploited by the mine's owner. One day, they decide to go on strike, and the authorities
+    repress them.
+  language: French
+  country:
+    - France
+    - Belgium
+    - Italy
+  imdbrating: 7.1
+  slug: germinal-1993

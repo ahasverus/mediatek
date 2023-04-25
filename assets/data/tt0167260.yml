@@ -1,0 +1,32 @@
+- imdbid: tt0167260
+  type: movie
+  title: 'The Lord of the Rings 3: The Return of the King'
+  year: 2003.0
+  runtime: 201.0
+  director: Peter Jackson
+  writer:
+    - J.R.R. Tolkien
+    - Fran Walsh
+    - Philippa Boyens
+    - Peter Jackson
+  actors:
+    - Noel Appleby
+    - Ali Astin
+    - Sean Astin
+    - David Aston
+  genre:
+    - Adventure
+    - Drama
+    - Fantasy
+  plot: Gandalf and Aragorn lead the World of Men against Sauron's army to draw his
+    gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+  language:
+    - English
+    - Quenya
+    - Old English
+    - Sindarin
+  country:
+    - New Zealand
+    - USA
+  imdbrating: 8.9
+  slug: the-lord-of-the-rings-3-the-return-of-the-king-2003

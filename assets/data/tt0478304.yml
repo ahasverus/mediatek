@@ -1,0 +1,21 @@
+- imdbid: tt0478304
+  type: movie
+  title: The Tree of Life
+  year: 2011.0
+  runtime: 139.0
+  director: Terrence Malick
+  writer: Terrence Malick
+  actors:
+    - Brad Pitt
+    - Sean Penn
+    - Jessica Chastain
+    - Hunter McCracken
+  genre:
+    - Drama
+    - Fantasy
+  plot: The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss
+    of innocence and struggles with his parents' conflicting teachings.
+  language: English
+  country: USA
+  imdbrating: 6.8
+  slug: the-tree-of-life-2011

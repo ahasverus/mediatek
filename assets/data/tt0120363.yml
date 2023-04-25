@@ -1,0 +1,40 @@
+- imdbid: tt0120363
+  type: movie
+  title: Toy Story 2
+  year: 1999.0
+  runtime: 92.0
+  director:
+    - John Lasseter
+    - Ash Brannon
+    - Lee Unkrich
+  writer:
+    - John Lasseter
+    - Pete Docter
+    - Ash Brannon
+    - Andrew Stanton
+    - Andrew Stanton
+    - Rita Hsiao
+    - Doug Chamberlin
+    - Chris Webb
+  actors:
+    - Tom Hanks
+    - Tim Allen
+    - Joan Cusack
+    - Kelsey Grammer
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Pixar
+  plot: When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue
+    mission to save Woody before he becomes a museum toy property with his roundup gang
+    Jessie, Prospector, and Bullseye.
+  language:
+    - English
+    - Arabic
+    - Spanish
+  country: USA
+  imdbrating: 7.9
+  slug: toy-story-2-1999

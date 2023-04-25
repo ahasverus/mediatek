@@ -1,0 +1,37 @@
+- imdbid: tt6146586
+  type: movie
+  title: 'John Wick: Chapter 3 - Parabellum'
+  year: 2019.0
+  runtime: 130.0
+  director: Chad Stahelski
+  writer:
+    - Derek Kolstad
+    - Shay Hatten
+    - Chris Collins
+    - Marc Abrams
+    - Derek Kolstad
+    - Derek Kolstad
+  actors:
+    - Keanu Reeves
+    - Halle Berry
+    - Ian McShane
+    - Laurence Fishburne
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: John Wick is on the run after killing a member of the international assassins'
+    guild, and with a $14 million price tag on his head, he is the target of hit men
+    and women everywhere.
+  language:
+    - English
+    - Russian
+    - Japanese
+    - Indonesian
+    - Mandarin
+    - Italian
+    - Arabic
+    - Latin
+  country: USA
+  imdbrating: 7.4
+  slug: john-wick-chapter-3-parabellum-2019

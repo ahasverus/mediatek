@@ -1,0 +1,31 @@
+- imdbid: tt1049413
+  type: movie
+  title: Up
+  year: 2009.0
+  runtime: 96.0
+  director:
+    - Pete Docter
+    - Bob Peterson
+  writer:
+    - Pete Docter
+    - Bob Peterson
+    - Tom McCarthy
+    - Bob Peterson
+    - Pete Docter
+  actors:
+    - Edward Asner
+    - Christopher Plummer
+    - Jordan Nagai
+    - Bob Peterson
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Pixar
+  plot: 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped
+    with balloons, inadvertently taking a young stowaway.
+  language: English
+  country: USA
+  imdbrating: 8.2
+  slug: up-2009

@@ -1,0 +1,23 @@
+- imdbid: tt1659337
+  type: movie
+  title: The Perks of Being a Wallflower
+  year: 2012.0
+  runtime: 103.0
+  director: Stephen Chbosky
+  writer:
+    - Stephen Chbosky
+    - Stephen Chbosky
+  actors:
+    - Logan Lerman
+    - Dylan McDermott
+    - Kate Walsh
+    - Patrick de Ledebur
+  genre:
+    - Drama
+    - Romance
+  plot: An introvert freshman is taken under the wings of two seniors who welcome him
+    to the real world.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: the-perks-of-being-a-wallflower-2012

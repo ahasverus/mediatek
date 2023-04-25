@@ -1,0 +1,36 @@
+- imdbid: tt0337692
+  type: movie
+  title: On the Road
+  year: 2012.0
+  runtime: 124.0
+  director: Walter Salles
+  writer:
+    - Jack Kerouac
+    - Jose Rivera
+  actors:
+    - Sam Riley
+    - Garrett Hedlund
+    - Kristen Stewart
+    - Amy Adams
+  genre:
+    - Adventure
+    - Drama
+    - Romance
+  plot: Young writer Sal Paradise has his life shaken by the arrival of free-spirited
+    Dean Moriarty and his girl, Marylou. As they travel across the country, they encounter
+    a mix of people who each impact their journey indelibly.
+  language:
+    - English
+    - French
+  country:
+    - France
+    - USA
+    - UK
+    - Mexico
+    - Canada
+    - Brazil
+    - Germany
+    - Netherlands
+    - Argentina
+  imdbrating: 6.1
+  slug: on-the-road-2012

@@ -1,0 +1,21 @@
+- imdbid: tt0277027
+  type: movie
+  title: I Am Sam
+  year: 2001.0
+  runtime: 132.0
+  director: Jessie Nelson
+  writer:
+    - Kristine Johnson
+    - Jessie Nelson
+  actors:
+    - Sean Penn
+    - Michelle Pfeiffer
+    - Dakota Fanning
+    - Dianne Wiest
+  genre: Drama
+  plot: A mentally handicapped man fights for custody of his 7-year-old daughter and
+    in the process teaches his cold-hearted lawyer the value of love and family.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: i-am-sam-2001

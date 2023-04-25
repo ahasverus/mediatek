@@ -1,0 +1,32 @@
+- imdbid: tt0061852
+  type: movie
+  title: The Jungle Book
+  year: 1967.0
+  runtime: 78.0
+  director:
+    - Wolfgang Reitherman
+    - James Algar
+    - Jack Kinney
+  writer:
+    - Larry Clemmons
+    - Ralph Wright
+    - Ken Anderson
+    - Vance Gerry
+    - Rudyard Kipling
+  actors:
+    - Phil Harris
+    - Sebastian Cabot
+    - Bruce Reitherman
+    - George Sanders
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Musical
+    - Disney
+  plot: Bagheera the Panther and Baloo the Bear have a difficult time trying to convince
+    a boy to leave the jungle for human civilization.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: the-jungle-book-1967

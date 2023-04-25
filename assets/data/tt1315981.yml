@@ -1,0 +1,26 @@
+- imdbid: tt1315981
+  type: movie
+  title: A Single Man
+  year: 2009.0
+  runtime: 99.0
+  director: Tom Ford
+  writer:
+    - Christopher Isherwood
+    - Tom Ford
+    - David Scearce
+  actors:
+    - Colin Firth
+    - Julianne Moore
+    - Nicholas Hoult
+    - Matthew Goode
+  genre:
+    - Drama
+    - Romance
+  plot: An English professor, one year after the sudden death of his boyfriend, is unable
+    to cope with his typical days in 1960s Los Angeles.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.6
+  slug: a-single-man-2009

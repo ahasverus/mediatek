@@ -1,0 +1,31 @@
+- imdbid: tt1667889
+  type: movie
+  title: 'Ice Age: Continental Drift'
+  year: 2012.0
+  runtime: 88.0
+  director:
+    - Steve Martino
+    - Mike Thurmeier
+  writer:
+    - Michael Berg
+    - Jason Fuchs
+    - Michael Berg
+    - Lori Forte
+  actors:
+    - Aziz Ansari
+    - Joy Behar
+    - Christopher Campbell
+    - Alain Chabat
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Manny, Diego, and Sid embark upon another adventure after their continent is
+    set adrift. Using an iceberg as a ship, they encounter sea creatures and battle
+    pirates as they explore a new world.
+  language: English
+  country: USA
+  imdbrating: 6.6
+  slug: ice-age-continental-drift-2012

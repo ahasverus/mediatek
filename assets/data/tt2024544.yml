@@ -1,0 +1,26 @@
+- imdbid: tt2024544
+  type: movie
+  title: 12 Years a Slave
+  year: 2013.0
+  runtime: 134.0
+  director: Steve McQueen
+  writer:
+    - John Ridley
+    - Solomon Northup
+  actors:
+    - Chiwetel Ejiofor
+    - Dwight Henry
+    - Dickie Gravois
+    - Bryan Batt
+  genre:
+    - Biography
+    - Drama
+    - History
+  plot: In the antebellum United States, Solomon Northup, a free black man from upstate
+    New York, is abducted and sold into slavery.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 8.1
+  slug: 12-years-a-slave-2013

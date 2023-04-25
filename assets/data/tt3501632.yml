@@ -1,0 +1,32 @@
+- imdbid: tt3501632
+  type: movie
+  title: 'Thor: Ragnarok'
+  year: 2017.0
+  runtime: 130.0
+  director: Taika Waititi
+  writer:
+    - Eric Pearson
+    - Craig Kyle
+    - Christopher L. Yost
+    - Stan Lee
+    - Larry Lieber
+    - Jack Kirby
+  actors:
+    - Chris Hemsworth
+    - Tom Hiddleston
+    - Cate Blanchett
+    - Idris Elba
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Fantasy
+    - Sci-Fi
+    - Marvel
+  plot: Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard
+    and stop Ragnarök, the destruction of his world, at the hands of the powerful and
+    ruthless villain Hela.
+  language: English
+  country: USA
+  imdbrating: 7.9
+  slug: thor-ragnarok-2017

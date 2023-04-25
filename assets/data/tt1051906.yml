@@ -1,0 +1,30 @@
+- imdbid: tt1051906
+  type: movie
+  title: The Invisible Man
+  year: 2020.0
+  runtime: 124.0
+  director: Leigh Whannell
+  writer:
+    - Leigh Whannell
+    - Leigh Whannell
+  actors:
+    - Elisabeth Moss
+    - Oliver Jackson-Cohen
+    - Harriet Dyer
+    - Aldis Hodge
+  genre:
+    - Drama
+    - Horror
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: When Cecilia's abusive ex takes his own life and leaves her his fortune, she
+    suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia
+    works to prove that she is being hunted by someone nobody can see.
+  language: English
+  country:
+    - Canada
+    - Australia
+    - USA
+  imdbrating: 7.1
+  slug: the-invisible-man-2020

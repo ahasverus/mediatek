@@ -1,0 +1,28 @@
+- imdbid: tt0091530
+  type: movie
+  title: The Mission
+  year: 1986.0
+  runtime: 125.0
+  director: Roland Joffé
+  writer: Robert Bolt
+  actors:
+    - Robert De Niro
+    - Jeremy Irons
+    - Ray McAnally
+    - Aidan Quinn
+  genre:
+    - Adventure
+    - Drama
+    - History
+  plot: Eighteenth century Spanish Jesuits try to protect a remote South American tribe
+    in danger of falling under the rule of pro-slavery Portugal.
+  language:
+    - English
+    - Guarani
+    - Spanish
+    - Latin
+  country:
+    - UK
+    - France
+  imdbrating: 7.4
+  slug: the-mission-1986

@@ -1,0 +1,27 @@
+- imdbid: tt1201607
+  type: movie
+  title: 'Harry Potter and the Deathly Hallows: Part 2'
+  year: 2011.0
+  runtime: 130.0
+  director: David Yates
+  writer:
+    - Steve Kloves
+    - J.K. Rowling
+  actors:
+    - Ralph Fiennes
+    - Michael Gambon
+    - Alan Rickman
+    - Daniel Radcliffe
+  genre:
+    - Adventure
+    - Drama
+    - Fantasy
+    - Mystery
+  plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their
+    effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 8.1
+  slug: harry-potter-and-the-deathly-hallows-part-2-2011

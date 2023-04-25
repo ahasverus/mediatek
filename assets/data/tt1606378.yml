@@ -1,0 +1,31 @@
+- imdbid: tt1606378
+  type: movie
+  title: A Good Day to Die Hard
+  year: 2013.0
+  runtime: 98.0
+  director: John Moore
+  writer:
+    - Skip Woods
+    - Roderick Thorp
+  actors:
+    - Bruce Willis
+    - Jai Courtney
+    - Sebastian Koch
+    - Mary Elizabeth Winstead
+  genre:
+    - Action
+    - Thriller
+  plot: John McClane travels to Russia to help out his seemingly wayward son, Jack,
+    only to discover that Jack is a CIA operative working undercover, causing the father
+    and son to team up against underworld forces.
+  language:
+    - English
+    - Russian
+    - Hindi
+    - Punjabi
+  country:
+    - USA
+    - UK
+    - Hungary
+  imdbrating: 5.3
+  slug: a-good-day-to-die-hard-2013

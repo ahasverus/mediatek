@@ -1,0 +1,32 @@
+- imdbid: tt0118715
+  type: movie
+  title: The Big Lebowski
+  year: 1998.0
+  runtime: 117.0
+  director:
+    - Joel Coen
+    - Ethan Coen
+  writer:
+    - Ethan Coen
+    - Joel Coen
+  actors:
+    - Jeff Bridges
+    - John Goodman
+    - Julianne Moore
+    - Steve Buscemi
+  genre:
+    - Comedy
+    - Crime
+    - Sport
+  plot: Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks
+    restitution for his ruined rug and enlists his bowling buddies to help get it.
+  language:
+    - English
+    - German
+    - Hebrew
+    - Spanish
+  country:
+    - USA
+    - UK
+  imdbrating: 8.1
+  slug: the-big-lebowski-1998

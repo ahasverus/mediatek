@@ -1,0 +1,26 @@
+- imdbid: tt1641638
+  type: movie
+  title: 'Ip Man: The Legend Is Born'
+  year: 2010.0
+  runtime: 100.0
+  director: Herman Yau
+  writer:
+    - Erica Li
+    - Sean Whitley
+  actors:
+    - Yu-Hang To
+    - Yi Huang
+    - Biao Yuen
+    - Siu-Wong Fan
+  genre:
+    - Action
+    - Biography
+    - Drama
+    - History
+    - Sport
+  plot: Yip Man's resistance against invading foreigners, along with his romantic relations
+    while under the tutelage of three Wing Chun masters.
+  language: Cantonese
+  country: Hong Kong
+  imdbrating: 7.1
+  slug: ip-man-the-legend-is-born-2010

@@ -1,0 +1,25 @@
+- imdbid: tt2649554
+  type: movie
+  title: Midnight Special
+  year: 2016.0
+  runtime: 112.0
+  director: Jeff Nichols
+  writer: Jeff Nichols
+  actors:
+    - Michael Shannon
+    - Joel Edgerton
+    - Kirsten Dunst
+    - Adam Driver
+  genre:
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: A father and son go on the run, pursued by the government and a cult drawn to
+    the child's special powers.
+  language: English
+  country:
+    - USA
+    - Greece
+  imdbrating: 6.6
+  slug: midnight-special-2016

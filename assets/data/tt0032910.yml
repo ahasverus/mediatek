@@ -1,0 +1,40 @@
+- imdbid: tt0032910
+  type: movie
+  title: Pinocchio
+  year: 1940.0
+  runtime: 88.0
+  director:
+    - Norman Ferguson
+    - T. Hee
+    - Wilfred Jackson
+    - Jack Kinney
+    - Hamilton Luske
+    - Bill Roberts
+    - Ben Sharpsteen
+  writer:
+    - Carlo Collodi
+    - Ted Sears
+    - Otto Englander
+    - Webb Smith
+    - William Cottrell
+    - Joseph Sabo
+    - Erdman Penner
+    - Aurelius Battaglia
+  actors:
+    - Mel Blanc
+    - Don Brodie
+    - Stuart Buchanan
+    - Walter Catlett
+  genre:
+    - Animation
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Disney
+  plot: A living puppet, with the help of a cricket as his conscience, must prove himself
+    worthy to become a real boy.
+  language: English
+  country: USA
+  imdbrating: 7.4
+  slug: pinocchio-1940

@@ -1,0 +1,25 @@
+- imdbid: tt0087182
+  type: movie
+  title: Dune
+  year: 1984.0
+  runtime: 137.0
+  director: David Lynch
+  writer:
+    - Frank Herbert
+    - David Lynch
+  actors:
+    - Kyle MacLachlan
+    - Virginia Madsen
+    - Francesca Annis
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: A Duke's son leads desert warriors against the galactic emperor and his father's
+    evil nemesis to free their desert world from the emperor's rule.
+  language: English
+  country:
+    - United States
+    - Mexico
+  imdbrating: 6.4
+  slug: dune-1984

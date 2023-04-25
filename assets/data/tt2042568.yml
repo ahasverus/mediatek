@@ -1,0 +1,29 @@
+- imdbid: tt2042568
+  type: movie
+  title: Inside Llewyn Davis
+  year: 2013.0
+  runtime: 104.0
+  director:
+    - Ethan Coen
+    - Joel Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+  actors:
+    - Oscar Isaac
+    - Carey Mulligan
+    - Justin Timberlake
+    - Ethan Phillips
+  genre:
+    - Comedy
+    - Drama
+    - Music
+  plot: A week in the life of a young singer as he navigates the Greenwich Village folk
+    scene of 1961.
+  language: English
+  country:
+    - USA
+    - UK
+    - France
+  imdbrating: 7.5
+  slug: inside-llewyn-davis-2013

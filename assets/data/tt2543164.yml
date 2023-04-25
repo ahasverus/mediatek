@@ -1,0 +1,30 @@
+- imdbid: tt2543164
+  type: movie
+  title: Arrival
+  year: 2016.0
+  runtime: 116.0
+  director: Denis Villeneuve
+  writer:
+    - Eric Heisserer
+    - Ted Chiang
+  actors:
+    - Amy Adams
+    - Jeremy Renner
+    - Forest Whitaker
+    - Michael Stuhlbarg
+  genre:
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: A linguist works with the military to communicate with alien lifeforms after
+    twelve mysterious spacecraft appear around the world.
+  language:
+    - English
+    - Russian
+    - Mandarin
+  country:
+    - USA
+    - Canada
+  imdbrating: 7.9
+  slug: arrival-2016

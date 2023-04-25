@@ -1,0 +1,28 @@
+- imdbid: tt5363618
+  type: movie
+  title: Sound of Metal
+  year: 2019.0
+  runtime: 120.0
+  director: Darius Marder
+  writer:
+    - Darius Marder
+    - Abraham Marder
+    - Darius Marder
+    - Derek Cianfrance
+  actors:
+    - Riz Ahmed
+    - Olivia Cooke
+    - Paul Raci
+    - Lauren Ridloff
+  genre:
+    - Drama
+    - Music
+  plot: A heavy-metal drummer's life is thrown into freefall when he begins to lose
+    his hearing.
+  language:
+    - English
+    - American Sign Language
+    - French
+  country: USA
+  imdbrating: 7.8
+  slug: sound-of-metal-2019

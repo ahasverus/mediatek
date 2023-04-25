@@ -1,0 +1,24 @@
+- imdbid: tt0119177
+  type: movie
+  title: Gattaca
+  year: 1997.0
+  runtime: 106.0
+  director: Andrew Niccol
+  writer: Andrew Niccol
+  actors:
+    - Ethan Hawke
+    - Uma Thurman
+    - Gore Vidal
+    - Xander Berkeley
+  genre:
+    - Drama
+    - Sci-Fi
+    - Thriller
+  plot: A genetically inferior man assumes the identity of a superior one in order to
+    pursue his lifelong dream of space travel.
+  language:
+    - English
+    - Esperanto
+  country: USA
+  imdbrating: 7.8
+  slug: gattaca-1997

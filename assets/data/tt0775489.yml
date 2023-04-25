@@ -1,0 +1,30 @@
+- imdbid: tt0775489
+  type: movie
+  title: The Illusionist
+  year: 2010.0
+  runtime: 80.0
+  director: Sylvain Chomet
+  writer:
+    - Sylvain Chomet
+    - Jacques Tati
+  actors:
+    - Jean-Claude Donda
+    - Eilidh Rankin
+    - Duncan MacNeil
+    - Raymond Mearns
+  genre:
+    - Animation
+    - Drama
+    - Family
+    - Fantasy
+  plot: A French illusionist finds himself out of work and travels to Scotland, where
+    he meets a young woman. Their ensuing adventure changes both their lives forever.
+  language:
+    - English
+    - French
+    - Scottish Gaelic
+  country:
+    - France
+    - UK
+  imdbrating: 7.5
+  slug: the-illusionist-2010

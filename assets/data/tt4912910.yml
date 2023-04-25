@@ -1,0 +1,31 @@
+- imdbid: tt4912910
+  type: movie
+  title: 'Mission: Impossible - Fallout'
+  year: 2018.0
+  runtime: 147.0
+  director: Christopher McQuarrie
+  writer:
+    - Bruce Geller
+    - Christopher McQuarrie
+  actors:
+    - Tom Cruise
+    - Henry Cavill
+    - Ving Rhames
+    - Simon Pegg
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: Ethan Hunt and his IMF team, along with some familiar allies, race against time
+    after a mission gone wrong.
+  language:
+    - English
+    - French
+  country:
+    - USA
+    - China
+    - France
+    - Norway
+    - UK
+  imdbrating: 7.7
+  slug: mission-impossible-fallout-2018

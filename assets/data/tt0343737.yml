@@ -1,0 +1,27 @@
+- imdbid: tt0343737
+  type: movie
+  title: The Good Shepherd
+  year: 2006.0
+  runtime: 167.0
+  director: Robert De Niro
+  writer: Eric Roth
+  actors:
+    - Matt Damon
+    - Angelina Jolie
+    - Alec Baldwin
+    - Tammy Blanchard
+  genre:
+    - Drama
+    - History
+    - Thriller
+  plot: The tumultuous early history of the Central Intelligence Agency is viewed through
+    the prism of one man's life.
+  language:
+    - English
+    - Spanish
+    - Russian
+    - German
+    - Lingala
+  country: USA
+  imdbrating: 6.7
+  slug: the-good-shepherd-2006

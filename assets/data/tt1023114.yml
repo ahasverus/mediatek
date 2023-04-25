@@ -1,0 +1,33 @@
+- imdbid: tt1023114
+  type: movie
+  title: The Way Back
+  year: 2010.0
+  runtime: 133.0
+  director: Peter Weir
+  writer:
+    - Slavomir Rawicz
+    - Peter Weir
+    - Keith R. Clarke
+  actors:
+    - Dragos Bucur
+    - Colin Farrell
+    - Ed Harris
+    - Alexandru Potocean
+  genre:
+    - Adventure
+    - Drama
+    - History
+  plot: Siberian gulag escapees travel four thousand miles by foot to freedom in India.
+  language:
+    - Tibetan
+    - Mongolian
+    - English
+    - Russian
+    - Polish
+  country:
+    - USA
+    - United Arab Emirates
+    - Poland
+    - India
+  imdbrating: 7.3
+  slug: the-way-back-2010

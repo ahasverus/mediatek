@@ -1,0 +1,28 @@
+- imdbid: tt3799694
+  type: movie
+  title: The Nice Guys
+  year: 2016.0
+  runtime: 116.0
+  director: Shane Black
+  writer:
+    - Shane Black
+    - Anthony Bagarozzi
+  actors:
+    - Russell Crowe
+    - Ryan Gosling
+    - Angourie Rice
+    - Matt Bomer
+  genre:
+    - Action
+    - Comedy
+    - Crime
+    - Mystery
+    - Thriller
+  plot: In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing
+    girl and the mysterious death of a porn star.
+  language:
+    - English
+    - German
+  country: USA
+  imdbrating: 7.4
+  slug: the-nice-guys-2016

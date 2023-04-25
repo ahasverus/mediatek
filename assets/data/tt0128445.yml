@@ -1,0 +1,26 @@
+- imdbid: tt0128445
+  type: movie
+  title: Rushmore
+  year: 1998.0
+  runtime: 93.0
+  director: Wes Anderson
+  writer:
+    - Wes Anderson
+    - Owen Wilson
+  actors:
+    - Jason Schwartzman
+    - Bill Murray
+    - Olivia Williams
+    - Seymour Cassel
+  genre:
+    - Comedy
+    - Drama
+  plot: The extracurricular king of Rushmore Preparatory School is put on academic probation.
+  language:
+    - English
+    - Spanish
+    - Latin
+    - French
+  country: USA
+  imdbrating: 7.7
+  slug: rushmore-1998

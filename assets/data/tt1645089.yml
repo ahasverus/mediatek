@@ -1,0 +1,23 @@
+- imdbid: tt1645089
+  type: movie
+  title: Inside Job
+  year: 2010.0
+  runtime: 109.0
+  director: Charles Ferguson
+  writer:
+    - Charles Ferguson
+    - Chad Beck
+    - Adam Bolt
+  actors:
+    - Matt Damon
+    - Gylfi Zoega
+    - Andri Snær Magnason
+    - Sigridur Benediktsdottir
+  genre:
+    - Documentary
+    - Crime
+  plot: Takes a closer look at what brought about the 2008 financial meltdown.
+  language: English
+  country: USA
+  imdbrating: 8.2
+  slug: inside-job-2010

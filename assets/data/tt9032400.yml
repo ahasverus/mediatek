@@ -1,0 +1,33 @@
+- imdbid: tt9032400
+  type: movie
+  title: Eternals
+  year: 2021.0
+  runtime: 156.0
+  director: Chloé Zhao
+  writer:
+    - Chloé Zhao
+    - Patrick Burleigh
+    - Ryan Firpo
+  actors:
+    - Gemma Chan
+    - Richard Madden
+    - Angelina Jolie
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Marvel
+  plot: The saga of the Eternals, a race of immortal beings who lived on Earth and shaped
+    its history and civilizations.
+  language:
+    - English
+    - American Sign
+    - Marathi
+    - Spanish
+    - Sumerian
+    - Latin
+    - Greek
+    - Ancient
+  country: United States
+  imdbrating: 6.7
+  slug: eternals-2021

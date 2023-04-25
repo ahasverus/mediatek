@@ -1,0 +1,22 @@
+- imdbid: tt5688932
+  type: movie
+  title: Sorry to Bother You
+  year: 2018.0
+  runtime: 112.0
+  director: Boots Riley
+  writer: Boots Riley
+  actors:
+    - LaKeith Stanfield
+    - Tessa Thompson
+    - Jermaine Fowler
+    - Omari Hardwick
+  genre:
+    - Comedy
+    - Fantasy
+    - Sci-Fi
+  plot: In an alternate present-day version of Oakland, telemarketer Cassius Green discovers
+    a magical key to professional success, propelling him into a universe of greed.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: sorry-to-bother-you-2018

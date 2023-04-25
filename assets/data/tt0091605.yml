@@ -1,0 +1,34 @@
+- imdbid: tt0091605
+  type: movie
+  title: The Name of the Rose
+  year: 1986.0
+  runtime: 130.0
+  director: Jean-Jacques Annaud
+  writer:
+    - Umberto Eco
+    - Andrew Birkin
+    - Gérard Brach
+    - Howard Franklin
+    - Alain Godard
+  actors:
+    - Sean Connery
+    - Christian Slater
+    - Helmut Qualtinger
+    - Elya Baskin
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: An intellectually nonconformist friar investigates a series of mysterious deaths
+    in an isolated abbey.
+  language:
+    - English
+    - Latin
+    - Italian
+  country:
+    - West Germany
+    - Italy
+    - France
+  imdbrating: 7.7
+  slug: the-name-of-the-rose-1986

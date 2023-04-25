@@ -1,0 +1,30 @@
+- imdbid: tt7262882
+  type: movie
+  title: 'Ip Man Legacy: Master Z'
+  year: 2018.0
+  runtime: 107.0
+  director: Woo-Ping Yuen
+  writer:
+    - Edmond Wong
+    - Tai-lee Chan
+  actors:
+    - Jin Zhang
+    - Dave Bautista
+    - Michelle Yeoh
+    - Tony Jaa
+  genre:
+    - Action
+    - Biography
+    - Crime
+    - Drama
+  plot: While keeping a low profile after his defeat by Ip Man, Cheung Tin Chi gets
+    into trouble after getting in a fight with a powerful foreigner.
+  language:
+    - Cantonese
+    - Mandarin
+    - English
+  country:
+    - Hong Kong
+    - China
+  imdbrating: 6.5
+  slug: ip-man-legacy-master-z-2018

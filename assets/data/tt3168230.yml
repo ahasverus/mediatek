@@ -1,0 +1,30 @@
+- imdbid: tt3168230
+  type: movie
+  title: Mr. Holmes
+  year: 2015.0
+  runtime: 104.0
+  director: Bill Condon
+  writer:
+    - Mitch Cullin
+    - Jeffrey Hatcher
+    - Arthur Conan Doyle
+  actors:
+    - Ian McKellen
+    - Laura Linney
+    - Milo Parker
+    - Hiroyuki Sanada
+  genre:
+    - Drama
+    - Mystery
+  plot: An aged, retired Sherlock Holmes deals with early dementia, as he tries to remember
+    his final case, and a mysterious woman, whose memory haunts him. He also befriends
+    a fan, the young son of his housekeeper, who wants him to work again.
+  language:
+    - English
+    - Japanese
+    - French
+  country:
+    - UK
+    - USA
+  imdbrating: 6.9
+  slug: mr-holmes-2015

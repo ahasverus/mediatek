@@ -1,0 +1,22 @@
+- imdbid: tt1723811
+  type: movie
+  title: Shame
+  year: 2011.0
+  runtime: 101.0
+  director: Steve McQueen
+  writer:
+    - Steve McQueen
+    - Abi Morgan
+    - Harold Manning
+  actors:
+    - Michael Fassbender
+    - Lucy Walters
+    - Mari-Ange Ramirez
+    - James Badge Dale
+  genre: Drama
+  plot: A sex addict's carefully cultivated private life falls apart after his sister
+    arrives for an indefinite stay.
+  language: English
+  country: UK
+  imdbrating: 7.2
+  slug: shame-2011

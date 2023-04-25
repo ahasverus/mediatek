@@ -1,0 +1,26 @@
+- imdbid: tt0093822
+  type: movie
+  title: Raising Arizona
+  year: 1987.0
+  runtime: 94.0
+  director:
+    - Joel Coen
+    - Ethan Coen
+  writer:
+    - Ethan Coen
+    - Joel Coen
+  actors:
+    - Nicolas Cage
+    - Holly Hunter
+    - Trey Wilson
+    - John Goodman
+  genre:
+    - Comedy
+    - Crime
+  plot: When a childless couple of an ex-con and an ex-cop decide to help themselves
+    to one of another family's quintuplets, their lives become more complicated than
+    they anticipated.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: raising-arizona-1987

@@ -1,0 +1,25 @@
+- imdbid: tt0109506
+  type: movie
+  title: The Crow
+  year: 1994.0
+  runtime: 102.0
+  director: Alex Proyas
+  writer:
+    - James O'Barr
+    - David J. Schow
+    - John Shirley
+  actors:
+    - Brandon Lee
+    - Rochelle Davis
+    - Ernie Hudson
+    - Michael Wincott
+  genre:
+    - Action
+    - Drama
+    - Fantasy
+  plot: A man brutally murdered comes back to life as an undead avenger of his and his
+    fiancée's murder.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: the-crow-1994

@@ -1,0 +1,29 @@
+- imdbid: tt0085959
+  type: movie
+  title: The Meaning of Life
+  year: 1983.0
+  runtime: 107.0
+  director:
+    - Terry Jones
+    - Terry Gilliam
+  writer:
+    - Graham Chapman
+    - John Cleese
+    - Terry Gilliam
+    - Eric Idle
+    - Terry Jones
+    - Michael Palin
+  actors:
+    - Graham Chapman
+    - John Cleese
+    - Terry Gilliam
+    - Eric Idle
+  genre:
+    - Comedy
+    - Musical
+  plot: The comedy team takes a look at life in all of its stages in their own uniquely
+    silly way.
+  language: English
+  country: UK
+  imdbrating: 7.5
+  slug: the-meaning-of-life-1983

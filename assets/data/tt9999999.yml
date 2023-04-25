@@ -1,0 +1,25 @@
+- imdbid: tt9999999
+  type: movie
+  title: Bronx
+  year: 2020.0
+  runtime: 116.0
+  director:
+    - Olivier Marchal
+  writer:
+    - Olivier Marchal
+  actors:
+    - Lannick Gautry
+    - Stanislas Merhar
+    - Kaaris
+    - David Belle
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: Caught in the cross hairs of police corruption and Marseille's warring 
+    gangs, a loyal cop must protect his squad by taking matters into his own hands.
+  language: French
+  country: France
+  imdbrating: 6.1
+  slug: bronx-2020

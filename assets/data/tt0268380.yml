@@ -1,0 +1,36 @@
+- imdbid: tt0268380
+  type: movie
+  title: Ice Age
+  year: 2002.0
+  runtime: 81.0
+  director:
+    - Chris Wedge
+    - Carlos Saldanha
+  writer:
+    - Michael J. Wilson
+    - Michael Berg
+    - Michael J. Wilson
+    - Peter Ackerman
+    - James Bresnahan
+    - Doug Compton
+    - Jeff Siergey
+    - Mike Thurmeier
+    - Galen T. Chu
+    - Xeth Feinberg
+  actors:
+    - Ray Romano
+    - John Leguizamo
+    - Denis Leary
+    - Goran Visnjic
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find
+    a lost human infant, and they try to return him to his tribe.
+  language: English
+  country: USA
+  imdbrating: 7.5
+  slug: ice-age-2002

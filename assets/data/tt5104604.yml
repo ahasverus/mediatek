@@ -1,0 +1,33 @@
+- imdbid: tt5104604
+  type: movie
+  title: Isle of Dogs
+  year: 2018.0
+  runtime: 101.0
+  director: Wes Anderson
+  writer:
+    - Wes Anderson
+    - Roman Coppola
+    - Jason Schwartzman
+    - Kunichi Nomura
+    - Wes Anderson
+  actors:
+    - Bryan Cranston
+    - Koyu Rankin
+    - Edward Norton
+    - Bob Balaban
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Drama
+    - Fantasy
+    - Sci-Fi
+  plot: Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.
+  language:
+    - English
+    - Japanese
+  country:
+    - Germany
+    - USA
+  imdbrating: 7.9
+  slug: isle-of-dogs-2018

@@ -1,0 +1,32 @@
+- imdbid: tt0493464
+  type: movie
+  title: Wanted
+  year: 2008.0
+  runtime: 110.0
+  director: Timur Bekmambetov
+  writer:
+    - Michael Brandt
+    - Derek Haas
+    - Chris Morgan
+    - Michael Brandt
+    - Derek Haas
+    - Mark Millar
+    - J.G. Jones
+  actors:
+    - James McAvoy
+    - Morgan Freeman
+    - Angelina Jolie
+    - Terence Stamp
+  genre:
+    - Action
+    - Crime
+    - Fantasy
+    - Thriller
+  plot: A frustrated office worker learns that he is the son of a professional assassin
+    and that he shares his father's superhuman killing abilities.
+  language: English
+  country:
+    - USA
+    - Germany
+  imdbrating: 6.7
+  slug: wanted-2008

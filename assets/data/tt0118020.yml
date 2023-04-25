@@ -1,0 +1,25 @@
+- imdbid: tt0118020
+  type: movie
+  title: Un héros très discret
+  year: 1996.0
+  runtime: 107.0
+  director: Jacques Audiard
+  writer:
+    - Jean-François Deniau
+    - Alain Le Henry
+    - Jacques Audiard
+  actors:
+    - Mathieu Kassovitz
+    - Anouk Grinberg
+    - Sandrine Kiberlain
+    - Jean-Louis Trintignant
+  genre:
+    - Drama
+    - Comedy
+  plot: Set in France at the end of World War II Albert Dehousse finds out his father
+    wasn't a war hero and his mother is a collaborator. He leaves his wife and goes
+    to Paris. Gradually he ...
+  language: French
+  country: France
+  imdbrating: 7.4
+  slug: un-heros-tres-discret-1996

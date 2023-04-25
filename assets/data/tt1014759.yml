@@ -1,0 +1,27 @@
+- imdbid: tt1014759
+  type: movie
+  title: Alice in Wonderland
+  year: 2010.0
+  runtime: 108.0
+  director: Tim Burton
+  writer:
+    - Linda Woolverton
+    - Lewis Carroll
+  actors:
+    - Johnny Depp
+    - Mia Wasikowska
+    - Helena Bonham Carter
+    - Anne Hathaway
+  genre:
+    - Adventure
+    - Family
+    - Fantasy
+  plot: 'Nineteen-year-old Alice returns to the magical world from her childhood adventure,
+    where she reunites with her old friends and learns of her true destiny: to end the
+    Red Queen''s reign of terror.'
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 6.4
+  slug: alice-in-wonderland-2010

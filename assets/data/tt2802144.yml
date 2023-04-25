@@ -1,0 +1,32 @@
+- imdbid: tt2802144
+  type: movie
+  title: 'Kingsman: The Secret Service'
+  year: 2014.0
+  runtime: 129.0
+  director: Matthew Vaughn
+  writer:
+    - Jane Goldman
+    - Matthew Vaughn
+    - Mark Millar
+    - Dave Gibbons
+  actors:
+    - Adrian Quinton
+    - Colin Firth
+    - Mark Strong
+    - Jonno Davies
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Thriller
+  plot: A spy organisation recruits a promising street kid into the agency's training
+    program, while a global threat emerges from a twisted tech genius.
+  language:
+    - English
+    - Arabic
+    - Swedish
+  country:
+    - UK
+    - USA
+  imdbrating: 7.7
+  slug: kingsman-the-secret-service-2014

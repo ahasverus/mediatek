@@ -1,0 +1,30 @@
+- imdbid: tt0800308
+  type: movie
+  title: Appaloosa
+  year: 2008.0
+  runtime: 115.0
+  director: Ed Harris
+  writer:
+    - Robert Knott
+    - Ed Harris
+    - Robert B. Parker
+  actors:
+    - Robert Jauregui
+    - Jeremy Irons
+    - Timothy V. Murphy
+    - Luce Rains
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Romance
+    - Western
+  plot: Two friends hired to police a small town that is suffering under the rule of
+    a rancher find their job complicated by the arrival of a young widow.
+  language:
+    - English
+    - Apache languages
+    - Spanish
+  country: USA
+  imdbrating: 6.7
+  slug: appaloosa-2008

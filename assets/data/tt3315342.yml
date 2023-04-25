@@ -1,0 +1,31 @@
+- imdbid: tt3315342
+  type: movie
+  title: Logan
+  year: 2017.0
+  runtime: 137.0
+  director: James Mangold
+  writer:
+    - James Mangold
+    - Scott Frank
+    - James Mangold
+    - Michael Green
+  actors:
+    - Hugh Jackman
+    - Patrick Stewart
+    - Dafne Keen
+    - Boyd Holbrook
+  genre:
+    - Action
+    - Drama
+    - Sci-Fi
+    - Thriller
+    - Marvel
+  plot: In a future where mutants are nearly extinct, an elderly and weary Logan leads
+    a quiet life. But when Laura, a mutant child pursued by scientists, comes to him
+    for help, he must get her to safety.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 8.1
+  slug: logan-2017

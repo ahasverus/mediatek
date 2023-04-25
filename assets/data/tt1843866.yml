@@ -1,0 +1,33 @@
+- imdbid: tt1843866
+  type: movie
+  title: 'Captain America: The Winter Soldier'
+  year: 2014.0
+  runtime: 136.0
+  director:
+    - Anthony Russo
+    - Joe Russo
+  writer:
+    - Christopher Markus
+    - Stephen McFeely
+    - Joe Simon
+    - Jack Kirby
+  actors:
+    - Chris Evans
+    - Samuel L. Jackson
+    - Scarlett Johansson
+    - Robert Redford
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+    - Marvel
+  plot: 'As Steve Rogers struggles to embrace his role in the modern world, he teams
+    up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat
+    from history: an assassin known as the Winter Soldier.'
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 7.7
+  slug: captain-america-the-winter-soldier-2014

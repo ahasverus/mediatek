@@ -1,0 +1,33 @@
+- imdbid: tt0830515
+  type: movie
+  title: Quantum of Solace
+  year: 2008.0
+  runtime: 106.0
+  director: Marc Forster
+  writer:
+    - Paul Haggis
+    - Neal Purvis
+    - Robert Wade
+  actors:
+    - Daniel Craig
+    - Olga Kurylenko
+    - Mathieu Amalric
+    - Judi Dench
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: James Bond descends into mystery as he tries to stop a mysterious organisation
+    from eliminating a country's most valuable resource.
+  language:
+    - English
+    - Spanish
+    - Italian
+    - French
+    - Swiss German
+    - German
+  country:
+    - UK
+    - USA
+  imdbrating: 6.6
+  slug: quantum-of-solace-2008

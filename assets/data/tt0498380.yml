@@ -1,0 +1,33 @@
+- imdbid: tt0498380
+  type: movie
+  title: Letters from Iwo Jima
+  year: 2006.0
+  runtime: 141.0
+  director: Clint Eastwood
+  writer:
+    - Iris Yamashita
+    - Iris Yamashita
+    - Paul Haggis
+    - Tadamichi Kuribayashi
+    - Tsuyoko Yoshido
+  actors:
+    - Ken Watanabe
+    - Kazunari Ninomiya
+    - Tsuyoshi Ihara
+    - Ryô Kase
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - History
+    - War
+  plot: The story of the battle of Iwo Jima between the United States and Imperial Japan
+    during World War II, as told from the perspective of the Japanese who fought it.
+  language:
+    - Japanese
+    - English
+  country:
+    - USA
+    - Japan
+  imdbrating: 7.9
+  slug: letters-from-iwo-jima-2006

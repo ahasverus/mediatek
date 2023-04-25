@@ -1,0 +1,30 @@
+- imdbid: tt6217926
+  type: movie
+  title: Annette
+  year: 2021.0
+  runtime: 141.0
+  director: Leos Carax
+  writer:
+    - Ron Mael
+    - Russell Mael
+  actors:
+    - Adam Driver
+    - Marion Cotillard
+    - Simon Helberg
+  genre:
+    - Drama
+    - Musical
+    - Romance
+  plot: A stand-up comedian and his opera singer wife have a 2 year old daughter with
+    a surprising gift.
+  language: English
+  country:
+    - France
+    - Belgium
+    - Germany
+    - United States
+    - Japan
+    - Mexico
+    - Switzerland
+  imdbrating: 6.5
+  slug: annette-2021

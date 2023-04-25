@@ -1,0 +1,32 @@
+- imdbid: tt0448115
+  type: movie
+  title: Shazam!
+  year: 2019.0
+  runtime: 132.0
+  director: David F. Sandberg
+  writer:
+    - Henry Gayden
+    - Henry Gayden
+    - Darren Lemke
+    - Bill Parker
+    - C.C. Beck
+  actors:
+    - Zachary Levi
+    - Mark Strong
+    - Asher Angel
+    - Jack Dylan Grazer
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Fantasy
+  plot: A newly fostered young boy in search of his mother instead finds unexpected
+    super powers and soon gains a powerful enemy.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - Canada
+  imdbrating: 7.0
+  slug: shazam-2019

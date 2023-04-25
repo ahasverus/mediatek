@@ -1,0 +1,29 @@
+- imdbid: tt0475290
+  type: movie
+  title: Hail, Caesar!
+  year: 2016.0
+  runtime: 106.0
+  director:
+    - Ethan Coen
+    - Joel Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+  actors:
+    - Josh Brolin
+    - George Clooney
+    - Alden Ehrenreich
+    - Ralph Fiennes
+  genre:
+    - Comedy
+    - Drama
+    - Music
+    - Mystery
+  plot: A Hollywood fixer in the 1950s works to keep the studio's stars in line.
+  language: English
+  country:
+    - USA
+    - UK
+    - Japan
+  imdbrating: 6.3
+  slug: hail-caesar-2016

@@ -1,0 +1,28 @@
+- imdbid: tt1631867
+  type: movie
+  title: Edge of Tomorrow
+  year: 2014.0
+  runtime: 113.0
+  director: Doug Liman
+  writer:
+    - Christopher McQuarrie
+    - Jez Butterworth
+    - John-Henry Butterworth
+    - Hiroshi Sakurazaka
+  actors:
+    - Tom Cruise
+    - Emily Blunt
+    - Brendan Gleeson
+    - Bill Paxton
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: A soldier fighting aliens gets to relive the same day over and over again, the
+    day restarting every time he dies.
+  language: English
+  country:
+    - USA
+    - Canada
+  imdbrating: 7.9
+  slug: edge-of-tomorrow-2014

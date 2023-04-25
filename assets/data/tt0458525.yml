@@ -1,0 +1,28 @@
+- imdbid: tt0458525
+  type: movie
+  title: 'X-Men Origins: Wolverine'
+  year: 2009.0
+  runtime: 107.0
+  director: Gavin Hood
+  writer:
+    - David Benioff
+    - Skip Woods
+  actors:
+    - Hugh Jackman
+    - Liev Schreiber
+    - Danny Huston
+    - Will.i.am
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: The early years of James Logan, featuring his rivalry with his brother Victor
+    Creed, his service in the special forces team Weapon X, and his experimentation
+    into the metal-lined mutant Wolverine.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 6.6
+  slug: x-men-origins-wolverine-2009

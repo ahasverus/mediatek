@@ -1,0 +1,23 @@
+- imdbid: tt0449059
+  type: movie
+  title: Little Miss Sunshine
+  year: 2006.0
+  runtime: 101.0
+  director:
+    - Jonathan Dayton
+    - Valerie Faris
+  writer: Michael Arndt
+  actors:
+    - Abigail Breslin
+    - Greg Kinnear
+    - Paul Dano
+    - Alan Arkin
+  genre:
+    - Comedy
+    - Drama
+  plot: A family determined to get their young daughter into the finals of a beauty
+    pageant take a cross-country trip in their VW bus.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: little-miss-sunshine-2006

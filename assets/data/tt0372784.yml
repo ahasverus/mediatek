@@ -1,0 +1,30 @@
+- imdbid: tt0372784
+  type: movie
+  title: Batman Begins
+  year: 2005.0
+  runtime: 140.0
+  director: Christopher Nolan
+  writer:
+    - Bob Kane
+    - David S. Goyer
+    - Christopher Nolan
+    - David S. Goyer
+  actors:
+    - Christian Bale
+    - Michael Caine
+    - Liam Neeson
+    - Katie Holmes
+  genre:
+    - Action
+    - Adventure
+    - DC-Comics
+  plot: After training with his mentor, Batman begins his fight to free crime-ridden
+    Gotham City from corruption.
+  language:
+    - English
+    - Mandarin
+  country:
+    - USA
+    - UK
+  imdbrating: 8.2
+  slug: batman-begins-2005

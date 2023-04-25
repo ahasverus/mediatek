@@ -1,0 +1,30 @@
+- imdbid: tt2911666
+  type: movie
+  title: John Wick
+  year: 2014.0
+  runtime: 101.0
+  director:
+    - Chad Stahelski
+    - David Leitch
+  writer: Derek Kolstad
+  actors:
+    - Keanu Reeves
+    - Michael Nyqvist
+    - Alfie Allen
+    - Willem Dafoe
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: An ex-hit-man comes out of retirement to track down the gangsters that killed
+    his dog and took everything from him.
+  language:
+    - English
+    - Russian
+    - Hungarian
+  country:
+    - USA
+    - UK
+    - China
+  imdbrating: 7.4
+  slug: john-wick-2014

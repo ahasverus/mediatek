@@ -1,0 +1,28 @@
+- imdbid: tt0947798
+  type: movie
+  title: Black Swan
+  year: 2010.0
+  runtime: 108.0
+  director: Darren Aronofsky
+  writer:
+    - Mark Heyman
+    - Andres Heinz
+    - John J. McLaughlin
+    - Andres Heinz
+  actors:
+    - Natalie Portman
+    - Mila Kunis
+    - Vincent Cassel
+    - Barbara Hershey
+  genre:
+    - Drama
+    - Thriller
+  plot: A committed dancer struggles to maintain her sanity after winning the lead role
+    in a production of Tchaikovsky's 'Swan Lake'.
+  language:
+    - English
+    - French
+    - Italian
+  country: USA
+  imdbrating: 8.0
+  slug: black-swan-2010

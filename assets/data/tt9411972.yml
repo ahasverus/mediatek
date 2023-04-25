@@ -1,0 +1,23 @@
+- imdbid: tt9411972
+  type: movie
+  title: Where the Crawdads Sing
+  year: 2022.0
+  runtime: 125.0
+  director: Olivia Newman
+  writer:
+    - Delia Owens
+    - Lucy Alibar
+  actors:
+    - Daisy Edgar-Jones
+    - Taylor John Smith
+    - Harris Dickinson
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: A woman who raised herself in the marshes of the Deep South becomes a suspect
+    in the murder of a man with whom she was once involved.
+  language: English
+  country: United States
+  imdbrating: 7.1
+  slug: where-the-crawdads-sing-2022

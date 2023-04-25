@@ -1,0 +1,28 @@
+- imdbid: tt0060196
+  type: movie
+  title: The Good, the Bad and the Ugly
+  year: 1966.0
+  runtime: 178.0
+  director: Sergio Leone
+  writer:
+    - Luciano Vincenzoni
+    - Sergio Leone
+    - Agenore Incrocci
+    - Furio Scarpelli
+    - Luciano Vincenzoni
+    - Sergio Leone
+  actors:
+    - Eli Wallach
+    - Clint Eastwood
+    - Lee Van Cleef
+    - Aldo Giuffrè
+  genre: Western
+  plot: A bounty hunting scam joins two men in an uneasy alliance against a third in
+    a race to find a fortune in gold buried in a remote cemetery.
+  language: Italian
+  country:
+    - Italy
+    - Spain
+    - West Germany
+  imdbrating: 8.8
+  slug: the-good-the-bad-and-the-ugly-1966

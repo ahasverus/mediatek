@@ -1,0 +1,38 @@
+- imdbid: tt2250912
+  type: movie
+  title: 'Spider-Man: Homecoming'
+  year: 2017.0
+  runtime: 133.0
+  director: Jon Watts
+  writer:
+    - Jonathan Goldstein
+    - John Francis Daley
+    - Jon Watts
+    - Christopher Ford
+    - Chris McKenna
+    - Erik Sommers
+    - Jonathan Goldstein
+    - John Francis Daley
+    - Stan Lee
+    - Steve Ditko
+    - Joe Simon
+    - Jack Kirby
+  actors:
+    - Tom Holland
+    - Michael Keaton
+    - Robert Downey Jr.
+    - Marisa Tomei
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Peter Parker balances his life as an ordinary high school student in Queens
+    with his superhero alter-ego Spider-Man, and finds himself on the trail of a new
+    menace prowling the skies of New York City.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.4
+  slug: spider-man-homecoming-2017

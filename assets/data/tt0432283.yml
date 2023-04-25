@@ -1,0 +1,32 @@
+- imdbid: tt0432283
+  type: movie
+  title: Fantastic Mr. Fox
+  year: 2009.0
+  runtime: 87.0
+  director: Wes Anderson
+  writer:
+    - Roald Dahl
+    - Wes Anderson
+    - Noah Baumbach
+  actors:
+    - George Clooney
+    - Meryl Streep
+    - Jason Schwartzman
+    - Bill Murray
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Crime
+    - Drama
+    - Family
+  plot: An urbane fox cannot resist returning to his farm raiding ways and then must
+    help his community survive the farmers' retaliation.
+  language:
+    - English
+    - French
+  country:
+    - USA
+    - UK
+  imdbrating: 7.9
+  slug: fantastic-mr-fox-2009

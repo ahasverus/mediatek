@@ -1,0 +1,34 @@
+- imdbid: tt0133240
+  type: movie
+  title: Treasure Planet
+  year: 2002.0
+  runtime: 95.0
+  director:
+    - Ron Clements
+    - John Musker
+  writer:
+    - Robert Louis Stevenson
+    - Ron Clements
+    - John Musker
+    - Rob Edwards
+    - Ron Clements
+    - John Musker
+    - Ted Elliott
+    - Terry Rossio
+  actors:
+    - Roscoe Lee Browne
+    - Corey Burton
+    - Dane A. Davis
+    - Joseph Gordon-Levitt
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Sci-Fi
+    - Disney
+  plot: A Disney animated version of 'Treasure Island'. The only difference is that
+    this movie is set in outer space with alien worlds and other galactic wonders.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: treasure-planet-2002

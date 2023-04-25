@@ -1,0 +1,29 @@
+- imdbid: tt3577624
+  type: movie
+  title: A Perfect Day
+  year: 2015.0
+  runtime: 106.0
+  director: Fernando León de Aranoa
+  writer:
+    - Fernando León de Aranoa
+    - Diego Farias
+    - Paula Farias
+  actors:
+    - Benicio Del Toro
+    - Tim Robbins
+    - Olga Kurylenko
+    - Mélanie Thierry
+  genre:
+    - Comedy
+    - Drama
+    - War
+  plot: A group of aid workers work to resolve a crisis in an armed conflict zone.
+  language:
+    - English
+    - Serbian
+    - Spanish
+    - French
+    - Bosnian
+  country: Spain
+  imdbrating: 6.8
+  slug: a-perfect-day-2015

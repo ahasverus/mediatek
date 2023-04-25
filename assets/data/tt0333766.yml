@@ -1,0 +1,24 @@
+- imdbid: tt0333766
+  type: movie
+  title: Garden State
+  year: 2004.0
+  runtime: 102.0
+  director: Zach Braff
+  writer: Zach Braff
+  actors:
+    - Zach Braff
+    - Kenneth Graymez
+    - George C. Wolfe
+    - Austin Lysy
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: A quietly troubled young man returns home for his mother's funeral after being
+    estranged from his family for a decade.
+  language:
+    - English
+    - Klingon
+  country: USA
+  imdbrating: 7.4
+  slug: garden-state-2004

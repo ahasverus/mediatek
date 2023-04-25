@@ -1,0 +1,40 @@
+- imdbid: tt0206634
+  type: movie
+  title: Children of Men
+  year: 2006.0
+  runtime: 109.0
+  director: Alfonso Cuarón
+  writer:
+    - Alfonso Cuarón
+    - Timothy J. Sexton
+    - David Arata
+    - Mark Fergus
+    - Hawk Ostby
+    - P.D. James
+  actors:
+    - Juan Gabriel Yacuzzi
+    - Mishal Husain
+    - Rob Curling
+    - Jon Chevalier
+  genre:
+    - Drama
+    - Thriller
+  plot: In 2027, in a chaotic world in which women have become somehow infertile, a
+    former activist agrees to help transport a miraculously pregnant woman to a sanctuary
+    at sea.
+  language:
+    - English
+    - German
+    - Italian
+    - Romanian
+    - Spanish
+    - Arabic
+    - Georgian
+    - Russian
+    - Serbian
+  country:
+    - USA
+    - UK
+    - Japan
+  imdbrating: 7.9
+  slug: children-of-men-2006

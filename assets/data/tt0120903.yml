@@ -1,0 +1,27 @@
+- imdbid: tt0120903
+  type: movie
+  title: X-Men
+  year: 2000.0
+  runtime: 104.0
+  director: Bryan Singer
+  writer:
+    - Tom DeSanto
+    - Bryan Singer
+    - David Hayter
+  actors:
+    - Hugh Jackman
+    - Patrick Stewart
+    - Ian McKellen
+    - Famke Janssen
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: 'In a world where mutants (evolved super-powered humans) exist and are discriminated
+    against, two groups form for an inevitable clash: the supremacist Brotherhood, and
+    the pacifist X-Men.'
+  language: English
+  country: USA
+  imdbrating: 7.4
+  slug: x-men-2000

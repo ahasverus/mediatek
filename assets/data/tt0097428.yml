@@ -1,0 +1,27 @@
+- imdbid: tt0097428
+  type: movie
+  title: Ghostbusters II
+  year: 1989.0
+  runtime: 108.0
+  director: Ivan Reitman
+  writer:
+    - Dan Aykroyd
+    - Harold Ramis
+    - Harold Ramis
+    - Dan Aykroyd
+  actors:
+    - Bill Murray
+    - Dan Aykroyd
+    - Sigourney Weaver
+    - Harold Ramis
+  genre:
+    - Action
+    - Comedy
+    - Fantasy
+    - Sci-Fi
+  plot: The discovery of a massive river of ectoplasm and a resurgence of spectral activity
+    allows the staff of Ghostbusters to revive the business.
+  language: English
+  country: USA
+  imdbrating: 6.6
+  slug: ghostbusters-ii-1989

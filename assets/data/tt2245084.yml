@@ -1,0 +1,34 @@
+- imdbid: tt2245084
+  type: movie
+  title: Big Hero 6
+  year: 2014.0
+  runtime: 102.0
+  director:
+    - Don Hall
+    - Chris Williams
+  writer:
+    - Jordan Roberts
+    - Robert L. Baird
+    - Daniel Gerson
+    - Man of Action
+    - Steven T. Seagle
+    - Duncan Rouleau
+  actors:
+    - Scott Adsit
+    - Ryan Potter
+    - Daniel Henney
+    - T.J. Miller
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Family
+    - Sci-Fi
+    - Disney
+  plot: The special bond that develops between plus-sized inflatable robot Baymax, and
+    prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech
+    heroes.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: big-hero-6-2014

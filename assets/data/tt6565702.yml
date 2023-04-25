@@ -1,0 +1,28 @@
+- imdbid: tt6565702
+  type: movie
+  title: 'X-Men: Dark Phoenix'
+  year: 2019.0
+  runtime: 113.0
+  director: Simon Kinberg
+  writer: Simon Kinberg
+  actors:
+    - James McAvoy
+    - Michael Fassbender
+    - Jennifer Lawrence
+    - Nicholas Hoult
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Jean Grey begins to develop incredible powers that corrupt and turn her into
+    a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of
+    humanity.
+  language:
+    - English
+    - French
+  country:
+    - USA
+    - Canada
+  imdbrating: 5.8
+  slug: x-men-dark-phoenix-2019

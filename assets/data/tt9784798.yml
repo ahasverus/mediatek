@@ -1,0 +1,29 @@
+- imdbid: tt9784798
+  type: movie
+  title: Judas and the Black Messiah
+  year: 2021.0
+  runtime: 126.0
+  director: Shaka King
+  writer:
+    - Will Berson
+    - Shaka King
+    - Kenneth Lucas
+    - Keith Lucas
+    - Will Berson
+    - Shaka King
+  actors:
+    - Daniel Kaluuya
+    - LaKeith Stanfield
+    - Jesse Plemons
+    - Dominique Fishback
+  genre:
+    - Biography
+    - Drama
+    - History
+  plot: Bill O'Neal infiltrates the Black Panther Party per FBI Agent Mitchell and J.
+    Edgar Hoover. As Party Chairman Fred Hampton ascends, falling for a fellow revolutionary
+    en route, a battle wages for O'Neal's soul.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: judas-and-the-black-messiah-2021

@@ -1,0 +1,40 @@
+- imdbid: tt0780521
+  type: movie
+  title: The Princess and the Frog
+  year: 2009.0
+  runtime: 97.0
+  director:
+    - Ron Clements
+    - John Musker
+  writer:
+    - Ron Clements
+    - John Musker
+    - Greg Erb
+    - Jason Oremland
+    - Ron Clements
+    - John Musker
+    - Rob Edwards
+    - E.D. Baker
+  actors:
+    - Anika Noni Rose
+    - Bruno Campos
+    - Keith David
+    - Michael-Leon Wooley
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: A waitress, desperate to fulfill her dreams as a restaurant owner, is set on
+    a journey to turn a frog prince back into a human being, but she has to face the
+    same problem after she kisses him.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 7.1
+  slug: the-princess-and-the-frog-2009

@@ -1,0 +1,31 @@
+- imdbid: tt6856242
+  type: movie
+  title: The King's Man
+  year: 2021.0
+  runtime: 131.0
+  director: Matthew Vaughn
+  writer:
+    - Matthew Vaughn
+    - Karl Gajdusek
+    - Mark Millar
+  actors:
+    - Ralph Fiennes
+    - Gemma Arterton
+    - Rhys Ifans
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: In the early years of the 20th century, the Kingsman agency is formed to stand
+    against a cabal plotting a war to wipe out millions.
+  language:
+    - English
+    - Latin
+    - German
+    - French
+    - Russian
+  country:
+    - United Kingdom
+    - United States
+  imdbrating: 6.4
+  slug: the-kings-man-2021

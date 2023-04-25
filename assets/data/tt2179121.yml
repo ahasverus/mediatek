@@ -1,0 +1,28 @@
+- imdbid: tt2179121
+  type: movie
+  title: Le Prénom
+  year: 2012.0
+  runtime: 109.0
+  director:
+    - Alexandre de La Patellière
+    - Matthieu Delaporte
+  writer:
+    - Matthieu Delaporte
+    - Alexandre de La Patellière
+  actors:
+    - Patrick Bruel
+    - Valérie Benguigui
+    - Charles Berling
+    - Guillaume de Tonquédec
+  genre:
+    - Comedy
+    - Drama
+  plot: Vincent is about to become a father. At a meeting with childhood friends he
+    announces the name for his future son. The scandalous name ignites a discussion
+    which surfaces unpleasant matters from the past of the group.
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.3
+  slug: le-prenom-2012

@@ -1,0 +1,31 @@
+- imdbid: tt7286456
+  type: movie
+  title: Joker
+  year: 2019.0
+  runtime: 122.0
+  director: Todd Phillips
+  writer:
+    - Todd Phillips
+    - Scott Silver
+    - Bob Kane
+    - Bill Finger
+    - Jerry Robinson
+  actors:
+    - Joaquin Phoenix
+    - Robert De Niro
+    - Zazie Beetz
+    - Frances Conroy
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+    - DC-Comics
+  plot: 'In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and
+    mistreated by society. He then embarks on a downward spiral of revolution and bloody
+    crime. This path brings him face-to-face with his alter-ego: the Joker.'
+  language: English
+  country:
+    - USA
+    - Canada
+  imdbrating: 8.5
+  slug: joker-2019

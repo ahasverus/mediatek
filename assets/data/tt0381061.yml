@@ -1,0 +1,37 @@
+- imdbid: tt0381061
+  type: movie
+  title: Casino Royale
+  year: 2006.0
+  runtime: 144.0
+  director: Martin Campbell
+  writer:
+    - Neal Purvis
+    - Robert Wade
+    - Paul Haggis
+    - Ian Fleming
+  actors:
+    - Daniel Craig
+    - Eva Green
+    - Mads Mikkelsen
+    - Judi Dench
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: After earning 00 status and a licence to kill, Secret Agent James Bond sets
+    out on his first mission as 007. Bond must defeat a private banker funding terrorists
+    in a high-stakes game of poker at Casino Royale, Montenegro.
+  language:
+    - English
+    - Serbian
+    - German
+    - Italian
+    - French
+  country:
+    - UK
+    - Czech Republic
+    - USA
+    - Germany
+    - Bahamas
+  imdbrating: 8.0
+  slug: casino-royale-2006

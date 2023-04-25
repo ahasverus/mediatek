@@ -1,0 +1,32 @@
+- imdbid: tt0280030
+  type: movie
+  title: 'Peter Pan 2: Return to Never Land'
+  year: 2002.0
+  runtime: 72.0
+  director:
+    - Robin Budd
+    - Donovan Cook
+  writer:
+    - Temple Mathews
+    - Carter Crocker
+    - J.M. Barrie
+  actors:
+    - Harriet Owen
+    - Blayne Weaver
+    - Corey Burton
+    - Jeff Bennett
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Fantasy
+    - Disney
+  plot: In London during World War II, this is the story of Wendy's daughter, Jane,
+    who is kidnapped by Captain Hook and Peter Pan must come to the rescue.
+  language: English
+  country:
+    - USA
+    - Canada
+    - Australia
+  imdbrating: 5.8
+  slug: peter-pan-ii-return-to-never-land-2002

@@ -1,0 +1,24 @@
+- imdbid: tt0340377
+  type: movie
+  title: The Station Agent
+  year: 2003.0
+  runtime: 89.0
+  director: Tom McCarthy
+  writer: Tom McCarthy
+  actors:
+    - Peter Dinklage
+    - Paul Benjamin
+    - Jase Blankfort
+    - Paula Garcés
+  genre:
+    - Comedy
+    - Drama
+  plot: When his only friend dies, a man born with dwarfism moves to rural New Jersey
+    to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing
+    with her own personal loss.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.6
+  slug: the-station-agent-2003

@@ -1,0 +1,33 @@
+- imdbid: tt0071853
+  type: movie
+  title: Monty Python and the Holy Grail
+  year: 1975.0
+  runtime: 91.0
+  director:
+    - Terry Gilliam
+    - Terry Jones
+  writer:
+    - Graham Chapman
+    - John Cleese
+    - Eric Idle
+    - Terry Gilliam
+    - Terry Jones
+    - Michael Palin
+  actors:
+    - Graham Chapman
+    - John Cleese
+    - Eric Idle
+    - Terry Gilliam
+  genre:
+    - Adventure
+    - Comedy
+    - Fantasy
+  plot: King Arthur (Graham Chapman) and his Knights of the Round Table embark on a
+    surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.
+  language:
+    - English
+    - French
+    - Latin
+  country: UK
+  imdbrating: 8.2
+  slug: monty-python-and-the-holy-grail-1975

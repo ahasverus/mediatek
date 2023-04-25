@@ -1,0 +1,29 @@
+- imdbid: tt12593682
+  type: movie
+  title: Bullet Train
+  year: 2022.0
+  runtime: 127.0
+  director: David Leitch
+  writer:
+    - Zak Olkewicz
+    - Kôtarô Isaka
+  actors:
+    - Brad Pitt
+    - Joey King
+    - Aaron Taylor-Johnson
+  genre:
+    - Action
+    - Comedy
+    - Thriller
+  plot: Five assassins aboard a swiftly-moving bullet train find out that their missions
+    have something in common.
+  language:
+    - English
+    - Japanese
+    - Spanish
+    - Russian
+  country:
+    - United States
+    - Japan
+  imdbrating: 7.3
+  slug: bullet-train-2022

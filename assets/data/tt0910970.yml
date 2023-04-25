@@ -1,0 +1,28 @@
+- imdbid: tt0910970
+  type: movie
+  title: WALL·E
+  year: 2008.0
+  runtime: 98.0
+  director: Andrew Stanton
+  writer:
+    - Andrew Stanton
+    - Pete Docter
+    - Andrew Stanton
+    - Jim Reardon
+  actors:
+    - Ben Burtt
+    - Elissa Knight
+    - Jeff Garlin
+    - Fred Willard
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Sci-Fi
+    - Pixar
+  plot: In the distant future, a small waste-collecting robot inadvertently embarks
+    on a space journey that will ultimately decide the fate of mankind.
+  language: English
+  country: USA
+  imdbrating: 8.4
+  slug: wall-e-2008

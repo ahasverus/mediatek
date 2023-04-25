@@ -1,0 +1,86 @@
+- imdbid: tt0401711
+  type: movie
+  title: Paris, je t'aime
+  year: 2006.0
+  runtime: 120.0
+  director:
+    - Olivier Assayas
+    - Frédéric Auburtin
+    - Emmanuel Benbihy
+    - Gurinder Chadha
+    - Sylvain Chomet
+    - Ethan Coen
+    - Joel Coen
+    - Isabel Coixet
+    - Wes Craven
+    - Alfonso Cuarón
+    - Gérard Depardieu
+    - Christopher Doyle
+    - Richard LaGravenese
+    - Vincenzo Natali
+    - Alexander Payne
+    - Bruno Podalydès
+    - Walter Salles
+    - Oliver Schmitz
+    - Nobuhiro Suwa
+    - Daniela Thomas
+    - Tom Tykwer
+    - Gus Van Sant
+  writer:
+    - Tristan Carné
+    - Emmanuel Benbihy
+    - Bruno Podalydès
+    - Paul Mayeda Berges
+    - Gurinder Chadha
+    - Gus Van Sant
+    - Joel Coen
+    - Ethan Coen
+    - Walter Salles
+    - Daniela Thomas
+    - Christopher Doyle
+    - Rain Li
+    - Gabrielle Keng
+    - Isabel Coixet
+    - Nobuhiro Suwa
+    - Sylvain Chomet
+    - Alfonso Cuarón
+    - Olivier Assayas
+    - Oliver Schmitz
+    - Richard LaGravenese
+    - Vincenzo Natali
+    - Wes Craven
+    - Tom Tykwer
+    - Gena Rowlands
+    - Alexander Payne
+    - Nadine Eïd
+    - Frédéric Auburtin
+    - Jean-Pierre Ronssin
+    - Jane Hawksley
+    - Vincent Poymiro
+    - Paul Mayeda Berges
+    - Nadine Eïd
+  actors:
+    - Fanny Ardant
+    - Julie Bataille
+    - Leïla Bekhti
+    - Melchior Derouet
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: Through the neighborhoods of Paris, love is veiled, revealed, imitated, sucked
+    dry, reinvented and awakened.
+  language:
+    - French
+    - English
+    - Spanish
+    - Mandarin
+    - Arabic
+  country:
+    - France
+    - Liechtenstein
+    - Switzerland
+    - Germany
+    - USA
+  imdbrating: 7.2
+  slug: paris-je-t-aime-2006

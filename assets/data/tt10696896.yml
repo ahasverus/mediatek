@@ -1,0 +1,26 @@
+- imdbid: tt10696896
+  type: movie
+  title: Stillwater
+  year: 2021.0
+  runtime: 139.0
+  director: Tom McCarthy
+  writer:
+    - Tom McCarthy
+    - Marcus Hinchey
+    - Thomas Bidegain
+  actors:
+    - Matt Damon
+    - Camille Cottin
+    - Abigail Breslin
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A father travels from Oklahoma to France to help his estranged daughter, who
+    is in prison for a murder she claims she didn't commit.
+  language:
+    - English
+    - French
+  country: United States
+  imdbrating: 6.9
+  slug: stillwater-2021

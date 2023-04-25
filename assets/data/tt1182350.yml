@@ -1,0 +1,27 @@
+- imdbid: tt1182350
+  type: movie
+  title: You Will Meet a Tall Dark Stranger
+  year: 2010.0
+  runtime: 98.0
+  director: Woody Allen
+  writer: Woody Allen
+  actors:
+    - Gemma Jones
+    - Pauline Collins
+    - Anthony Hopkins
+    - Rupert Frazer
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: Sally's parents' marriage breaks up when her father undergoes a mid-life crisis
+    and impulsively weds a prostitute. Meanwhile, Sally's own marriage also begins to
+    disintegrate.
+  language:
+    - English
+    - Italian
+  country:
+    - USA
+    - Spain
+  imdbrating: 6.3
+  slug: you-will-meet-a-tall-dark-stranger-2010

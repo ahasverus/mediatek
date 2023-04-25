@@ -1,0 +1,28 @@
+- imdbid: tt4244994
+  type: movie
+  title: The Last Duel
+  year: 2021.0
+  runtime: 152.0
+  director: Ridley Scott
+  writer:
+    - Nicole Holofcener
+    - Ben Affleck
+    - Matt Damon
+  actors:
+    - Matt Damon
+    - Adam Driver
+    - Jodie Comer
+  genre:
+    - Action
+    - Drama
+    - History
+  plot: King Charles VI declares that Knight Jean de Carrouges settle his dispute with
+    his squire by challenging him to a duel.
+  language:
+    - English
+    - German
+  country:
+    - United States
+    - United Kingdom
+  imdbrating: 7.7
+  slug: the-last-duel-2021

@@ -1,0 +1,31 @@
+- imdbid: tt9198364
+  type: movie
+  title: Three Thousand Years of Longing
+  year: 2022.0
+  runtime: 108.0
+  director: George Miller
+  writer:
+    - George Miller
+    - Augusta Gore
+    - A.S. Byatt
+  actors:
+    - Tilda Swinton
+    - Idris Elba
+    - Erdil Yasaroglu
+  genre:
+    - Drama
+    - Fantasy
+    - Romance
+  plot: A lonely scholar, on a trip to Istanbul, discovers a Djinn who offers her three
+    wishes in exchange for his freedom.
+  language:
+    - English
+    - Greek
+    - Turkish
+    - German
+    - French
+  country:
+    - Australia
+    - United States
+  imdbrating: 6.7
+  slug: three-thousand-years-of-longing-2022

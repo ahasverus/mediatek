@@ -1,0 +1,27 @@
+- imdbid: tt7657566
+  type: movie
+  title: Death on the Nile
+  year: 2022.0
+  runtime: 127.0
+  director: Kenneth Branagh
+  writer:
+    - Michael Green
+    - Agatha Christie
+  actors:
+    - Tom Bateman
+    - Annette Bening
+    - Kenneth Branagh
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+  plot: While on vacation on the Nile, Hercule Poirot must investigate the murder of
+    a young heiress.
+  language:
+    - English
+    - French
+  country:
+    - United States
+    - United Kingdom
+  imdbrating: 6.6
+  slug: death-on-the-nile-2022

@@ -1,0 +1,31 @@
+- imdbid: tt0111282
+  type: movie
+  title: Stargate
+  year: 1994.0
+  runtime: 116.0
+  director: Roland Emmerich
+  writer:
+    - Dean Devlin
+    - Roland Emmerich
+  actors:
+    - Kurt Russell
+    - James Spader
+    - Jaye Davidson
+    - Viveca Lindfors
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: An interstellar teleportation device, found in Egypt, leads to a planet with
+    humans resembling ancient Egyptians who worship the god Ra.
+  language:
+    - English
+    - Norwegian
+    - Swedish
+    - Egyptian
+    - Arabic
+  country:
+    - USA
+    - France
+  imdbrating: 7.1
+  slug: stargate-1994

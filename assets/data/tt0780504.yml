@@ -1,0 +1,25 @@
+- imdbid: tt0780504
+  type: movie
+  title: Drive
+  year: 2011.0
+  runtime: 100.0
+  director: Nicolas Winding Refn
+  writer:
+    - Hossein Amini
+    - James Sallis
+  actors:
+    - Ryan Gosling
+    - Carey Mulligan
+    - Bryan Cranston
+    - Albert Brooks
+  genre:
+    - Crime
+    - Drama
+  plot: A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver
+    and finds himself in trouble when he helps out his neighbor.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.8
+  slug: drive-2011

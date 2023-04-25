@@ -1,0 +1,21 @@
+- imdbid: tt6772802
+  type: movie
+  title: Hillbilly Elegy
+  year: 2020.0
+  runtime: 116.0
+  director: Ron Howard
+  writer:
+    - J.D. Vance
+    - Vanessa Taylor
+  actors:
+    - Amy Adams
+    - Glenn Close
+    - Gabriel Basso
+    - Haley Bennett
+  genre: Drama
+  plot: An urgent phone call pulls a Yale Law student back to his Ohio hometown, where
+    he reflects on three generations of family history and his own future.
+  language: English
+  country: USA
+  imdbrating: 6.7
+  slug: hillbilly-elegy-2020

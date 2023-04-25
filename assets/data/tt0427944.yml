@@ -1,0 +1,24 @@
+- imdbid: tt0427944
+  type: movie
+  title: Thank You for Smoking
+  year: 2005.0
+  runtime: 92.0
+  director: Jason Reitman
+  writer:
+    - Jason Reitman
+    - Christopher Buckley
+  actors:
+    - Joan Lunden
+    - Eric Haberman
+    - Aaron Eckhart
+    - Mary Jo Smith
+  genre:
+    - Comedy
+    - Drama
+  plot: Satirical comedy follows the machinations of Big Tobacco's chief spokesman,
+    Nick Naylor, who spins on behalf of cigarettes while trying to remain a role model
+    for his twelve-year-old son.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: thank-you-for-smoking-2005

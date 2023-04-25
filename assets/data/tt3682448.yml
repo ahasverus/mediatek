@@ -1,0 +1,32 @@
+- imdbid: tt3682448
+  type: movie
+  title: Bridge of Spies
+  year: 2015.0
+  runtime: 142.0
+  director: Steven Spielberg
+  writer:
+    - Matt Charman
+    - Ethan Coen
+    - Joel Coen
+  actors:
+    - Mark Rylance
+    - Domenick Lombardozzi
+    - Victor Verhaeghe
+    - Mark Fichera
+  genre:
+    - Drama
+    - History
+    - Thriller
+  plot: During the Cold War, an American lawyer is recruited to defend an arrested Soviet
+    spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet
+    captured American U2 spy plane pilot, Francis Gary Powers.
+  language:
+    - English
+    - German
+    - Russian
+  country:
+    - Germany
+    - India
+    - USA
+  imdbrating: 7.6
+  slug: bridge-of-spies-2015

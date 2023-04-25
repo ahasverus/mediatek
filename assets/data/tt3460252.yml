@@ -1,0 +1,27 @@
+- imdbid: tt3460252
+  type: movie
+  title: The Hateful Eight
+  year: 2015.0
+  runtime: 168.0
+  director: Quentin Tarantino
+  writer: Quentin Tarantino
+  actors:
+    - Samuel L. Jackson
+    - Kurt Russell
+    - Jennifer Jason Leigh
+    - Walton Goggins
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+    - Western
+  plot: In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter
+    in a cabin currently inhabited by a collection of nefarious characters.
+  language:
+    - English
+    - Spanish
+    - French
+  country: USA
+  imdbrating: 7.8
+  slug: the-hateful-eight-2015

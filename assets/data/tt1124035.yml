@@ -1,0 +1,25 @@
+- imdbid: tt1124035
+  type: movie
+  title: The Ides of March
+  year: 2011.0
+  runtime: 101.0
+  director: George Clooney
+  writer:
+    - George Clooney
+    - Grant Heslov
+    - Beau Willimon
+    - Beau Willimon
+  actors:
+    - Ryan Gosling
+    - George Clooney
+    - Philip Seymour Hoffman
+    - Paul Giamatti
+  genre:
+    - Drama
+    - Thriller
+  plot: An idealistic staffer for a new presidential candidate gets a crash course on
+    dirty politics during his stint on the campaign trail.
+  language: English
+  country: USA
+  imdbrating: 7.1
+  slug: the-ides-of-march-2011

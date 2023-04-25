@@ -1,0 +1,25 @@
+- imdbid: tt6334354
+  type: movie
+  title: The Suicide Squad
+  year: 2021.0
+  runtime: 132.0
+  director: James Gunn
+  writer: James Gunn
+  actors:
+    - Margot Robbie
+    - Idris Elba
+    - John Cena
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+  plot: Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty
+    cons at Belle Reve prison join the super-secret, super-shady Task Force X as they
+    are dropped off at the remote, enemy-infused island of Corto Maltese.
+  language: English
+  country:
+    - United States
+    - Canada
+    - United Kingdom
+  imdbrating: 7.4
+  slug: the-suicide-squad-2021

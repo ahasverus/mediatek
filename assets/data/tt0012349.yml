@@ -1,0 +1,24 @@
+- imdbid: tt0012349
+  type: movie
+  title: The Kid
+  year: 1921.0
+  runtime: 68.0
+  director: Charles Chaplin
+  writer: Charles Chaplin
+  actors:
+    - Carl Miller
+    - Edna Purviance
+    - Jackie Coogan
+    - Charles Chaplin
+  genre:
+    - Comedy
+    - Drama
+    - Family
+  plot: The Tramp cares for an abandoned child, but events put that relationship in
+    jeopardy.
+  language:
+    - None
+    - English
+  country: USA
+  imdbrating: 8.3
+  slug: the-kid-1921

@@ -1,0 +1,34 @@
+- imdbid: tt4649466
+  type: movie
+  title: 'Kingsman: The Golden Circle'
+  year: 2017.0
+  runtime: 141.0
+  director: Matthew Vaughn
+  writer:
+    - Jane Goldman
+    - Matthew Vaughn
+    - Mark Millar
+    - Dave Gibbons
+  actors:
+    - Taron Egerton
+    - Edward Holcroft
+    - Gordon Alexander
+    - Mark Strong
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Crime
+    - Thriller
+  plot: After the Kingsman's headquarters are destroyed and the world is held hostage,
+    an allied spy organisation in the United States is discovered. These two elite secret
+    organisations must band together to defeat a common enemy.
+  language:
+    - English
+    - Italian
+    - Swedish
+  country:
+    - UK
+    - USA
+  imdbrating: 6.7
+  slug: kingsman-the-golden-circle-2017

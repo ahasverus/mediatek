@@ -1,0 +1,32 @@
+- imdbid: tt1453405
+  type: movie
+  title: Monsters University
+  year: 2013.0
+  runtime: 104.0
+  director: Dan Scanlon
+  writer:
+    - Dan Scanlon
+    - Daniel Gerson
+    - Robert L. Baird
+    - Daniel Gerson
+    - Robert L. Baird
+    - Dan Scanlon
+  actors:
+    - Billy Crystal
+    - John Goodman
+    - Steve Buscemi
+    - Helen Mirren
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Pixar
+  plot: A look at the relationship between Mike Wazowski (Billy Crystal) and James P.
+    'Sully' Sullivan (John Goodman) during their days at Monsters University, when they
+    weren't necessarily the best of friends.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: monsters-university-2013

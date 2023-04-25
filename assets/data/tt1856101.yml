@@ -1,0 +1,40 @@
+- imdbid: tt1856101
+  type: movie
+  title: Blade Runner 2049
+  year: 2017.0
+  runtime: 164.0
+  director: Denis Villeneuve
+  writer:
+    - Hampton Fancher
+    - Michael Green
+    - Hampton Fancher
+    - Philip K. Dick
+  actors:
+    - Ryan Gosling
+    - Dave Bautista
+    - Robin Wright
+    - Mark Arnold
+  genre:
+    - Action
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: Young Blade Runner K's discovery of a long-buried secret leads him to track
+    down former Blade Runner Rick Deckard, who's been missing for thirty years.
+  language:
+    - English
+    - Finnish
+    - Japanese
+    - Hungarian
+    - Russian
+    - Somali
+    - Spanish
+  country:
+    - USA
+    - UK
+    - Hungary
+    - Canada
+    - Spain
+  imdbrating: 8.0
+  slug: blade-runner-2049-2017

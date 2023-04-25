@@ -1,0 +1,29 @@
+- imdbid: tt0462504
+  type: movie
+  title: Rescue Dawn
+  year: 2006.0
+  runtime: 120.0
+  director: Werner Herzog
+  writer: Werner Herzog
+  actors:
+    - Christian Bale
+    - Zach Grenier
+    - Marshall Bell
+    - Toby Huss
+  genre:
+    - Action
+    - Biography
+    - Drama
+    - Thriller
+    - War
+  plot: A U.S. fighter pilot's epic struggle of survival after being shot down on a
+    mission over Laos during the Vietnam War.
+  language:
+    - English
+    - Lao
+    - Vietnamese
+  country:
+    - USA
+    - Luxembourg
+  imdbrating: 7.3
+  slug: rescue-dawn-2006

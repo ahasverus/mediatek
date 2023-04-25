@@ -1,0 +1,28 @@
+- imdbid: tt0082694
+  type: movie
+  title: "Mad Max 2: The Road Warrior"
+  year: 1981.0
+  runtime: 96.0
+  director: George Miller
+  writer:
+    - Terry Hayes
+    - George Miller
+    - Brian Hannant
+  actors:
+    - Mel Gibson
+    - Bruce Spence
+    - Michael Preston
+    - Max Phipps
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help
+    a small, gasoline-rich community escape a horde of bandits.
+  language: English
+  country:
+    - Australia
+    - USA
+  imdbrating: 7.6
+  slug: mad-max-2-the-road-warrior-1981

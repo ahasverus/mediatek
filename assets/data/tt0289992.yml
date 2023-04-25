@@ -1,0 +1,28 @@
+- imdbid: tt0289992
+  type: movie
+  title: The Life of David Gale
+  year: 2003.0
+  runtime: 130.0
+  director: Alan Parker
+  writer: Charles Randolph
+  actors:
+    - Kate Winslet
+    - Cleo King
+    - Constance Jones
+    - Kevin Spacey
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A man against capital punishment is accused of murdering a fellow activist and
+    is sent to death row.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - Germany
+    - UK
+    - Spain
+  imdbrating: 7.6
+  slug: the-life-of-david-gale-2003

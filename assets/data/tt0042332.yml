@@ -1,0 +1,38 @@
+- imdbid: tt0042332
+  type: movie
+  title: Cinderella
+  year: 1950.0
+  runtime: 74.0
+  director:
+    - Clyde Geronimi
+    - Wilfred Jackson
+    - Hamilton Luske
+  writer:
+    - Charles Perrault
+    - Bill Peet
+    - Erdman Penner
+    - Ted Sears
+    - Winston Hibler
+    - Homer Brightman
+    - Harry Reeves
+    - Ken Anderson
+    - Joe Rinaldi
+  actors:
+    - Ilene Woods
+    - Eleanor Audley
+    - Verna Felton
+    - Claire Du Brey
+  genre:
+    - Animation
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: When Cinderella's cruel stepmother prevents her from attending the Royal Ball,
+    she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy
+    Godmother.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: cinderella-1950

@@ -1,0 +1,29 @@
+- imdbid: tt0376994
+  type: movie
+  title: 'X-Men: The Last Stand'
+  year: 2006.0
+  runtime: 104.0
+  director: Brett Ratner
+  writer:
+    - Simon Kinberg
+    - Zak Penn
+  actors:
+    - Hugh Jackman
+    - Halle Berry
+    - Ian McKellen
+    - Patrick Stewart
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: The human government develops a cure for mutations, and Jean Gray becomes a
+    darker uncontrollable persona called the Phoenix who allies with Magneto, causing
+    escalation into an all-out battle for the X-Men.
+  language: English
+  country:
+    - Canada
+    - USA
+    - UK
+  imdbrating: 6.7
+  slug: x-men-the-last-stand-2006

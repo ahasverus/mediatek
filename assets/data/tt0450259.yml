@@ -1,0 +1,30 @@
+- imdbid: tt0450259
+  type: movie
+  title: Blood Diamond
+  year: 2006.0
+  runtime: 143.0
+  director: Edward Zwick
+  writer:
+    - Charles Leavitt
+    - Charles Leavitt
+    - C. Gaby Mitchell
+  actors:
+    - Leonardo DiCaprio
+    - Djimon Hounsou
+    - Jennifer Connelly
+    - Kagiso Kuypers
+  genre:
+    - Adventure
+    - Drama
+    - Thriller
+  plot: A fisherman, a smuggler, and a syndicate of businessmen match wits over the
+    possession of a priceless diamond.
+  language:
+    - English
+    - Mende
+    - Afrikaans
+  country:
+    - USA
+    - Germany
+  imdbrating: 8.0
+  slug: blood-diamond-2006

@@ -1,0 +1,25 @@
+- imdbid: tt0119822
+  type: movie
+  title: As Good as It Gets
+  year: 1997.0
+  runtime: 139.0
+  director: James L. Brooks
+  writer:
+    - Mark Andrus
+    - Mark Andrus
+    - James L. Brooks
+  actors:
+    - Jack Nicholson
+    - Helen Hunt
+    - Greg Kinnear
+    - Cuba Gooding Jr.
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: A single mother and waitress, a misanthropic author, and a gay artist form an
+    unlikely friendship after the artist is assaulted in a robbery.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: as-good-as-it-gets-1997

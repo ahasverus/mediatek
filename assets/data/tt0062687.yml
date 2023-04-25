@@ -1,0 +1,34 @@
+- imdbid: tt0062687
+  type: movie
+  title: Astérix et Cléopâtre
+  year: 1968.0
+  runtime: 72.0
+  director:
+    - René Goscinny
+    - Albert Uderzo
+  writer:
+    - René Goscinny
+    - Albert Uderzo
+    - Jos Marissen
+    - Eddie Lateste
+    - Pierre Tchernia
+  actors:
+    - Roger Carel
+    - Jacques Morel
+    - Micheline Dax
+    - Jacques Balutin
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - History
+  plot: Popular animated hero Asterix and his faithful sidekick Obelix travel to ancient
+    Egypt to help Cleopatra build a new summer home. Cleopatra and Julius Caesar have
+    made a bet, with Caesar ...
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.2
+  slug: asterix-et-cleopatre-1968

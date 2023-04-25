@@ -1,0 +1,25 @@
+- imdbid: tt1149361
+  type: movie
+  title: Micmacs
+  year: 2009.0
+  runtime: 105.0
+  director: Jean-Pierre Jeunet
+  writer:
+    - Jean-Pierre Jeunet
+    - Guillaume Laurant
+    - Guillaume Laurant
+  actors:
+    - Dany Boon
+    - André Dussollier
+    - Yolande Moreau
+    - Dominique Pinon
+  genre:
+    - Action
+    - Comedy
+    - Crime
+  plot: A man and his friends come up with an intricate and original plan to destroy
+    two big weapons manufacturers.
+  language: French
+  country: France
+  imdbrating: 7.2
+  slug: micmacs-2009

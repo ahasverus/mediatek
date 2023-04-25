@@ -1,0 +1,29 @@
+- imdbid: tt7534068
+  type: movie
+  title: En liberté !
+  year: 2018.0
+  runtime: 108.0
+  director: Pierre Salvadori
+  writer:
+    - Pierre Salvadori
+    - Benoît Graffin
+    - Benjamin Charbit
+    - Benoît Graffin
+    - Pierre Salvadori
+    - Pierre Salvadori
+  actors:
+    - Adèle Haenel
+    - Pio Marmaï
+    - Audrey Tautou
+    - Damien Bonnard
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+    - Romance
+  plot: A widow discovers that her husband sent an innocent man to jail to cover-up
+    his own crimes.
+  language: French
+  country: France
+  imdbrating: 6.2
+  slug: en-liberte-2018

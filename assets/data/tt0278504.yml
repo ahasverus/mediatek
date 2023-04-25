@@ -1,0 +1,27 @@
+- imdbid: tt0278504
+  type: movie
+  title: Insomnia
+  year: 2002.0
+  runtime: 118.0
+  director: Christopher Nolan
+  writer:
+    - Hillary Seitz
+    - Nikolaj Frobenius
+    - Erik Skjoldbjærg
+  actors:
+    - Al Pacino
+    - Martin Donovan
+    - Oliver 'Ole' Zemen
+    - Hilary Swank
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: Two Los Angeles homicide detectives are dispatched to a northern town where
+    the sun doesn't set to investigate the methodical murder of a local teen.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 7.2
+  slug: insomnia-2002

@@ -1,0 +1,29 @@
+- imdbid: tt0758774
+  type: movie
+  title: Body of Lies
+  year: 2008.0
+  runtime: 128.0
+  director: Ridley Scott
+  writer:
+    - William Monahan
+    - David Ignatius
+  actors:
+    - Leonardo DiCaprio
+    - Russell Crowe
+    - Mark Strong
+    - Golshifteh Farahani
+  genre:
+    - Action
+    - Drama
+    - Thriller
+  plot: A CIA agent on the ground in Jordan hunts down a powerful terrorist leader while
+    being caught between the unclear intentions of his American supervisors and Jordan
+    Intelligence.
+  language:
+    - English
+    - Arabic
+  country:
+    - USA
+    - UK
+  imdbrating: 7.1
+  slug: body-of-lies-2008

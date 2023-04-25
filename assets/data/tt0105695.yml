@@ -1,0 +1,22 @@
+- imdbid: tt0105695
+  type: movie
+  title: Unforgiven
+  year: 1992.0
+  runtime: 130.0
+  director: Clint Eastwood
+  writer: David Webb Peoples
+  actors:
+    - Clint Eastwood
+    - Gene Hackman
+    - Morgan Freeman
+    - Richard Harris
+  genre:
+    - Drama
+    - Western
+  plot: Retired Old West gunslinger William Munny (Clint Eastwood) reluctantly takes
+    on one last job, with the help of his old partner Ned Logan (Morgan Freeman) and
+    a young man, The 'Schofield Kid' (Jaimz Woolvett).
+  language: English
+  country: USA
+  imdbrating: 8.2
+  slug: unforgiven-1992

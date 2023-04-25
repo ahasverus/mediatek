@@ -1,0 +1,26 @@
+- imdbid: tt0208092
+  type: movie
+  title: Snatch
+  year: 2000.0
+  runtime: 102.0
+  director: Guy Ritchie
+  writer: Guy Ritchie
+  actors:
+    - Benicio Del Toro
+    - Dennis Farina
+    - Vinnie Jones
+    - Brad Pitt
+  genre:
+    - Comedy
+    - Crime
+  plot: Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent
+    amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen
+    diamond.
+  language:
+    - English
+    - Russian
+  country:
+    - UK
+    - USA
+  imdbrating: 8.3
+  slug: snatch-2000

@@ -1,0 +1,35 @@
+- imdbid: tt3498820
+  type: movie
+  title: 'Captain America: Civil War'
+  year: 2016.0
+  runtime: 147.0
+  director:
+    - Anthony Russo
+    - Joe Russo
+  writer:
+    - Christopher Markus
+    - Stephen McFeely
+    - Joe Simon
+    - Jack Kirby
+  actors:
+    - Chris Evans
+    - Robert Downey Jr.
+    - Scarlett Johansson
+    - Sebastian Stan
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Political involvement in the Avengers' affairs causes a rift between Captain
+    America and Iron Man.
+  language:
+    - English
+    - German
+    - Xhosa
+    - Russian
+    - Romanian
+    - Hindi
+  country: USA
+  imdbrating: 7.8
+  slug: captain-america-civil-war-2016

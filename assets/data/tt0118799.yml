@@ -1,0 +1,29 @@
+- imdbid: tt0118799
+  type: movie
+  title: Life Is Beautiful
+  year: 1997.0
+  runtime: 116.0
+  director: Roberto Benigni
+  writer:
+    - Vincenzo Cerami
+    - Roberto Benigni
+  actors:
+    - Roberto Benigni
+    - Nicoletta Braschi
+    - Giorgio Cantarini
+    - Giustino Durano
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+    - War
+  plot: When an open-minded Jewish librarian and his son become victims of the Holocaust,
+    he uses a perfect mixture of will, humor, and imagination to protect his son from
+    the dangers around their camp.
+  language:
+    - Italian
+    - German
+    - English
+  country: Italy
+  imdbrating: 8.6
+  slug: life-is-beautiful-1997

@@ -1,0 +1,34 @@
+- imdbid: tt0112750
+  type: movie
+  title: Crying Freeman
+  year: 1995.0
+  runtime: 102.0
+  director: Christophe Gans
+  writer:
+    - Kazuo Koike
+    - Ryoichi Ikegami
+    - Christophe Gans
+    - Thierry Cazals
+    - Laurie Finstad-Knizhnik
+  actors:
+    - Julie Condra
+    - Kevan Ohtsji
+    - Mark Dacascos
+    - Debbie Podowski
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: A woman sees an assassin outside San Francisco killing yakuza men and later
+    in Vancouver. She's been told that he leaves no witness. Will she be his next victim
+    or...?
+  language:
+    - English
+    - Japanese
+  country:
+    - France
+    - USA
+    - Japan
+    - Canada
+  imdbrating: 6.5
+  slug: crying-freeman-1995

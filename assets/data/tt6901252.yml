@@ -1,0 +1,28 @@
+- imdbid: tt6901252
+  type: movie
+  title: Tueurs
+  year: 2017.0
+  runtime: 86.0
+  director:
+    - Jean-François Hensgens
+    - François Troukens
+  writer:
+    - François Troukens
+    - Giordano Gederlini
+  actors:
+    - Olivier Gourmet
+    - Lubna Azabal
+    - Kevin Janssens
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: 'While Frank Valken makes a fabulous break, a killer squad goes into action
+    and executes all the witnesses. Among the corpses there is that of the magistrate
+    who is investigating the Mad Snipers case. Thirty years later, they seem to '
+  language: French
+  country:
+    - Belgium
+    - France
+  imdbrating: 6.2
+  slug: tueurs-2017

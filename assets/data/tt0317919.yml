@@ -1,0 +1,36 @@
+- imdbid: tt0317919
+  type: movie
+  title: 'Mission: Impossible III'
+  year: 2006.0
+  runtime: 126.0
+  director: J.J. Abrams
+  writer:
+    - Alex Kurtzman
+    - Roberto Orci
+    - J.J. Abrams
+    - Bruce Geller
+  actors:
+    - Tom Cruise
+    - Philip Seymour Hoffman
+    - Ving Rhames
+    - Billy Crudup
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: IMF agent Ethan Hunt comes into conflict with a dangerous and sadistic arms
+    dealer who threatens his life and his fiancée in response.
+  language:
+    - English
+    - Italian
+    - Mandarin
+    - Cantonese
+    - German
+    - Czech
+  country:
+    - USA
+    - Germany
+    - China
+    - Italy
+  imdbrating: 6.9
+  slug: mission-impossible-iii-2006

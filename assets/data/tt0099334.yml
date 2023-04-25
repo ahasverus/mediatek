@@ -1,0 +1,27 @@
+- imdbid: tt0099334
+  type: movie
+  title: Cyrano de Bergerac
+  year: 1990.0
+  runtime: 137.0
+  director: Jean-Paul Rappeneau
+  writer:
+    - Edmond Rostand
+    - Jean-Paul Rappeneau
+    - Jean-Claude Carrière
+  actors:
+    - Gérard Depardieu
+    - Anne Brochet
+    - Vincent Perez
+    - Jacques Weber
+  genre:
+    - Comedy
+    - Drama
+    - History
+    - Romance
+  plot: Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane.
+    He has never expressed his love for her as he his large nose undermines his self-confidence.
+    Then he finds a way to express his love to her, indirectly.
+  language: French
+  country: France
+  imdbrating: 7.5
+  slug: cyrano-de-bergerac-1990

@@ -1,0 +1,28 @@
+- imdbid: tt5078214
+  type: movie
+  title: Victoria
+  year: 2016.0
+  runtime: 97.0
+  director: Justine Triet
+  writer:
+    - Justine Triet
+    - Justine Triet
+    - Thomas Lévy-Lasne
+  actors:
+    - Virginie Efira
+    - Vincent Lacoste
+    - Melvil Poupaud
+    - Laurent Poitrenaux
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: Victoria is a thirty-something lawyer who's looking for stability and true love
+    in her life struggling with her past. Her search is not evident but finally, she
+    realizes the fact that love should not be always searched.
+  language:
+    - French
+    - English
+  country: France
+  imdbrating: 6.2
+  slug: victoria-2016

@@ -1,0 +1,30 @@
+- imdbid: tt0948470
+  type: movie
+  title: The Amazing Spider-Man
+  year: 2012.0
+  runtime: 136.0
+  director: Marc Webb
+  writer:
+    - James Vanderbilt
+    - Alvin Sargent
+    - Steve Kloves
+    - James Vanderbilt
+    - Stan Lee
+    - Steve Ditko
+  actors:
+    - Andrew Garfield
+    - Emma Stone
+    - Rhys Ifans
+    - Denis Leary
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: After Peter Parker is bitten by a genetically altered spider, he gains newfound,
+    spider-like powers and ventures out to save the city from the machinations of a
+    mysterious reptilian foe.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: the-amazing-spider-man-2012

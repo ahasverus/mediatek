@@ -1,0 +1,33 @@
+- imdbid: tt0250223
+  type: movie
+  title: 'Astérix & Obélix : Mission Cléopâtre'
+  year: 2002.0
+  runtime: 107.0
+  director: Alain Chabat
+  writer:
+    - René Goscinny
+    - Albert Uderzo
+    - Alain Chabat
+  actors:
+    - Gérard Depardieu
+    - Christian Clavier
+    - Jamel Debbouze
+    - Monica Bellucci
+  genre:
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Astérix and Obélix go to Egypt to help architect Numérobis who is building a
+    palace for Cleopatra.
+  language:
+    - French
+    - Arabic
+    - Cantonese
+    - Latin
+    - German
+  country:
+    - France
+    - Germany
+  imdbrating: 6.6
+  slug: asterix-et-obelix-mission-cleopatre-2002

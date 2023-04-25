@@ -1,0 +1,25 @@
+- imdbid: tt0133093
+  type: movie
+  title: The Matrix
+  year: 1999.0
+  runtime: 136.0
+  director:
+    - Lana Wachowski
+    - Lilly Wachowski
+  writer:
+    - Lilly Wachowski
+    - Lana Wachowski
+  actors:
+    - Keanu Reeves
+    - Laurence Fishburne
+    - Carrie-Anne Moss
+    - Hugo Weaving
+  genre:
+    - Action
+    - Sci-Fi
+  plot: A computer hacker learns from mysterious rebels about the true nature of his
+    reality and his role in the war against its controllers.
+  language: English
+  country: USA
+  imdbrating: 8.7
+  slug: the-matrix-1999

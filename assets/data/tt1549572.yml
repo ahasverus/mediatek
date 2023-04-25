@@ -1,0 +1,24 @@
+- imdbid: tt1549572
+  type: movie
+  title: Another Earth
+  year: 2011.0
+  runtime: 92.0
+  director: Mike Cahill
+  writer:
+    - Mike Cahill
+    - Brit Marling
+  actors:
+    - Brit Marling
+    - Matthew-Lee Erlbach
+    - DJ Flava
+    - William Mapother
+  genre:
+    - Drama
+    - Romance
+    - Sci-Fi
+  plot: On the night of the discovery of a duplicate Earth in the Solar system, an ambitious
+    young student and an accomplished composer cross paths in a tragic accident.
+  language: English
+  country: USA
+  imdbrating: 7.0
+  slug: another-earth-2011

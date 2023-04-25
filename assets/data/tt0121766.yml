@@ -1,0 +1,24 @@
+- imdbid: tt0121766
+  type: movie
+  title: 'Star Wars: Episode III - Revenge of the Sith'
+  year: 2005.0
+  runtime: 140.0
+  director: George Lucas
+  writer: George Lucas
+  actors:
+    - Ewan McGregor
+    - Natalie Portman
+    - Hayden Christensen
+    - Ian McDiarmid
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+  plot: Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku.
+    As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi
+    Council and Palpatine and is lured into a sinister plan to rule the galaxy.
+  language: English
+  country: USA
+  imdbrating: 7.5
+  slug: star-wars-episode-iii-revenge-of-the-sith-2005

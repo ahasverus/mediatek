@@ -1,0 +1,31 @@
+- imdbid: tt0061369
+  type: movie
+  title: Astérix le Gaulois
+  year: 1967.0
+  runtime: 68.0
+  director: Ray Goossens
+  writer:
+    - René Goscinny
+    - Albert Uderzo
+    - Willy Lateste
+    - Jos Marissen
+    - László Molnár
+  actors:
+    - Roger Carel
+    - Jacques Morel
+    - Pierre Tornade
+    - Jacques Jouanneau
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Gaul invaded! Asterix must save the Druid Getafix from the Romans.
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 6.6
+  slug: asterix-le-gaulois-1967

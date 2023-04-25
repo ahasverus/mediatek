@@ -1,0 +1,23 @@
+- imdbid: tt0109040
+  type: movie
+  title: 'Ace Ventura: Pet Detective'
+  year: 1994.0
+  runtime: 86.0
+  director: Tom Shadyac
+  writer:
+    - Jack Bernstein
+    - Jack Bernstein
+    - Tom Shadyac
+    - Jim Carrey
+  actors:
+    - Jim Carrey
+    - Courteney Cox
+    - Sean Young
+    - Tone Loc
+  genre: Comedy
+  plot: A goofy detective specializing in animals goes in search of the missing mascot
+    of the Miami Dolphins.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: ace-ventura-pet-detective-1994

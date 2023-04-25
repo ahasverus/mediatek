@@ -1,0 +1,40 @@
+- imdbid: tt0046183
+  type: movie
+  title: Peter Pan
+  year: 1953.0
+  runtime: 77.0
+  director:
+    - Clyde Geronimi
+    - Wilfred Jackson
+    - Hamilton Luske
+    - Jack Kinney
+  writer:
+    - J.M. Barrie
+    - Ted Sears
+    - Erdman Penner
+    - Bill Peet
+    - Winston Hibler
+    - Joe Rinaldi
+    - Milt Banta
+    - Ralph Wright
+    - William Cottrell
+  actors:
+    - Bobby Driscoll
+    - Kathryn Beaumont
+    - Hans Conried
+    - Bill Thompson
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Fantasy
+    - Musical
+    - Disney
+  plot: Wendy and her brothers are whisked away to the magical world of Neverland with
+    the hero of their stories, Peter Pan.
+  language:
+    - English
+    - American Sign Language
+  country: USA
+  imdbrating: 7.3
+  slug: peter-pan-1953

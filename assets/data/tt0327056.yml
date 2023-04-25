@@ -1,0 +1,27 @@
+- imdbid: tt0327056
+  type: movie
+  title: Mystic River
+  year: 2003.0
+  runtime: 138.0
+  director: Clint Eastwood
+  writer:
+    - Brian Helgeland
+    - Dennis Lehane
+  actors:
+    - Sean Penn
+    - Tim Robbins
+    - Kevin Bacon
+    - Laurence Fishburne
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: The lives of three men who were childhood friends are shattered when one of
+    them has a family tragedy.
+  language: English
+  country:
+    - USA
+    - Australia
+  imdbrating: 7.9
+  slug: mystic-river-2003

@@ -1,0 +1,24 @@
+- imdbid: tt0246578
+  type: movie
+  title: Donnie Darko
+  year: 2001.0
+  runtime: 113.0
+  director: Richard Kelly
+  writer: Richard Kelly
+  actors:
+    - Jake Gyllenhaal
+    - Holmes Osborne
+    - Maggie Gyllenhaal
+    - Daveigh Chase
+  genre:
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: After narrowly escaping a bizarre accident, a troubled teenager is plagued by
+    visions of a man in a large rabbit suit who manipulates him to commit a series of
+    crimes.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: donnie-darko-2001

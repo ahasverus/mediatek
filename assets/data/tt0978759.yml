@@ -1,0 +1,27 @@
+- imdbid: tt0978759
+  type: movie
+  title: Frozen River
+  year: 2008.0
+  runtime: 97.0
+  director: Courtney Hunt
+  writer: Courtney Hunt
+  actors:
+    - Melissa Leo
+    - Misty Upham
+    - Charlie McDermott
+    - Michael O'Keefe
+  genre:
+    - Crime
+    - Drama
+  plot: A mom looks for another source of income, when her husband leaves with the money
+    meant for the new mobile home. A nearby Indian territory stretches across the border
+    to Canada with a drivable frozen river between. Smuggling?
+  language:
+    - English
+    - French
+    - Chinese
+    - Urdu
+    - Mohawk
+  country: USA
+  imdbrating: 7.1
+  slug: frozen-river-2008

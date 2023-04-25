@@ -1,0 +1,25 @@
+- imdbid: tt0109707
+  type: movie
+  title: Ed Wood
+  year: 1994.0
+  runtime: 127.0
+  director: Tim Burton
+  writer:
+    - Rudolph Grey
+    - Scott Alexander
+    - Larry Karaszewski
+  actors:
+    - Johnny Depp
+    - Martin Landau
+    - Sarah Jessica Parker
+    - Patricia Arquette
+  genre:
+    - Biography
+    - Comedy
+    - Drama
+  plot: Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill
+    his dreams, despite his lack of talent.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: ed-wood-1994

@@ -1,0 +1,41 @@
+- imdbid: tt0029583
+  type: movie
+  title: Snow White and the Seven Dwarfs
+  year: 1937.0
+  runtime: 83.0
+  director:
+    - William Cottrell
+    - David Hand
+    - Wilfred Jackson
+    - Larry Morey
+    - Perce Pearce
+    - Ben Sharpsteen
+  writer:
+    - Jacob Grimm
+    - Wilhelm Grimm
+    - Ted Sears
+    - Richard Creedon
+    - Otto Englander
+    - Dick Rickard
+    - Earl Hurd
+    - Merrill De Maris
+    - Dorothy Ann Blank
+    - Webb Smith
+  actors:
+    - Roy Atwell
+    - Stuart Buchanan
+    - Adriana Caselotti
+    - Eddie Collins
+  genre:
+    - Animation
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: Exiled into the dangerous forest by her wicked stepmother, a princess is rescued
+    by seven dwarf miners who make her part of their household.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: snow-white-and-the-seven-dwarfs-1937

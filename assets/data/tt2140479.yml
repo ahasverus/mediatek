@@ -1,0 +1,26 @@
+- imdbid: tt2140479
+  type: movie
+  title: The Accountant
+  year: 2016.0
+  runtime: 128.0
+  director: Gavin O'Connor
+  writer: Bill Dubuque
+  actors:
+    - Ben Affleck
+    - Anna Kendrick
+    - J.K. Simmons
+    - Jon Bernthal
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: As a math savant uncooks the books for a new client, the Treasury Department
+    closes in on his activities, and the body count starts to rise.
+  language:
+    - English
+    - Indonesian
+    - French
+  country: USA
+  imdbrating: 7.3
+  slug: the-accountant-2016

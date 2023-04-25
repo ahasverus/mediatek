@@ -1,0 +1,27 @@
+- imdbid: tt0118015
+  type: movie
+  title: Un air de famille
+  year: 1996.0
+  runtime: 110.0
+  director: Cédric Klapisch
+  writer:
+    - Agnès Jaoui
+    - Jean-Pierre Bacri
+    - Agnès Jaoui
+    - Jean-Pierre Bacri
+    - Cédric Klapisch
+  actors:
+    - Jean-Pierre Bacri
+    - Jean-Pierre Darroussin
+    - Catherine Frot
+    - Agnès Jaoui
+  genre:
+    - Comedy
+    - Drama
+  plot: An upper middle-class French family celebrates a birthday in a restaurant. In
+    one evening and during one meal, family history, tensions, collective and separate
+    grudges, delights, and ...
+  language: French
+  country: France
+  imdbrating: 7.5
+  slug: un-air-de-famille-1996

@@ -1,0 +1,22 @@
+- imdbid: tt0180093
+  type: movie
+  title: Requiem for a Dream
+  year: 2000.0
+  runtime: 102.0
+  director: Darren Aronofsky
+  writer:
+    - Hubert Selby Jr.
+    - Hubert Selby Jr.
+    - Darren Aronofsky
+  actors:
+    - Ellen Burstyn
+    - Jared Leto
+    - Jennifer Connelly
+    - Marlon Wayans
+  genre: Drama
+  plot: The drug-induced utopias of four Coney Island people are shattered when their
+    addictions run deep.
+  language: English
+  country: USA
+  imdbrating: 8.3
+  slug: requiem-for-a-dream-2000

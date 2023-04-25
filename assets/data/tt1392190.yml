@@ -1,0 +1,32 @@
+- imdbid: tt1392190
+  type: movie
+  title: 'Mad Max: Fury Road'
+  year: 2015.0
+  runtime: 120.0
+  director: George Miller
+  writer:
+    - George Miller
+    - Brendan McCarthy
+    - Nick Lathouris
+  actors:
+    - Tom Hardy
+    - Charlize Theron
+    - Nicholas Hoult
+    - Hugh Keays-Byrne
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in
+    search for her homeland with the aid of a group of female prisoners, a psychotic
+    worshiper, and a drifter named Max.
+  language:
+    - English
+    - Russian
+  country:
+    - Australia
+    - USA
+    - South Africa
+  imdbrating: 8.1
+  slug: mad-max-fury-road-2015

@@ -1,0 +1,33 @@
+- imdbid: tt3450958
+  type: movie
+  title: War for the Planet of the Apes
+  year: 2017.0
+  runtime: 140.0
+  director: Matt Reeves
+  writer:
+    - Mark Bomback
+    - Matt Reeves
+    - Rick Jaffa
+    - Amanda Silver
+  actors:
+    - Andy Serkis
+    - Woody Harrelson
+    - Steve Zahn
+    - Karin Konoval
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - Sci-Fi
+    - Thriller
+  plot: After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts
+    and begins his own mythic quest to avenge his kind.
+  language:
+    - English
+    - American Sign Language
+  country:
+    - USA
+    - Canada
+    - New Zealand
+  imdbrating: 7.4
+  slug: war-for-the-planet-of-the-apes-2017

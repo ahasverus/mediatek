@@ -1,0 +1,28 @@
+- imdbid: tt6723592
+  type: movie
+  title: Tenet
+  year: 2020.0
+  runtime: 150.0
+  director: Christopher Nolan
+  writer: Christopher Nolan
+  actors:
+    - Juhan Ulfsak
+    - Jefferson Hall
+    - Ivo Uukkivi
+    - Andrew Howard
+  genre:
+    - Action
+    - Sci-Fi
+  plot: Armed with only one word, Tenet, and fighting for the survival of the entire
+    world, a Protagonist journeys through a twilight world of international espionage
+    on a mission that will unfold in something beyond real time.
+  language:
+    - English
+    - Russian
+    - Ukrainian
+    - Estonian
+  country:
+    - UK
+    - USA
+  imdbrating: 7.8
+  slug: tenet-2020

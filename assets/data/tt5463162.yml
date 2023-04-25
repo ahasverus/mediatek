@@ -1,0 +1,32 @@
+- imdbid: tt5463162
+  type: movie
+  title: Deadpool 2
+  year: 2018.0
+  runtime: 119.0
+  director: David Leitch
+  writer:
+    - Rhett Reese
+    - Paul Wernick
+    - Ryan Reynolds
+  actors:
+    - Ryan Reynolds
+    - Josh Brolin
+    - Morena Baccarin
+    - Julian Dennison
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Sci-Fi
+    - Marvel
+  plot: Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool), brings together
+    a team of fellow mutant rogues to protect a young boy with supernatural abilities
+    from the brutal, time-traveling cyborg Cable.
+  language:
+    - English
+    - Cantonese
+    - Spanish
+    - Russian
+  country: USA
+  imdbrating: 7.7
+  slug: deadpool-2-2018

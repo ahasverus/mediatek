@@ -1,0 +1,38 @@
+- imdbid: tt2096673
+  type: movie
+  title: Inside Out
+  year: 2015.0
+  runtime: 95.0
+  director:
+    - Pete Docter
+    - Ronnie Del Carmen
+  writer:
+    - Pete Docter
+    - Ronnie Del Carmen
+    - Pete Docter
+    - Meg LeFauve
+    - Josh Cooley
+    - Michael Arndt
+    - Simon Rich
+    - Bill Hader
+    - Amy Poehler
+  actors:
+    - Amy Poehler
+    - Phyllis Smith
+    - Richard Kind
+    - Bill Hader
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Drama
+    - Family
+    - Fantasy
+    - Pixar
+  plot: After young Riley is uprooted from her Midwest life and moved to San Francisco,
+    her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate
+    a new city, house, and school.
+  language: English
+  country: USA
+  imdbrating: 8.2
+  slug: inside-out-2015

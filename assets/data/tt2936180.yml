@@ -1,0 +1,29 @@
+- imdbid: tt2936180
+  type: movie
+  title: Far from Men
+  year: 2014.0
+  runtime: 101.0
+  director: David Oelhoffen
+  writer:
+    - David Oelhoffen
+    - Albert Camus
+    - Antoine Lacomblez
+  actors:
+    - Viggo Mortensen
+    - Reda Kateb
+    - Djemel Barek
+    - Vincent Martin
+  genre:
+    - Drama
+    - War
+    - Western
+  plot: Algeria, 1954. Two very different men thrown together by a world in turmoil
+    are forced to flee across the Atlas mountains. Daru, the reclusive teacher, has
+    to escort Mohamed, a villager accused of murder.
+  language:
+    - French
+    - Arabic
+    - Spanish
+  country: France
+  imdbrating: 7.2
+  slug: far-from-men-2014

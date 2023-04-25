@@ -1,0 +1,30 @@
+- imdbid: tt2179136
+  type: movie
+  title: American Sniper
+  year: 2014.0
+  runtime: 133.0
+  director: Clint Eastwood
+  writer:
+    - Jason Hall
+    - Chris Kyle
+    - Scott McEwen
+    - Jim DeFelice
+  actors:
+    - Bradley Cooper
+    - Kyle Gallner
+    - Cole Konis
+    - Ben Reed
+  genre:
+    - Action
+    - Biography
+    - Drama
+    - War
+  plot: Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on
+    the battlefield and turns him into a legend. Back home with his family after four
+    tours of duty, however, Chris finds that it is the war he can't leave behind.
+  language:
+    - English
+    - Arabic
+  country: USA
+  imdbrating: 7.3
+  slug: american-sniper-2014

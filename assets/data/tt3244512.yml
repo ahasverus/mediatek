@@ -1,0 +1,23 @@
+- imdbid: tt3244512
+  type: movie
+  title: Charlie's Country
+  year: 2013.0
+  runtime: 108.0
+  director: Rolf de Heer
+  writer:
+    - David Gulpilil
+    - Rolf de Heer
+  actors:
+    - David Gulpilil
+    - Peter Djigirr
+    - Luke Ford
+    - Lizzie Durrurrnga
+  genre: Drama
+  plot: Displeased with the intervention of whitefella laws, Charlie takes off to live
+    the old way and sets off a chain reaction of enlightening difficulties.
+  language:
+    - Aboriginal
+    - English
+  country: Australia
+  imdbrating: 7.2
+  slug: charlie-s-country-2013

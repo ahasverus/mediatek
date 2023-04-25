@@ -1,0 +1,27 @@
+- imdbid: tt0133152
+  type: movie
+  title: Planet of the Apes
+  year: 2001.0
+  runtime: 119.0
+  director: Tim Burton
+  writer:
+    - Pierre Boulle
+    - William Broyles Jr.
+    - Lawrence Konner
+    - Mark Rosenthal
+  actors:
+    - Mark Wahlberg
+    - Tim Roth
+    - Helena Bonham Carter
+    - Michael Clarke Duncan
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: In 2029, an Air Force astronaut crash-lands on a mysterious planet where evolved,
+    talking apes dominate a race of primitive humans.
+  language: English
+  country: USA
+  imdbrating: 5.7
+  slug: planet-of-the-apes-2001

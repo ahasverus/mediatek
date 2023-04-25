@@ -1,0 +1,28 @@
+- imdbid: tt0101410
+  type: movie
+  title: Barton Fink
+  year: 1991.0
+  runtime: 116.0
+  director:
+    - Joel Coen
+    - Ethan Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+  actors:
+    - John Turturro
+    - John Goodman
+    - Judy Davis
+    - Michael Lerner
+  genre:
+    - Comedy
+    - Drama
+    - Thriller
+  plot: A renowned New York playwright is enticed to California to write for the movies
+    and discovers the hellish truth of Hollywood.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 7.7
+  slug: barton-fink-1991

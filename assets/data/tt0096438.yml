@@ -1,0 +1,31 @@
+- imdbid: tt0096438
+  type: movie
+  title: Who Framed Roger Rabbit
+  year: 1988.0
+  runtime: 104.0
+  director:
+    - Robert Zemeckis
+    - Richard Williams
+  writer:
+    - Gary K. Wolf
+    - Jeffrey Price
+    - Peter S. Seaman
+  actors:
+    - Bob Hoskins
+    - Christopher Lloyd
+    - Joanna Cassidy
+    - Charles Fleischer
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Crime
+    - Family
+    - Fantasy
+    - Mystery
+  plot: A toon-hating detective is a cartoon rabbit's only hope to prove his innocence
+    when he is accused of murder.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: who-framed-roger-rabbit-1988

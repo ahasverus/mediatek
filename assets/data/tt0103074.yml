@@ -1,0 +1,26 @@
+- imdbid: tt0103074
+  type: movie
+  title: Thelma & Louise
+  year: 1991.0
+  runtime: 130.0
+  director: Ridley Scott
+  writer: Callie Khouri
+  actors:
+    - Susan Sarandon
+    - Geena Davis
+    - Harvey Keitel
+    - Michael Madsen
+  genre:
+    - Adventure
+    - Crime
+    - Drama
+  plot: Two best friends set out on an adventure, but it soon turns around to a terrifying
+    escape from being hunted by the police, as these two girls escape for the crimes
+    they committed.
+  language: English
+  country:
+    - USA
+    - UK
+    - France
+  imdbrating: 7.5
+  slug: thelma-and-louise-1991

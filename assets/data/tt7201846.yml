@@ -1,0 +1,27 @@
+- imdbid: tt7201846
+  type: movie
+  title: Edmond
+  year: 2018.0
+  runtime: 110.0
+  director: Alexis Michalik
+  writer: Alexis Michalik
+  actors:
+    - Thomas Solivérès
+    - Olivier Gourmet
+    - Mathilde Seigner
+    - Tom Leeb
+  genre:
+    - Comedy
+    - Drama
+    - History
+  plot: December 1897, Paris. Edmond Rostand is not yet thirty but already two children
+    and a lot of anxieties. He has not written anything for two years. In desperation,
+    he offers the great ...
+  language:
+    - French
+    - Russian
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.4
+  slug: edmond-2018

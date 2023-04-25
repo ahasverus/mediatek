@@ -1,0 +1,33 @@
+- imdbid: tt1340800
+  type: movie
+  title: Tinker Tailor Soldier Spy
+  year: 2011.0
+  runtime: 122.0
+  director: Tomas Alfredson
+  writer:
+    - Bridget O'Connor
+    - Peter Straughan
+    - John le Carré
+  actors:
+    - Mark Strong
+    - John Hurt
+    - Zoltán Mucsi
+    - Péter Kálloy Molnár
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: In the bleak days of the Cold War, espionage veteran George Smiley (Gary Oldman)
+    is forced from semi-retirement to uncover a Soviet Agent within MI6.
+  language:
+    - English
+    - Russian
+    - Hungarian
+    - French
+    - Turkish
+  country:
+    - France
+    - UK
+    - Germany
+  imdbrating: 7.1
+  slug: tinker-tailor-soldier-spy-2011

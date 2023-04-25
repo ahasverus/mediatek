@@ -1,0 +1,23 @@
+- imdbid: tt5439796
+  type: movie
+  title: Logan Lucky
+  year: 2017.0
+  runtime: 118.0
+  director: Steven Soderbergh
+  writer: Jules Asner
+  actors:
+    - Farrah Mackenzie
+    - Channing Tatum
+    - Jim O'Heir
+    - Riley Keough
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+  plot: Two brothers attempt to pull off a heist during a NASCAR race in North Carolina.
+  language: English
+  country:
+    - USA
+    - China
+  imdbrating: 7.0
+  slug: logan-lucky-2017

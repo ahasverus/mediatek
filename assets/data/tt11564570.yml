@@ -1,0 +1,20 @@
+- imdbid: tt11564570
+  type: movie
+  title: 'Glass Onion: A Knives Out Mystery'
+  year: 2022.0
+  runtime: 140.0
+  director: Rian Johnson
+  writer: Rian Johnson
+  actors:
+    - Daniel Craig
+    - Edward Norton
+    - Kate Hudson
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+  plot: Famed Southern detective Benoit Blanc travels to Greece for his latest case.
+  language: English
+  country: United States
+  imdbrating: 7.7
+  slug: glass-onion-a-knives-out-mystery-2022

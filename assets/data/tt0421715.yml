@@ -1,0 +1,28 @@
+- imdbid: tt0421715
+  type: movie
+  title: The Curious Case of Benjamin Button
+  year: 2008.0
+  runtime: 166.0
+  director: David Fincher
+  writer:
+    - Eric Roth
+    - Eric Roth
+    - Robin Swicord
+    - F. Scott Fitzgerald
+  actors:
+    - Cate Blanchett
+    - Brad Pitt
+    - Julia Ormond
+    - Faune Chambers Watkins
+  genre:
+    - Drama
+    - Fantasy
+    - Romance
+  plot: Tells the story of Benjamin Button, a man who starts aging backwards with consequences.
+  language:
+    - English
+    - Russian
+    - French
+  country: USA
+  imdbrating: 7.8
+  slug: the-curious-case-of-benjamin-button-2008

@@ -1,0 +1,33 @@
+- imdbid: tt0119643
+  type: movie
+  title: Meet Joe Black
+  year: 1998.0
+  runtime: 178.0
+  director: Martin Brest
+  writer:
+    - Ron Osborn
+    - Jeff Reno
+    - Kevin Wade
+    - Bo Goldman
+    - Alberto Casella
+    - Walter Ferris
+    - Maxwell Anderson
+    - Gladys Lehman
+  actors:
+    - Brad Pitt
+    - Anthony Hopkins
+    - Claire Forlani
+    - Jake Weber
+  genre:
+    - Drama
+    - Fantasy
+    - Romance
+  plot: Death, who takes the form of a young man, asks a media mogul to act as a guide
+    to teach him about life on Earth, and in the process, he falls in love with his
+    guide's daughter.
+  language:
+    - English
+    - Dutch
+  country: USA
+  imdbrating: 7.2
+  slug: meet-joe-black-1998

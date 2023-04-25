@@ -1,0 +1,33 @@
+- imdbid: tt0401398
+  type: movie
+  title: Kronk's New Groove
+  year: 2005.0
+  runtime: 75.0
+  director:
+    - Saul Blinkoff
+    - Elliot M. Bour
+  writer:
+    - Tony Leondis
+    - Michael LaBash
+    - Tom Rogers
+    - Tom Rogers
+    - Michael Lucker
+  actors:
+    - Patrick Warburton
+    - Tracey Ullman
+    - Eartha Kitt
+    - David Spade
+  genre:
+    - Animation
+    - Comedy
+    - Family
+    - Musical
+    - Romance
+    - Disney
+  plot: Kronk desperately tries to find ways to impress his dad, whom he can never please.
+    But when things go wrong, Kronk kicks into comical gear and discovers the true riches
+    in life are his friends and being 'true to your groove'.
+  language: English
+  country: USA
+  imdbrating: 5.8
+  slug: kronk-s-new-groove-2005

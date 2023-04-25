@@ -1,0 +1,27 @@
+- imdbid: tt0106632
+  type: movie
+  title: Cuisine et dépendances
+  year: 1993.0
+  runtime: 96.0
+  director: Philippe Muyl
+  writer:
+    - Jean-Pierre Bacri
+    - Jean-Pierre Bacri
+    - Agnès Jaoui
+    - Agnès Jaoui
+    - Philippe Muyl
+  actors:
+    - Jean-Pierre Bacri
+    - Laurent Benoît
+    - Zabou Breitman
+    - Jean-Pierre Darroussin
+  genre:
+    - Comedy
+    - Drama
+  plot: Martine and Jacques knew their friend before he became an important television
+    personality, but have not seen him for over ten years. They are hospitable people
+    - witness the fact that they...
+  language: French
+  country: France
+  imdbrating: 7.2
+  slug: cuisine-et-dependances-1993

@@ -1,0 +1,24 @@
+- imdbid: tt6079772
+  type: movie
+  title: The Protégé
+  year: 2021.0
+  runtime: 109.0
+  director: Martin Campbell
+  writer: Richard Wenk
+  actors:
+    - Maggie Q
+    - Samuel L. Jackson
+    - Michael Keaton
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: Rescued as a child by the legendary assassin Moody, Anna is the world's most
+    skilled contract killer. However, when Moody is brutally killed, she vows revenge
+    for the man who taught her everything she knows.
+  language: English
+  country:
+    - United States
+    - United Kingdom
+  imdbrating: 6.1
+  slug: the-protege-2021

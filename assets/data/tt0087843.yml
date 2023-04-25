@@ -1,0 +1,35 @@
+- imdbid: tt0087843
+  type: movie
+  title: Once Upon a Time in America
+  year: 1984.0
+  runtime: 229.0
+  director: Sergio Leone
+  writer:
+    - Harry Grey
+    - Leonardo Benvenuti
+    - Piero De Bernardi
+    - Enrico Medioli
+    - Franco Arcalli
+    - Franco Ferrini
+    - Sergio Leone
+    - Stuart Kaminsky
+  actors:
+    - Robert De Niro
+    - James Woods
+    - Elizabeth McGovern
+    - Treat Williams
+  genre:
+    - Crime
+    - Drama
+  plot: A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan
+    over thirty years later, where he once again must confront the ghosts and regrets
+    of his old life.
+  language:
+    - English
+    - Italian
+    - French
+  country:
+    - USA
+    - Italy
+  imdbrating: 8.4
+  slug: once-upon-a-time-in-america-1984

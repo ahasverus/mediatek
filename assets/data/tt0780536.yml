@@ -1,0 +1,26 @@
+- imdbid: tt0780536
+  type: movie
+  title: In Bruges
+  year: 2008.0
+  runtime: 107.0
+  director: Martin McDonagh
+  writer: Martin McDonagh
+  actors:
+    - Elizabeth Berrington
+    - Rudy Blomme
+    - Olivier Bonjour
+    - Mark Donovan
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+    - Thriller
+  plot: Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders
+    from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants
+    to be.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.9
+  slug: in-bruges-2008

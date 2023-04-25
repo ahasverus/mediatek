@@ -1,0 +1,24 @@
+- imdbid: tt0780571
+  type: movie
+  title: Mr. Brooks
+  year: 2007.0
+  runtime: 120.0
+  director: Bruce A. Evans
+  writer:
+    - Bruce A. Evans
+    - Raynold Gideon
+  actors:
+    - Kevin Costner
+    - Demi Moore
+    - Dane Cook
+    - William Hurt
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A well-respected businessman is sometimes controlled by his murder and mayhem-loving
+    alter ego.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: mr-brooks-2007

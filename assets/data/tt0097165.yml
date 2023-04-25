@@ -1,0 +1,23 @@
+- imdbid: tt0097165
+  type: movie
+  title: Dead Poets Society
+  year: 1989.0
+  runtime: 128.0
+  director: Peter Weir
+  writer: Tom Schulman
+  actors:
+    - Robin Williams
+    - Robert Sean Leonard
+    - Ethan Hawke
+    - Josh Charles
+  genre:
+    - Comedy
+    - Drama
+  plot: English teacher John Keating inspires his students to look at poetry with a
+    different perspective of authentic knowledge and feelings. -Camilo Alarcón
+  language:
+    - English
+    - Latin
+  country: USA
+  imdbrating: 8.1
+  slug: dead-poets-society-1989

@@ -1,0 +1,30 @@
+- imdbid: tt1446714
+  type: movie
+  title: Prometheus
+  year: 2012.0
+  runtime: 124.0
+  director: Ridley Scott
+  writer:
+    - Jon Spaihts
+    - Damon Lindelof
+    - Dan O'Bannon
+    - Ronald Shusett
+  actors:
+    - Noomi Rapace
+    - Michael Fassbender
+    - Charlize Theron
+    - Idris Elba
+  genre:
+    - Adventure
+    - Mystery
+    - Sci-Fi
+  plot: Following clues to the origin of mankind, a team finds a structure on a distant
+    moon, but they soon realize they are not alone.
+  language:
+    - English
+    - Scottish Gaelic
+  country:
+    - USA
+    - UK
+  imdbrating: 7.0
+  slug: prometheus-2012

@@ -1,0 +1,26 @@
+- imdbid: tt1343092
+  type: movie
+  title: The Great Gatsby
+  year: 2013.0
+  runtime: 143.0
+  director: Baz Luhrmann
+  writer:
+    - Baz Luhrmann
+    - Craig Pearce
+    - F. Scott Fitzgerald
+  actors:
+    - Lisa Adam
+    - Frank Aldridge
+    - Amitabh Bachchan
+    - Steve Bisley
+  genre:
+    - Drama
+    - Romance
+  plot: A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle
+    of his millionaire neighbor, Jay Gatsby.
+  language: English
+  country:
+    - Australia
+    - USA
+  imdbrating: 7.2
+  slug: the-great-gatsby-2013

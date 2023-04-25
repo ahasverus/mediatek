@@ -1,0 +1,39 @@
+- imdbid: tt0034492
+  type: movie
+  title: Bambi
+  year: 1942.0
+  runtime: 70.0
+  director:
+    - James Algar
+    - Samuel Armstrong
+    - David Hand
+    - Graham Heid
+    - Bill Roberts
+    - Paul Satterfield
+    - Norman Wright
+    - Arthur Davis
+    - Clyde Geronimi
+  writer:
+    - Felix Salten
+    - Perce Pearce
+    - Larry Morey
+    - Vernon Stallings
+    - Mel Shaw
+    - Carl Fallberg
+    - Chuck Couch
+    - Ralph Wright
+  actors:
+    - Hardie Albright
+    - Stan Alexander
+    - Bobette Audrey
+    - Peter Behn
+  genre:
+    - Animation
+    - Drama
+    - Family
+    - Disney
+  plot: The story of a young deer growing up in the forest.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: bambi-1942

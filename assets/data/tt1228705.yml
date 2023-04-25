@@ -1,0 +1,32 @@
+- imdbid: tt1228705
+  type: movie
+  title: Iron Man 2
+  year: 2010.0
+  runtime: 124.0
+  director: Jon Favreau
+  writer:
+    - Justin Theroux
+    - Stan Lee
+    - Don Heck
+    - Larry Lieber
+    - Jack Kirby
+  actors:
+    - Robert Downey Jr.
+    - Gwyneth Paltrow
+    - Don Cheadle
+    - Scarlett Johansson
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: With the world now aware of his identity as Iron Man, Tony Stark must contend
+    with both his declining health and a vengeful mad man with ties to his father's
+    legacy.
+  language:
+    - English
+    - French
+    - Russian
+  country: USA
+  imdbrating: 7.0
+  slug: iron-man-2-2010

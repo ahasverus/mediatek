@@ -1,0 +1,33 @@
+- imdbid: tt0120102
+  type: movie
+  title: Seven Years in Tibet
+  year: 1997.0
+  runtime: 136.0
+  director: Jean-Jacques Annaud
+  writer:
+    - Heinrich Harrer
+    - Becky Johnston
+  actors:
+    - Brad Pitt
+    - David Thewlis
+    - BD Wong
+    - Mako
+  genre:
+    - Adventure
+    - Biography
+    - Drama
+    - History
+    - War
+  plot: True story of Heinrich Harrer, an Austrian mountain climber who became friends
+    with the Dalai Lama at the time of China's takeover of Tibet.
+  language:
+    - English
+    - German
+    - Mandarin
+    - Tibetan
+    - Hindi
+  country:
+    - USA
+    - UK
+  imdbrating: 7.1
+  slug: seven-years-in-tibet-1997

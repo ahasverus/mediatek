@@ -1,0 +1,24 @@
+- imdbid: tt1120985
+  type: movie
+  title: Blue Valentine
+  year: 2010.0
+  runtime: 112.0
+  director: Derek Cianfrance
+  writer:
+    - Derek Cianfrance
+    - Joey Curtis
+    - Cami Delavigne
+  actors:
+    - Ryan Gosling
+    - Michelle Williams
+    - Faith Wladyka
+    - John Doman
+  genre:
+    - Drama
+    - Romance
+  plot: The relationship of a contemporary married couple, charting their evolution
+    over a span of years by cross-cutting between time periods.
+  language: English
+  country: USA
+  imdbrating: 7.4
+  slug: blue-valentine-2010

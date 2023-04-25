@@ -1,0 +1,32 @@
+- imdbid: tt0095159
+  type: movie
+  title: A Fish Called Wanda
+  year: 1988.0
+  runtime: 108.0
+  director:
+    - Charles Crichton
+    - John Cleese
+  writer:
+    - John Cleese
+    - Charles Crichton
+    - John Cleese
+  actors:
+    - John Cleese
+    - Jamie Lee Curtis
+    - Kevin Kline
+    - Michael Palin
+  genre:
+    - Comedy
+    - Crime
+  plot: In London, four very different people team up to commit armed robbery, then
+    try to doublecross each other for the loot.
+  language:
+    - English
+    - Italian
+    - Russian
+    - French
+  country:
+    - UK
+    - USA
+  imdbrating: 7.5
+  slug: a-fish-called-wanda-1988

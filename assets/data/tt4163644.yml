@@ -1,0 +1,24 @@
+- imdbid: tt4163644
+  type: movie
+  title: Comme un avion
+  year: 2015.0
+  runtime: 105.0
+  director: Bruno Podalydès
+  writer: Bruno Podalydès
+  actors:
+    - Bruno Podalydès
+    - Sandrine Kiberlain
+    - Agnès Jaoui
+    - Vimala Pons
+  genre:
+    - Comedy
+    - Drama
+  plot: Michel, a fifty year old man, graphic designer, decides to change the urban
+    lifestyle and go on an adventure. Fascinated by airmail, he dreams at Jean Mermoz
+    when he's on scooter. One day, Michel sees a picture of a kayak.
+  language:
+    - French
+    - English
+  country: France
+  imdbrating: 6.5
+  slug: comme-un-avion-2015

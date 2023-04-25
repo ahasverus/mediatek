@@ -1,0 +1,28 @@
+- imdbid: tt0339291
+  type: movie
+  title: A Series of Unfortunate Events
+  year: 2004.0
+  runtime: 108.0
+  director: Brad Silberling
+  writer:
+    - Robert Gordon
+    - Daniel Handler
+  actors:
+    - Jim Carrey
+    - Liam Aiken
+    - Emily Browning
+    - Kara Hoffman
+  genre:
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: When a massive fire kills their parents, three children are delivered to the
+    custody of cousin and stage actor Count Olaf, who is secretly plotting to steal
+    their parents' vast fortune.
+  language: English
+  country:
+    - Germany
+    - USA
+  imdbrating: 6.8
+  slug: a-series-of-unfortunate-events-2004

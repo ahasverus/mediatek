@@ -1,0 +1,32 @@
+- imdbid: tt0057546
+  type: movie
+  title: The Sword in the Stone
+  year: 1963.0
+  runtime: 79.0
+  director:
+    - Wolfgang Reitherman
+    - Clyde Geronimi
+    - David Hand
+  writer:
+    - Bill Peet
+    - T.H. White
+  actors:
+    - Sebastian Cabot
+    - Karl Swenson
+    - Rickie Sorensen
+    - Junius Matthews
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Disney
+  plot: A poor boy named Arthur learns the power of love, kindness, knowledge and bravery
+    with the help of a wizard called Merlin in the path to become one of the most beloved
+    kings in English history.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: the-sword-in-the-stone-1963

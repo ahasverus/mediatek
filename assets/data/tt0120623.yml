@@ -1,0 +1,32 @@
+- imdbid: tt0120623
+  type: movie
+  title: A Bug's Life
+  year: 1998.0
+  runtime: 95.0
+  director:
+    - John Lasseter
+    - Andrew Stanton
+  writer:
+    - John Lasseter
+    - Andrew Stanton
+    - Joe Ranft
+    - Andrew Stanton
+    - Don McEnery
+    - Bob Shaw
+  actors:
+    - Dave Foley
+    - Kevin Spacey
+    - Julia Louis-Dreyfus
+    - Hayden Panettiere
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Pixar
+  plot: A misfit ant, looking for 'warriors' to save his colony from greedy grasshoppers,
+    recruits a group of bugs that turn out to be an inept circus troupe.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: a-bug-s-life-1998

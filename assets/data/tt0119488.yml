@@ -1,0 +1,27 @@
+- imdbid: tt0119488
+  type: movie
+  title: L.A. Confidential
+  year: 1997.0
+  runtime: 138.0
+  director: Curtis Hanson
+  writer:
+    - James Ellroy
+    - Brian Helgeland
+    - Curtis Hanson
+  actors:
+    - Kevin Spacey
+    - Russell Crowe
+    - Guy Pearce
+    - James Cromwell
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: As corruption grows in 1950s Los Angeles, three policemen - one strait-laced,
+    one brutal, and one sleazy - investigate a series of murders with their own brand
+    of justice.
+  language: English
+  country: USA
+  imdbrating: 8.2
+  slug: l-a-confidential-1997

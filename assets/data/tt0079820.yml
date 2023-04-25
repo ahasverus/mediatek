@@ -1,0 +1,24 @@
+- imdbid: tt0079820
+  type: movie
+  title: The King and the Mockingbird
+  year: 1980.0
+  runtime: 83.0
+  director: Paul Grimault
+  writer:
+    - Hans Christian Andersen
+    - Jacques Prévert
+    - Paul Grimault
+  actors:
+    - Jean Martin
+    - Pascal Mazzotti
+    - Raymond Bussières
+  genre:
+    - Animation
+    - Family
+    - Fantasy
+  plot: A chimney sweep and a shepherdess seek to escape from the clutches of a tyrannical
+    king.
+  language: French
+  country: France
+  imdbrating: 7.8
+  slug: the-king-and-the-mockingbird-1980

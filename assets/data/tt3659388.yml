@@ -1,0 +1,30 @@
+- imdbid: tt3659388
+  type: movie
+  title: The Martian
+  year: 2015.0
+  runtime: 144.0
+  director: Ridley Scott
+  writer:
+    - Drew Goddard
+    - Andy Weir
+  actors:
+    - Matt Damon
+    - Jessica Chastain
+    - Kristen Wiig
+    - Jeff Daniels
+  genre:
+    - Adventure
+    - Drama
+    - Sci-Fi
+  plot: An astronaut becomes stranded on Mars after his team assume him dead, and must
+    rely on his ingenuity to find a way to signal to Earth that he is alive.
+  language:
+    - English
+    - Mandarin
+  country:
+    - UK
+    - USA
+    - Hungary
+    - Jordan
+  imdbrating: 8.0
+  slug: the-martian-2015

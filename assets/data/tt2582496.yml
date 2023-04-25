@@ -1,0 +1,24 @@
+- imdbid: tt2582496
+  type: movie
+  title: Me and Earl and the Dying Girl
+  year: 2015.0
+  runtime: 105.0
+  director: Alfonso Gomez-Rejon
+  writer:
+    - Jesse Andrews
+    - Jesse Andrews
+  actors:
+    - Thomas Mann
+    - RJ Cyler
+    - Olivia Cooke
+    - Nick Offerman
+  genre:
+    - Comedy
+    - Drama
+  plot: High schooler Greg, who spends most of his time making parodies of classic movies
+    with his co-worker Earl, finds his outlook forever altered after befriending a classmate
+    who has just been diagnosed with cancer.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: me-and-earl-and-the-dying-girl-2015

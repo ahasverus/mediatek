@@ -1,0 +1,22 @@
+- imdbid: tt1798709
+  type: movie
+  title: Her
+  year: 2013.0
+  runtime: 126.0
+  director: Spike Jonze
+  writer: Spike Jonze
+  actors:
+    - Joaquin Phoenix
+    - Lynn Adrianna Freedman
+    - Lisa Renee Pitts
+    - Gabe Gomez
+  genre:
+    - Drama
+    - Romance
+    - Sci-Fi
+  plot: In a near future, a lonely writer develops an unlikely relationship with an
+    operating system designed to meet his every need.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: her-2013

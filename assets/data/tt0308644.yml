@@ -1,0 +1,26 @@
+- imdbid: tt0308644
+  type: movie
+  title: Finding Neverland
+  year: 2004.0
+  runtime: 106.0
+  director: Marc Forster
+  writer:
+    - Allan Knee
+    - David Magee
+  actors:
+    - Johnny Depp
+    - Kate Winslet
+    - Julie Christie
+    - Radha Mitchell
+  genre:
+    - Biography
+    - Drama
+    - Family
+  plot: The story of Sir J.M. Barrie's friendship with a family who inspired him to
+    create Peter Pan.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 7.7
+  slug: finding-neverland-2004

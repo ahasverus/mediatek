@@ -1,0 +1,22 @@
+- imdbid: tt0209144
+  type: movie
+  title: Memento
+  year: 2000.0
+  runtime: 113.0
+  director: Christopher Nolan
+  writer:
+    - Christopher Nolan
+    - Jonathan Nolan
+  actors:
+    - Guy Pearce
+    - Carrie-Anne Moss
+    - Joe Pantoliano
+    - Mark Boone Junior
+  genre:
+    - Mystery
+    - Thriller
+  plot: A man with short-term memory loss attempts to track down his wife's murderer.
+  language: English
+  country: USA
+  imdbrating: 8.4
+  slug: memento-2000

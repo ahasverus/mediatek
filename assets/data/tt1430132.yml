@@ -1,0 +1,29 @@
+- imdbid: tt1430132
+  type: movie
+  title: The Wolverine
+  year: 2013.0
+  runtime: 126.0
+  director: James Mangold
+  writer:
+    - Mark Bomback
+    - Scott Frank
+  actors:
+    - Hugh Jackman
+    - Tao Okamoto
+    - Rila Fukushima
+    - Hiroyuki Sanada
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Wolverine comes to Japan to meet an old friend whose life he saved years ago,
+    and gets embroiled in a conspiracy involving yakuza and mutants.
+  language:
+    - English
+    - Japanese
+  country:
+    - USA
+    - UK
+  imdbrating: 6.7
+  slug: the-wolverine-2013

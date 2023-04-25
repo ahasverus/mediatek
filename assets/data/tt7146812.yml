@@ -1,0 +1,30 @@
+- imdbid: tt7146812
+  type: movie
+  title: Onward
+  year: 2020.0
+  runtime: 102.0
+  director: Dan Scanlon
+  writer:
+    - Dan Scanlon
+    - Keith Bunin
+    - Jason Headley
+    - Dan Scanlon
+    - Jason Headley
+    - Keith Bunin
+  actors:
+    - Tom Holland
+    - Chris Pratt
+    - Julia Louis-Dreyfus
+    - Octavia Spencer
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Pixar
+  plot: Two elven brothers embark on a quest to bring their father back for one day.
+  language: English
+  country: USA
+  imdbrating: 7.4
+  slug: onward-2020

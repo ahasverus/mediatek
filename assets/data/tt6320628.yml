@@ -1,0 +1,30 @@
+- imdbid: tt6320628
+  type: movie
+  title: 'Spider-Man: Far from Home'
+  year: 2019.0
+  runtime: 129.0
+  director: Jon Watts
+  writer:
+    - Chris McKenna
+    - Erik Sommers
+    - Stan Lee
+    - Steve Ditko
+  actors:
+    - Tom Holland
+    - Samuel L. Jackson
+    - Jake Gyllenhaal
+    - Marisa Tomei
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: 'Following the events of Avengers: Endgame (2019), Spider-Man must step up to
+    take on new threats in a world that has changed forever.'
+  language:
+    - English
+    - Italian
+    - Czech
+  country: USA
+  imdbrating: 7.5
+  slug: spider-man-far-from-home-2019

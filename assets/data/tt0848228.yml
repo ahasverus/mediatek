@@ -1,0 +1,29 @@
+- imdbid: tt0848228
+  type: movie
+  title: The Avengers
+  year: 2012.0
+  runtime: 143.0
+  director: Joss Whedon
+  writer:
+    - Joss Whedon
+    - Zak Penn
+    - Joss Whedon
+  actors:
+    - Robert Downey Jr.
+    - Chris Evans
+    - Mark Ruffalo
+    - Chris Hemsworth
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Earth's mightiest heroes must come together and learn to fight as a team if
+    they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+  language:
+    - English
+    - Russian
+    - Hindi
+  country: USA
+  imdbrating: 8.0
+  slug: the-avengers-2012

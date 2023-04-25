@@ -1,0 +1,28 @@
+- imdbid: tt0120681
+  type: movie
+  title: From Hell
+  year: 2001.0
+  runtime: 122.0
+  director:
+    - Albert Hughes
+    - Allen Hughes
+  writer:
+    - Alan Moore
+    - Eddie Campbell
+    - Terry Hayes
+    - Rafael Yglesias
+  actors:
+    - Johnny Depp
+    - Heather Graham
+    - Ian Holm
+    - Robbie Coltrane
+  genre:
+    - Horror
+    - Mystery
+    - Thriller
+  plot: In Victorian-era London, a troubled clairvoyant police detective investigates
+    the murders of Jack the Ripper.
+  language: English
+  country: USA
+  imdbrating: 6.8
+  slug: from-hell-2001

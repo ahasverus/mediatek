@@ -1,0 +1,26 @@
+- imdbid: tt0109440
+  type: movie
+  title: 'La Cité de la peur'
+  year: 1994.0
+  runtime: 93.0
+  director: Alain Berbérian
+  writer:
+    - Alain Chabat
+    - Dominique Farrugia
+    - Chantal Lauby
+  actors:
+    - Chantal Lauby
+    - Alain Chabat
+    - Dominique Farrugia
+    - Gérard Darmon
+  genre: Comedy
+  plot: A second-class horror movie has to be shown at Cannes Film Festival, but, before
+    each screening, the projectionist is killed by a mysterious fellow, with hammer
+    and sickle, just as it happens in the film to be shown.
+  language:
+    - French
+    - English
+    - Swedish
+  country: France
+  imdbrating: 7.7
+  slug: la-cite-de-la-peur-1994

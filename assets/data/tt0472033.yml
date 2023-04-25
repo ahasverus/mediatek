@@ -1,0 +1,29 @@
+- imdbid: tt0472033
+  type: movie
+  title: '9'
+  year: 2009.0
+  runtime: 79.0
+  director: Shane Acker
+  writer:
+    - Pamela Pettler
+    - Shane Acker
+  actors:
+    - Christopher Plummer
+    - Martin Landau
+    - John C. Reilly
+    - Crispin Glover
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Drama
+    - Family
+    - Horror
+    - Mystery
+    - Sci-Fi
+  plot: A rag doll that awakens in a postapocalyptic future holds the key to humanity's
+    salvation.
+  language: English
+  country: USA
+  imdbrating: 7.1
+  slug: 9-2009

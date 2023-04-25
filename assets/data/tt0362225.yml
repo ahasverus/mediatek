@@ -1,0 +1,30 @@
+- imdbid: tt0362225
+  type: movie
+  title: Tell No One
+  year: 2006.0
+  runtime: 131.0
+  director: Guillaume Canet
+  writer:
+    - Guillaume Canet
+    - Harlan Coben
+    - Philippe Lefebvre
+  actors:
+    - François Cluzet
+    - Marie-Josée Croze
+    - André Dussollier
+    - Kristin Scott Thomas
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Romance
+    - Thriller
+  plot: An accidental discovery near a doctor's estate stirs up some painful memories
+    eight years after his wife's hideous murder, and now, things are bound to take a
+    turn for the unexpected. Does the good doctor know more than he's letting on?
+  language: French
+  country:
+    - France
+    - UK
+  imdbrating: 7.5
+  slug: tell-no-one-2006

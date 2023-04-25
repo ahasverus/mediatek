@@ -1,0 +1,31 @@
+- imdbid: tt0106977
+  type: movie
+  title: The Fugitive
+  year: 1993.0
+  runtime: 130.0
+  director: Andrew Davis
+  writer:
+    - Jeb Stuart
+    - David Twohy
+    - David Twohy
+    - Roy Huggins
+  actors:
+    - Harrison Ford
+    - Tommy Lee Jones
+    - Sela Ward
+    - Julianne Moore
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real
+    killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.
+  language:
+    - English
+    - Polish
+    - Spanish
+  country: USA
+  imdbrating: 7.8
+  slug: the-fugitive-1993

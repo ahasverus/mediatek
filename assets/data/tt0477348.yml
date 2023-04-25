@@ -1,0 +1,31 @@
+- imdbid: tt0477348
+  type: movie
+  title: No Country for Old Men
+  year: 2007.0
+  runtime: 122.0
+  director:
+    - Ethan Coen
+    - Joel Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+    - Cormac McCarthy
+  actors:
+    - Tommy Lee Jones
+    - Javier Bardem
+    - Josh Brolin
+    - Woody Harrelson
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong
+    and more than two million dollars in cash near the Rio Grande.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - Mexico
+  imdbrating: 8.1
+  slug: no-country-for-old-men-2007

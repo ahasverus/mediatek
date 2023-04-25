@@ -1,0 +1,26 @@
+- imdbid: tt0458481
+  type: movie
+  title: 'Sin City: A Dame to Kill For'
+  year: 2014.0
+  runtime: 102.0
+  director:
+    - Frank Miller
+    - Robert Rodriguez
+  writer:
+    - Frank Miller
+    - Frank Miller
+  actors:
+    - Mickey Rourke
+    - Jessica Alba
+    - Josh Brolin
+    - Joseph Gordon-Levitt
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: Some of Sin City's most hard-boiled citizens cross paths with a few of its more
+    reviled inhabitants.
+  language: English
+  country: USA
+  imdbrating: 6.5
+  slug: sin-city-a-dame-to-kill-for-2014

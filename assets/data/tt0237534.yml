@@ -1,0 +1,31 @@
+- imdbid: tt0237534
+  type: movie
+  title: Le Pacte des loups
+  year: 2001.0
+  runtime: 142.0
+  director: Christophe Gans
+  writer:
+    - Stéphane Cabel
+    - Stéphane Cabel
+    - Christophe Gans
+  actors:
+    - Samuel Le Bihan
+    - Mark Dacascos
+    - Jérémie Renier
+    - Vincent Cassel
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - Horror
+    - Thriller
+  plot: In 18th-century France, the Chevalier de Fronsac and his Native American friend
+    Mani are sent to the Gevaudan province at the king's behest to investigate the killings
+    of hundreds by a mysterious beast.
+  language:
+    - French
+    - German
+    - Italian
+  country: France
+  imdbrating: 7.0
+  slug: le-pacte-des-loups-2001

@@ -1,0 +1,22 @@
+- imdbid: tt0158371
+  type: movie
+  title: Sweet and Lowdown
+  year: 1999.0
+  runtime: 95.0
+  director: Woody Allen
+  writer: Woody Allen
+  actors:
+    - Woody Allen
+    - Ben Duncan
+    - Daniel Okrent
+    - Dan Moran
+  genre:
+    - Comedy
+    - Drama
+    - Music
+  plot: In the 1930s, jazz guitarist Emmet Ray idolizes Django Reinhardt, faces gangsters
+    and falls in love with a mute woman.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: sweet-and-lowdown-1999

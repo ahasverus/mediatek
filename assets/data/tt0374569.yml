@@ -1,0 +1,31 @@
+- imdbid: tt0374569
+  type: movie
+  title: 'Che: Part Two'
+  year: 2008.0
+  runtime: 135.0
+  director: Steven Soderbergh
+  writer:
+    - Peter Buchman
+    - Benjamin A. van der Veen
+    - Ernesto 'Che' Guevara
+  actors:
+    - Demián Bichir
+    - Rodrigo Santoro
+    - Benicio Del Toro
+    - Catalina Sandino Moreno
+  genre:
+    - Biography
+    - Drama
+    - History
+    - War
+  plot: In 1967, Ernesto 'Che' Guevara leads a small partisan army to fight an ill-fated
+    revolutionary guerrilla war in Bolivia, South America.
+  language:
+    - Spanish
+    - English
+  country:
+    - Spain
+    - France
+    - USA
+  imdbrating: 6.9
+  slug: che-part-two-2008

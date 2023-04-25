@@ -1,0 +1,23 @@
+- imdbid: tt0795368
+  type: movie
+  title: Death at a Funeral
+  year: 2007.0
+  runtime: 90.0
+  director: Frank Oz
+  writer: Dean Craig
+  actors:
+    - Matthew Macfadyen
+    - Keeley Hawes
+    - Andy Nyman
+    - Ewen Bremner
+  genre: Comedy
+  plot: Chaos ensues when a man tries to expose a dark secret regarding a recently deceased
+    patriarch of a dysfunctional British family.
+  language: English
+  country:
+    - USA
+    - Germany
+    - UK
+    - Netherlands
+  imdbrating: 7.4
+  slug: death-at-a-funeral-2007

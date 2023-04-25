@@ -1,0 +1,27 @@
+- imdbid: tt0084555
+  type: movie
+  title: Le Père Noël est une ordure
+  year: 1982.0
+  runtime: 88.0
+  director: Jean-Marie Poiré
+  writer:
+    - Josiane Balasko
+    - Marie-Anne Chazel
+    - Christian Clavier
+    - Gérard Jugnot
+    - Thierry Lhermitte
+    - Bruno Moynot
+    - Jean-Marie Poiré
+  actors:
+    - Anémone
+    - Josiane Balasko
+    - Marie-Anne Chazel
+    - Christian Clavier
+  genre: Comedy
+  plot: Two neurotics, working for a suicide hotline on the night of Christmas Eve,
+    get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and
+    a transvestite visit their office.
+  language: French
+  country: France
+  imdbrating: 7.6
+  slug: santa-claus-is-a-stinker-1982

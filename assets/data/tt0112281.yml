@@ -1,0 +1,24 @@
+- imdbid: tt0112281
+  type: movie
+  title: 'Ace Ventura: When Nature Calls'
+  year: 1995.0
+  runtime: 90.0
+  director: Steve Oedekerk
+  writer:
+    - Jack Bernstein
+    - Steve Oedekerk
+  actors:
+    - Jim Carrey
+    - Ian McNeice
+    - Simon Callow
+    - Maynard Eziashi
+  genre:
+    - Adventure
+    - Comedy
+    - Crime
+  plot: Ace Ventura, Pet Detective, returns from a spiritual quest to investigate the
+    disappearance of a rare white bat, the sacred animal of a tribe in Africa.
+  language: English
+  country: USA
+  imdbrating: 6.4
+  slug: ace-ventura-when-nature-calls-1995

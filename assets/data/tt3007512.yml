@@ -1,0 +1,30 @@
+- imdbid: tt3007512
+  type: movie
+  title: The Water Diviner
+  year: 2014.0
+  runtime: 111.0
+  director: Russell Crowe
+  writer:
+    - Andrew Knight
+    - Andrew Anastasios
+  actors:
+    - Russell Crowe
+    - Olga Kurylenko
+    - Yilmaz Erdogan
+    - Cem Yilmaz
+  genre:
+    - Drama
+    - History
+    - War
+  plot: An Australian man travels to Turkey after the Battle of Gallipoli to try and
+    locate his three missing sons.
+  language:
+    - English
+    - Turkish
+    - Greek
+    - Russian
+  country:
+    - Australia
+    - USA
+  imdbrating: 7.0
+  slug: the-water-diviner-2014

@@ -1,0 +1,32 @@
+- imdbid: tt1345836
+  type: movie
+  title: The Dark Knight Rises
+  year: 2012.0
+  runtime: 164.0
+  director: Christopher Nolan
+  writer:
+    - Jonathan Nolan
+    - Christopher Nolan
+    - Christopher Nolan
+    - David S. Goyer
+    - Bob Kane
+  actors:
+    - Christian Bale
+    - Gary Oldman
+    - Tom Hardy
+    - Joseph Gordon-Levitt
+  genre:
+    - Action
+    - Adventure
+    - DC-Comics
+  plot: Eight years after the Joker's reign of anarchy, Batman, with the help of the
+    enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal
+    guerrilla terrorist Bane.
+  language:
+    - English
+    - Arabic
+  country:
+    - UK
+    - USA
+  imdbrating: 8.4
+  slug: the-dark-knight-rises-2012

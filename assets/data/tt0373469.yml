@@ -1,0 +1,27 @@
+- imdbid: tt0373469
+  type: movie
+  title: Kiss Kiss Bang Bang
+  year: 2005.0
+  runtime: 103.0
+  director: Shane Black
+  writer:
+    - Brett Halliday
+    - Shane Black
+    - Shane Black
+  actors:
+    - Robert Downey Jr.
+    - Val Kilmer
+    - Michelle Monaghan
+    - Corbin Bernsen
+  genre:
+    - Action
+    - Comedy
+    - Crime
+    - Mystery
+    - Thriller
+  plot: A murder mystery brings together a private eye, a struggling actress, and a
+    thief masquerading as an actor.
+  language: English
+  country: USA
+  imdbrating: 7.5
+  slug: kiss-kiss-bang-bang-2005

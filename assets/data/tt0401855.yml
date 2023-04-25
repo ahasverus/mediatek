@@ -1,0 +1,35 @@
+- imdbid: tt0401855
+  type: movie
+  title: 'Underworld: Evolution'
+  year: 2006.0
+  runtime: 106.0
+  director: Len Wiseman
+  writer:
+    - Danny McBride
+    - Len Wiseman
+    - Danny McBride
+    - Kevin Grevioux
+    - Len Wiseman
+    - Danny McBride
+  actors:
+    - Kate Beckinsale
+    - Scott Speedman
+    - Tony Curran
+    - Derek Jacobi
+  genre:
+    - Action
+    - Fantasy
+    - Sci-Fi
+    - Thriller
+  plot: Picking up directly from the previous movie, vampire warrior Selene and the
+    half werewolf Michael hunt for clues to reveal the history of their races and the
+    war between them.
+  language:
+    - English
+    - French
+    - Hungarian
+  country:
+    - USA
+    - Canada
+  imdbrating: 6.7
+  slug: underworld-evolution-2006

@@ -1,0 +1,24 @@
+- imdbid: tt0086969
+  type: movie
+  title: Birdy
+  year: 1984.0
+  runtime: 120.0
+  director: Alan Parker
+  writer:
+    - William Wharton
+    - Sandy Kroopf
+    - Jack Behr
+  actors:
+    - Matthew Modine
+    - Nicolas Cage
+    - John Harkins
+    - Sandy Baron
+  genre:
+    - Drama
+    - War
+  plot: After two friends return home from the Vietnam War one becomes mentally unstable
+    and obsesses with becoming a bird.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: birdy-1984

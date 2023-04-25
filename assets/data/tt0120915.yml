@@ -1,0 +1,24 @@
+- imdbid: tt0120915
+  type: movie
+  title: 'Star Wars: Episode I - The Phantom Menace'
+  year: 1999.0
+  runtime: 136.0
+  director: George Lucas
+  writer: George Lucas
+  actors:
+    - Liam Neeson
+    - Ewan McGregor
+    - Natalie Portman
+    - Jake Lloyd
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+  plot: Two Jedi escape a hostile blockade to find allies and come across a young boy
+    who may bring balance to the Force, but the long dormant Sith resurface to claim
+    their old glory.
+  language: English
+  country: USA
+  imdbrating: 6.5
+  slug: star-wars-episode-i-the-phantom-menace-1999

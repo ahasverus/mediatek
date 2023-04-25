@@ -1,0 +1,51 @@
+- imdbid: tt0120855
+  type: movie
+  title: Tarzan
+  year: 1999.0
+  runtime: 88.0
+  director:
+    - Chris Buck
+    - Kevin Lima
+  writer:
+    - Tab Murphy
+    - Bob Tzudiker
+    - Noni White
+    - Stephen J. Anderson
+    - Mark Kennedy
+    - Carole Holliday
+    - Gaëtan Brizzi
+    - Paul Brizzi
+    - Don Dougherty
+    - Ed Gombert
+    - Randy Haycock
+    - Don Hall
+    - Kevin Harkey
+    - Glen Keane
+    - Burny Mattinson
+    - Frank Nissen
+    - John Norton
+    - Jeff Snow
+    - Michael Surrey
+    - Chris Ure
+    - Mark Walton
+    - Stevie Wermers
+    - Kelly Wightman
+    - John Ramirez
+    - Edgar Rice Burroughs
+  actors:
+    - Brian Blessed
+    - Glenn Close
+    - Minnie Driver
+    - Tony Goldwyn
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Romance
+    - Disney
+  plot: A man raised by gorillas must decide where he really belongs when he discovers
+    he is a human.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: tarzan-1999

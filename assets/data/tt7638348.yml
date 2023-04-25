@@ -1,0 +1,24 @@
+- imdbid: tt7638348
+  type: movie
+  title: Boss Level
+  year: 2020.0
+  runtime: 100.0
+  director: Joe Carnahan
+  writer:
+    - Chris Borey
+    - Eddie Borey
+    - Joe Carnahan
+  actors:
+    - Frank Grillo
+    - Mel Gibson
+    - Naomi Watts
+  genre:
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: Trapped in a time loop that constantly repeats the day of his murder, a former
+    special forces agent must unlock the mystery behind his untimely demise.
+  language: English
+  country: United States
+  imdbrating: 6.8
+  slug: boss-level-2020

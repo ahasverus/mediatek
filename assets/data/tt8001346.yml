@@ -1,0 +1,38 @@
+- imdbid: tt8001346
+  type: movie
+  title: 'Astérix: Le Secret de la potion magique'
+  year: 2018.0
+  runtime: 87.0
+  director:
+    - Alexandre Astier
+    - Louis Clichy
+  writer:
+    - René Goscinny
+    - Albert Uderzo
+    - Alexandre Astier
+    - Alexandre Astier
+    - Louis Clichy
+    - Joël Savdie
+    - Mariette Kelley
+  actors:
+    - Christian Clavier
+    - Guillaume Briat
+    - Alex Lutz
+    - Alexandre Astier
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Getafix/Panoramix decides it's time to pass the magic potion recipe on to a
+    young, trustworthy druid. He looks all over Gaul with Asterix and Obelix as Demonix
+    is out to get the recipe.
+  language:
+    - French
+    - Latin
+  country:
+    - France
+    - Belgium
+  imdbrating: 6.7
+  slug: asterix-le-secret-de-la-potion-magique-2018

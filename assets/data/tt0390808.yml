@@ -1,0 +1,30 @@
+- imdbid: tt0390808
+  type: movie
+  title: 36 Quai des orfèvres
+  year: 2004.0
+  runtime: 111.0
+  director: Olivier Marchal
+  writer:
+    - Olivier Marchal
+    - Franck Mancuso
+    - Julien Rappeneau
+    - Dominique Loiseau
+    - Olivier Marchal
+    - Olivier Marchal
+  actors:
+    - Daniel Auteuil
+    - Gérard Depardieu
+    - André Dussollier
+    - Roschdy Zem
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: 2 cops are promised by the retiring chief of the Paris police that the one,
+    getting the violent gang robbing armored trucks, will get his job. The 2 will do
+    whatever it takes to get the promotion, even if it means breaking the law.
+  language: French
+  country: France
+  imdbrating: 7.1
+  slug: 36th-precinct-2004

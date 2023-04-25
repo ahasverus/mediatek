@@ -1,0 +1,29 @@
+- imdbid: tt7713068
+  type: movie
+  title: 'Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn'
+  year: 2020.0
+  runtime: 109.0
+  director: Cathy Yan
+  writer:
+    - Christina Hodson
+    - Paul Dini
+    - Bruce Timm
+  actors:
+    - Margot Robbie
+    - Rosie Perez
+    - Mary Elizabeth Winstead
+    - Jurnee Smollett
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Crime
+    - DC-Comics
+  plot: After splitting with the Joker, Harley Quinn joins superheroes Black Canary,
+    Huntress and Renee Montoya to save a young girl from an evil crime lord.
+  language:
+    - English
+    - Chinese
+  country: USA
+  imdbrating: 6.1
+  slug: birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn-2020

@@ -1,0 +1,36 @@
+- imdbid: tt0097757
+  type: movie
+  title: The Little Mermaid
+  year: 1989.0
+  runtime: 83.0
+  director:
+    - Ron Clements
+    - John Musker
+  writer:
+    - John Musker
+    - Ron Clements
+    - Hans Christian Andersen
+    - Howard Ashman
+    - Gerrit Graham
+    - Sam Graham
+    - Chris Hubbell
+  actors:
+    - Rene Auberjonois
+    - Christopher Daniel Barnes
+    - Jodi Benson
+    - Pat Carroll
+  genre:
+    - Animation
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: A mermaid princess makes a Faustian bargain in an attempt to become human and
+    win a prince's love.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 7.6
+  slug: the-little-mermaid-1989

@@ -1,0 +1,29 @@
+- imdbid: tt1741542
+  type: movie
+  title: Les Lyonnais
+  year: 2011.0
+  runtime: 102.0
+  director: Olivier Marchal
+  writer:
+    - Olivier Marchal
+    - Edgar Marie
+    - Olivier Marchal
+    - Edmond Vidal
+    - Edgar Marie
+  actors:
+    - Gérard Lanvin
+    - Tchéky Karyo
+    - Daniel Duval
+    - Lionnel Astier
+  genre:
+    - Drama
+    - Thriller
+  plot: After growing up in a poor gypsy camp, Edmond Vidal, aka Momon, has retained
+    a sense of family, unfailing loyalty and pride in his origins. Most of all, he has
+    remained friends with Serge ...
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.0
+  slug: les-lyonnais-2011

@@ -1,0 +1,31 @@
+- imdbid: tt1126590
+  type: movie
+  title: Big Eyes
+  year: 2014.0
+  runtime: 106.0
+  director: Tim Burton
+  writer:
+    - Scott Alexander
+    - Larry Karaszewski
+  actors:
+    - Amy Adams
+    - Christoph Waltz
+    - Danny Huston
+    - Krysten Ritter
+  genre:
+    - Biography
+    - Crime
+    - Drama
+    - Romance
+  plot: A drama about the awakening of painter Margaret Keane, her phenomenal success
+    in the 1950s, and the subsequent legal difficulties she had with her husband, who
+    claimed credit for her works in the 1960s.
+  language:
+    - English
+    - French
+    - Italian
+  country:
+    - USA
+    - Canada
+  imdbrating: 7.0
+  slug: big-eyes-2014

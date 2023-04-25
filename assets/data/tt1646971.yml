@@ -1,0 +1,27 @@
+- imdbid: tt1646971
+  type: movie
+  title: How to Train Your Dragon 2
+  year: 2014.0
+  runtime: 102.0
+  director: Dean DeBlois
+  writer:
+    - Dean DeBlois
+    - Cressida Cowell
+  actors:
+    - Jay Baruchel
+    - Cate Blanchett
+    - Gerard Butler
+    - Craig Ferguson
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Family
+    - Fantasy
+  plot: When Hiccup and Toothless discover an ice cave that is home to hundreds of new
+    wild dragons and the mysterious Dragon Rider, the two friends find themselves at
+    the center of a battle to protect the peace.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: how-to-train-your-dragon-2-2014

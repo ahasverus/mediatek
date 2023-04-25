@@ -1,0 +1,31 @@
+- imdbid: tt2527338
+  type: movie
+  title: 'Star Wars: Episode IX - The Rise of Skywalker'
+  year: 2019.0
+  runtime: 142.0
+  director: J.J. Abrams
+  writer:
+    - Chris Terrio
+    - J.J. Abrams
+    - Derek Connolly
+    - Colin Trevorrow
+    - Chris Terrio
+    - J.J. Abrams
+    - George Lucas
+  actors:
+    - Carrie Fisher
+    - Mark Hamill
+    - Adam Driver
+    - Daisy Ridley
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+  plot: The surviving members of the resistance face the First Order once again, and
+    the legendary conflict between the Jedi and the Sith reaches its peak bringing the
+    Skywalker saga to its end.
+  language: English
+  country: USA
+  imdbrating: 6.7
+  slug: star-wars-episode-ix-the-rise-of-skywalker-2019

@@ -1,0 +1,26 @@
+- imdbid: tt1285016
+  type: movie
+  title: The Social Network
+  year: 2010.0
+  runtime: 120.0
+  director: David Fincher
+  writer:
+    - Aaron Sorkin
+    - Ben Mezrich
+  actors:
+    - Jesse Eisenberg
+    - Rooney Mara
+    - Bryan Barter
+    - Dustin Fitzsimons
+  genre:
+    - Biography
+    - Drama
+  plot: As Harvard student Mark Zuckerberg creates the social networking site that would
+    become known as Facebook, he is sued by the twins who claimed he stole their idea,
+    and by the co-founder who was later squeezed out of the business.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 7.7
+  slug: the-social-network-2010

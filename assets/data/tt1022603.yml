@@ -1,0 +1,27 @@
+- imdbid: tt1022603
+  type: movie
+  title: 500 Days of Summer
+  year: 2009.0
+  runtime: 95.0
+  director: Marc Webb
+  writer:
+    - Scott Neustadter
+    - Michael H. Weber
+  actors:
+    - Joseph Gordon-Levitt
+    - Zooey Deschanel
+    - Geoffrey Arend
+    - Chloë Grace Moretz
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: An offbeat romantic comedy about a woman who doesn't believe true love exists,
+    and the young man who falls for her.
+  language:
+    - English
+    - French
+    - Swedish
+  country: USA
+  imdbrating: 7.7
+  slug: 500-days-of-summer-2009

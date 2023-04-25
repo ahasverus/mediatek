@@ -1,0 +1,28 @@
+- imdbid: tt0317248
+  type: movie
+  title: Cidade de Deus
+  year: 2002.0
+  runtime: 130.0
+  director:
+    - Fernando Meirelles
+    - Kátia Lund
+  writer:
+    - Paulo Lins
+    - Bráulio Mantovani
+  actors:
+    - Alexandre Rodrigues
+    - Leandro Firmino
+    - Phellipe Haagensen
+    - Douglas Silva
+  genre:
+    - Crime
+    - Drama
+  plot: In the slums of Rio, two kids' paths diverge as one struggles to become a photographer
+    and the other a kingpin.
+  language: Portuguese
+  country:
+    - Brazil
+    - France
+    - Germany
+  imdbrating: 8.6
+  slug: cidade-de-deus-2002

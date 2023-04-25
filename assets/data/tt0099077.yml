@@ -1,0 +1,23 @@
+- imdbid: tt0099077
+  type: movie
+  title: Awakenings
+  year: 1990.0
+  runtime: 121.0
+  director: Penny Marshall
+  writer:
+    - Oliver Sacks
+    - Steven Zaillian
+  actors:
+    - Robert De Niro
+    - Robin Williams
+    - Julie Kavner
+    - Ruth Nelson
+  genre:
+    - Biography
+    - Drama
+  plot: The victims of an encephalitis epidemic many years ago have been catatonic ever
+    since, but now a new drug offers the prospect of reviving them.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: awakenings-1990

@@ -1,0 +1,29 @@
+- imdbid: tt6710474
+  type: movie
+  title: Everything Everywhere All at Once
+  year: 2022.0
+  runtime: 139.0
+  director:
+    - Dan Kwan
+    - Daniel Scheinert
+  writer:
+    - Dan Kwan
+    - Daniel Scheinert
+  actors:
+    - Michelle Yeoh
+    - Stephanie Hsu
+    - Jamie Lee Curtis
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+  plot: An aging Chinese immigrant is swept up in an insane adventure, in which she
+    alone can save the world by exploring other universes connecting with the lives
+    she could have led.
+  language:
+    - English
+    - Mandarin
+    - Cantonese
+  country: United States
+  imdbrating: 8.1
+  slug: everything-everywhere-all-at-once-2022

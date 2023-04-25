@@ -1,0 +1,32 @@
+- imdbid: tt0138704
+  type: movie
+  title: Pi
+  year: 1998.0
+  runtime: 84.0
+  director: Darren Aronofsky
+  writer:
+    - Darren Aronofsky
+    - Darren Aronofsky
+    - Sean Gullette
+    - Eric Watson
+    - Darren Aronofsky
+    - Sean Gullette
+  actors:
+    - Sean Gullette
+    - Mark Margolis
+    - Ben Shenkman
+    - Pamela Hart
+  genre:
+    - Drama
+    - Horror
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: A paranoid mathematician searches for a key number that will unlock the universal
+    patterns found in nature.
+  language:
+    - English
+    - Hebrew
+  country: USA
+  imdbrating: 7.4
+  slug: pi-1998

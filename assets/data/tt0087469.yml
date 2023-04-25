@@ -1,0 +1,28 @@
+- imdbid: tt0087469
+  type: movie
+  title: Indiana Jones and the Temple of Doom
+  year: 1984.0
+  runtime: 118.0
+  director: Steven Spielberg
+  writer:
+    - Willard Huyck
+    - Gloria Katz
+    - George Lucas
+  actors:
+    - Harrison Ford
+    - Kate Capshaw
+    - Ke Huy Quan
+    - Amrish Puri
+  genre:
+    - Action
+    - Adventure
+  plot: In 1935, Indiana Jones arrives in India, still part of the British Empire, and
+    is asked to find a mystical stone. He then stumbles upon a secret cult committing
+    enslavement and human sacrifices in the catacombs of an ancient palace.
+  language:
+    - English
+    - Sinhalese
+    - Hindi
+  country: USA
+  imdbrating: 7.6
+  slug: indiana-jones-and-the-temple-of-doom-1984

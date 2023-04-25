@@ -1,0 +1,23 @@
+- imdbid: tt0086250
+  type: movie
+  title: Scarface
+  year: 1983.0
+  runtime: 170.0
+  director: Brian De Palma
+  writer: Oliver Stone
+  actors:
+    - Al Pacino
+    - Steven Bauer
+    - Michelle Pfeiffer
+    - Mary Elizabeth Mastrantonio
+  genre:
+    - Crime
+    - Drama
+  plot: In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs
+    to greed.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 8.3
+  slug: scarface-1983

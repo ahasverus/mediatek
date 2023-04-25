@@ -1,0 +1,27 @@
+- imdbid: tt2798920
+  type: movie
+  title: Annihilation
+  year: 2018.0
+  runtime: 115.0
+  director: Alex Garland
+  writer:
+    - Alex Garland
+    - Jeff VanderMeer
+  actors:
+    - Natalie Portman
+    - Benedict Wong
+    - Sonoya Mizuno
+    - David Gyasi
+  genre:
+    - Adventure
+    - Drama
+    - Horror
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: A biologist signs up for a dangerous, secret expedition into a mysterious zone
+    where the laws of nature don't apply.
+  language: English
+  country: UK
+  imdbrating: 6.8
+  slug: annihilation-2018

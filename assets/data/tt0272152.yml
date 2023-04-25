@@ -1,0 +1,26 @@
+- imdbid: tt0272152
+  type: movie
+  title: K-PAX
+  year: 2001.0
+  runtime: 120.0
+  director: Iain Softley
+  writer:
+    - Gene Brewer
+    - Charles Leavitt
+  actors:
+    - Kevin Spacey
+    - Jeff Bridges
+    - Mary McCormack
+    - Alfre Woodard
+  genre:
+    - Drama
+    - Sci-Fi
+  plot: PROT is a patient at a mental hospital who claims to be from a far away planet
+    named K PAX. His psychiatrist tries to help him, only to begin to doubt his own
+    explanations.
+  language: English
+  country:
+    - USA
+    - Germany
+  imdbrating: 7.4
+  slug: k-pax-2001

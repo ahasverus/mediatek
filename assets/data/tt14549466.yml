@@ -1,0 +1,25 @@
+- imdbid: tt14549466
+  type: movie
+  title: Crimes of the Future
+  year: 2022.0
+  runtime: 107.0
+  director: David Cronenberg
+  writer: David Cronenberg
+  actors:
+    - Viggo Mortensen
+    - Léa Seydoux
+    - Kristen Stewart
+  genre:
+    - Drama
+    - Horror
+    - Sci-Fi
+  plot: Humans adapt to a synthetic environment, with new transformations and mutations.
+    With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases
+    the metamorphosis of his organs in avant-garde performances.
+  language: English
+  country:
+    - Canada
+    - Greece
+    - United Kingdom
+  imdbrating: 5.9
+  slug: crimes-of-the-future-2022

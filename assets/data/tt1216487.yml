@@ -1,0 +1,33 @@
+- imdbid: tt1216487
+  type: movie
+  title: "Millénium 2 : La Fille qui rêvait d'un bidon d'essence et d'une allumette"
+  year: 2009.0
+  runtime: 129.0
+  director: Daniel Alfredson
+  writer:
+    - Jonas Frykberg
+    - Stieg Larsson
+  actors:
+    - Michael Nyqvist
+    - Noomi Rapace
+    - Lena Endre
+    - Peter Andersson
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: As computer hacker Lisbeth and journalist Mikael investigate a sex-trafficking
+    ring, Lisbeth is accused of three murders, causing her to go on the run while Mikael
+    works to clear her name.
+  language:
+    - Swedish
+    - Italian
+    - English
+    - French
+  country:
+    - Sweden
+    - Denmark
+    - Germany
+  imdbrating: 7.2
+  slug: millenium-2-la-fille-qui-revait-d-un-bidon-d-essence-et-d-une-allumette-2009

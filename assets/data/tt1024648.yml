@@ -1,0 +1,31 @@
+- imdbid: tt1024648
+  type: movie
+  title: Argo
+  year: 2012.0
+  runtime: 120.0
+  director: Ben Affleck
+  writer:
+    - Chris Terrio
+    - Tony Mendez
+    - Joshuah Bearman
+  actors:
+    - Ben Affleck
+    - Bryan Cranston
+    - Alan Arkin
+    - John Goodman
+  genre:
+    - Biography
+    - Drama
+    - Thriller
+  plot: Acting under the cover of a Hollywood producer scouting a location for a science
+    fiction film, a CIA agent launches a dangerous operation to rescue six Americans
+    in Tehran during the U.S. hostage crisis in Iran in 1979.
+  language:
+    - English
+    - Persian
+    - Arabic
+  country:
+    - USA
+    - UK
+  imdbrating: 7.7
+  slug: argo-2012

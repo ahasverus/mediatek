@@ -1,0 +1,24 @@
+- imdbid: tt0032553
+  type: movie
+  title: The Great Dictator
+  year: 1940.0
+  runtime: 125.0
+  director: Charles Chaplin
+  writer: Charles Chaplin
+  actors:
+    - Charles Chaplin
+    - Jack Oakie
+    - Reginald Gardiner
+    - Henry Daniell
+  genre:
+    - Comedy
+    - Drama
+    - War
+  plot: Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber
+    tries to avoid persecution from Hynkel's regime.
+  language:
+    - English
+    - Esperanto
+  country: USA
+  imdbrating: 8.4
+  slug: the-great-dictator-1940

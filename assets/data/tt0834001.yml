@@ -1,0 +1,32 @@
+- imdbid: tt0834001
+  type: movie
+  title: 'Underworld: Rise of the Lycans'
+  year: 2009.0
+  runtime: 92.0
+  director: Patrick Tatopoulos
+  writer:
+    - Danny McBride
+    - Dirk Blackman
+    - Howard McCain
+    - Len Wiseman
+    - Robert Orr
+    - Danny McBride
+    - Kevin Grevioux
+    - Len Wiseman
+    - Danny McBride
+  actors:
+    - Michael Sheen
+    - Bill Nighy
+    - Rhona Mitra
+    - Steven Mackintosh
+  genre:
+    - Action
+    - Fantasy
+  plot: An origins story centered on the centuries-old feud between the race of aristocratic
+    vampires and their onetime slaves, the Lycans.
+  language: English
+  country:
+    - USA
+    - New Zealand
+  imdbrating: 6.6
+  slug: underworld-rise-of-the-lycans-2009

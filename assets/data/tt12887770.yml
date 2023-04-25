@@ -1,0 +1,23 @@
+- imdbid: tt12887770
+  type: movie
+  title: Some Like It Rare
+  year: 2021.0
+  runtime: 87.0
+  director: Fabrice Eboué
+  writer:
+    - Fabrice Eboué
+    - Vincent Solignac
+  actors:
+    - Marina Foïs
+    - Fabrice Eboué
+    - Jean-François Cayrey
+  genre:
+    - Comedy
+    - Horror
+  plot: Pascal and his wife Sophie have been running a small local butcher's shop for
+    about twenty years. Sophie stands with great love for her customers at the cash
+    register and Vincent cuts the carefully selected meat with just as much lov
+  language: French
+  country: France
+  imdbrating: 6.7
+  slug: some-like-it-rare-2021

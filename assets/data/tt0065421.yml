@@ -1,0 +1,35 @@
+- imdbid: tt0065421
+  type: movie
+  title: The Aristocats
+  year: 1970.0
+  runtime: 78.0
+  director: Wolfgang Reitherman
+  writer:
+    - Larry Clemmons
+    - Vance Gerry
+    - Ken Anderson
+    - Frank Thomas
+    - Eric Cleworth
+    - Julius Svendsen
+    - Ralph Wright
+    - Tom McGowan
+    - Tom Rowe
+  actors:
+    - Phil Harris
+    - Eva Gabor
+    - Sterling Holloway
+    - Scatman Crothers
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Musical
+    - Disney
+  plot: With the help of a smooth talking tomcat, a family of Parisian felines set to
+    inherit a fortune from their owner try to make it back home after a jealous butler
+    kidnaps them and leaves them in the country.
+  language: English
+  country: USA
+  imdbrating: 7.1
+  slug: the-aristocats-1970

@@ -1,0 +1,35 @@
+- imdbid: tt0413267
+  type: movie
+  title: Shrek the Third
+  year: 2007.0
+  runtime: 93.0
+  director:
+    - Chris Miller
+    - Raman Hui
+  writer:
+    - Jeffrey Price
+    - Peter S. Seaman
+    - Chris Miller
+    - Aron Warner
+    - Andrew Adamson
+    - William Steig
+  actors:
+    - Mike Myers
+    - Eddie Murphy
+    - Cameron Diaz
+    - Antonio Banderas
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: When his new father-in-law, King Harold falls ill, Shrek is looked at as the
+    heir to the land of Far, Far Away. Not one to give up his beloved swamp, Shrek recruits
+    his friends Donkey and Puss in Boots to install the rebellious Artie as the new
+    king. Princess Fiona, however, rallies a band of royal girlfriends to fend off a
+    coup d'etat by the jilted Prince Charming.
+  language: English
+  country: USA
+  imdbrating: 6.1
+  slug: shrek-the-third-2007

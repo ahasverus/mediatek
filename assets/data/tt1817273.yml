@@ -1,0 +1,30 @@
+- imdbid: tt1817273
+  type: movie
+  title: The Place Beyond the Pines
+  year: 2012.0
+  runtime: 140.0
+  director: Derek Cianfrance
+  writer:
+    - Derek Cianfrance
+    - Ben Coccio
+    - Derek Cianfrance
+    - Ben Coccio
+    - Darius Marder
+  actors:
+    - Ryan Gosling
+    - Craig Van Hook
+    - Eva Mendes
+    - Olga Merediz
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A motorcycle stunt rider turns to robbing banks as a way to provide for his
+    lover and their newborn child, a decision that puts him on a collision course with
+    an ambitious rookie cop navigating a department ruled by a corrupt detective.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.3
+  slug: the-place-beyond-the-pines-2012

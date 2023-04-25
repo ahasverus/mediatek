@@ -1,0 +1,28 @@
+- imdbid: tt5113040
+  type: movie
+  title: The Secret Life of Pets 2
+  year: 2019.0
+  runtime: 86.0
+  director:
+    - Chris Renaud
+    - Jonathan del Val
+  writer: Brian Lynch
+  actors:
+    - Patton Oswalt
+    - Kevin Hart
+    - Harrison Ford
+    - Eric Stonestreet
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+  plot: Continuing the story of Max and his pet friends, following their secret lives
+    after their owners leave them for work or school each day.
+  language: English
+  country:
+    - USA
+    - France
+    - Japan
+  imdbrating: 6.5
+  slug: the-secret-life-of-pets-2-2019

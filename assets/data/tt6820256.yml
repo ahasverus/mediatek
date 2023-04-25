@@ -1,0 +1,25 @@
+- imdbid: tt6820256
+  type: movie
+  title: Arctic
+  year: 2018.0
+  runtime: 98.0
+  director: Joe Penna
+  writer:
+    - Joe Penna
+    - Ryan Morrison
+  actors:
+    - Mads Mikkelsen
+    - Maria Thelma Smáradóttir
+    - Tintrinai Thikhasuk
+  genre:
+    - Adventure
+    - Drama
+  plot: A man stranded in the Arctic after a plane crash must decide whether to remain
+    in the relative safety of his makeshift camp or to embark on a deadly trek through
+    the unknown.
+  language:
+    - English
+    - Danish
+  country: Iceland
+  imdbrating: 6.8
+  slug: arctic-2018

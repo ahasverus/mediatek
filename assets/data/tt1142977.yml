@@ -1,0 +1,27 @@
+- imdbid: tt1142977
+  type: movie
+  title: Frankenweenie
+  year: 2012.0
+  runtime: 87.0
+  director: Tim Burton
+  writer:
+    - Leonard Ripps
+    - Tim Burton
+    - John August
+  actors:
+    - Catherine O'Hara
+    - Martin Short
+    - Martin Landau
+    - Charlie Tahan
+  genre:
+    - Animation
+    - Comedy
+    - Family
+    - Horror
+    - Sci-Fi
+  plot: When a boy's beloved dog passes away suddenly, he attempts to bring the animal
+    back to life through a powerful science experiment.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: frankenweenie-2012

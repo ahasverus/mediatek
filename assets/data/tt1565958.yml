@@ -1,0 +1,26 @@
+- imdbid: tt1565958
+  type: movie
+  title: Les Emotifs anonymes
+  year: 2010.0
+  runtime: 80.0
+  director: Jean-Pierre Améris
+  writer:
+    - Jean-Pierre Améris
+    - Philippe Blasband
+  actors:
+    - Benoît Poelvoorde
+    - Isabelle Carré
+    - Lorella Cravotta
+    - Lise Lamétrie
+  genre:
+    - Comedy
+    - Romance
+  plot: What happens when a man and a woman share a common passion? They fall in love.
+    And this is what happens to Jean-René, the boss of a small chocolate factory, and
+    Angélique, a gifted ...
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 6.9
+  slug: les-emotifs-anonymes-2010

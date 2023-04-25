@@ -1,0 +1,27 @@
+- imdbid: tt8946378
+  type: movie
+  title: Knives Out
+  year: 2019.0
+  runtime: 130.0
+  director: Rian Johnson
+  writer: Rian Johnson
+  actors:
+    - Daniel Craig
+    - Chris Evans
+    - Ana de Armas
+    - Jamie Lee Curtis
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: A detective investigates the death of a patriarch of an eccentric, combative
+    family.
+  language:
+    - English
+    - Spanish
+    - Hindi
+  country: USA
+  imdbrating: 7.9
+  slug: knives-out-2019

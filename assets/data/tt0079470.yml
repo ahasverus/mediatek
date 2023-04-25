@@ -1,0 +1,27 @@
+- imdbid: tt0079470
+  type: movie
+  title: Monty Python's Life of Brian
+  year: 1979.0
+  runtime: 94.0
+  director: Terry Jones
+  writer:
+    - Graham Chapman
+    - John Cleese
+    - Terry Gilliam
+    - Eric Idle
+    - Terry Jones
+    - Michael Palin
+  actors:
+    - Graham Chapman
+    - John Cleese
+    - Terry Gilliam
+    - Eric Idle
+  genre: Comedy
+  plot: Born on the original Christmas in the stable next door to Jesus Christ, Brian
+    of Nazareth (Graham Chapman) spends his life being mistaken for a messiah.
+  language:
+    - English
+    - Latin
+  country: UK
+  imdbrating: 8.1
+  slug: monty-python-s-life-of-brian-1979

@@ -1,0 +1,25 @@
+- imdbid: tt3778644
+  type: movie
+  title: 'Solo: A Star Wars Story'
+  year: 2018.0
+  runtime: 135.0
+  director: Ron Howard
+  writer:
+    - Jonathan Kasdan
+    - Lawrence Kasdan
+    - George Lucas
+  actors:
+    - Alden Ehrenreich
+    - Joonas Suotamo
+    - Woody Harrelson
+    - Emilia Clarke
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: During an adventure into the criminal underworld, Han Solo meets his future
+    co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: solo-a-star-wars-story-2018

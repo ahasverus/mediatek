@@ -1,0 +1,28 @@
+- imdbid: tt0116367
+  type: movie
+  title: From Dusk Till Dawn
+  year: 1996.0
+  runtime: 108.0
+  director: Robert Rodriguez
+  writer:
+    - Robert Kurtzman
+    - Quentin Tarantino
+  actors:
+    - George Clooney
+    - Quentin Tarantino
+    - Harvey Keitel
+    - Juliette Lewis
+  genre:
+    - Action
+    - Crime
+    - Horror
+  plot: Two criminals and their hostages unknowingly seek temporary refuge in a truck
+    stop populated by vampires, with chaotic results.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - Mexico
+  imdbrating: 7.2
+  slug: from-dusk-till-dawn-1996

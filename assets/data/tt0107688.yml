@@ -1,0 +1,26 @@
+- imdbid: tt0107688
+  type: movie
+  title: The Nightmare Before Christmas
+  year: 1993.0
+  runtime: 76.0
+  director: Henry Selick
+  writer:
+    - Tim Burton
+    - Michael McDowell
+    - Caroline Thompson
+  actors:
+    - Danny Elfman
+    - Chris Sarandon
+    - Catherine O'Hara
+    - William Hickey
+  genre:
+    - Animation
+    - Family
+    - Fantasy
+    - Musical
+  plot: Jack Skellington, king of Halloween Town, discovers Christmas Town, but his
+    attempts to bring Christmas to his home causes confusion.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: the-nightmare-before-christmas-1993

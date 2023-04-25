@@ -1,0 +1,35 @@
+- imdbid: tt1298650
+  type: movie
+  title: 'Pirates of the Caribbean: On Stranger Tides'
+  year: 2011.0
+  runtime: 136.0
+  director: Rob Marshall
+  writer:
+    - Ted Elliott
+    - Terry Rossio
+    - Ted Elliott
+    - Terry Rossio
+    - Ted Elliott
+    - Terry Rossio
+    - Stuart Beattie
+    - Jay Wolpert
+    - Tim Powers
+  actors:
+    - Johnny Depp
+    - Penélope Cruz
+    - Geoffrey Rush
+    - Ian McShane
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: Jack Sparrow and Barbossa embark on a quest to find the elusive fountain of
+    youth, only to discover that Blackbeard and his daughter are after it too.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - UK
+  imdbrating: 6.6
+  slug: pirates-of-the-caribbean-on-stranger-tides-2011

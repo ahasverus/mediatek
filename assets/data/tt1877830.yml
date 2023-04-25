@@ -1,0 +1,25 @@
+- imdbid: tt1877830
+  type: movie
+  title: The Batman
+  year: 2022.0
+  runtime: 176.0
+  director: Matt Reeves
+  writer:
+    - Matt Reeves
+    - Peter Craig
+    - Bill Finger
+  actors:
+    - Robert Pattinson
+    - Zoë Kravitz
+    - Jeffrey Wright
+  genre:
+    - Action
+    - Crime
+    - Drama
+  plot: When the Riddler, a sadistic serial killer, begins murdering key political figures
+    in Gotham, Batman is forced to investigate the city's hidden corruption and question
+    his family's involvement.
+  language: English
+  country: United States
+  imdbrating: 8.3
+  slug: the-batman-2022

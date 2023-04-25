@@ -1,0 +1,24 @@
+- imdbid: tt0120907
+  type: movie
+  title: eXistenZ
+  year: 1999.0
+  runtime: 97.0
+  director: David Cronenberg
+  writer: David Cronenberg
+  actors:
+    - Jude Law
+    - Jennifer Jason Leigh
+    - Ian Holm
+  genre:
+    - Horror
+    - Mystery
+    - Sci-Fi
+  plot: A game designer on the run from assassins must play her latest virtual reality
+    creation with a marketing trainee to determine if the game has been damaged.
+  language: English
+  country:
+    - Canada
+    - United Kingdom
+    - France
+  imdbrating: 6.8
+  slug: existenz-1999

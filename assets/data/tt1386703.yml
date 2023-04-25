@@ -1,0 +1,46 @@
+- imdbid: tt1386703
+  type: movie
+  title: Total Recall
+  year: 2012.0
+  runtime: 118.0
+  director: Len Wiseman
+  writer:
+    - Kurt Wimmer
+    - Mark Bomback
+    - Ronald Shusett
+    - Dan O'Bannon
+    - Jon Povill
+    - Kurt Wimmer
+    - Ronald Shusett (based on the motion picture "Total Recall"
+    - screenplay by)
+    - Dan O'Bannon (based on the motion picture "Total Recall"
+    - screenplay by)
+    - Gary Goldman (based on the motion picture "Total Recall"
+    - screenplay by)
+    - Ronald Shusett (based on the motion picture "Total Recall"
+    - screen story by)
+    - Dan O'Bannon (based on the motion picture "Total Recall"
+    - screen story by)
+    - Jon Povill (based on the motion picture "Total Recall"
+    - screen story by)
+  actors:
+    - Colin Farrell
+    - Kate Beckinsale
+    - Jessica Biel
+    - Bryan Cranston
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: A factory worker, Douglas Quaid, begins to suspect that he is a spy after visiting
+    Rekall - a company that provides its clients with implanted fake memories of a life
+    they would like to have led - goes wrong and he finds himself on the run.
+  language:
+    - English
+    - Ukrainian
+  country:
+    - USA
+    - Canada
+  imdbrating: 6.3
+  slug: total-recall-2012

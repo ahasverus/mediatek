@@ -1,0 +1,24 @@
+- imdbid: tt2763304
+  type: movie
+  title: T2 Trainspotting
+  year: 2017.0
+  runtime: 117.0
+  director: Danny Boyle
+  writer:
+    - John Hodge
+    - Irvine Welsh
+  actors:
+    - Ewan McGregor
+    - Logan Gillies
+    - Ben Skelton
+    - Aiden Haggarty
+  genre: Drama
+  plot: After 20 years abroad, Mark Renton returns to Scotland and reunites with his
+    old friends Sick Boy, Spud, and Begbie.
+  language:
+    - English
+    - Bulgarian
+    - Scots
+  country: UK
+  imdbrating: 7.2
+  slug: t2-trainspotting-2017

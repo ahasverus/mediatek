@@ -1,0 +1,36 @@
+- imdbid: tt5431890
+  type: movie
+  title: Official Secrets
+  year: 2019.0
+  runtime: 112.0
+  director: Gavin Hood
+  writer:
+    - Sara Bernstein
+    - Gregory Bernstein
+    - Gavin Hood
+    - Marcia Mitchell
+    - Thomas Mitchell
+  actors:
+    - Keira Knightley
+    - Matt Smith
+    - Matthew Goode
+    - Rhys Ifans
+  genre:
+    - Biography
+    - Crime
+    - Drama
+    - Thriller
+    - War
+  plot: The true story of a British whistleblower who leaked information to the press
+    about an illegal NSA spy operation designed to push the UN Security Council into
+    sanctioning the 2003 invasion of Iraq.
+  language:
+    - English
+    - Mandarin
+  country:
+    - UK
+    - USA
+    - Switzerland
+    - China
+  imdbrating: 7.3
+  slug: official-secrets-2019

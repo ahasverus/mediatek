@@ -1,0 +1,41 @@
+- imdbid: tt0109162
+  type: movie
+  title: Astérix et les indiens
+  year: 1994.0
+  runtime: 85.0
+  director: Gerhard Hahn
+  writer:
+    - René Goscinny
+    - Albert Uderzo
+    - Albert Uderzo
+    - Pierre Tchernia
+    - Thomas Platt
+    - Gerhard Hahn
+    - Robin Lyons
+    - Andrew Offiler
+    - Bill Speers
+  actors:
+    - Roger Carel
+    - Pierre Tornade
+    - Henri Labussière
+    - François Chaix
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Western
+  plot: Caesar has had enough when another legion is hacked to pieces by the damned
+    single indomitable village in Gaul because of the druid's magic potion, so he decides
+    to tackle the problem at ...
+  language:
+    - English
+    - French
+    - German
+  country:
+    - Germany
+    - France
+    - Spain
+  imdbrating: 6.0
+  slug: asterix-et-les-indiens-1994

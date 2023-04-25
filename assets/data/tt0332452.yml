@@ -1,0 +1,26 @@
+- imdbid: tt0332452
+  type: movie
+  title: Troy
+  year: 2004.0
+  runtime: 163.0
+  director: Wolfgang Petersen
+  writer:
+    - Homer
+    - David Benioff
+  actors:
+    - Julian Glover
+    - Brian Cox
+    - Nathan Jones
+    - Adoni Maropis
+  genre:
+    - Drama
+    - History
+  plot: An adaptation of Homer's great epic, the film follows the assault on Troy by
+    the united Greek forces and chronicles the fates of the men involved.
+  language: English
+  country:
+    - USA
+    - Malta
+    - UK
+  imdbrating: 7.2
+  slug: troy-2004

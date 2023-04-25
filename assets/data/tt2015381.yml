@@ -1,0 +1,36 @@
+- imdbid: tt2015381
+  type: movie
+  title: Guardians of the Galaxy
+  year: 2014.0
+  runtime: 121.0
+  director: James Gunn
+  writer:
+    - James Gunn
+    - Nicole Perlman
+    - Dan Abnett
+    - Andy Lanning
+    - Bill Mantlo
+    - Keith Giffen
+    - 'Jim Starlin (characters created by: Drax the Destroyer'
+    - Gamora & Thanos)
+    - Steve Englehart
+    - Steve Gan
+    - Steve Gerber
+    - Val Mayerik
+  actors:
+    - Chris Pratt
+    - Zoe Saldana
+    - Dave Bautista
+    - Vin Diesel
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Sci-Fi
+    - Marvel
+  plot: A group of intergalactic criminals must pull together to stop a fanatical warrior
+    with plans to purge the universe.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: guardians-of-the-galaxy-2014

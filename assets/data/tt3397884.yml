@@ -1,0 +1,29 @@
+- imdbid: tt3397884
+  type: movie
+  title: Sicario
+  year: 2015.0
+  runtime: 121.0
+  director: Denis Villeneuve
+  writer: Taylor Sheridan
+  actors:
+    - Emily Blunt
+    - Benicio Del Toro
+    - Josh Brolin
+    - Victor Garber
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: An idealistic FBI agent is enlisted by a government task force to aid in the
+    escalating war against drugs at the border area between the U.S. and Mexico.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - Mexico
+    - Hong Kong
+  imdbrating: 7.6
+  slug: sicario-2015

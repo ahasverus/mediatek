@@ -1,0 +1,29 @@
+- imdbid: tt0416449
+  type: movie
+  title: '300'
+  year: 2006.0
+  runtime: 117.0
+  director: Zack Snyder
+  writer:
+    - Zack Snyder
+    - Kurt Johnstad
+    - Michael B. Gordon
+    - Frank Miller
+    - Lynn Varley
+  actors:
+    - Gerard Butler
+    - Lena Headey
+    - Dominic West
+    - David Wenham
+  genre:
+    - Action
+    - Drama
+  plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae
+    in 480 B.C.
+  language: English
+  country:
+    - USA
+    - Canada
+    - Bulgaria
+  imdbrating: 7.6
+  slug: 300-2006

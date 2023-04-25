@@ -1,0 +1,33 @@
+- imdbid: tt5580390
+  type: movie
+  title: The Shape of Water
+  year: 2017.0
+  runtime: 123.0
+  director: Guillermo del Toro
+  writer:
+    - Guillermo del Toro
+    - Vanessa Taylor
+    - Guillermo del Toro
+  actors:
+    - Sally Hawkins
+    - Michael Shannon
+    - Richard Jenkins
+    - Octavia Spencer
+  genre:
+    - Adventure
+    - Drama
+    - Fantasy
+    - Romance
+    - Thriller
+  plot: At a top secret research facility in the 1960s, a lonely janitor forms a unique
+    relationship with an amphibious creature that is being held in captivity.
+  language:
+    - English
+    - American Sign Language
+    - Russian
+    - French
+  country:
+    - USA
+    - Canada
+  imdbrating: 7.3
+  slug: the-shape-of-water-2017

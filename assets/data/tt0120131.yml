@@ -1,0 +1,40 @@
+- imdbid: tt0120131
+  type: movie
+  title: 'The Lion King 2: Simba''s Pride'
+  year: 1998.0
+  runtime: 81.0
+  director:
+    - Darrell Rooney
+    - Rob LaDuca
+  writer:
+    - Flip Kobler
+    - Cindy Marcus
+    - Jenny Wingfield
+    - Linda Voorhees
+    - Gregory Poirier
+    - Bill Motz
+    - Bob Roth
+    - Mark McCorkle
+    - Robert Schooley
+    - Jonathan Cuba
+  actors:
+    - Matthew Broderick
+    - Neve Campbell
+    - Andy Dick
+    - Robert Guillaume
+  genre:
+    - Animation
+    - Adventure
+    - Drama
+    - Family
+    - Musical
+    - Romance
+    - Disney
+  plot: Simba's daughter is the key to a resolution of a bitter feud between Simba's
+    pride and the outcast pride led by the mate of Scar.
+  language: English
+  country:
+    - USA
+    - Australia
+  imdbrating: 6.5
+  slug: the-lion-king-2-simba-s-pride-1998

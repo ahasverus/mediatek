@@ -1,0 +1,25 @@
+- imdbid: tt0105236
+  type: movie
+  title: Reservoir Dogs
+  year: 1992.0
+  runtime: 99.0
+  director: Quentin Tarantino
+  writer:
+    - Quentin Tarantino
+    - Quentin Tarantino
+    - Roger Avary
+  actors:
+    - Harvey Keitel
+    - Tim Roth
+    - Michael Madsen
+    - Chris Penn
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: When a simple jewelry heist goes horribly wrong, the surviving criminals begin
+    to suspect that one of them is a police informant.
+  language: English
+  country: USA
+  imdbrating: 8.3
+  slug: reservoir-dogs-1992

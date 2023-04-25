@@ -1,0 +1,29 @@
+- imdbid: tt0401085
+  type: movie
+  title: C.R.A.Z.Y.
+  year: 2005.0
+  runtime: 127.0
+  director: Jean-Marc Vallée
+  writer:
+    - François Boulay
+    - Jean-Marc Vallée
+  actors:
+    - Michel Côté
+    - Marc-André Grondin
+    - Danielle Proulx
+    - Émile Vallée
+  genre:
+    - Comedy
+    - Drama
+  plot: A young French-Canadian, growing up in the 1960s and 1970s, struggles to reconcile
+    his emerging homosexuality with his father's conservative values and his own Catholic
+    beliefs.
+  language:
+    - French
+    - English
+    - German
+    - Spanish
+    - Polish
+  country: Canada
+  imdbrating: 7.9
+  slug: crazy-2005

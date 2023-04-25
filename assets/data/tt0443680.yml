@@ -1,0 +1,32 @@
+- imdbid: tt0443680
+  type: movie
+  title: The Assassination of Jesse James by the Coward Robert Ford
+  year: 2007.0
+  runtime: 160.0
+  director: Andrew Dominik
+  writer:
+    - Andrew Dominik
+    - Ron Hansen
+  actors:
+    - Brad Pitt
+    - Mary-Louise Parker
+    - Brooklynn Proulx
+    - Dustin Bollinger
+  genre:
+    - Biography
+    - Crime
+    - Drama
+    - History
+    - Western
+  plot: Robert Ford, who's idolized Jesse James since childhood, tries hard to join
+    the reforming gang of the Missouri outlaw, but gradually becomes resentful of the
+    bandit leader.
+  language:
+    - English
+    - Danish
+  country:
+    - USA
+    - Canada
+    - UK
+  imdbrating: 7.5
+  slug: the-assassination-of-jesse-james-by-the-coward-robert-ford-2007

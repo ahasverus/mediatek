@@ -1,0 +1,29 @@
+- imdbid: tt0070511
+  type: movie
+  title: Papillon
+  year: 1973.0
+  runtime: 151.0
+  director: Franklin J. Schaffner
+  writer:
+    - Dalton Trumbo
+    - Lorenzo Semple Jr.
+    - Henri Charrière
+  actors:
+    - Steve McQueen
+    - Dustin Hoffman
+    - Victor Jory
+    - Don Gordon
+  genre:
+    - Biography
+    - Crime
+    - Drama
+  plot: A man befriends a fellow criminal as the two of them begin serving their sentence
+    on a dreadful prison island, which inspires the man to plot his escape.
+  language:
+    - English
+    - Spanish
+  country:
+    - France
+    - USA
+  imdbrating: 8.0
+  slug: papillon-1973

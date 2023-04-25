@@ -1,0 +1,24 @@
+- imdbid: tt9620292
+  type: movie
+  title: Promising Young Woman
+  year: 2020.0
+  runtime: 113.0
+  director: Emerald Fennell
+  writer: Emerald Fennell
+  actors:
+    - Adam Brody
+    - Ray Nicholson
+    - Sam Richardson
+    - Carey Mulligan
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A young woman, traumatized by a tragic event in her past, seeks out vengeance
+    against those who crossed her path.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.5
+  slug: promising-young-woman-2020

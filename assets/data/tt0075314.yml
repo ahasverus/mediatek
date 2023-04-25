@@ -1,0 +1,24 @@
+- imdbid: tt0075314
+  type: movie
+  title: Taxi Driver
+  year: 1976.0
+  runtime: 114.0
+  director: Martin Scorsese
+  writer: Paul Schrader
+  actors:
+    - Diahnne Abbott
+    - Frank Adu
+    - Victor Argo
+    - Gino Ardito
+  genre:
+    - Crime
+    - Drama
+  plot: A mentally unstable veteran works as a nighttime taxi driver in New York City,
+    where the perceived decadence and sleaze fuels his urge for violent action by attempting
+    to liberate a presidential campaign worker and an underage prostitute.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 8.3
+  slug: taxi-driver-1976

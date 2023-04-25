@@ -1,0 +1,28 @@
+- imdbid: tt0374583
+  type: movie
+  title: Comme une image
+  year: 2004.0
+  runtime: 110.0
+  director: Agnès Jaoui
+  writer:
+    - Agnès Jaoui
+    - Jean-Pierre Bacri
+  actors:
+    - Marilou Berry
+    - Agnès Jaoui
+    - Jean-Pierre Bacri
+    - Laurent Grévill
+  genre:
+    - Comedy
+    - Drama
+    - Music
+  plot: A french girl gifted with a great voice, has a complex about her weight and
+    her appearance.
+  language:
+    - French
+    - Italian
+  country:
+    - France
+    - Italy
+  imdbrating: 6.9
+  slug: comme-une-image-2004

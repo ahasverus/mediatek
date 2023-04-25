@@ -1,0 +1,24 @@
+- imdbid: tt0075686
+  type: movie
+  title: Annie Hall
+  year: 1977.0
+  runtime: 93.0
+  director: Woody Allen
+  writer:
+    - Woody Allen
+    - Marshall Brickman
+  actors:
+    - Woody Allen
+    - Diane Keaton
+    - Tony Roberts
+    - Carol Kane
+  genre:
+    - Comedy
+    - Romance
+  plot: Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.
+  language:
+    - English
+    - German
+  country: USA
+  imdbrating: 8.0
+  slug: annie-hall-1977

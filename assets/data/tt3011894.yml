@@ -1,0 +1,28 @@
+- imdbid: tt3011894
+  type: movie
+  title: Relatos salvajes
+  year: 2014.0
+  runtime: 122.0
+  director: Damián Szifron
+  writer:
+    - Germán Servidio
+    - Damián Szifron
+  actors:
+    - Darío Grandinetti
+    - María Marull
+    - Mónica Villa
+    - Diego Starosta
+  genre:
+    - Comedy
+    - Drama
+    - Thriller
+  plot: Six short stories that explore the extremities of human behavior involving people
+    in distress.
+  language: Spanish
+  country:
+    - Argentina
+    - Spain
+    - France
+    - UK
+  imdbrating: 8.1
+  slug: relatos-salvajes-2014

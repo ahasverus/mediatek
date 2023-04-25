@@ -1,0 +1,33 @@
+- imdbid: tt0398286
+  type: movie
+  title: Tangled
+  year: 2010.0
+  runtime: 100.0
+  director:
+    - Nathan Greno
+    - Byron Howard
+  writer:
+    - Dan Fogelman
+    - Jacob Grimm
+    - Wilhelm Grimm
+  actors:
+    - Mandy Moore
+    - Zachary Levi
+    - Donna Murphy
+    - Ron Perlman
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: The magically long-haired Rapunzel has spent her entire life in a tower, but
+    now that a runaway thief has stumbled upon her, she is about to discover the world
+    for the first time, and who she really is.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: tangled-2010

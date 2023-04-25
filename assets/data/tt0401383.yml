@@ -1,0 +1,27 @@
+- imdbid: tt0401383
+  type: movie
+  title: Le Scaphandre et le Papillon
+  year: 2007.0
+  runtime: 112.0
+  director:
+    - Julian Schnabel
+    - Laura Obiols
+  writer:
+    - Ronald Harwood
+    - Jean-Dominique Bauby
+  actors:
+    - Mathieu Amalric
+    - Emmanuelle Seigner
+    - Marie-Josée Croze
+    - Anne Consigny
+  genre:
+    - Biography
+    - Drama
+  plot: The true story of Elle editor Jean-Dominique Bauby who suffers a stroke and
+    has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.
+  language: French
+  country:
+    - France
+    - USA
+  imdbrating: 8.0
+  slug: le-scaphandre-et-le-papillon-2007

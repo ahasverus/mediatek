@@ -1,0 +1,24 @@
+- imdbid: tt0109830
+  type: movie
+  title: Forrest Gump
+  year: 1994.0
+  runtime: 142.0
+  director: Robert Zemeckis
+  writer:
+    - Winston Groom
+    - Eric Roth
+  actors:
+    - Tom Hanks
+    - Rebecca Williams
+    - Sally Field
+    - Michael Conner Humphreys
+  genre:
+    - Drama
+    - Romance
+  plot: The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and
+    other historical events unfold through the perspective of an Alabama man with an
+    IQ of 75, whose only desire is to be reunited with his childhood sweetheart.
+  language: English
+  country: USA
+  imdbrating: 8.8
+  slug: forrest-gump-1994

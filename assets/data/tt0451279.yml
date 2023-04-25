@@ -1,0 +1,43 @@
+- imdbid: tt0451279
+  type: movie
+  title: Wonder Woman
+  year: 2017.0
+  runtime: 141.0
+  director: Patty Jenkins
+  writer:
+    - Allan Heinberg
+    - Zack Snyder
+    - Allan Heinberg
+    - Jason Fuchs
+    - William Moulton Marston
+  actors:
+    - Gal Gadot
+    - Chris Pine
+    - Connie Nielsen
+    - Robin Wright
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+    - War
+    - DC-Comics
+  plot: When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian
+    warrior in training, leaves home to fight a war, discovering her full powers and
+    true destiny.
+  language:
+    - English
+    - German
+    - Dutch
+    - French
+    - Spanish
+    - Chinese
+    - Greek
+    - Ancient
+    - North American Indian
+  country:
+    - USA
+    - China
+    - Hong Kong
+  imdbrating: 7.4
+  slug: wonder-woman-2017

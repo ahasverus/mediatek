@@ -1,0 +1,30 @@
+- imdbid: tt1772341
+  type: movie
+  title: Wreck-It Ralph
+  year: 2012.0
+  runtime: 101.0
+  director: Rich Moore
+  writer:
+    - Rich Moore
+    - Phil Johnston
+    - Jim Reardon
+    - Phil Johnston
+    - Jennifer Lee
+  actors:
+    - John C. Reilly
+    - Sarah Silverman
+    - Jack McBrayer
+    - Jane Lynch
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Disney
+  plot: A video game villain wants to be a hero and sets out to fulfill his dream, but
+    his quest brings havoc to the whole arcade where he lives.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: wreck-it-ralph-2012

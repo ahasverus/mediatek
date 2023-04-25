@@ -1,0 +1,36 @@
+- imdbid: tt0454876
+  type: movie
+  title: Life of Pi
+  year: 2012.0
+  runtime: 127.0
+  director: Ang Lee
+  writer:
+    - Yann Martel
+    - David Magee
+  actors:
+    - Suraj Sharma
+    - Irrfan Khan
+    - Ayush Tandon
+    - Gautam Belur
+  genre:
+    - Adventure
+    - Drama
+    - Fantasy
+  plot: 'A young man who survives a disaster at sea is hurtled into an epic journey
+    of adventure and discovery. While cast away, he forms an unexpected connection with
+    another survivor: a fearsome Bengal tiger.'
+  language:
+    - Arabic
+    - English
+    - Tamil
+    - French
+    - Japanese
+    - Hindi
+    - Chinese
+  country:
+    - USA
+    - Taiwan
+    - UK
+    - Canada
+  imdbrating: 7.9
+  slug: life-of-pi-2012

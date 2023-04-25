@@ -1,0 +1,29 @@
+- imdbid: tt1170358
+  type: movie
+  title: 'The Hobbit 2: The Desolation of Smaug'
+  year: 2013.0
+  runtime: 161.0
+  director: Peter Jackson
+  writer:
+    - Fran Walsh
+    - Philippa Boyens
+    - Peter Jackson
+    - Guillermo del Toro
+    - J.R.R. Tolkien
+  actors:
+    - Ian McKellen
+    - Martin Freeman
+    - Richard Armitage
+    - Ken Stott
+  genre:
+    - Adventure
+    - Fantasy
+  plot: The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest
+    to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of
+    a mysterious and magical ring.
+  language: English
+  country:
+    - New Zealand
+    - USA
+  imdbrating: 7.8
+  slug: the-hobbit-2-the-desolation-of-smaug-2013

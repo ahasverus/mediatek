@@ -1,0 +1,26 @@
+- imdbid: tt0096764
+  type: movie
+  title: The Adventures of Baron Munchausen
+  year: 1988.0
+  runtime: 126.0
+  director: Terry Gilliam
+  writer:
+    - Charles McKeown
+    - Terry Gilliam
+  actors:
+    - John Neville
+    - Eric Idle
+    - Sarah Polley
+    - Oliver Reed
+  genre:
+    - Adventure
+    - Comedy
+    - Fantasy
+  plot: An account of Baron Munchausen's supposed travels and fantastical experiences
+    with his band of misfits.
+  language: English
+  country:
+    - UK
+    - West Germany
+  imdbrating: 7.2
+  slug: the-adventures-of-baron-munchausen-1988

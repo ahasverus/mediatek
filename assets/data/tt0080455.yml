@@ -1,0 +1,26 @@
+- imdbid: tt0080455
+  type: movie
+  title: The Blues Brothers
+  year: 1980.0
+  runtime: 133.0
+  director: John Landis
+  writer:
+    - Dan Aykroyd
+    - John Landis
+  actors:
+    - Tom Erhart
+    - Gerald Walling
+    - John Belushi
+    - Walter Levine
+  genre:
+    - Adventure
+    - Comedy
+    - Crime
+    - Music
+    - Musical
+  plot: Jake Blues, just released from prison, puts together his old band to save the
+    Catholic home where he and his brother Elwood were raised.
+  language: English
+  country: USA
+  imdbrating: 7.9
+  slug: the-blues-brothers-1980

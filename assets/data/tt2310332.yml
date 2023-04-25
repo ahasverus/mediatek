@@ -1,0 +1,28 @@
+- imdbid: tt2310332
+  type: movie
+  title: 'The Hobbit 3: The Battle of the Five Armies'
+  year: 2014.0
+  runtime: 144.0
+  director: Peter Jackson
+  writer:
+    - Fran Walsh
+    - Philippa Boyens
+    - Peter Jackson
+    - Guillermo del Toro
+    - J.R.R. Tolkien
+  actors:
+    - Ian McKellen
+    - Martin Freeman
+    - Richard Armitage
+    - Ken Stott
+  genre:
+    - Adventure
+    - Fantasy
+  plot: Bilbo and company are forced to engage in a war against an array of combatants
+    and keep the Lonely Mountain from falling into the hands of a rising darkness.
+  language: English
+  country:
+    - New Zealand
+    - USA
+  imdbrating: 7.4
+  slug: the-hobbit-3-the-battle-of-the-five-armies-2014

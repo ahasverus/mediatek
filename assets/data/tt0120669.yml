@@ -1,0 +1,27 @@
+- imdbid: tt0120669
+  type: movie
+  title: Fear and Loathing in Las Vegas
+  year: 1998.0
+  runtime: 118.0
+  director: Terry Gilliam
+  writer:
+    - Hunter S. Thompson
+    - Terry Gilliam
+    - Tony Grisoni
+    - Tod Davies
+    - Alex Cox
+  actors:
+    - Johnny Depp
+    - Benicio Del Toro
+    - Tobey Maguire
+    - Michael Lee Gogin
+  genre:
+    - Adventure
+    - Comedy
+    - Drama
+  plot: An oddball journalist and his psychopathic lawyer travel to Las Vegas for a
+    series of psychedelic escapades.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: fear-and-loathing-in-las-vegas-1998

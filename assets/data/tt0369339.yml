@@ -1,0 +1,26 @@
+- imdbid: tt0369339
+  type: movie
+  title: Collateral
+  year: 2004.0
+  runtime: 120.0
+  director: Michael Mann
+  writer: Stuart Beattie
+  actors:
+    - Tom Cruise
+    - Jamie Foxx
+    - Jada Pinkett Smith
+    - Mark Ruffalo
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A cab driver finds himself the hostage of an engaging contract killer as he
+    makes his rounds from hit to hit during one night in Los Angeles.
+  language:
+    - English
+    - Spanish
+    - French
+    - Korean
+  country: USA
+  imdbrating: 7.5
+  slug: collateral-2004

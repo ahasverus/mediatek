@@ -1,0 +1,28 @@
+- imdbid: tt1800241
+  type: movie
+  title: American Hustle
+  year: 2013.0
+  runtime: 138.0
+  director: David O. Russell
+  writer:
+    - Eric Warren Singer
+    - David O. Russell
+  actors:
+    - Christian Bale
+    - Bradley Cooper
+    - Amy Adams
+    - Jeremy Renner
+  genre:
+    - Crime
+    - Drama
+  plot: A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser,
+    is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a
+    world of Jersey powerbrokers and the Mafia.
+  language:
+    - English
+    - Arabic
+  country:
+    - USA
+    - China
+  imdbrating: 7.2
+  slug: american-hustle-2013

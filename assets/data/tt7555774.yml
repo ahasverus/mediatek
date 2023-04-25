@@ -1,0 +1,25 @@
+- imdbid: tt7555774
+  type: movie
+  title: En guerre
+  year: 2018.0
+  runtime: 113.0
+  director: Stéphane Brizé
+  writer:
+    - Ralph Blindauer
+    - Stéphane Brizé
+    - Olivier Gorce
+    - Olivier Lemaire
+    - Xavier Mathieu
+  actors:
+    - Vincent Lindon
+    - Mélanie Rover
+    - Jacques Borderie
+    - David Rey
+  genre: Drama
+  plot: After promising 1100 employees that they would protect their jobs, the managers
+    of a factory decide to suddenly close up shop. Laurent takes the lead in a fight
+    against this decision.
+  language: French
+  country: France
+  imdbrating: 6.8
+  slug: en-guerre-2018

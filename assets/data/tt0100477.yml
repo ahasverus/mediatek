@@ -1,0 +1,35 @@
+- imdbid: tt0100477
+  type: movie
+  title: The Rescuers Down Under
+  year: 1990.0
+  runtime: 77.0
+  director:
+    - Hendel Butoy
+    - Mike Gabriel
+  writer:
+    - Jim Cox
+    - Karey Kirkpatrick
+    - Byron Simpson
+    - Joe Ranft
+    - Joe Ranft
+    - Margery Sharp
+  actors:
+    - Bob Newhart
+    - Eva Gabor
+    - John Candy
+    - Tristan Rogers
+  genre:
+    - Animation
+    - Adventure
+    - Crime
+    - Drama
+    - Family
+    - Fantasy
+    - Mystery
+    - Disney
+  plot: The R.A.S. agents, Miss Bianca and Bernard, race to Australia to save a little
+    boy and a rare golden eagle from a murderous poacher.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: the-rescuers-down-under-1990

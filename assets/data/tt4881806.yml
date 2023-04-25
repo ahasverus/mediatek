@@ -1,0 +1,27 @@
+- imdbid: tt4881806
+  type: movie
+  title: 'Jurassic World: Fallen Kingdom'
+  year: 2018.0
+  runtime: 128.0
+  director: J.A. Bayona
+  writer:
+    - Derek Connolly
+    - Colin Trevorrow
+    - Michael Crichton
+  actors:
+    - Chris Pratt
+    - Bryce Dallas Howard
+    - Rafe Spall
+    - Justice Smith
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: When the island's dormant volcano begins roaring to life, Owen and Claire mount
+    a campaign to rescue the remaining dinosaurs from this extinction-level event.
+  language:
+    - English
+    - Russian
+  country: USA
+  imdbrating: 6.2
+  slug: jurassic-world-fallen-kingdom-2018

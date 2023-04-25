@@ -1,0 +1,35 @@
+- imdbid: tt5095030
+  type: movie
+  title: Ant-Man and the Wasp
+  year: 2018.0
+  runtime: 118.0
+  director: Peyton Reed
+  writer:
+    - Chris McKenna
+    - Erik Sommers
+    - Paul Rudd
+    - Andrew Barrer
+    - Gabriel Ferrari
+    - Stan Lee
+    - Larry Lieber
+    - Jack Kirby
+  actors:
+    - Paul Rudd
+    - Evangeline Lilly
+    - Michael Peña
+    - Walton Goggins
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Sci-Fi
+    - Marvel
+  plot: As Scott Lang balances being both a superhero and a father, Hope van Dyne and
+    Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside
+    The Wasp to uncover secrets from their past.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.1
+  slug: ant-man-and-the-wasp-2018

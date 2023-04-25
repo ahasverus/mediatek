@@ -1,0 +1,29 @@
+- imdbid: tt0110413
+  type: movie
+  title: Léon
+  year: 1994.0
+  runtime: 110.0
+  director: Luc Besson
+  writer: Luc Besson
+  actors:
+    - Jean Reno
+    - Gary Oldman
+    - Natalie Portman
+    - Danny Aiello
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional
+    assassin, after her family is murdered. An unusual relationship forms as she becomes
+    his protégée and learns the assassin's trade.
+  language:
+    - English
+    - Italian
+    - French
+  country:
+    - France
+    - USA
+  imdbrating: 8.5
+  slug: leon-1994

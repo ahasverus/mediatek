@@ -1,0 +1,36 @@
+- imdbid: tt0112682
+  type: movie
+  title: La Cité des enfants perdus
+  year: 1995.0
+  runtime: 112.0
+  director:
+    - Marc Caro
+    - Jean-Pierre Jeunet
+  writer:
+    - Gilles Adrien
+    - Jean-Pierre Jeunet
+    - Marc Caro
+    - Gilles Adrien
+    - Guillaume Laurant
+    - Jean-Pierre Jeunet
+  actors:
+    - Ron Perlman
+    - Daniel Emilfork
+    - Judith Vittet
+    - Dominique Pinon
+  genre:
+    - Fantasy
+    - Sci-Fi
+  plot: A scientist in a surrealist society kidnaps children to steal their dreams,
+    hoping that they slow his aging process.
+  language:
+    - French
+    - Cantonese
+  country:
+    - France
+    - Germany
+    - Spain
+    - Belgium
+    - USA
+  imdbrating: 7.5
+  slug: la-cite-des-enfants-perdus-1995

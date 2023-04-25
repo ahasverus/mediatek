@@ -1,0 +1,29 @@
+- imdbid: tt0163025
+  type: movie
+  title: Jurassic Park III
+  year: 2001.0
+  runtime: 92.0
+  director: Joe Johnston
+  writer:
+    - Michael Crichton
+    - Peter Buchman
+    - Alexander Payne
+    - Jim Taylor
+  actors:
+    - Sam Neill
+    - William H. Macy
+    - Téa Leoni
+    - Alessandro Nivola
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: A decidedly odd couple with ulterior motives convince Dr. Grant to go to Isla
+    Sorna for a holiday, but their unexpected landing startles the island's new inhabitants.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 5.9
+  slug: jurassic-park-iii-2001

@@ -1,0 +1,27 @@
+- imdbid: tt0145487
+  type: movie
+  title: Spider-Man
+  year: 2002.0
+  runtime: 121.0
+  director: Sam Raimi
+  writer:
+    - Stan Lee
+    - Steve Ditko
+    - David Koepp
+  actors:
+    - Tobey Maguire
+    - Willem Dafoe
+    - Kirsten Dunst
+    - James Franco
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: When bitten by a genetically modified spider, a nerdy, shy, and awkward high
+    school student gains spider-like abilities that he eventually must use to fight
+    evil as a superhero after tragedy befalls his family.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: spider-man-2002

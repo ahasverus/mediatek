@@ -1,0 +1,27 @@
+- imdbid: tt0107048
+  type: movie
+  title: Groundhog Day
+  year: 1993.0
+  runtime: 101.0
+  director: Harold Ramis
+  writer:
+    - Danny Rubin
+    - Harold Ramis
+    - Danny Rubin
+  actors:
+    - Bill Murray
+    - Andie MacDowell
+    - Chris Elliott
+    - Stephen Tobolowsky
+  genre:
+    - Comedy
+    - Fantasy
+    - Romance
+  plot: A weatherman finds himself inexplicably living the same day over and over again.
+  language:
+    - English
+    - French
+    - Italian
+  country: USA
+  imdbrating: 8.0
+  slug: groundhog-day-1993

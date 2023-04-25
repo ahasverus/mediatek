@@ -1,0 +1,40 @@
+- imdbid: tt0298148
+  type: movie
+  title: Shrek 2
+  year: 2004.0
+  runtime: 93.0
+  director:
+    - Andrew Adamson
+    - Kelly Asbury
+    - Conrad Vernon
+  writer:
+    - William Steig
+    - Andrew Adamson
+    - Andrew Adamson
+    - Joe Stillman
+    - J. David Stem
+    - David N. Weiss
+    - Cody Cameron
+    - Walt Dohrn
+    - Chris Miller
+    - David P. Smith
+    - Conrad Vernon
+  actors:
+    - Mike Myers
+    - Eddie Murphy
+    - Cameron Diaz
+    - Julie Andrews
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Romance
+  plot: Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents
+    are King and Queen, to celebrate their marriage. When they arrive, they find they
+    are not as welcome as they thought they would be.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: shrek-2-2004

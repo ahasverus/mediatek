@@ -1,0 +1,31 @@
+- imdbid: tt6938828
+  type: movie
+  title: At Eternity's Gate
+  year: 2018.0
+  runtime: 111.0
+  director: Julian Schnabel
+  writer:
+    - Jean-Claude Carrière
+    - Julian Schnabel
+    - Louise Kugelberg
+  actors:
+    - Willem Dafoe
+    - Rupert Friend
+    - Oscar Isaac
+    - Mads Mikkelsen
+  genre:
+    - Biography
+    - Drama
+  plot: A look at the life of painter Vincent van Gogh during the time he lived in Arles
+    and Auvers-sur-Oise, France.
+  language:
+    - English
+    - French
+  country:
+    - Ireland
+    - Switzerland
+    - UK
+    - France
+    - USA
+  imdbrating: 6.9
+  slug: at-eternity-s-gate-2018

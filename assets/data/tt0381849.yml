@@ -1,0 +1,30 @@
+- imdbid: tt0381849
+  type: movie
+  title: 3:10 to Yuma
+  year: 2007.0
+  runtime: 122.0
+  director: James Mangold
+  writer:
+    - Halsted Welles
+    - Michael Brandt
+    - Derek Haas
+    - Elmore Leonard
+  actors:
+    - Russell Crowe
+    - Christian Bale
+    - Logan Lerman
+    - Dallas Roberts
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Western
+  plot: A small-time rancher agrees to hold a captured outlaw who's awaiting a train
+    to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out
+    the rancher.
+  language:
+    - English
+    - Chinese
+  country: USA
+  imdbrating: 7.7
+  slug: 3-10-to-yuma-2007

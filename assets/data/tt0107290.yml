@@ -1,0 +1,29 @@
+- imdbid: tt0107290
+  type: movie
+  title: Jurassic Park
+  year: 1993.0
+  runtime: 127.0
+  director: Steven Spielberg
+  writer:
+    - Michael Crichton
+    - Michael Crichton
+    - David Koepp
+  actors:
+    - Sam Neill
+    - Laura Dern
+    - Jeff Goldblum
+    - Richard Attenborough
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: A pragmatic paleontologist visiting an almost complete theme park is tasked
+    with protecting a couple of kids after a power failure causes the park's cloned
+    dinosaurs to run loose.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 8.1
+  slug: jurassic-park-1993

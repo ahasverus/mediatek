@@ -1,0 +1,42 @@
+- imdbid: tt0043274
+  type: movie
+  title: Alice in Wonderland
+  year: 1951.0
+  runtime: 75.0
+  director:
+    - Clyde Geronimi
+    - Wilfred Jackson
+    - Hamilton Luske
+  writer:
+    - Lewis Carroll
+    - Winston Hibler
+    - Ted Sears
+    - Bill Peet
+    - Erdman Penner
+    - Joe Rinaldi
+    - Milt Banta
+    - William Cottrell
+    - Dick Kelsey
+    - Joe Grant
+    - Dick Huemer
+    - Del Connell
+    - Tom Oreb
+    - John Walbridge
+  actors:
+    - Kathryn Beaumont
+    - Ed Wynn
+    - Richard Haydn
+    - Sterling Holloway
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Fantasy
+    - Musical
+    - Disney
+  plot: Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen
+    of Hearts has her way.
+  language: English
+  country: USA
+  imdbrating: 7.4
+  slug: alice-in-wonderland-1951

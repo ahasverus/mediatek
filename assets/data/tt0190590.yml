@@ -1,0 +1,31 @@
+- imdbid: tt0190590
+  type: movie
+  title: O Brother, Where Art Thou?
+  year: 2000.0
+  runtime: 107.0
+  director:
+    - Joel Coen
+    - Ethan Coen
+  writer:
+    - Homer
+    - Ethan Coen
+    - Joel Coen
+  actors:
+    - George Clooney
+    - John Turturro
+    - Tim Blake Nelson
+    - John Goodman
+  genre:
+    - Adventure
+    - Comedy
+    - Crime
+    - Music
+  plot: In the deep south during the 1930s, three escaped convicts search for hidden
+    treasure while a relentless lawman pursues them.
+  language: English
+  country:
+    - UK
+    - France
+    - USA
+  imdbrating: 7.7
+  slug: o-brother-where-art-thou-2000

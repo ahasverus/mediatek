@@ -1,0 +1,23 @@
+- imdbid: tt0114369
+  type: movie
+  title: Se7en
+  year: 1995.0
+  runtime: 127.0
+  director: David Fincher
+  writer: Andrew Kevin Walker
+  actors:
+    - Morgan Freeman
+    - Andrew Kevin Walker
+    - Daniel Zacapa
+    - Brad Pitt
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven
+    deadly sins as his motives.
+  language: English
+  country: USA
+  imdbrating: 8.6
+  slug: se7en-1995

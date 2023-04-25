@@ -1,0 +1,34 @@
+- imdbid: tt1877832
+  type: movie
+  title: 'X-Men: Days of Future Past'
+  year: 2014.0
+  runtime: 132.0
+  director: Bryan Singer
+  writer:
+    - Simon Kinberg
+    - Jane Goldman
+    - Simon Kinberg
+    - Matthew Vaughn
+  actors:
+    - Hugh Jackman
+    - James McAvoy
+    - Michael Fassbender
+    - Jennifer Lawrence
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+    - Marvel
+  plot: The X-Men send Wolverine to the past in a desperate effort to change history
+    and prevent an event that results in doom for both humans and mutants.
+  language:
+    - English
+    - Vietnamese
+    - French
+  country:
+    - USA
+    - UK
+    - Canada
+  imdbrating: 8.0
+  slug: x-men-days-of-future-past-2014

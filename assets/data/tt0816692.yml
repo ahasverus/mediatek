@@ -1,0 +1,28 @@
+- imdbid: tt0816692
+  type: movie
+  title: Interstellar
+  year: 2014.0
+  runtime: 169.0
+  director: Christopher Nolan
+  writer:
+    - Jonathan Nolan
+    - Christopher Nolan
+  actors:
+    - Ellen Burstyn
+    - Matthew McConaughey
+    - Mackenzie Foy
+    - John Lithgow
+  genre:
+    - Adventure
+    - Drama
+    - Sci-Fi
+    - Thriller
+  plot: A team of explorers travel through a wormhole in space in an attempt to ensure
+    humanity's survival.
+  language: English
+  country:
+    - USA
+    - UK
+    - Canada
+  imdbrating: 8.6
+  slug: interstellar-2014

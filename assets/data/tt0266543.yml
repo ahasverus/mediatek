@@ -1,0 +1,32 @@
+- imdbid: tt0266543
+  type: movie
+  title: Finding Nemo
+  year: 2003.0
+  runtime: 100.0
+  director:
+    - Andrew Stanton
+    - Lee Unkrich
+  writer:
+    - Andrew Stanton
+    - Andrew Stanton
+    - Bob Peterson
+    - David Reynolds
+  actors:
+    - Albert Brooks
+    - Ellen DeGeneres
+    - Alexander Gould
+    - Willem Dafoe
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Pixar
+  plot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid
+    clownfish sets out on a journey to bring him home.
+  language: English
+  country:
+    - USA
+    - Australia
+  imdbrating: 8.1
+  slug: finding-nemo-2003

@@ -1,0 +1,23 @@
+- imdbid: tt10196398
+  type: movie
+  title: Adieu les cons
+  year: 2020.0
+  runtime: 87.0
+  director: Albert Dupontel
+  writer:
+    - Albert Dupontel
+    - Xavier Nemo
+    - Marcia Romano
+  actors:
+    - Virginie Efira
+    - Albert Dupontel
+    - Nicolas Marié
+  genre:
+    - Comedy
+    - Drama
+  plot: A seriously ill woman tries to find her long-lost child with the help of a man
+    in the middle of a burnout and a blind archivist.
+  language: French
+  country: France
+  imdbrating: 7.0
+  slug: adieu-les-cons-2020

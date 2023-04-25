@@ -1,0 +1,31 @@
+- imdbid: tt2948372
+  type: movie
+  title: Soul
+  year: 2020.0
+  runtime: 100.0
+  director:
+    - Pete Docter
+    - Kemp Powers
+  writer:
+    - Pete Docter
+    - Mike Jones
+    - Kemp Powers
+  actors:
+    - Jamie Foxx
+    - Tina Fey
+    - Graham Norton
+    - Rachel House
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Music
+    - Pixar
+  plot: A musician who has lost his passion for music is transported out of his body
+    and must find his way back with the help of an infant soul learning about herself.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: soul-2020

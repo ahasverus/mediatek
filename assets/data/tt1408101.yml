@@ -1,0 +1,29 @@
+- imdbid: tt1408101
+  type: movie
+  title: Star Trek Into Darkness
+  year: 2013.0
+  runtime: 132.0
+  director: J.J. Abrams
+  writer:
+    - Roberto Orci
+    - Alex Kurtzman
+    - Damon Lindelof
+    - Gene Roddenberry
+  actors:
+    - Chris Pine
+    - Zachary Quinto
+    - Zoe Saldana
+    - Karl Urban
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: After the crew of the Enterprise find an unstoppable force of terror from within
+    their own organization, Captain Kirk leads a manhunt to a war-zone world to capture
+    a one-man weapon of mass destruction.
+  language:
+    - English
+    - Klingon
+  country: USA
+  imdbrating: 7.7
+  slug: star-trek-into-darkness-2013

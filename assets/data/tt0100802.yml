@@ -1,0 +1,31 @@
+- imdbid: tt0100802
+  type: movie
+  title: Total Recall
+  year: 1990.0
+  runtime: 113.0
+  director: Paul Verhoeven
+  writer:
+    - Philip K. Dick
+    - Ronald Shusett
+    - Dan O'Bannon
+    - Jon Povill
+    - Ronald Shusett
+    - Dan O'Bannon
+    - Gary Goldman
+  actors:
+    - Arnold Schwarzenegger
+    - Rachel Ticotin
+    - Sharon Stone
+    - Ronny Cox
+  genre:
+    - Action
+    - Sci-Fi
+    - Thriller
+  plot: When a man goes for virtual vacation memories of the planet Mars, an unexpected
+    and harrowing series of events forces him to go to the planet for real - or is he?
+  language: English
+  country:
+    - USA
+    - Mexico
+  imdbrating: 7.5
+  slug: total-recall-1990

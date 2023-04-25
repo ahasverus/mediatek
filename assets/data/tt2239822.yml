@@ -1,0 +1,36 @@
+- imdbid: tt2239822
+  type: movie
+  title: Valerian and the City of a Thousand Planets
+  year: 2017.0
+  runtime: 137.0
+  director: Luc Besson
+  writer:
+    - Pierre Christin
+    - Jean-Claude Mézières
+    - Luc Besson
+  actors:
+    - Dane DeHaan
+    - Cara Delevingne
+    - Clive Owen
+    - Rihanna
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+  plot: A dark force threatens Alpha, a vast metropolis and home to species from a thousand
+    planets. Special operatives Valerian and Laureline must race to identify the marauding
+    menace and safeguard not just Alpha, but the future of the universe.
+  language:
+    - English
+    - French
+  country:
+    - France
+    - China
+    - Belgium
+    - Germany
+    - United Arab Emirates
+    - USA
+    - Canada
+  imdbrating: 6.5
+  slug: valerian-and-the-city-of-a-thousand-planets-2017

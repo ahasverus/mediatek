@@ -1,0 +1,33 @@
+- imdbid: tt0167261
+  type: movie
+  title: 'The Lord of the Rings 2: The Two Towers'
+  year: 2002.0
+  runtime: 179.0
+  director: Peter Jackson
+  writer:
+    - J.R.R. Tolkien
+    - Fran Walsh
+    - Philippa Boyens
+    - Stephen Sinclair
+    - Peter Jackson
+  actors:
+    - Bruce Allpress
+    - Sean Astin
+    - John Bach
+    - Sala Baker
+  genre:
+    - Adventure
+    - Drama
+    - Fantasy
+  plot: While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum,
+    the divided fellowship makes a stand against Sauron's new ally, Saruman, and his
+    hordes of Isengard.
+  language:
+    - English
+    - Sindarin
+    - Old English
+  country:
+    - New Zealand
+    - USA
+  imdbrating: 8.7
+  slug: the-lord-of-the-rings-2-the-two-towers-2002

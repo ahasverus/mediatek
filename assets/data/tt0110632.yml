@@ -1,0 +1,29 @@
+- imdbid: tt0110632
+  type: movie
+  title: Natural Born Killers
+  year: 1994.0
+  runtime: 118.0
+  director: Oliver Stone
+  writer:
+    - Quentin Tarantino
+    - David Veloz
+    - Richard Rutowski
+    - Oliver Stone
+  actors:
+    - Woody Harrelson
+    - Juliette Lewis
+    - Tom Sizemore
+    - Rodney Dangerfield
+  genre:
+    - Action
+    - Crime
+    - Drama
+  plot: Two victims of traumatized childhoods become lovers and psychopathic serial
+    murderers irresponsibly glorified by the mass media.
+  language:
+    - English
+    - Navajo
+    - Japanese
+  country: USA
+  imdbrating: 7.3
+  slug: natural-born-killers-1994

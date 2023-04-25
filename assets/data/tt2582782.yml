@@ -1,0 +1,24 @@
+- imdbid: tt2582782
+  type: movie
+  title: Hell or High Water
+  year: 2016.0
+  runtime: 102.0
+  director: David Mackenzie
+  writer: Taylor Sheridan
+  actors:
+    - Dale Dickey
+    - Ben Foster
+    - Chris Pine
+    - William Sterchi
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+    - Western
+  plot: A divorced father and his ex-con older brother resort to a desperate scheme
+    in order to save their family's ranch in West Texas.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: hell-or-high-water-2016

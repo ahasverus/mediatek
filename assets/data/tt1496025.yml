@@ -1,0 +1,40 @@
+- imdbid: tt1496025
+  type: movie
+  title: Underworld Awakening
+  year: 2012.0
+  runtime: 88.0
+  director:
+    - Måns Mårlind
+    - Björn Stein
+  writer:
+    - Len Wiseman
+    - John Hlavin
+    - J. Michael Straczynski
+    - Allison Burnett
+    - Len Wiseman
+    - John Hlavin
+    - Kevin Grevioux
+    - Len Wiseman
+    - Danny McBride
+  actors:
+    - Kate Beckinsale
+    - Stephen Rea
+    - Michael Ealy
+    - Theo James
+  genre:
+    - Action
+    - Drama
+    - Fantasy
+    - Horror
+    - Sci-Fi
+  plot: When human forces discover the existence of the Vampire and Lycan clans, a war
+    to eradicate both species commences. The vampire warrior Selene leads the battle
+    against humankind.
+  language:
+    - English
+    - Russian
+  country:
+    - USA
+    - Canada
+  imdbrating: 6.4
+  slug: underworld-awakening-2012

@@ -1,0 +1,28 @@
+- imdbid: tt0482571
+  type: movie
+  title: The Prestige
+  year: 2006.0
+  runtime: 130.0
+  director: Christopher Nolan
+  writer:
+    - Jonathan Nolan
+    - Christopher Nolan
+    - Christopher Priest
+  actors:
+    - Hugh Jackman
+    - Christian Bale
+    - Michael Caine
+    - Piper Perabo
+  genre:
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: After a tragic accident, two stage magicians engage in a battle to create the
+    ultimate illusion while sacrificing everything they have to outwit each other.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 8.5
+  slug: the-prestige-2006

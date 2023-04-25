@@ -1,0 +1,37 @@
+- imdbid: tt1477834
+  type: movie
+  title: Aquaman
+  year: 2018.0
+  runtime: 143.0
+  director: James Wan
+  writer:
+    - David Leslie Johnson-McGoldrick
+    - Will Beall
+    - Geoff Johns
+    - James Wan
+    - Will Beall
+    - Paul Norris
+    - Mort Weisinger
+  actors:
+    - Jason Momoa
+    - Amber Heard
+    - Willem Dafoe
+    - Patrick Wilson
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+    - DC-Comics
+  plot: Arthur Curry (Jason Momoa), the human-born heir to the underwater kingdom of
+    Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.
+  language:
+    - English
+    - Russian
+    - Maori
+    - Italian
+  country:
+    - USA
+    - Australia
+  imdbrating: 7.0
+  slug: aquaman-2018

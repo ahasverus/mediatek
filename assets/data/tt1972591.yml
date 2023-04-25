@@ -1,0 +1,31 @@
+- imdbid: tt1972591
+  type: movie
+  title: 'King Arthur: Legend of the Sword'
+  year: 2017.0
+  runtime: 126.0
+  director: Guy Ritchie
+  writer:
+    - Joby Harold
+    - Guy Ritchie
+    - Lionel Wigram
+    - David Dobkin
+    - Joby Harold
+  actors:
+    - Charlie Hunnam
+    - Astrid Bergès-Frisbey
+    - Jude Law
+    - Djimon Hounsou
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - Fantasy
+  plot: Robbed of his birthright, Arthur comes up the hard way in the back alleys of
+    the city. But once he pulls the sword from the stone, he is forced to acknowledge
+    his true legacy - whether he likes it or not.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 6.7
+  slug: king-arthur-legend-of-the-sword-2017

@@ -1,0 +1,29 @@
+- imdbid: tt0343818
+  type: movie
+  title: I, Robot
+  year: 2004.0
+  runtime: 115.0
+  director: Alex Proyas
+  writer:
+    - Jeff Vintar
+    - Akiva Goldsman
+    - Jeff Vintar
+    - Isaac Asimov
+  actors:
+    - Will Smith
+    - Bridget Moynahan
+    - Alan Tudyk
+    - James Cromwell
+  genre:
+    - Action
+    - Drama
+    - Sci-Fi
+    - Thriller
+  plot: In 2035, a technophobic cop investigates a crime that may have been perpetrated
+    by a robot, which leads to a larger threat to humanity.
+  language: English
+  country:
+    - USA
+    - Germany
+  imdbrating: 7.1
+  slug: i-robot-2004

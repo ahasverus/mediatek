@@ -1,0 +1,38 @@
+- imdbid: tt2948356
+  type: movie
+  title: Zootopia
+  year: 2016.0
+  runtime: 108.0
+  director:
+    - Byron Howard
+    - Rich Moore
+    - Jared Bush
+  writer:
+    - Byron Howard
+    - Rich Moore
+    - Jared Bush
+    - Jim Reardon
+    - Josie Trinidad
+    - Phil Johnston
+    - Jennifer Lee
+    - Jared Bush
+    - Phil Johnston
+  actors:
+    - Ginnifer Goodwin
+    - Jason Bateman
+    - Idris Elba
+    - Jenny Slate
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Crime
+    - Family
+    - Mystery
+    - Disney
+  plot: In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist
+    fox must work together to uncover a conspiracy.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: zootopia-2016

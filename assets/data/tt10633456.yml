@@ -1,0 +1,20 @@
+- imdbid: tt10633456
+  type: movie
+  title: Minari
+  year: 2020.0
+  runtime: 115.0
+  director: Lee Isaac Chung
+  writer: Lee Isaac Chung
+  actors:
+    - Alan S. Kim
+    - Yeri Han
+    - Noel Cho
+    - Steven Yeun
+  genre: Drama
+  plot: A Korean family starts a farm in 1980s Arkansas.
+  language:
+    - Korean
+    - English
+  country: USA
+  imdbrating: 7.6
+  slug: minari-2020

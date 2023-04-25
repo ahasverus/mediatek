@@ -1,0 +1,29 @@
+- imdbid: tt0116996
+  type: movie
+  title: Mars Attacks!
+  year: 1996.0
+  runtime: 106.0
+  director: Tim Burton
+  writer:
+    - Len Brown
+    - Woody Gelman
+    - Wally Wood
+    - Bob Powell
+    - Norman Saunders
+    - Jonathan Gems
+    - Jonathan Gems
+  actors:
+    - Jack Nicholson
+    - Glenn Close
+    - Annette Bening
+    - Pierce Brosnan
+  genre:
+    - Comedy
+    - Sci-Fi
+  plot: Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 6.3
+  slug: mars-attacks-1996

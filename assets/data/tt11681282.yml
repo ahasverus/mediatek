@@ -1,0 +1,21 @@
+- imdbid: tt11681282
+  type: movie
+  title: Le Bal des folles
+  year: 2021.0
+  runtime: 121.0
+  director: Mélanie Laurent
+  writer:
+    - Mélanie Laurent
+    - Victoria Mas
+  actors:
+    - Mélanie Laurent
+    - César Domboy
+    - Lou de Laâge
+  genre: Thriller
+  plot: A woman who is unfairly institutionalized at Paris asylum plots to escape with
+    the help of one of its nurses. Based on the novel 'Le bal des folles' by Victoria
+    Mas.
+  language: French
+  country: France
+  imdbrating: NA
+  slug: le-bal-des-folles-2021

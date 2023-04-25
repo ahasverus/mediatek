@@ -1,0 +1,24 @@
+- imdbid: tt2494362
+  type: movie
+  title: Bone Tomahawk
+  year: 2015.0
+  runtime: 132.0
+  director: S. Craig Zahler
+  writer: S. Craig Zahler
+  actors:
+    - Kurt Russell
+    - Patrick Wilson
+    - Matthew Fox
+    - Richard Jenkins
+  genre:
+    - Drama
+    - Horror
+    - Western
+  plot: In the dying days of the old west, an elderly sheriff and his posse set out
+    to rescue their town's doctor from cannibalistic cave dwellers.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 7.1
+  slug: bone-tomahawk-2015

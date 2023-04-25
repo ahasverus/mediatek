@@ -1,0 +1,29 @@
+- imdbid: tt1235166
+  type: movie
+  title: Un prophète
+  year: 2009.0
+  runtime: 155.0
+  director: Jacques Audiard
+  writer:
+    - Thomas Bidegain
+    - Jacques Audiard
+    - Abdel Raouf Dafri
+    - Nicolas Peufaillit
+  actors:
+    - Tahar Rahim
+    - Niels Arestrup
+    - Adel Bencherif
+    - Reda Kateb
+  genre:
+    - Crime
+    - Drama
+  plot: A young Arab man is sent to a French prison.
+  language:
+    - French
+    - Arabic
+    - Corsican
+  country:
+    - France
+    - Italy
+  imdbrating: 7.9
+  slug: un-prophete-2009

@@ -1,0 +1,24 @@
+- imdbid: tt1119646
+  type: movie
+  title: The Hangover
+  year: 2009.0
+  runtime: 100.0
+  director: Todd Phillips
+  writer:
+    - Jon Lucas
+    - Scott Moore
+  actors:
+    - Bradley Cooper
+    - Ed Helms
+    - Zach Galifianakis
+    - Justin Bartha
+  genre: Comedy
+  plot: Three buddies wake up from a bachelor party in Las Vegas, with no memory of
+    the previous night and the bachelor missing. They make their way around the city
+    in order to find their friend before his wedding.
+  language: English
+  country:
+    - USA
+    - Germany
+  imdbrating: 7.7
+  slug: the-hangover-2009

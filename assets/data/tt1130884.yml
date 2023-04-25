@@ -1,0 +1,25 @@
+- imdbid: tt1130884
+  type: movie
+  title: Shutter Island
+  year: 2010.0
+  runtime: 138.0
+  director: Martin Scorsese
+  writer:
+    - Laeta Kalogridis
+    - Dennis Lehane
+  actors:
+    - Leonardo DiCaprio
+    - Mark Ruffalo
+    - Ben Kingsley
+    - Max von Sydow
+  genre:
+    - Mystery
+    - Thriller
+  plot: In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped
+    from a hospital for the criminally insane.
+  language:
+    - English
+    - German
+  country: USA
+  imdbrating: 8.1
+  slug: shutter-island-2010

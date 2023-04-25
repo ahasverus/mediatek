@@ -1,0 +1,28 @@
+- imdbid: tt0109686
+  type: movie
+  title: Dumb and Dumber
+  year: 1994.0
+  runtime: 107.0
+  director:
+    - Peter Farrelly
+    - Bobby Farrelly
+  writer:
+    - Peter Farrelly
+    - Bennett Yellin
+    - Bobby Farrelly
+  actors:
+    - Jim Carrey
+    - Jeff Daniels
+    - Lauren Holly
+    - Mike Starr
+  genre: Comedy
+  plot: After a woman leaves a briefcase at the airport terminal, a dumb limo driver
+    and his dumber friend set out on a hilarious cross-country road trip to Aspen to
+    return it.
+  language:
+    - English
+    - Swedish
+    - German
+  country: USA
+  imdbrating: 7.3
+  slug: dumb-and-dumber-1994

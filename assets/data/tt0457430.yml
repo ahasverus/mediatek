@@ -1,0 +1,24 @@
+- imdbid: tt0457430
+  type: movie
+  title: Pan's Labyrinth
+  year: 2006.0
+  runtime: 118.0
+  director: Guillermo del Toro
+  writer: Guillermo del Toro
+  actors:
+    - Ivana Baquero
+    - Sergi López
+    - Maribel Verdú
+    - Doug Jones
+  genre:
+    - Drama
+    - Fantasy
+    - War
+  plot: In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic
+    army officer escapes into an eerie but captivating fantasy world.
+  language: Spanish
+  country:
+    - Mexico
+    - Spain
+  imdbrating: 8.2
+  slug: pan-s-labyrinth-2006

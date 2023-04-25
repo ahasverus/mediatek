@@ -1,0 +1,25 @@
+- imdbid: tt0120815
+  type: movie
+  title: Saving Private Ryan
+  year: 1998.0
+  runtime: 169.0
+  director: Steven Spielberg
+  writer: Robert Rodat
+  actors:
+    - Tom Hanks
+    - Tom Sizemore
+    - Edward Burns
+    - Barry Pepper
+  genre:
+    - Drama
+    - War
+  plot: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines
+    to retrieve a paratrooper whose brothers have been killed in action.
+  language:
+    - English
+    - French
+    - German
+    - Czech
+  country: USA
+  imdbrating: 8.6
+  slug: saving-private-ryan-1998

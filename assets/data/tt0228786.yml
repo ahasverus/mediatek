@@ -1,0 +1,26 @@
+- imdbid: tt0228786
+  type: movie
+  title: Les Rivières pourpres
+  year: 2000.0
+  runtime: 106.0
+  director: Mathieu Kassovitz
+  writer:
+    - Jean-Christophe Grangé
+    - Jean-Christophe Grangé
+    - Mathieu Kassovitz
+  actors:
+    - Jean Reno
+    - Vincent Cassel
+    - Nadia Farès
+    - Dominique Sanda
+  genre:
+    - Crime
+    - Horror
+    - Mystery
+    - Thriller
+  plot: A murder detective must follow the footsteps of a brutal killer within the secrets
+    of a classist college.
+  language: French
+  country: France
+  imdbrating: 6.9
+  slug: les-rivieres-pourpres-2000

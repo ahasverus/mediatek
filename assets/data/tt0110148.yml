@@ -1,0 +1,24 @@
+- imdbid: tt0110148
+  type: movie
+  title: 'Interview with the Vampire: The Vampire Chronicles'
+  year: 1994.0
+  runtime: 123.0
+  director: Neil Jordan
+  writer:
+    - Anne Rice
+    - Anne Rice
+  actors:
+    - Brad Pitt
+    - Christian Slater
+    - Virginia McCollam
+    - John McConnell
+  genre:
+    - Drama
+    - Horror
+  plot: 'A vampire tells his epic life story: love, betrayal, loneliness, and hunger.'
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 7.6
+  slug: interview-with-the-vampire-the-vampire-chronicles-1994

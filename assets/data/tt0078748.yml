@@ -1,0 +1,27 @@
+- imdbid: tt0078748
+  type: movie
+  title: Alien
+  year: 1979.0
+  runtime: 117.0
+  director: Ridley Scott
+  writer:
+    - Dan O'Bannon
+    - Dan O'Bannon
+    - Ronald Shusett
+  actors:
+    - Tom Skerritt
+    - Sigourney Weaver
+    - Veronica Cartwright
+    - Harry Dean Stanton
+  genre:
+    - Horror
+    - Sci-Fi
+  plot: After a space merchant vessel receives an unknown transmission as a distress
+    call, one of the crew is attacked by a mysterious life form and they soon realize
+    that its life cycle has merely begun.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 8.4
+  slug: alien-1979

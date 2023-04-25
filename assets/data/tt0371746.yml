@@ -1,0 +1,38 @@
+- imdbid: tt0371746
+  type: movie
+  title: Iron Man
+  year: 2008.0
+  runtime: 126.0
+  director: Jon Favreau
+  writer:
+    - Mark Fergus
+    - Hawk Ostby
+    - Art Marcum
+    - Matt Holloway
+    - Stan Lee
+    - Don Heck
+    - Larry Lieber
+    - Jack Kirby
+  actors:
+    - Robert Downey Jr.
+    - Terrence Howard
+    - Jeff Bridges
+    - Gwyneth Paltrow
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark
+    creates a unique weaponized suit of armor to fight evil.
+  language:
+    - Hungarian
+    - Kurdish
+    - Hindi
+    - English
+    - Persian
+    - Urdu
+    - Arabic
+  country: USA
+  imdbrating: 7.9
+  slug: iron-man-2008

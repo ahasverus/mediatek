@@ -1,0 +1,24 @@
+- imdbid: tt1745960
+  type: movie
+  title: 'Top Gun: Maverick'
+  year: 2022.0
+  runtime: 130.0
+  director: Joseph Kosinski
+  writer:
+    - Jim Cash
+    - Jack Epps Jr.
+    - Peter Craig
+  actors:
+    - Tom Cruise
+    - Jennifer Connelly
+    - Miles Teller
+  genre:
+    - Action
+    - Drama
+  plot: After thirty years, Maverick is still pushing the envelope as a top naval aviator,
+    but must confront ghosts of his past when he leads TOP GUN's elite graduates on
+    a mission that demands the ultimate sacrifice from those chosen to ...
+  language: English
+  country: United States
+  imdbrating: 8.4
+  slug: top-gun-maverick-2022

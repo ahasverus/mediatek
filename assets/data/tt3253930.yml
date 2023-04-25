@@ -1,0 +1,26 @@
+- imdbid: tt3253930
+  type: movie
+  title: La Isla mínima
+  year: 2014.0
+  runtime: 105.0
+  director: Alberto Rodríguez
+  writer:
+    - Rafael Cobos
+    - Alberto Rodríguez
+  actors:
+    - Javier Gutiérrez
+    - Raúl Arévalo
+    - María Varod
+    - Perico Cervantes
+  genre:
+    - Adventure
+    - Crime
+    - Horror
+    - Mystery
+    - Thriller
+  plot: Two cops lost in the deep south of Spain. One serial killer to catch. A lot
+    of secrets and lies of discover.
+  language: Spanish
+  country: Spain
+  imdbrating: 7.3
+  slug: la-isla-minima-2014

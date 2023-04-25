@@ -1,0 +1,29 @@
+- imdbid: tt0330373
+  type: movie
+  title: Harry Potter and the Goblet of Fire
+  year: 2005.0
+  runtime: 157.0
+  director: Mike Newell
+  writer:
+    - Steve Kloves
+    - J.K. Rowling
+  actors:
+    - Eric Sykes
+    - Timothy Spall
+    - David Tennant
+    - Daniel Radcliffe
+  genre:
+    - Adventure
+    - Family
+    - Fantasy
+    - Mystery
+  plot: Harry Potter finds himself competing in a hazardous tournament between rival
+    schools of magic, but he is distracted by recurring nightmares.
+  language:
+    - English
+    - French
+  country:
+    - UK
+    - USA
+  imdbrating: 7.7
+  slug: harry-potter-and-the-goblet-of-fire-2005

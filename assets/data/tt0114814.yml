@@ -1,0 +1,28 @@
+- imdbid: tt0114814
+  type: movie
+  title: The Usual Suspects
+  year: 1995.0
+  runtime: 106.0
+  director: Bryan Singer
+  writer: Christopher McQuarrie
+  actors:
+    - Stephen Baldwin
+    - Gabriel Byrne
+    - Benicio Del Toro
+    - Kevin Pollak
+  genre:
+    - Crime
+    - Mystery
+    - Thriller
+  plot: A sole survivor tells of the twisty events leading up to a horrific gun battle
+    on a boat, which began when five criminals met at a seemingly random police lineup.
+  language:
+    - English
+    - Hungarian
+    - Spanish
+    - French
+  country:
+    - USA
+    - Germany
+  imdbrating: 8.5
+  slug: the-usual-suspects-1995

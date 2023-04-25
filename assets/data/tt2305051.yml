@@ -1,0 +1,23 @@
+- imdbid: tt2305051
+  type: movie
+  title: Wild
+  year: 2014.0
+  runtime: 115.0
+  director: Jean-Marc Vallée
+  writer:
+    - Nick Hornby
+    - Cheryl Strayed
+  actors:
+    - Reese Witherspoon
+    - Laura Dern
+    - Thomas Sadoski
+    - Keene McRae
+  genre:
+    - Biography
+    - Drama
+  plot: A chronicle of one woman's one thousand one hundred mile solo hike undertaken
+    as a way to recover from a recent personal tragedy.
+  language: English
+  country: USA
+  imdbrating: 7.1
+  slug: wild-2014

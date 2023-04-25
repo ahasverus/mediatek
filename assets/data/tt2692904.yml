@@ -1,0 +1,22 @@
+- imdbid: tt2692904
+  type: movie
+  title: Locke
+  year: 2013.0
+  runtime: 85.0
+  director: Steven Knight
+  writer: Steven Knight
+  actors:
+    - Tom Hardy
+    - Olivia Colman
+    - Ruth Wilson
+    - Andrew Scott
+  genre: Drama
+  plot: Ivan Locke, a dedicated family man and successful construction manager, receives
+    a phone call on the eve of the biggest challenge of his career that sets in motion
+    a series of events that threaten his carefully cultivated existence.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.1
+  slug: locke-2013

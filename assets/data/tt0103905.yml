@@ -1,0 +1,31 @@
+- imdbid: tt0103905
+  type: movie
+  title: Man Bites Dog
+  year: 1992.0
+  runtime: 95.0
+  director:
+    - Rémy Belvaux
+    - André Bonzel
+    - Benoît Poelvoorde
+  writer:
+    - Rémy Belvaux
+    - Rémy Belvaux
+    - André Bonzel
+    - Benoît Poelvoorde
+    - Vincent Tavier
+  actors:
+    - Benoît Poelvoorde
+    - Jacqueline Poelvoorde-Pappaert
+    - Nelly Pappaert
+    - Hector Pappaert
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+  plot: A film crew follows a ruthless thief and heartless killer as he goes about his
+    daily routine. But complications set in when the film crew lose their objectivity
+    and begin lending a hand.
+  language: French
+  country: Belgium
+  imdbrating: 7.5
+  slug: man-bites-dog-1992

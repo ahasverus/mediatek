@@ -1,0 +1,23 @@
+- imdbid: tt0268978
+  type: movie
+  title: A Beautiful Mind
+  year: 2001.0
+  runtime: 135.0
+  director: Ron Howard
+  writer:
+    - Akiva Goldsman
+    - Sylvia Nasar
+  actors:
+    - Russell Crowe
+    - Ed Harris
+    - Jennifer Connelly
+    - Christopher Plummer
+  genre:
+    - Biography
+    - Drama
+  plot: After John Nash, a brilliant but asocial mathematician, accepts secret work
+    in cryptography, his life takes a turn for the nightmarish.
+  language: English
+  country: USA
+  imdbrating: 8.2
+  slug: a-beautiful-mind-2001

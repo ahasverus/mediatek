@@ -1,0 +1,31 @@
+- imdbid: tt0414993
+  type: movie
+  title: The Fountain
+  year: 2006.0
+  runtime: 97.0
+  director: Darren Aronofsky
+  writer:
+    - Darren Aronofsky
+    - Darren Aronofsky
+    - Ari Handel
+  actors:
+    - Hugh Jackman
+    - Rachel Weisz
+    - Ellen Burstyn
+    - Mark Margolis
+  genre:
+    - Drama
+    - Mystery
+    - Romance
+    - Sci-Fi
+  plot: As a modern-day scientist, Tommy is struggling with mortality, desperately searching
+    for the medical breakthrough that will save the life of his cancer-stricken wife,
+    Izzi.
+  language:
+    - English
+    - Maya
+  country:
+    - Canada
+    - USA
+  imdbrating: 7.2
+  slug: the-fountain-2006

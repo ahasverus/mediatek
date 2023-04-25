@@ -1,0 +1,37 @@
+- imdbid: tt0070608
+  type: movie
+  title: Robin Hood
+  year: 1973.0
+  runtime: 83.0
+  director:
+    - Wolfgang Reitherman
+    - David Hand
+  writer:
+    - Larry Clemmons
+    - Ken Anderson
+    - Ken Anderson
+    - Vance Gerry
+    - Frank Thomas
+    - Eric Cleworth
+    - Julius Svendsen
+    - David Michener
+  actors:
+    - Roger Miller
+    - Peter Ustinov
+    - Terry-Thomas
+    - Brian Bedford
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Romance
+    - Disney
+  plot: The story of the legendary outlaw is portrayed with the characters as humanoid
+    animals.
+  language:
+    - English
+    - Portuguese
+  country: USA
+  imdbrating: 7.6
+  slug: robin-hood-1973

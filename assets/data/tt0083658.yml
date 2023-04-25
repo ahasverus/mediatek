@@ -1,0 +1,31 @@
+- imdbid: tt0083658
+  type: movie
+  title: Blade Runner
+  year: 1982.0
+  runtime: 117.0
+  director: Ridley Scott
+  writer:
+    - Hampton Fancher
+    - David Webb Peoples
+    - Philip K. Dick
+  actors:
+    - Harrison Ford
+    - Rutger Hauer
+    - Sean Young
+    - Edward James Olmos
+  genre:
+    - Action
+    - Sci-Fi
+    - Thriller
+  plot: A blade runner must pursue and terminate four replicants who stole a ship in
+    space, and have returned to Earth to find their creator.
+  language:
+    - English
+    - German
+    - Cantonese
+    - Japanese
+    - Hungarian
+    - Arabic
+  country: USA
+  imdbrating: 8.1
+  slug: blade-runner-1982

@@ -1,0 +1,27 @@
+- imdbid: tt0310203
+  type: movie
+  title: Tais-toi
+  year: 2003.0
+  runtime: 85.0
+  director: Francis Veber
+  writer:
+    - Francis Veber (screenplay
+    - adaptation and dialogue)
+    - Serge Frydman
+  actors:
+    - Gérard Depardieu
+    - Jean Reno
+    - Richard Berry
+    - André Dussollier
+  genre:
+    - Comedy
+    - Crime
+  plot: One prisoner tells to another that he hid a very large amount of money before
+    the arrest. Together they manage to escape, but this is where their adventures are
+    just beginning.
+  language: French
+  country:
+    - France
+    - Italy
+  imdbrating: 7.1
+  slug: tais-toi-2003

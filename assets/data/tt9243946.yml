@@ -1,0 +1,23 @@
+- imdbid: tt9243946
+  type: movie
+  title: 'El Camino: A Breaking Bad Movie'
+  year: 2019.0
+  runtime: 122.0
+  director: Vince Gilligan
+  writer:
+    - Vince Gilligan
+    - Vince Gilligan
+  actors:
+    - Aaron Paul
+    - Jonathan Banks
+    - Matt Jones
+    - Charles Baker
+  genre:
+    - Action
+    - Crime
+    - Drama
+  plot: Fugitive Jesse Pinkman runs from his captors, the law, and his past.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: el-camino-a-breaking-bad-movie-2019

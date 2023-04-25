@@ -1,0 +1,32 @@
+- imdbid: tt7126948
+  type: movie
+  title: Wonder Woman 1984
+  year: 2020.0
+  runtime: 151.0
+  director: Patty Jenkins
+  writer:
+    - Geoff Johns
+    - Patty Jenkins
+    - Dave Callaham
+    - Geoff Johns
+    - Patty Jenkins
+    - William Moulton Marston
+  actors:
+    - Pedro Pascal
+    - Gal Gadot
+    - Connie Nielsen
+    - Chris Pine
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - DC-Comics
+  plot: 'Fast forward to the 1980s as Wonder Woman''s next big screen adventure finds
+    her facing two all-new foes: Max Lord and The Cheetah.'
+  language: English
+  country:
+    - USA
+    - UK
+    - Spain
+  imdbrating: 5.6
+  slug: wonder-woman-1984-2020

@@ -1,0 +1,24 @@
+- imdbid: tt0096386
+  type: movie
+  title: La Vie est un long fleuve tranquille
+  year: 1988.0
+  runtime: 90.0
+  director: Étienne Chatiliez
+  writer:
+    - Étienne Chatiliez
+    - Florence Quentin
+  actors:
+    - Benoît Magimel
+    - Hélène Vincent
+    - Valérie Lalande
+    - Tara Römer
+  genre: Comedy
+  plot: A revengeful nurse switches a girl and a boy at birth. They are raised in two
+    radically different families. When the switch is revealed many years later, the
+    now teenagers and families need to cope with their new environments.
+  language:
+    - French
+    - English
+  country: France
+  imdbrating: 6.9
+  slug: la-vie-est-un-long-fleuve-tranquille-1988

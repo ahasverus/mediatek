@@ -1,0 +1,26 @@
+- imdbid: tt0088846
+  type: movie
+  title: Brazil
+  year: 1985.0
+  runtime: 132.0
+  director: Terry Gilliam
+  writer:
+    - Terry Gilliam
+    - Tom Stoppard
+    - Charles McKeown
+  actors:
+    - Jonathan Pryce
+    - Robert De Niro
+    - Katherine Helmond
+    - Ian Holm
+  genre:
+    - Drama
+    - Sci-Fi
+  plot: A bureaucrat in a dystopic society becomes an enemy of the state as he pursues
+    the woman of his dreams.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.9
+  slug: brazil-1985

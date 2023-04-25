@@ -1,0 +1,22 @@
+- imdbid: tt0952682
+  type: movie
+  title: Shotgun Stories
+  year: 2007.0
+  runtime: 92.0
+  director: Jeff Nichols
+  writer: Jeff Nichols
+  actors:
+    - Michael Shannon
+    - Douglas Ligon
+    - Barlow Jacobs
+    - Michael Abbott Jr.
+  genre:
+    - Drama
+    - Thriller
+  plot: Shotgun Stories tracks a feud that erupts between two sets of half brothers
+    following the death of their father. Set against the cotton fields and back roads
+    of Southeast Arkansas, these ...
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: shotgun-stories-2007

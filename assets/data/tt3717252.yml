@@ -1,0 +1,31 @@
+- imdbid: tt3717252
+  type: movie
+  title: 'Underworld: Blood Wars'
+  year: 2016.0
+  runtime: 91.0
+  director: Anna Foerster
+  writer:
+    - Cory Goodman
+    - Kyle Ward
+    - Cory Goodman
+    - Kevin Grevioux
+    - Len Wiseman
+    - Danny McBride
+  actors:
+    - Kate Beckinsale
+    - Theo James
+    - Tobias Menzies
+    - Lara Pulver
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Horror
+  plot: Vampire death dealer, Selene (Kate Beckinsale) fights to end the eternal war
+    between the Lycan clan and the Vampire faction that betrayed her.
+  language:
+    - English
+    - Saami
+  country: USA
+  imdbrating: 5.8
+  slug: underworld-blood-wars-2016

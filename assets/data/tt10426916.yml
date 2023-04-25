@@ -1,0 +1,21 @@
+- imdbid: tt10426916
+  type: movie
+  title: Tout simplement noir
+  year: 2020.0
+  runtime: 90.0
+  director:
+    - John Wax
+    - Jean-Pascal Zadi
+  writer:
+    - Kamel Guemra
+    - Jean-Pascal Zadi
+  actors:
+    - Jean-Pascal Zadi
+    - Caroline Anglade
+    - Fary
+  genre: Comedy
+  plot: A politically-incorrect comedy about the role of black people in French society.
+  language: French
+  country: France
+  imdbrating: 6.3
+  slug: tout-simplement-noir-2020

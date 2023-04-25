@@ -1,0 +1,32 @@
+- imdbid: tt3606752
+  type: movie
+  title: Cars 3
+  year: 2017.0
+  runtime: 102.0
+  director: Brian Fee
+  writer:
+    - Brian Fee
+    - Ben Queen
+    - Eyal Podell
+    - Jonathon E. Stewart
+    - Kiel Murray
+    - Bob Peterson
+    - Mike Rich
+  actors:
+    - Owen Wilson
+    - Cristela Alonzo
+    - Chris Cooper
+    - Nathan Fillion
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Sport
+    - Pixar
+  plot: Lightning McQueen sets out to prove to a new generation of racers that he's
+    still the best race car in the world.
+  language: English
+  country: USA
+  imdbrating: 6.7
+  slug: cars-3-2017

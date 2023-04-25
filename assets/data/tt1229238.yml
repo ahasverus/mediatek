@@ -1,0 +1,35 @@
+- imdbid: tt1229238
+  type: movie
+  title: 'Mission: Impossible - Ghost Protocol'
+  year: 2011.0
+  runtime: 132.0
+  director: Brad Bird
+  writer:
+    - Bruce Geller
+    - Josh Appelbaum
+    - André Nemec
+  actors:
+    - Tom Cruise
+    - Paula Patton
+    - Simon Pegg
+    - Jeremy Renner
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: The IMF is shut down when it's implicated in the bombing of the Kremlin, causing
+    Ethan Hunt and his new team to go rogue to clear their organization's name.
+  language:
+    - English
+    - Russian
+    - French
+    - Arabic
+    - Swedish
+  country:
+    - USA
+    - United Arab Emirates
+    - Czech Republic
+    - India
+    - Canada
+  imdbrating: 7.4
+  slug: mission-impossible-ghost-protocol-2011

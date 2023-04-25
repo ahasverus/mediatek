@@ -1,0 +1,29 @@
+- imdbid: tt5742374
+  type: movie
+  title: You Were Never Really Here
+  year: 2017.0
+  runtime: 89.0
+  director: Lynne Ramsay
+  writer:
+    - Lynne Ramsay
+    - Jonathan Ames
+  actors:
+    - Joaquin Phoenix
+    - Dante Pereira-Olson
+    - Larry Canady
+    - Vinicius Damasceno
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: A traumatized veteran, unafraid of violence, tracks down missing girls for a
+    living. When a job spins out of control, Joe's nightmares overtake him as a conspiracy
+    is uncovered leading to what may be his death trip or his awakening.
+  language: English
+  country:
+    - UK
+    - France
+    - USA
+  imdbrating: 6.8
+  slug: you-were-never-really-here-2017

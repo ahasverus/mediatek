@@ -1,0 +1,28 @@
+- imdbid: tt0095016
+  type: movie
+  title: Die Hard
+  year: 1988.0
+  runtime: 132.0
+  director: John McTiernan
+  writer:
+    - Roderick Thorp
+    - Jeb Stuart
+    - Steven E. de Souza
+  actors:
+    - Bruce Willis
+    - Bonnie Bedelia
+    - Reginald VelJohnson
+    - Paul Gleason
+  genre:
+    - Action
+    - Thriller
+  plot: An NYPD officer tries to save his wife and several others taken hostage by German
+    terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.
+  language:
+    - English
+    - German
+    - Italian
+    - Japanese
+  country: USA
+  imdbrating: 8.2
+  slug: die-hard-1988

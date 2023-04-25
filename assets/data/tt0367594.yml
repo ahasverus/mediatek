@@ -1,0 +1,28 @@
+- imdbid: tt0367594
+  type: movie
+  title: Charlie and the Chocolate Factory
+  year: 2005.0
+  runtime: 115.0
+  director: Tim Burton
+  writer:
+    - Roald Dahl
+    - John August
+  actors:
+    - Johnny Depp
+    - Freddie Highmore
+    - David Kelly
+    - Helena Bonham Carter
+  genre:
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+  plot: A young boy wins a tour through the most magnificent chocolate factory in the
+    world, led by the world's most unusual candy maker.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 6.6
+  slug: charlie-and-the-chocolate-factory-2005

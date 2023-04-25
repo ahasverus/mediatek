@@ -1,0 +1,32 @@
+- imdbid: tt2404435
+  type: movie
+  title: The Magnificent Seven
+  year: 2016.0
+  runtime: 132.0
+  director: Antoine Fuqua
+  writer:
+    - Akira Kurosawa
+    - Shinobu Hashimoto
+    - Hideo Oguni
+    - Nic Pizzolatto
+    - Richard Wenk
+  actors:
+    - Denzel Washington
+    - Chris Pratt
+    - Ethan Hawke
+    - Vincent D'Onofrio
+  genre:
+    - Action
+    - Adventure
+    - Western
+  plot: Seven gunmen from a variety of backgrounds are brought together by a vengeful
+    young widow to protect her town from the private army of a destructive industrialist.
+  language:
+    - English
+    - North American Indian
+    - Spanish
+  country:
+    - USA
+    - Australia
+  imdbrating: 6.9
+  slug: the-magnificent-seven-2016

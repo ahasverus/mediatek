@@ -1,0 +1,29 @@
+- imdbid: tt4853102
+  type: movie
+  title: 'Batman: The Killing Joke'
+  year: 2016.0
+  runtime: 76.0
+  director: Sam Liu
+  writer:
+    - Brian Azzarello
+    - Brian Bolland
+    - Bob Kane
+    - Bill Finger
+  actors:
+    - Kevin Conroy
+    - Mark Hamill
+    - Tara Strong
+    - Ray Wise
+  genre:
+    - Animation
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+    - DC-Comics
+  plot: As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the
+    Gordon family to prove a diabolical point mirroring his own fall into madness.
+  language: English
+  country: USA
+  imdbrating: 6.4
+  slug: batman-the-killing-joke-2016

@@ -1,0 +1,36 @@
+- imdbid: tt0988045
+  type: movie
+  title: Sherlock Holmes
+  year: 2009.0
+  runtime: 128.0
+  director: Guy Ritchie
+  writer:
+    - Michael Robert Johnson
+    - Anthony Peckham
+    - Simon Kinberg
+    - Lionel Wigram
+    - Michael Robert Johnson
+    - 'Arthur Conan Doyle (characters: Sherlock Holmes'
+    - Dr. Watson)
+  actors:
+    - Robert Downey Jr.
+    - Jude Law
+    - Rachel McAdams
+    - Mark Strong
+  genre:
+    - Action
+    - Adventure
+    - Crime
+    - Mystery
+    - Thriller
+  plot: Detective Sherlock Holmes and his stalwart partner Watson engage in a battle
+    of wits and brawn with a nemesis whose plot is a threat to all of England.
+  language:
+    - English
+    - French
+  country:
+    - USA
+    - Germany
+    - UK
+  imdbrating: 7.6
+  slug: sherlock-holmes-2009

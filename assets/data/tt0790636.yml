@@ -1,0 +1,26 @@
+- imdbid: tt0790636
+  type: movie
+  title: Dallas Buyers Club
+  year: 2013.0
+  runtime: 117.0
+  director: Jean-Marc Vallée
+  writer:
+    - Craig Borten
+    - Melisa Wallack
+  actors:
+    - Matthew McConaughey
+    - Jennifer Garner
+    - Jared Leto
+    - Denis O'Hare
+  genre:
+    - Biography
+    - Drama
+  plot: In 1985 Dallas, electrician and hustler Ron Woodroof works around the system
+    to help AIDS patients get the medication they need after he is diagnosed with the
+    disease.
+  language:
+    - English
+    - Japanese
+  country: USA
+  imdbrating: 8.0
+  slug: dallas-buyers-club-2013

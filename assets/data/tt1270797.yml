@@ -1,0 +1,35 @@
+- imdbid: tt1270797
+  type: movie
+  title: Venom
+  year: 2018.0
+  runtime: 112.0
+  director: Ruben Fleischer
+  writer:
+    - Jeff Pinkner
+    - Scott Rosenberg
+    - Kelly Marcel
+    - Jeff Pinkner
+    - Scott Rosenberg
+    - Todd McFarlane
+    - David Michelinie
+  actors:
+    - Tom Hardy
+    - Michelle Williams
+    - Riz Ahmed
+    - Scott Haze
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: A failed reporter is bonded to an alien entity, one of many symbiotes who have
+    invaded Earth. But the being takes a liking to Earth and decides to protect it.
+  language:
+    - English
+    - Mandarin
+    - Malay
+  country:
+    - China
+    - USA
+  imdbrating: 6.7
+  slug: venom-2018

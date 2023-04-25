@@ -1,0 +1,20 @@
+- imdbid: tt0119038
+  type: movie
+  title: Le Dîner de Cons
+  year: 1998.0
+  runtime: 80.0
+  director: Francis Veber
+  writer: Francis Veber
+  actors:
+    - Thierry Lhermitte
+    - Jacques Villeret
+    - Francis Huster
+    - Daniel Prévost
+  genre: Comedy
+  plot: A rich publisher meets a stupid but very kind person. Publisher planned to laugh
+    at him, but it so happened that this person was the only one who stay with him when
+    publisher's life began to crumble.
+  language: French
+  country: France
+  imdbrating: 7.7
+  slug: le-diner-de-cons-1998

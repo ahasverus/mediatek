@@ -1,0 +1,30 @@
+- imdbid: tt0800080
+  type: movie
+  title: The Incredible Hulk
+  year: 2008.0
+  runtime: 112.0
+  director: Louis Leterrier
+  writer:
+    - Zak Penn
+    - Zak Penn
+    - Stan Lee
+    - Jack Kirby
+  actors:
+    - Edward Norton
+    - Liv Tyler
+    - Tim Roth
+    - William Hurt
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Bruce Banner, a scientist on the run from the U.S. Government, must find a cure
+    for the monster he turns into whenever he loses his temper.
+  language:
+    - English
+    - Portuguese
+    - Spanish
+  country: USA
+  imdbrating: 6.7
+  slug: the-incredible-hulk-2008

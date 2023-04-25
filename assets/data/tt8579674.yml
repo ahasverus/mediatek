@@ -1,0 +1,32 @@
+- imdbid: tt8579674
+  type: movie
+  title: '1917'
+  year: 2019.0
+  runtime: 119.0
+  director: Sam Mendes
+  writer:
+    - Sam Mendes
+    - Krysty Wilson-Cairns
+  actors:
+    - Dean-Charles Chapman
+    - George MacKay
+    - Daniel Mays
+    - Colin Firth
+  genre:
+    - Drama
+    - War
+  plot: April 6th, 1917. As a regiment assembles to wage war deep in enemy territory,
+    two soldiers are assigned to race against time and deliver a message that will stop
+    1,600 men from walking straight into a deadly trap.
+  language:
+    - English
+    - French
+    - German
+  country:
+    - USA
+    - UK
+    - India
+    - Spain
+    - Canada
+  imdbrating: 8.3
+  slug: 1917-2019

@@ -1,0 +1,29 @@
+- imdbid: tt2935564
+  type: movie
+  title: La French
+  year: 2014.0
+  runtime: 135.0
+  director: Cédric Jimenez
+  writer:
+    - Audrey Diwan
+    - Cédric Jimenez
+  actors:
+    - Jean Dujardin
+    - Gilles Lellouche
+    - Céline Sallette
+    - Mélanie Doutey
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: A French police magistrate spends years trying to take down one of the country's
+    most powerful drug rings.
+  language:
+    - French
+    - Italian
+    - English
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.1
+  slug: the-connection-2014

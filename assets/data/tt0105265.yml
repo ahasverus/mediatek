@@ -1,0 +1,21 @@
+- imdbid: tt0105265
+  type: movie
+  title: A River Runs Through It
+  year: 1992.0
+  runtime: 123.0
+  director: Robert Redford
+  writer:
+    - Norman Maclean
+    - Richard Friedenberg
+  actors:
+    - Craig Sheffer
+    - Brad Pitt
+    - Tom Skerritt
+    - Brenda Blethyn
+  genre: Drama
+  plot: The story about two sons of a stern minister -- one reserved, one rebellious
+    -- growing up in rural Montana while devoted to fly fishing.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: a-river-runs-through-it-1992

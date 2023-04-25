@@ -1,0 +1,24 @@
+- imdbid: tt0405159
+  type: movie
+  title: Million Dollar Baby
+  year: 2004.0
+  runtime: 132.0
+  director: Clint Eastwood
+  writer:
+    - Paul Haggis
+    - F.X. Toole
+  actors:
+    - Clint Eastwood
+    - Hilary Swank
+    - Morgan Freeman
+    - Jay Baruchel
+  genre:
+    - Drama
+    - Sport
+  plot: A determined woman works with a hardened boxing trainer to become a professional.
+  language:
+    - English
+    - Irish
+  country: USA
+  imdbrating: 8.1
+  slug: million-dollar-baby-2004

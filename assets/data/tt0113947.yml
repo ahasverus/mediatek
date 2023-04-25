@@ -1,0 +1,26 @@
+- imdbid: tt0113947
+  type: movie
+  title: Nelly & Monsieur Arnaud
+  year: 1995.0
+  runtime: 106.0
+  director: Claude Sautet
+  writer:
+    - Jacques Fieschi
+    - Claude Sautet
+    - Yves Ulmann
+  actors:
+    - Emmanuelle Béart
+    - Michel Serrault
+    - Jean-Hugues Anglade
+    - Claire Nadeau
+  genre: Drama
+  plot: When Nelly, a woman being just divorced, meets by chance M. Arnaud, a mature
+    salesman just retired, begins a strange and special relationship between the two
+    personalities.
+  language: French
+  country:
+    - France
+    - Italy
+    - Germany
+  imdbrating: 7.3
+  slug: nelly-monsieur-arnaud-1995

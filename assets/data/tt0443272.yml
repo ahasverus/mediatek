@@ -1,0 +1,28 @@
+- imdbid: tt0443272
+  type: movie
+  title: Lincoln
+  year: 2012.0
+  runtime: 150.0
+  director: Steven Spielberg
+  writer:
+    - Tony Kushner
+    - Doris Kearns Goodwin
+  actors:
+    - Daniel Day-Lewis
+    - Sally Field
+    - David Strathairn
+    - Joseph Gordon-Levitt
+  genre:
+    - Biography
+    - Drama
+    - History
+    - War
+  plot: As the American Civil War continues to rage, America's president struggles with
+    continuing carnage on the battlefield as he fights with many inside his own cabinet
+    on the decision to emancipate the slaves.
+  language: English
+  country:
+    - USA
+    - India
+  imdbrating: 7.3
+  slug: lincoln-2012

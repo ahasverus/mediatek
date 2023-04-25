@@ -1,0 +1,34 @@
+- imdbid: tt0810819
+  type: movie
+  title: The Danish Girl
+  year: 2015.0
+  runtime: 119.0
+  director: Tom Hooper
+  writer:
+    - Lucinda Coxon
+    - David Ebershoff
+  actors:
+    - Alicia Vikander
+    - Eddie Redmayne
+    - Tusse Silberg
+    - Adrian Schiller
+  genre:
+    - Biography
+    - Drama
+    - Romance
+  plot: A fictitious love story loosely inspired by the lives of Danish artists Lili
+    Elbe and Gerda Wegener. Lili and Gerda's marriage and work evolve as they navigate
+    Lili's groundbreaking journey as a transgender pioneer.
+  language:
+    - English
+    - French
+    - German
+  country:
+    - UK
+    - USA
+    - Germany
+    - Denmark
+    - Belgium
+    - Japan
+  imdbrating: 7.1
+  slug: the-danish-girl-2015

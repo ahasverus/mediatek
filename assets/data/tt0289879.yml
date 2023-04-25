@@ -1,0 +1,29 @@
+- imdbid: tt0289879
+  type: movie
+  title: The Butterfly Effect
+  year: 2004.0
+  runtime: 113.0
+  director:
+    - Eric Bress
+    - J. Mackye Gruber
+  writer:
+    - J. Mackye Gruber
+    - Eric Bress
+  actors:
+    - Ashton Kutcher
+    - Melora Walters
+    - Amy Smart
+    - Elden Henson
+  genre:
+    - Drama
+    - Sci-Fi
+    - Thriller
+  plot: Evan Treborn suffers blackouts during significant events of his life. As he
+    grows up, he finds a way to remember these lost memories and a supernatural way
+    to alter his life by reading his journal.
+  language: English
+  country:
+    - USA
+    - Canada
+  imdbrating: 7.6
+  slug: the-butterfly-effect-2004

@@ -1,0 +1,29 @@
+- imdbid: tt1124037
+  type: movie
+  title: Free State of Jones
+  year: 2016.0
+  runtime: 139.0
+  director: Gary Ross
+  writer:
+    - Gary Ross
+    - Leonard Hartman
+    - Gary Ross
+  actors:
+    - Matthew McConaughey
+    - Gugu Mbatha-Raw
+    - Mahershala Ali
+    - Keri Russell
+  genre:
+    - Action
+    - Biography
+    - Drama
+    - History
+    - War
+    - Western
+  plot: A disillusioned Confederate army deserter returns to Mississippi and leads a
+    militia of fellow deserters and women in an uprising against the corrupt local Confederate
+    government.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: free-state-of-jones-2016

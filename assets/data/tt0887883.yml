@@ -1,0 +1,30 @@
+- imdbid: tt0887883
+  type: movie
+  title: Burn After Reading
+  year: 2008.0
+  runtime: 96.0
+  director:
+    - Ethan Coen
+    - Joel Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+  actors:
+    - George Clooney
+    - Frances McDormand
+    - Brad Pitt
+    - John Malkovich
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+    - Thriller
+  plot: A disk containing mysterious information from a CIA agent ends up in the hands
+    of two unscrupulous and daft gym employees who attempt to sell it.
+  language: English
+  country:
+    - USA
+    - UK
+    - France
+  imdbrating: 7.0
+  slug: burn-after-reading-2008

@@ -1,0 +1,23 @@
+- imdbid: tt0073486
+  type: movie
+  title: One Flew Over the Cuckoo's Nest
+  year: 1975.0
+  runtime: 133.0
+  director: Milos Forman
+  writer:
+    - Lawrence Hauben
+    - Bo Goldman
+    - Ken Kesey
+    - Dale Wasserman
+  actors:
+    - Jack Nicholson
+    - Louise Fletcher
+    - Will Sampson
+    - Michael Berryman
+  genre: Drama
+  plot: A criminal pleads insanity and is admitted to a mental institution, where he
+    rebels against the oppressive nurse and rallies up the scared patients.
+  language: English
+  country: USA
+  imdbrating: 8.7
+  slug: one-flew-over-the-cuckoo-s-nest-1975

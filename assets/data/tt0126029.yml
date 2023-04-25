@@ -1,0 +1,34 @@
+- imdbid: tt0126029
+  type: movie
+  title: Shrek
+  year: 2001.0
+  runtime: 90.0
+  director:
+    - Andrew Adamson
+    - Vicky Jenson
+  writer:
+    - William Steig
+    - Ted Elliott
+    - Terry Rossio
+    - Joe Stillman
+    - Roger S.H. Schulman
+    - Cody Cameron
+    - Chris Miller
+    - Conrad Vernon
+  actors:
+    - Mike Myers
+    - Eddie Murphy
+    - Cameron Diaz
+    - John Lithgow
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must
+    go on a quest and rescue a princess for the lord in order to get his land back.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: shrek-2001

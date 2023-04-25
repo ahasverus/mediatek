@@ -1,0 +1,28 @@
+- imdbid: tt0472043
+  type: movie
+  title: Apocalypto
+  year: 2006.0
+  runtime: 139.0
+  director: Mel Gibson
+  writer:
+    - Mel Gibson
+    - Farhad Safinia
+  actors:
+    - Rudy Youngblood
+    - Dalia Hernández
+    - Jonathan Brewer
+    - Morris Birdyellowhead
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - Thriller
+  plot: As the Mayan kingdom faces its decline, a young man is taken on a perilous journey
+    to a world ruled by fear and oppression.
+  language: Maya
+  country:
+    - USA
+    - Mexico
+    - UK
+  imdbrating: 7.8
+  slug: apocalypto-2006

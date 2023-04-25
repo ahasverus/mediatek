@@ -1,0 +1,21 @@
+- imdbid: tt0083866
+  type: movie
+  title: E.T. the Extra-Terrestrial
+  year: 1982.0
+  runtime: 115.0
+  director: Steven Spielberg
+  writer: Melissa Mathison
+  actors:
+    - Dee Wallace
+    - Henry Thomas
+    - Peter Coyote
+    - Robert MacNaughton
+  genre:
+    - Family
+    - Sci-Fi
+  plot: A troubled child summons the courage to help a friendly alien escape Earth and
+    return to his home world.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: e-t-the-extra-terrestrial-1982

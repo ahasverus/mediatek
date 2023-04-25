@@ -1,0 +1,30 @@
+- imdbid: tt0903624
+  type: movie
+  title: 'The Hobbit 1: An Unexpected Journey'
+  year: 2012.0
+  runtime: 169.0
+  director: Peter Jackson
+  writer:
+    - Fran Walsh
+    - Philippa Boyens
+    - Peter Jackson
+    - Guillermo del Toro
+    - J.R.R. Tolkien
+  actors:
+    - Ian McKellen
+    - Martin Freeman
+    - Richard Armitage
+    - Ken Stott
+  genre:
+    - Adventure
+    - Family
+    - Fantasy
+  plot: A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited
+    group of dwarves to reclaim their mountain home, and the gold within it from the
+    dragon Smaug.
+  language: English
+  country:
+    - New Zealand
+    - USA
+  imdbrating: 7.8
+  slug: the-hobbit-1-an-unexpected-journey-2012

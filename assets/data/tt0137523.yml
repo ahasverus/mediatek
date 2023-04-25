@@ -1,0 +1,23 @@
+- imdbid: tt0137523
+  type: movie
+  title: Fight Club
+  year: 1999.0
+  runtime: 139.0
+  director: David Fincher
+  writer:
+    - Chuck Palahniuk
+    - Jim Uhls
+  actors:
+    - Edward Norton
+    - Brad Pitt
+    - Meat Loaf
+    - Zach Grenier
+  genre: Drama
+  plot: An insomniac office worker and a devil-may-care soapmaker form an underground
+    fight club that evolves into something much, much more.
+  language: English
+  country:
+    - USA
+    - Germany
+  imdbrating: 8.8
+  slug: fight-club-1999

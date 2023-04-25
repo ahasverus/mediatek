@@ -1,0 +1,25 @@
+- imdbid: tt0115734
+  type: movie
+  title: Bottle Rocket
+  year: 1996.0
+  runtime: 91.0
+  director: Wes Anderson
+  writer:
+    - Owen Wilson
+    - Wes Anderson
+  actors:
+    - Luke Wilson
+    - Owen Wilson
+    - Ned Dowd
+    - Shea Fowler
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+  plot: Three friends plan to pull off a simple robbery and go on the run.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.0
+  slug: bottle-rocket-1996

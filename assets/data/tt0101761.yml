@@ -1,0 +1,27 @@
+- imdbid: tt0101761
+  type: movie
+  title: The Doors
+  year: 1991.0
+  runtime: 140.0
+  director: Oliver Stone
+  writer:
+    - Randall Jahnson
+    - Oliver Stone
+  actors:
+    - Val Kilmer
+    - Meg Ryan
+    - Kyle MacLachlan
+    - Frank Whaley
+  genre:
+    - Biography
+    - Drama
+    - Music
+  plot: The story of the famous and influential 1960s rock band The Doors and its lead
+    singer and composer, Jim Morrison, from his days as a UCLA film student in Los Angeles,
+    to his untimely death in Paris, France at age 27 in 1971.
+  language: English
+  country:
+    - USA
+    - France
+  imdbrating: 7.2
+  slug: the-doors-1991

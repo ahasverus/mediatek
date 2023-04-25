@@ -1,0 +1,28 @@
+- imdbid: tt0338135
+  type: movie
+  title: Les Invasions barbares
+  year: 2003.0
+  runtime: 99.0
+  director: Denys Arcand
+  writer: Denys Arcand
+  actors:
+    - Rémy Girard
+    - Stéphane Rousseau
+    - Marie-Josée Croze
+    - Marina Hands
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+    - Mystery
+    - Romance
+  plot: During his final days, a dying man is reunited with old friends, former lovers,
+    his ex-wife, and his estranged son.
+  language:
+    - French
+    - English
+  country:
+    - Canada
+    - France
+  imdbrating: 7.6
+  slug: les-invasions-barbares-2003

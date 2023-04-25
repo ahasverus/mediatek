@@ -1,0 +1,25 @@
+- imdbid: tt1045658
+  type: movie
+  title: Silver Linings Playbook
+  year: 2012.0
+  runtime: 122.0
+  director: David O. Russell
+  writer:
+    - David O. Russell
+    - Matthew Quick
+  actors:
+    - Bradley Cooper
+    - Jennifer Lawrence
+    - Robert De Niro
+    - Jacki Weaver
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: After a stint in a mental institution, former teacher Pat Solitano moves back
+    in with his parents and tries to reconcile with his ex-wife. Things get more challenging
+    when Pat meets Tiffany, a mysterious girl with problems of her own.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: silver-linings-playbook-2012

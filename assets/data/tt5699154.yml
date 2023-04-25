@@ -1,0 +1,31 @@
+- imdbid: tt5699154
+  type: movie
+  title: Le Sens de la fête
+  year: 2017.0
+  runtime: 117.0
+  director:
+    - Olivier Nakache
+    - Éric Toledano
+  writer:
+    - Olivier Nakache
+    - Éric Toledano
+  actors:
+    - Jean-Pierre Bacri
+    - Jean-Paul Rouve
+    - Gilles Lellouche
+    - Vincent Macaigne
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: A hectic wedding party held in an 17th century French palace comes together
+    with the help of the behind-the-scenes staff.
+  language:
+    - French
+    - Tamil
+  country:
+    - Belgium
+    - Canada
+    - France
+  imdbrating: 6.8
+  slug: le-sens-de-la-fete-2017

@@ -1,0 +1,26 @@
+- imdbid: tt5108870
+  type: movie
+  title: Morbius
+  year: 2022.0
+  runtime: 104.0
+  director: Daniel Espinosa
+  writer:
+    - Matt Sazama
+    - Burk Sharpless
+  actors:
+    - Jared Leto
+    - Matt Smith
+    - Adria Arjona
+  genre:
+    - Action
+    - Adventure
+    - Horror
+  plot: Biochemist Michael Morbius tries to cure himself of a rare blood disease, but
+    he inadvertently infects himself with a form of vampirism instead.
+  language:
+    - English
+    - Spanish
+    - Russian
+  country: United States
+  imdbrating: 5.2
+  slug: morbius-2022

@@ -1,0 +1,28 @@
+- imdbid: tt4123430
+  type: movie
+  title: 'Fantastic Beasts: The Crimes of Grindelwald'
+  year: 2018.0
+  runtime: 134.0
+  director: David Yates
+  writer:
+    - J.K. Rowling
+    - J.K. Rowling
+  actors:
+    - Johnny Depp
+    - Kevin Guthrie
+    - Carmen Ejogo
+    - Wolf Roth
+  genre:
+    - Adventure
+    - Family
+    - Fantasy
+  plot: The second installment of the 'Fantastic Beasts' series featuring the adventures
+    of Magizoologist Newt Scamander.
+  language:
+    - English
+    - French
+  country:
+    - UK
+    - USA
+  imdbrating: 6.6
+  slug: fantastic-beasts-the-crimes-of-grindelwald-2018

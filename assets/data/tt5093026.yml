@@ -1,0 +1,32 @@
+- imdbid: tt5093026
+  type: movie
+  title: Papillon
+  year: 2017.0
+  runtime: 133.0
+  director: Michael Noer
+  writer:
+    - Aaron Guzikowski
+    - Henri Charrière
+    - Dalton Trumbo
+    - Lorenzo Semple Jr.
+  actors:
+    - Charlie Hunnam
+    - Damijan Oklopdzic
+    - Christopher Fairbank
+    - Jason Ryan
+  genre:
+    - Adventure
+    - Biography
+    - Crime
+    - Drama
+  plot: Wrongfully convicted for murder, Henri Charriere forms an unlikely relationship
+    with fellow inmate and quirky convicted counterfeiter Louis Dega, in an attempt
+    to escape from the notorious penal colony on Devil's Island.
+  language:
+    - English
+    - Spanish
+  country:
+    - Czech Republic
+    - Spain
+  imdbrating: 7.2
+  slug: papillon-2017

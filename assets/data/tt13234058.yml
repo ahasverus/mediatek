@@ -1,0 +1,26 @@
+- imdbid: tt13234058
+  type: movie
+  title: My Son
+  year: 2021.0
+  runtime: NA
+  director: Christian Carion
+  writer:
+    - Christian Carion
+    - Laure Irrmann
+  actors:
+    - James McAvoy
+    - Claire Foy
+    - Jamie Michie
+  genre:
+    - Crime
+    - Drama
+    - Romance
+  plot: Driving in the heart of the Highlands, Edmond Murray receives a call from his
+    ex-wife, in tears. Their 7-year-old son went missing from a campsite. Soon it becomes
+    clear that the child was kidnapped and the parents give way to despai
+  language: English
+  country:
+    - United Kingdom
+    - France
+  imdbrating: NA
+  slug: my-son-2021

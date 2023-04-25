@@ -1,0 +1,30 @@
+- imdbid: tt1054606
+  type: movie
+  title: The Imaginarium of Doctor Parnassus
+  year: 2009.0
+  runtime: 123.0
+  director: Terry Gilliam
+  writer:
+    - Terry Gilliam
+    - Charles McKeown
+  actors:
+    - Andrew Garfield
+    - Christopher Plummer
+    - Richard Riddell
+    - Katie Lyons
+  genre:
+    - Adventure
+    - Comedy
+    - Fantasy
+    - Mystery
+  plot: A traveling theater company gives its audience much more than they were expecting.
+  language:
+    - English
+    - Russian
+    - French
+  country:
+    - UK
+    - France
+    - Canada
+  imdbrating: 6.8
+  slug: the-imaginarium-of-doctor-parnassus-2009

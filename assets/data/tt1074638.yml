@@ -1,0 +1,34 @@
+- imdbid: tt1074638
+  type: movie
+  title: Skyfall
+  year: 2012.0
+  runtime: 143.0
+  director: Sam Mendes
+  writer:
+    - Neal Purvis
+    - Robert Wade
+    - John Logan
+    - Ian Fleming
+  actors:
+    - Daniel Craig
+    - Judi Dench
+    - Javier Bardem
+    - Ralph Fiennes
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: James Bond's loyalty to M is tested when her past comes back to haunt her. When
+    MI6 comes under attack, 007 must track down and destroy the threat, no matter how
+    personal the cost.
+  language:
+    - English
+    - Turkish
+    - Shanghainese
+    - Portuguese
+    - Japanese
+  country:
+    - UK
+    - USA
+  imdbrating: 7.7
+  slug: skyfall-2012

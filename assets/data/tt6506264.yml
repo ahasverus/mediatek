@@ -1,0 +1,26 @@
+- imdbid: tt6506264
+  type: movie
+  title: The Colony
+  year: 2021.0
+  runtime: 104.0
+  director: Tim Fehlbaum
+  writer:
+    - Tim Fehlbaum
+    - Mariko Minoguchi
+    - Jo Rogers
+  actors:
+    - Nora Arnezeder
+    - Iain Glen
+    - Sarah-Sofie Boussnina
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: Set in the distant future, a female astronaut, shipwrecked on the long-decimated
+    Earth, must decide the fate of the wasteland's remaining populace.
+  language: English
+  country:
+    - Germany
+    - Switzerland
+  imdbrating: 5.4
+  slug: the-colony-2021

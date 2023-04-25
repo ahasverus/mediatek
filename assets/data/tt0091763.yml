@@ -1,0 +1,25 @@
+- imdbid: tt0091763
+  type: movie
+  title: Platoon
+  year: 1986.0
+  runtime: 120.0
+  director: Oliver Stone
+  writer: Oliver Stone
+  actors:
+    - Keith David
+    - Forest Whitaker
+    - Francesco Quinn
+    - Kevin Dillon
+  genre:
+    - Drama
+    - War
+  plot: A young soldier in Vietnam faces a moral crisis when confronted with the horrors
+    of war and the duality of man.
+  language:
+    - English
+    - Vietnamese
+  country:
+    - USA
+    - UK
+  imdbrating: 8.1
+  slug: platoon-1986

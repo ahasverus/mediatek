@@ -1,0 +1,34 @@
+- imdbid: tt0095250
+  type: movie
+  title: Le Grand bleu
+  year: 1988.0
+  runtime: 168.0
+  director: Luc Besson
+  writer:
+    - Luc Besson
+    - Luc Besson
+    - Robert Garland
+    - Marilyn Goldin
+    - Jacques Mayol
+    - Marc Perrier
+  actors:
+    - Rosanna Arquette
+    - Jean-Marc Barr
+    - Jean Reno
+    - Paul Shenar
+  genre:
+    - Adventure
+    - Drama
+    - Sport
+  plot: The rivalry between Enzo and Jacques, two childhood friends and now world-renowned
+    free divers, becomes a beautiful and perilous journey into oneself and the unknown.
+  language:
+    - French
+    - English
+    - Italian
+  country:
+    - France
+    - Italy
+    - USA
+  imdbrating: 7.6
+  slug: le-grand-bleu-1988

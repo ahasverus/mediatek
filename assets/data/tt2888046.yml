@@ -1,0 +1,29 @@
+- imdbid: tt2888046
+  type: movie
+  title: Ip Man 3
+  year: 2015.0
+  runtime: 105.0
+  director: Wilson Yip
+  writer:
+    - Tai-lee Chan
+    - Lai-Yin Leung
+    - Edmond Wong
+  actors:
+    - Donnie Yen
+    - Lynn Xiong
+    - Jin Zhang
+    - Mike Tyson
+  genre:
+    - Action
+    - Biography
+    - Drama
+  plot: When a band of brutal gangsters led by a crooked property developer make a play
+    to take over a local school, Master Ip is forced to take a stand.
+  language:
+    - Cantonese
+    - English
+  country:
+    - China
+    - Hong Kong
+  imdbrating: 7.1
+  slug: ip-man-3-2015

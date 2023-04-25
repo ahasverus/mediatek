@@ -1,0 +1,27 @@
+- imdbid: tt1440292
+  type: movie
+  title: Submarine
+  year: 2010.0
+  runtime: 97.0
+  director: Richard Ayoade
+  writer:
+    - Richard Ayoade
+    - Joe Dunthorne
+  actors:
+    - Noah Taylor
+    - Paddy Considine
+    - Craig Roberts
+    - Yasmin Paige
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: '15-year-old Oliver Tate has two objectives: To lose his virginity before his
+    next birthday, and to extinguish the flame between his mother and an ex-lover who
+    has resurfaced in her life.'
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.3
+  slug: submarine-2010

@@ -1,0 +1,28 @@
+- imdbid: tt0437086
+  type: movie
+  title: 'Alita: Battle Angel'
+  year: 2019.0
+  runtime: 122.0
+  director: Robert Rodriguez
+  writer:
+    - James Cameron
+    - Laeta Kalogridis
+    - Yukito Kishiro
+  actors:
+    - Rosa Salazar
+    - Christoph Waltz
+    - Jennifer Connelly
+    - Mahershala Ali
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: A deactivated cyborg is revived, but cannot remember anything of her past life
+    and goes on a quest to find out who she is.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.3
+  slug: alita-battle-angel-2019

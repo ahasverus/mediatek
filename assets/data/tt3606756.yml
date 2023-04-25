@@ -1,0 +1,27 @@
+- imdbid: tt3606756
+  type: movie
+  title: The Incredibles 2
+  year: 2018.0
+  runtime: 118.0
+  director: Brad Bird
+  writer: Brad Bird
+  actors:
+    - Craig T. Nelson
+    - Holly Hunter
+    - Sarah Vowell
+    - Huck Milner
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Comedy
+    - Family
+    - Sci-Fi
+    - Pixar
+  plot: 'The Incredibles hero family takes on a new mission, which involves a change
+    in family roles: Bob Parr (Mr Incredible) must manage the house while his wife Helen
+    (Elastigirl) goes out to save the world.'
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: incredibles-2-2018

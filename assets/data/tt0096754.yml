@@ -1,0 +1,24 @@
+- imdbid: tt0096754
+  type: movie
+  title: The Abyss
+  year: 1989.0
+  runtime: 171.0
+  director: James Cameron
+  writer: James Cameron
+  actors:
+    - Ed Harris
+    - Mary Elizabeth Mastrantonio
+    - Michael Biehn
+    - Leo Burmester
+  genre:
+    - Adventure
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: A civilian diving team is enlisted to search for a lost nuclear submarine and
+    face danger while encountering an alien aquatic species.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: the-abyss-1989

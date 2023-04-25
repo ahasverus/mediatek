@@ -1,0 +1,23 @@
+- imdbid: tt0119217
+  type: movie
+  title: Good Will Hunting
+  year: 1997.0
+  runtime: 126.0
+  director: Gus Van Sant
+  writer:
+    - Matt Damon
+    - Ben Affleck
+  actors:
+    - Matt Damon
+    - Ben Affleck
+    - Stellan Skarsgård
+    - John Mighton
+  genre:
+    - Drama
+    - Romance
+  plot: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help
+    from a psychologist to find direction in his life.
+  language: English
+  country: USA
+  imdbrating: 8.3
+  slug: good-will-hunting-1997

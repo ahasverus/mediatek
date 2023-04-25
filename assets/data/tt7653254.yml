@@ -1,0 +1,26 @@
+- imdbid: tt7653254
+  type: movie
+  title: Marriage Story
+  year: 2019.0
+  runtime: 137.0
+  director: Noah Baumbach
+  writer: Noah Baumbach
+  actors:
+    - Adam Driver
+    - Scarlett Johansson
+    - Julia Greer
+    - Azhy Robertson
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: Noah Baumbach's incisive and compassionate look at a marriage breaking up and
+    a family staying together.
+  language:
+    - English
+    - Spanish
+  country:
+    - UK
+    - USA
+  imdbrating: 8.0
+  slug: marriage-story-2019

@@ -1,0 +1,24 @@
+- imdbid: tt9844322
+  type: movie
+  title: 'Kaamelott: Volet premier'
+  year: 2021.0
+  runtime: 120.0
+  director: Alexandre Astier
+  writer: Alexandre Astier
+  actors:
+    - Alexandre Astier
+    - Lionnel Astier
+    - Antoine de Caunes
+  genre:
+    - Adventure
+    - Comedy
+    - Fantasy
+  plot: The sequel on the big screen to the cult series of Alexandre Astier, an offbeat
+    version of the legend of the Knights of the Round Table. Hidden in Rome, King Arthur
+    plans his comeback to oppose the army of his former friend Lancelot.
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 6.8
+  slug: kaamelott-volet-premier-2021

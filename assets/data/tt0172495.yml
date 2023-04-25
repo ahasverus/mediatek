@@ -1,0 +1,30 @@
+- imdbid: tt0172495
+  type: movie
+  title: Gladiator
+  year: 2000.0
+  runtime: 155.0
+  director: Ridley Scott
+  writer:
+    - David Franzoni
+    - David Franzoni
+    - John Logan
+    - William Nicholson
+  actors:
+    - Russell Crowe
+    - Joaquin Phoenix
+    - Connie Nielsen
+    - Oliver Reed
+  genre:
+    - Action
+    - Adventure
+    - Drama
+  plot: A former Roman General sets out to exact vengeance against the corrupt emperor
+    who murdered his family and sent him into slavery.
+  language: English
+  country:
+    - USA
+    - UK
+    - Malta
+    - Morocco
+  imdbrating: 8.5
+  slug: gladiator-2000

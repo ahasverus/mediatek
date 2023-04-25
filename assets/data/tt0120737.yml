@@ -1,0 +1,31 @@
+- imdbid: tt0120737
+  type: movie
+  title: 'The Lord of the Rings 1: The Fellowship of the Ring'
+  year: 2001.0
+  runtime: 178.0
+  director: Peter Jackson
+  writer:
+    - J.R.R. Tolkien
+    - Fran Walsh
+    - Philippa Boyens
+    - Peter Jackson
+  actors:
+    - Alan Howard
+    - Noel Appleby
+    - Sean Astin
+    - Sala Baker
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - Fantasy
+  plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy
+    the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+  language:
+    - English
+    - Sindarin
+  country:
+    - New Zealand
+    - USA
+  imdbrating: 8.8
+  slug: the-lord-of-the-rings-1-the-fellowship-of-the-ring-2001

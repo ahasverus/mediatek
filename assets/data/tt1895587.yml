@@ -1,0 +1,25 @@
+- imdbid: tt1895587
+  type: movie
+  title: Spotlight
+  year: 2015.0
+  runtime: 129.0
+  director: Tom McCarthy
+  writer:
+    - Josh Singer
+    - Tom McCarthy
+  actors:
+    - Mark Ruffalo
+    - Michael Keaton
+    - Rachel McAdams
+    - Liev Schreiber
+  genre:
+    - Biography
+    - Crime
+    - Drama
+  plot: The true story of how the Boston Globe uncovered the massive scandal of child
+    molestation and cover-up within the local Catholic Archdiocese, shaking the entire
+    Catholic Church to its core.
+  language: English
+  country: USA
+  imdbrating: 8.1
+  slug: spotlight-2015

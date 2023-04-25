@@ -1,0 +1,34 @@
+- imdbid: tt0266987
+  type: movie
+  title: Spy Game
+  year: 2001.0
+  runtime: 126.0
+  director: Tony Scott
+  writer:
+    - Michael Frost Beckner
+    - Michael Frost Beckner
+    - David Arata
+  actors:
+    - Robert Redford
+    - Brad Pitt
+    - Catherine McCormack
+    - Stephen Dillane
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: Retiring CIA agent Nathan Muir recalls his training of Tom Bishop while working
+    against agency politics to free him from his Chinese captors.
+  language:
+    - English
+    - German
+    - Arabic
+    - French
+    - Cantonese
+  country:
+    - Germany
+    - USA
+    - Japan
+    - France
+  imdbrating: 7.1
+  slug: spy-game-2001

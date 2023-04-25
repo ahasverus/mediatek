@@ -1,0 +1,35 @@
+- imdbid: tt4154664
+  type: movie
+  title: Captain Marvel
+  year: 2019.0
+  runtime: 123.0
+  director:
+    - Anna Boden
+    - Ryan Fleck
+  writer:
+    - Anna Boden
+    - Ryan Fleck
+    - Geneva Robertson-Dworet
+    - Nicole Perlman
+    - Meg LeFauve
+    - Anna Boden
+    - Ryan Fleck
+    - Geneva Robertson-Dworet
+  actors:
+    - Brie Larson
+    - Samuel L. Jackson
+    - Ben Mendelsohn
+    - Jude Law
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Carol Danvers becomes one of the universe's most powerful heroes when Earth
+    is caught in the middle of a galactic war between two alien races.
+  language: English
+  country:
+    - USA
+    - Australia
+  imdbrating: 6.9
+  slug: captain-marvel-2019

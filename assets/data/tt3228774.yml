@@ -1,0 +1,27 @@
+- imdbid: tt3228774
+  type: movie
+  title: Cruella
+  year: 2021.0
+  runtime: 134.0
+  director: Craig Gillespie
+  writer:
+    - Dana Fox
+    - Tony McNamara
+    - Aline Brosh McKenna
+  actors:
+    - Emma Stone
+    - Emma Thompson
+    - Joel Fry
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+  plot: A live-action prequel feature film following a young Cruella de Vil.
+  language:
+    - English
+    - French
+  country:
+    - United States
+    - United Kingdom
+  imdbrating: 7.4
+  slug: cruella-2021

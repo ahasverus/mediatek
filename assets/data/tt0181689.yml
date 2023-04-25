@@ -1,0 +1,29 @@
+- imdbid: tt0181689
+  type: movie
+  title: Minority Report
+  year: 2002.0
+  runtime: 145.0
+  director: Steven Spielberg
+  writer:
+    - Philip K. Dick
+    - Scott Frank
+    - Jon Cohen
+  actors:
+    - Tom Cruise
+    - Max von Sydow
+    - Steve Harris
+    - Neal McDonough
+  genre:
+    - Action
+    - Crime
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: In a future where a special police unit is able to arrest murderers before they
+    commit their crimes, an officer from that unit is himself accused of a future murder.
+  language:
+    - English
+    - Swedish
+  country: USA
+  imdbrating: 7.6
+  slug: minority-report-2002

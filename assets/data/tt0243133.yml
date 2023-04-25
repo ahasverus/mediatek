@@ -1,0 +1,30 @@
+- imdbid: tt0243133
+  type: movie
+  title: The Man Who Wasn't There
+  year: 2001.0
+  runtime: 116.0
+  director:
+    - Joel Coen
+    - Ethan Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+  actors:
+    - Billy Bob Thornton
+    - Frances McDormand
+    - Michael Badalucco
+    - James Gandolfini
+  genre:
+    - Crime
+    - Drama
+  plot: A laconic, chain-smoking barber blackmails his wife's boss and lover for money
+    to invest in dry cleaning, but his plan goes terribly wrong.
+  language:
+    - English
+    - Italian
+    - French
+  country:
+    - USA
+    - UK
+  imdbrating: 7.5
+  slug: the-man-who-wasn-t-there-2001

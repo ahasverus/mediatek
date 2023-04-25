@@ -1,0 +1,26 @@
+- imdbid: tt1596363
+  type: movie
+  title: The Big Short
+  year: 2015.0
+  runtime: 130.0
+  director: Adam McKay
+  writer:
+    - Charles Randolph
+    - Adam McKay
+    - Michael Lewis
+  actors:
+    - Ryan Gosling
+    - Rudy Eisenzopf
+    - Casey Groves
+    - Charlie Talbert
+  genre:
+    - Biography
+    - Comedy
+    - Drama
+    - History
+  plot: In 2006-2007 a group of investors bet against the US mortgage market. In their
+    research they discover how flawed and corrupt the market is.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: the-big-short-2015

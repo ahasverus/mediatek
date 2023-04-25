@@ -1,0 +1,29 @@
+- imdbid: tt1605783
+  type: movie
+  title: Midnight in Paris
+  year: 2011.0
+  runtime: 94.0
+  director: Woody Allen
+  writer: Woody Allen
+  actors:
+    - Owen Wilson
+    - Rachel McAdams
+    - Kurt Fuller
+    - Mimi Kennedy
+  genre:
+    - Comedy
+    - Fantasy
+    - Romance
+  plot: While on a trip to Paris with his fiancée's family, a nostalgic screenwriter
+    finds himself mysteriously going back to the 1920s every day at midnight.
+  language:
+    - English
+    - French
+    - Spanish
+    - German
+  country:
+    - Spain
+    - USA
+    - France
+  imdbrating: 7.7
+  slug: midnight-in-paris-2011

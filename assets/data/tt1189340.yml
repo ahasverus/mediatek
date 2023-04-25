@@ -1,0 +1,24 @@
+- imdbid: tt1189340
+  type: movie
+  title: The Lincoln Lawyer
+  year: 2011.0
+  runtime: 118.0
+  director: Brad Furman
+  writer:
+    - John Romano
+    - Michael Connelly
+  actors:
+    - Matthew McConaughey
+    - Marisa Tomei
+    - Ryan Phillippe
+    - William H. Macy
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A lawyer defending a wealthy man begins to believe his client is guilty of more
+    than just one crime.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: the-lincoln-lawyer-2011

@@ -1,0 +1,32 @@
+- imdbid: tt1872181
+  type: movie
+  title: The Amazing Spider-Man 2
+  year: 2014.0
+  runtime: 142.0
+  director: Marc Webb
+  writer:
+    - Alex Kurtzman
+    - Roberto Orci
+    - Jeff Pinkner
+    - Alex Kurtzman
+    - Roberto Orci
+    - Jeff Pinkner
+    - James Vanderbilt
+    - Stan Lee
+    - Steve Ditko
+  actors:
+    - Andrew Garfield
+    - Emma Stone
+    - Jamie Foxx
+    - Dane DeHaan
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: When New York is put under siege by Oscorp, it is up to Spider-Man to save the
+    city he swore to protect as well as his loved ones.
+  language: English
+  country: USA
+  imdbrating: 6.6
+  slug: the-amazing-spider-man-2-2014

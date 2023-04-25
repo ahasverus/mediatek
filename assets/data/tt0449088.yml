@@ -1,0 +1,29 @@
+- imdbid: tt0449088
+  type: movie
+  title: 'Pirates of the Caribbean: At World''s End'
+  year: 2007.0
+  runtime: 169.0
+  director: Gore Verbinski
+  writer:
+    - Ted Elliott
+    - Terry Rossio
+    - Ted Elliott
+    - Terry Rossio
+    - Stuart Beattie
+    - Jay Wolpert
+  actors:
+    - Johnny Depp
+    - Geoffrey Rush
+    - Orlando Bloom
+    - Keira Knightley
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of
+    the map, navigate treachery and betrayal, find Jack Sparrow, and make their final
+    alliances for one last decisive battle.
+  language: English
+  country: USA
+  imdbrating: 7.1
+  slug: pirates-of-the-caribbean-at-world-s-end-2007

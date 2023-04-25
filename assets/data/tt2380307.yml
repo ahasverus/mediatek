@@ -1,0 +1,36 @@
+- imdbid: tt2380307
+  type: movie
+  title: Coco
+  year: 2017.0
+  runtime: 105.0
+  director:
+    - Lee Unkrich
+    - Adrian Molina
+  writer:
+    - Lee Unkrich
+    - Jason Katz
+    - Matthew Aldrich
+    - Adrian Molina
+    - Adrian Molina
+    - Matthew Aldrich
+  actors:
+    - Anthony Gonzalez
+    - Gael García Bernal
+    - Benjamin Bratt
+    - Alanna Ubach
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Fantasy
+    - Music
+    - Mystery
+    - Pixar
+  plot: Aspiring musician Miguel, confronted with his family's ancestral ban on music,
+    enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 8.4
+  slug: coco-2017

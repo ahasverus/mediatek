@@ -1,0 +1,26 @@
+- imdbid: tt8655470
+  type: movie
+  title: Hors normes
+  year: 2019.0
+  runtime: 114.0
+  director:
+    - Olivier Nakache
+    - Éric Toledano
+  writer:
+    - Olivier Nakache
+    - Éric Toledano
+  actors:
+    - Vincent Cassel
+    - Reda Kateb
+    - Hélène Vincent
+    - Bryan Mialoundama
+  genre:
+    - Comedy
+    - Drama
+  plot: The story of two men, educators of children and adolescents with autism.
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.4
+  slug: hors-normes-2019

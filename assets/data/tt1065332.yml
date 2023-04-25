@@ -1,0 +1,24 @@
+- imdbid: tt1065332
+  type: movie
+  title: Parlez-moi de la pluie
+  year: 2008.0
+  runtime: 110.0
+  director: Agnès Jaoui
+  writer:
+    - Agnès Jaoui
+    - Jean-Pierre Bacri
+  actors:
+    - Agnès Jaoui
+    - Jean-Pierre Bacri
+    - Jamel Debbouze
+    - Pascale Arbillot
+  genre:
+    - Comedy
+    - Drama
+  plot: Agnes Jaoui plays a local political candidate Agathe Villanova, who returns
+    to her childhood home in the south of France in order to help her sister Florence
+    (Pascale Arbillot) sort through...
+  language: French
+  country: France
+  imdbrating: 6.1
+  slug: parlez-moi-de-la-pluie-2008

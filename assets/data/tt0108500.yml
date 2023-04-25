@@ -1,0 +1,27 @@
+- imdbid: tt0108500
+  type: movie
+  title: Les Visiteurs
+  year: 1993.0
+  runtime: 107.0
+  director: Jean-Marie Poiré
+  writer:
+    - Christian Clavier
+    - Jean-Marie Poiré
+  actors:
+    - Christian Clavier
+    - Jean Reno
+    - Valérie Lemercier
+    - Marie-Anne Chazel
+  genre:
+    - Comedy
+    - Fantasy
+  plot: A medieval knight and his servant ask a familiar wizard to move them back in
+    time to prevent father-in-law's accidentally killing. Instead, they fly away to
+    the 20th century.
+  language:
+    - French
+    - German
+    - English
+  country: France
+  imdbrating: 7.1
+  slug: les-visiteurs-1993

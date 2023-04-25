@@ -1,0 +1,25 @@
+- imdbid: tt0407304
+  type: movie
+  title: War of the Worlds
+  year: 2005.0
+  runtime: 116.0
+  director: Steven Spielberg
+  writer:
+    - Josh Friedman
+    - David Koepp
+    - H.G. Wells
+  actors:
+    - Tom Cruise
+    - Dakota Fanning
+    - Miranda Otto
+    - Justin Chatwin
+  genre:
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: As Earth is invaded by alien tripod fighting machines, one family fights for
+    survival in this sci-fi action film.
+  language: English
+  country: USA
+  imdbrating: 6.5
+  slug: war-of-the-worlds-2005

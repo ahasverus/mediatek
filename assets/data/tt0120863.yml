@@ -1,0 +1,27 @@
+- imdbid: tt0120863
+  type: movie
+  title: The Thin Red Line
+  year: 1998.0
+  runtime: 170.0
+  director: Terrence Malick
+  writer:
+    - James Jones
+    - Terrence Malick
+  actors:
+    - Kirk Acevedo
+    - Penelope Allen
+    - Benjamin Green
+    - Simon Billig
+  genre:
+    - Drama
+    - War
+  plot: Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict
+    at Guadalcanal during the second World War.
+  language:
+    - English
+    - Tok Pisin
+    - Japanese
+    - Greek
+  country: USA
+  imdbrating: 7.6
+  slug: the-thin-red-line-1998

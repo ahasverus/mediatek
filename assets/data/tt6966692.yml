@@ -1,0 +1,32 @@
+- imdbid: tt6966692
+  type: movie
+  title: Green Book
+  year: 2018.0
+  runtime: 130.0
+  director: Peter Farrelly
+  writer:
+    - Nick Vallelonga
+    - Brian Hayes Currie
+    - Peter Farrelly
+  actors:
+    - Viggo Mortensen
+    - Mahershala Ali
+    - Linda Cardellini
+    - Sebastian Maniscalco
+  genre:
+    - Biography
+    - Comedy
+    - Drama
+    - Music
+  plot: A working-class Italian-American bouncer becomes the driver of an African-American
+    classical pianist on a tour of venues through the 1960s American South.
+  language:
+    - English
+    - Italian
+    - Russian
+    - German
+  country:
+    - USA
+    - China
+  imdbrating: 8.2
+  slug: green-book-2018

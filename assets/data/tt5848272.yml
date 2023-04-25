@@ -1,0 +1,34 @@
+- imdbid: tt5848272
+  type: movie
+  title: Ralph Breaks the Internet
+  year: 2018.0
+  runtime: 112.0
+  director:
+    - Phil Johnston
+    - Rich Moore
+  writer:
+    - Phil Johnston
+    - Pamela Ribon
+    - Rich Moore
+    - Phil Johnston
+    - Jim Reardon
+    - Pamela Ribon
+    - Josie Trinidad
+  actors:
+    - John C. Reilly
+    - Sarah Silverman
+    - Gal Gadot
+    - Taraji P. Henson
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Disney
+  plot: Six years after the events of 'Wreck-It Ralph,' Ralph and Vanellope, now friends,
+    discover a wi-fi router in their arcade, leading them into a new adventure.
+  language: English
+  country: USA
+  imdbrating: 7.1
+  slug: ralph-breaks-the-internet-2018

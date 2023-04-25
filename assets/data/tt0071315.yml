@@ -1,0 +1,25 @@
+- imdbid: tt0071315
+  type: movie
+  title: Chinatown
+  year: 1974.0
+  runtime: 130.0
+  director: Roman Polanski
+  writer: Robert Towne
+  actors:
+    - Jack Nicholson
+    - Faye Dunaway
+    - John Huston
+    - Perry Lopez
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: A private detective hired to expose an adulterer finds himself caught up in
+    a web of deceit, corruption, and murder.
+  language:
+    - English
+    - Cantonese
+    - Spanish
+  country: USA
+  imdbrating: 8.2
+  slug: chinatown-1974

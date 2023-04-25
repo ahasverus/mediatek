@@ -1,0 +1,34 @@
+- imdbid: tt0468569
+  type: movie
+  title: The Dark Knight
+  year: 2008.0
+  runtime: 152.0
+  director: Christopher Nolan
+  writer:
+    - Jonathan Nolan
+    - Christopher Nolan
+    - Christopher Nolan
+    - David S. Goyer
+    - Bob Kane
+  actors:
+    - Christian Bale
+    - Heath Ledger
+    - Aaron Eckhart
+    - Michael Caine
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+    - DC-Comics
+  plot: When the menace known as the Joker wreaks havoc and chaos on the people of Gotham,
+    Batman must accept one of the greatest psychological and physical tests of his ability
+    to fight injustice.
+  language:
+    - English
+    - Mandarin
+  country:
+    - USA
+    - UK
+  imdbrating: 9.0
+  slug: the-dark-knight-2008

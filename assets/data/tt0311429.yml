@@ -1,0 +1,34 @@
+- imdbid: tt0311429
+  type: movie
+  title: The League of Extraordinary Gentlemen
+  year: 2003.0
+  runtime: 110.0
+  director: Stephen Norrington
+  writer:
+    - Alan Moore
+    - Kevin O'Neill
+    - James Robinson
+  actors:
+    - Sean Connery
+    - Naseeruddin Shah
+    - Peta Wilson
+    - Tony Curran
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+    - DC-Comics
+  plot: In an alternate Victorian Age world, a group of famous contemporary fantasy,
+    science fiction, and adventure characters team up on a secret mission.
+  language:
+    - English
+    - German
+    - Italian
+  country:
+    - USA
+    - Germany
+    - Czech Republic
+    - UK
+  imdbrating: 5.8
+  slug: the-league-of-extraordinary-gentlemen-2003

@@ -1,0 +1,25 @@
+- imdbid: tt0128278
+  type: movie
+  title: Instinct
+  year: 1999.0
+  runtime: 126.0
+  director: Jon Turteltaub
+  writer:
+    - Gerald Di Pego
+    - Gerald Di Pego
+    - Daniel Quinn
+  actors:
+    - Anthony Hopkins
+    - Cuba Gooding Jr.
+    - Donald Sutherland
+    - Maura Tierney
+  genre:
+    - Drama
+    - Thriller
+  plot: When noted anthropologist Dr. Ethan Powell, who left society to live in the
+    jungle is imprisoned for murder, it's up to young psychiatrist Theo Caulder to get
+    through to him.
+  language: English
+  country: USA
+  imdbrating: 6.6
+  slug: instinct-1999

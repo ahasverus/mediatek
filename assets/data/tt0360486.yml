@@ -1,0 +1,34 @@
+- imdbid: tt0360486
+  type: movie
+  title: Constantine
+  year: 2005.0
+  runtime: 121.0
+  director: Francis Lawrence
+  writer:
+    - Jamie Delano
+    - Garth Ennis
+    - Kevin Brodbin
+    - Kevin Brodbin
+    - Frank A. Cappello
+  actors:
+    - Keanu Reeves
+    - Rachel Weisz
+    - Shia LaBeouf
+    - Djimon Hounsou
+  genre:
+    - Action
+    - Fantasy
+    - Horror
+    - Mystery
+    - DC-Comics
+  plot: Supernatural exorcist and demonologist John Constantine helps a policewoman
+    prove her sister's death was not a suicide, but something more.
+  language:
+    - English
+    - Filipino
+    - Tagalog
+  country:
+    - USA
+    - Germany
+  imdbrating: 7.0
+  slug: constantine-2005

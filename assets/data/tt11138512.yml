@@ -1,0 +1,26 @@
+- imdbid: tt11138512
+  type: movie
+  title: The Northman
+  year: 2022.0
+  runtime: 136.0
+  director: Robert Eggers
+  writer:
+    - Sjón
+    - Robert Eggers
+  actors:
+    - Alexander Skarsgård
+    - Nicole Kidman
+    - Claes Bang
+  genre:
+    - Action
+    - Adventure
+    - Drama
+  plot: From visionary director Robert Eggers comes The Northman, an action-filled epic
+    that follows a young Viking prince on his quest to avenge his father's murder.
+  language:
+    - English
+    - Norse
+    - Old
+  country: United States
+  imdbrating: 7.9
+  slug: the-northman-2022

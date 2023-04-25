@@ -1,0 +1,24 @@
+- imdbid: tt0167404
+  type: movie
+  title: The Sixth Sense
+  year: 1999.0
+  runtime: 107.0
+  director: M. Night Shyamalan
+  writer: M. Night Shyamalan
+  actors:
+    - Bruce Willis
+    - Haley Joel Osment
+    - Toni Collette
+    - Olivia Williams
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: A boy who communicates with spirits seeks the help of a disheartened child psychologist.
+  language:
+    - English
+    - Latin
+    - Spanish
+  country: USA
+  imdbrating: 8.1
+  slug: the-sixth-sense-1999

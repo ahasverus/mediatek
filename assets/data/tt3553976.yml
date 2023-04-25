@@ -1,0 +1,24 @@
+- imdbid: tt3553976
+  type: movie
+  title: Captain Fantastic
+  year: 2016.0
+  runtime: 118.0
+  director: Matt Ross
+  writer: Matt Ross
+  actors:
+    - Viggo Mortensen
+    - George MacKay
+    - Samantha Isler
+    - Annalise Basso
+  genre:
+    - Comedy
+    - Drama
+  plot: In the forests of the Pacific Northwest, a father devoted to raising his six
+    kids with a rigorous physical and intellectual education is forced to leave his
+    paradise and enter the world, challenging his idea of what it means to be a parent.
+  language:
+    - English
+    - Esperanto
+  country: USA
+  imdbrating: 7.9
+  slug: captain-fantastic-2016

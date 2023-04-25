@@ -1,0 +1,29 @@
+- imdbid: tt0071562
+  type: movie
+  title: 'The Godfather: Part II'
+  year: 1974.0
+  runtime: 202.0
+  director: Francis Ford Coppola
+  writer:
+    - Francis Ford Coppola
+    - Mario Puzo
+    - Mario Puzo
+  actors:
+    - Al Pacino
+    - Robert Duvall
+    - Diane Keaton
+    - Robert De Niro
+  genre:
+    - Crime
+    - Drama
+  plot: The early life and career of Vito Corleone in 1920s New York City is portrayed,
+    while his son, Michael, expands and tightens his grip on the family crime syndicate.
+  language:
+    - English
+    - Italian
+    - Spanish
+    - Latin
+    - Sicilian
+  country: USA
+  imdbrating: 9.0
+  slug: the-godfather-part-ii-1974

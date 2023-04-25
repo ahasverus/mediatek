@@ -1,0 +1,28 @@
+- imdbid: tt3170832
+  type: movie
+  title: Room
+  year: 2015.0
+  runtime: 118.0
+  director: Lenny Abrahamson
+  writer:
+    - Emma Donoghue
+    - Emma Donoghue
+  actors:
+    - Brie Larson
+    - Jacob Tremblay
+    - Sean Bridgers
+    - Wendy Crewson
+  genre:
+    - Drama
+    - Thriller
+  plot: Held captive for 7 years in an enclosed space, a woman and her young son finally
+    gain their freedom, allowing the boy to experience the outside world for the first
+    time.
+  language: English
+  country:
+    - Ireland
+    - Canada
+    - UK
+    - USA
+  imdbrating: 8.1
+  slug: room-2015

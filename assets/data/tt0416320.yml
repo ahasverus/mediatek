@@ -1,0 +1,26 @@
+- imdbid: tt0416320
+  type: movie
+  title: Match Point
+  year: 2005.0
+  runtime: 124.0
+  director: Woody Allen
+  writer: Woody Allen
+  actors:
+    - Jonathan Rhys Meyers
+    - Alexander Armstrong
+    - Paul Kaye
+    - Matthew Goode
+  genre:
+    - Drama
+    - Romance
+    - Thriller
+  plot: At a turning point in his life, a former tennis pro falls for an actress who
+    happens to be dating his friend and soon-to-be brother-in-law.
+  language: English
+  country:
+    - UK
+    - USA
+    - Ireland
+    - Luxembourg
+  imdbrating: 7.6
+  slug: match-point-2005

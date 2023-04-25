@@ -1,0 +1,33 @@
+- imdbid: tt2024519
+  type: movie
+  title: The Broken Circle Breakdown
+  year: 2012.0
+  runtime: 111.0
+  director: Felix van Groeningen
+  writer:
+    - Johan Heldenbergh
+    - Mieke Dobbels
+    - Carl Joos
+    - Felix van Groeningen
+    - Charlotte Vandermeersch
+  actors:
+    - Johan Heldenbergh
+    - Veerle Baetens
+    - Nell Cattrysse
+    - Geert Van Rampelberg
+  genre:
+    - Drama
+    - Music
+    - Romance
+  plot: Elise and Didier fall in love at first sight, in spite of their differences.
+    He talks, she listens. He's a romantic atheist, she's a religious realist. When
+    their daughter becomes seriously ill, their love is put on trial.
+  language:
+    - Flemish
+    - English
+    - Dutch
+  country:
+    - Belgium
+    - Netherlands
+  imdbrating: 7.8
+  slug: the-broken-circle-breakdown-2012

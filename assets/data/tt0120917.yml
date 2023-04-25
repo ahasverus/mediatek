@@ -1,0 +1,36 @@
+- imdbid: tt0120917
+  type: movie
+  title: The Emperor's New Groove
+  year: 2000.0
+  runtime: 78.0
+  director: Mark Dindal
+  writer:
+    - Chris Williams
+    - Mark Dindal
+    - David Reynolds
+    - Stephen J. Anderson
+    - Don Hall
+    - John Norton
+    - Roger Allers
+    - Matthew Jacobs
+    - Doug Frankel
+    - Mark Kennedy
+    - Mark Walton
+  actors:
+    - David Spade
+    - John Goodman
+    - Eartha Kitt
+    - Patrick Warburton
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Disney
+  plot: Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must
+    now regain his throne with the help of Pacha, the gentle llama herder.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: the-emperor-s-new-groove-2000

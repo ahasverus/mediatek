@@ -1,0 +1,22 @@
+- imdbid: tt0018773
+  type: movie
+  title: The Circus
+  year: 1928.0
+  runtime: 72.0
+  director: Charles Chaplin
+  writer: Charles Chaplin
+  actors:
+    - Al Ernest Garcia
+    - Merna Kennedy
+    - Harry Crocker
+    - George Davis
+  genre:
+    - Comedy
+    - Romance
+  plot: The Tramp finds work and the girl of his dreams at a circus.
+  language:
+    - None
+    - English
+  country: USA
+  imdbrating: 8.1
+  slug: the-circus-1928

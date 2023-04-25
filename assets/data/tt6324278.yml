@@ -1,0 +1,31 @@
+- imdbid: tt6324278
+  type: movie
+  title: Abominable
+  year: 2019.0
+  runtime: 97.0
+  director:
+    - Jill Culton
+    - Todd Wilderman
+  writer: Jill Culton
+  actors:
+    - Chloe Bennet
+    - Albert Tsai
+    - Tenzing Norgay Trainor
+    - Joseph Izzo
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Three teenagers must help a Yeti return to his family while avoiding a wealthy
+    man and a zoologist who want him for their own needs.
+  language:
+    - English
+    - Mandarin
+  country:
+    - China
+    - USA
+    - Japan
+  imdbrating: 7.0
+  slug: abominable-2019

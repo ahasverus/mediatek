@@ -1,0 +1,31 @@
+- imdbid: tt2277860
+  type: movie
+  title: Finding Dory
+  year: 2016.0
+  runtime: 97.0
+  director:
+    - Andrew Stanton
+    - Angus MacLane
+  writer:
+    - Andrew Stanton
+    - Andrew Stanton
+    - Victoria Strouse
+  actors:
+    - Ellen DeGeneres
+    - Albert Brooks
+    - Ed O'Neill
+    - Kaitlin Olson
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Pixar
+  plot: Friendly but forgetful blue tang Dory begins a search for her long-lost parents,
+    and everyone learns a few things about the real meaning of family along the way.
+  language:
+    - English
+    - Indonesian
+  country: USA
+  imdbrating: 7.3
+  slug: finding-dory-2016

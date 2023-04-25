@@ -1,0 +1,27 @@
+- imdbid: tt0221027
+  type: movie
+  title: Blow
+  year: 2001.0
+  runtime: 124.0
+  director: Ted Demme
+  writer:
+    - Bruce Porter
+    - David McKenna
+    - Nick Cassavetes
+  actors:
+    - Johnny Depp
+    - Penélope Cruz
+    - Franka Potente
+    - Rachel Griffiths
+  genre:
+    - Biography
+    - Crime
+    - Drama
+  plot: The story of how George Jung, along with the Medellín Cartel headed by Pablo
+    Escobar, established the American cocaine market in the 1970s in the United States.
+  language: English
+  country:
+    - USA
+    - Mexico
+  imdbrating: 7.6
+  slug: blow-2001

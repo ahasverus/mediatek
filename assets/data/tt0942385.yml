@@ -1,0 +1,32 @@
+- imdbid: tt0942385
+  type: movie
+  title: Tropic Thunder
+  year: 2008.0
+  runtime: 107.0
+  director: Ben Stiller
+  writer:
+    - Justin Theroux
+    - Ben Stiller
+    - Etan Cohen
+    - Ben Stiller
+    - Justin Theroux
+  actors:
+    - Jeff Kahn
+    - Robert Downey Jr.
+    - Anthony Ruivivar
+    - Jack Black
+  genre:
+    - Action
+    - Comedy
+    - War
+  plot: Through a series of freak occurrences, a group of actors shooting a big-budget
+    war movie are forced to become the soldiers they are portraying.
+  language:
+    - English
+    - Mandarin
+  country:
+    - USA
+    - UK
+    - Germany
+  imdbrating: 7.0
+  slug: tropic-thunder-2008

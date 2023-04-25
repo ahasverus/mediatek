@@ -1,0 +1,24 @@
+- imdbid: tt0119396
+  type: movie
+  title: Jackie Brown
+  year: 1997.0
+  runtime: 154.0
+  director: Quentin Tarantino
+  writer:
+    - Quentin Tarantino
+    - Elmore Leonard
+  actors:
+    - Pam Grier
+    - Samuel L. Jackson
+    - Robert Forster
+    - Bridget Fonda
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A middle-aged woman finds herself in the middle of a huge conflict that will
+    either make her a profit or cost her life.
+  language: English
+  country: USA
+  imdbrating: 7.5
+  slug: jackie-brown-1997

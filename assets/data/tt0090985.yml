@@ -1,0 +1,31 @@
+- imdbid: tt0090985
+  type: movie
+  title: Le Déclin de l'empire américain
+  year: 1986.0
+  runtime: 101.0
+  director: Denys Arcand
+  writer:
+    - Denys Arcand
+    - Gabriel Arcand
+    - Mark Blandford
+    - Jean-Claude Lauzon
+    - Monique Proulx
+    - Yvon Rivard
+    - Catherine Ruelle
+    - Louise Vandelac
+  actors:
+    - Dominique Michel
+    - Dorothée Berryman
+    - Louise Portal
+    - Pierre Curzi
+  genre:
+    - Comedy
+    - Drama
+  plot: Sexual revelations emerge when a group of academics and their partners spend
+    a weekend at a country retreat.
+  language:
+    - French
+    - English
+  country: Canada
+  imdbrating: 7.2
+  slug: le-declin-de-l-empire-americain-1986

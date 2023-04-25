@@ -1,0 +1,28 @@
+- imdbid: tt1677720
+  type: movie
+  title: Ready Player One
+  year: 2018.0
+  runtime: 140.0
+  director: Steven Spielberg
+  writer:
+    - Zak Penn
+    - Ernest Cline
+    - Ernest Cline
+  actors:
+    - Tye Sheridan
+    - Olivia Cooke
+    - Ben Mendelsohn
+    - Lena Waithe
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: When the creator of a virtual reality called the OASIS dies, he makes a posthumous
+    challenge to all OASIS users to find his Easter Egg, which will give the finder
+    his fortune and control of his world.
+  language: English
+  country:
+    - USA
+    - India
+  imdbrating: 7.5
+  slug: ready-player-one-2018

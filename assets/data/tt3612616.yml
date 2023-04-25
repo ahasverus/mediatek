@@ -1,0 +1,21 @@
+- imdbid: tt3612616
+  type: movie
+  title: Mommy
+  year: 2014.0
+  runtime: 139.0
+  director: Xavier Dolan
+  writer: Xavier Dolan
+  actors:
+    - Anne Dorval
+    - Suzanne Clément
+    - Antoine Olivier Pilon
+    - Patrick Huard
+  genre: Drama
+  plot: A widowed single mother, raising her violent son alone, finds new hope when
+    a mysterious neighbor inserts herself into their household.
+  language:
+    - French
+    - English
+  country: Canada
+  imdbrating: 8.1
+  slug: mommy-2014

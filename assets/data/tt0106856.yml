@@ -1,0 +1,27 @@
+- imdbid: tt0106856
+  type: movie
+  title: Falling Down
+  year: 1993.0
+  runtime: 113.0
+  director: Joel Schumacher
+  writer: Ebbe Roe Smith
+  actors:
+    - Michael Douglas
+    - Robert Duvall
+    - Barbara Hershey
+    - Rachel Ticotin
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: An unemployed defense worker frustrated with the various flaws he sees in society
+    begins to psychotically and violently lash out against them.
+  language:
+    - English
+    - Spanish
+    - Korean
+  country:
+    - France
+    - USA
+  imdbrating: 7.6
+  slug: falling-down-1993

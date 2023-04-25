@@ -1,0 +1,31 @@
+- imdbid: tt1255953
+  type: movie
+  title: Incendies
+  year: 2010.0
+  runtime: 131.0
+  director: Denis Villeneuve
+  writer:
+    - Denis Villeneuve
+    - Wajdi Mouawad
+    - Valérie Beaugrand-Champagne
+    - Denis Villeneuve
+  actors:
+    - Mustafa Kamel
+    - Hussein Sami
+    - Rémy Girard
+    - Mélissa Désormeaux-Poulin
+  genre:
+    - Drama
+    - Mystery
+    - War
+  plot: Twins journey to the Middle East to discover their family history and fulfill
+    their mother's last wishes.
+  language:
+    - French
+    - Arabic
+    - English
+  country:
+    - Canada
+    - France
+  imdbrating: 8.3
+  slug: incendies-2010

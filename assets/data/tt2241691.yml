@@ -1,0 +1,25 @@
+- imdbid: tt2241691
+  type: movie
+  title: Au bout du conte
+  year: 2013.0
+  runtime: 112.0
+  director: Agnès Jaoui
+  writer:
+    - Jean-Pierre Bacri
+    - Agnès Jaoui
+  actors:
+    - Agathe Bonitzer
+    - Agnès Jaoui
+    - Arthur Dupont
+    - Jean-Pierre Bacri
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: Laura is still waiting for Prince Charming at the age of 24. So when Sandro
+    appears at a party, exactly like her Prince would in her dreams, she thinks she's
+    found the right one. But then ...
+  language: French
+  country: France
+  imdbrating: 5.8
+  slug: under-the-rainbow-2013

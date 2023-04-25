@@ -1,0 +1,35 @@
+- imdbid: tt2177771
+  type: movie
+  title: The Monuments Men
+  year: 2014.0
+  runtime: 118.0
+  director: George Clooney
+  writer:
+    - George Clooney
+    - Grant Heslov
+    - Robert M. Edsel
+    - Bret Witter
+  actors:
+    - George Clooney
+    - Matt Damon
+    - Bill Murray
+    - Cate Blanchett
+  genre:
+    - Comedy
+    - Drama
+    - History
+    - War
+  plot: An unlikely World War II platoon is tasked to rescue art masterpieces from Nazi
+    thieves and return them to their owners.
+  language:
+    - English
+    - German
+    - Russian
+    - French
+    - Flemish
+    - Dutch
+  country:
+    - USA
+    - Germany
+  imdbrating: 6.1
+  slug: the-monuments-men-2014

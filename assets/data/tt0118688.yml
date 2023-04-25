@@ -1,0 +1,26 @@
+- imdbid: tt0118688
+  type: movie
+  title: Batman & Robin
+  year: 1997.0
+  runtime: 125.0
+  director: Joel Schumacher
+  writer:
+    - Bob Kane
+    - Akiva Goldsman
+  actors:
+    - Arnold Schwarzenegger
+    - George Clooney
+    - Chris O'Donnell
+    - Uma Thurman
+  genre:
+    - Action
+    - Sci-Fi
+    - DC-Comics
+  plot: Batman and Robin try to keep their relationship together even as they must stop
+    Mr. Freeze and Poison Ivy from freezing Gotham City.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 3.8
+  slug: batman-and-robin-1997

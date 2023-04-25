@@ -1,0 +1,32 @@
+- imdbid: tt0215750
+  type: movie
+  title: Enemy at the Gates
+  year: 2001.0
+  runtime: 131.0
+  director: Jean-Jacques Annaud
+  writer:
+    - Jean-Jacques Annaud
+    - Alain Godard
+  actors:
+    - Jude Law
+    - Ed Harris
+    - Rachel Weisz
+    - Joseph Fiennes
+  genre:
+    - Drama
+    - History
+    - War
+  plot: A Russian and a German sniper play a game of cat-and-mouse during the Battle
+    of Stalingrad.
+  language:
+    - English
+    - German
+    - Russian
+  country:
+    - Ireland
+    - UK
+    - France
+    - Germany
+    - USA
+  imdbrating: 7.6
+  slug: enemy-at-the-gates-2001

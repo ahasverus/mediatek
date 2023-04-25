@@ -1,0 +1,29 @@
+- imdbid: tt1542344
+  type: movie
+  title: 127 Hours
+  year: 2010.0
+  runtime: 94.0
+  director: Danny Boyle
+  writer:
+    - Danny Boyle
+    - Simon Beaufoy
+    - Aron Ralston
+  actors:
+    - James Franco
+    - Kate Mara
+    - Amber Tamblyn
+    - Sean Bott
+  genre:
+    - Biography
+    - Drama
+  plot: A mountain climber becomes trapped under a boulder while canyoneering alone
+    near Moab, Utah and resorts to desperate measures in order to survive.
+  language:
+    - English
+    - Italian
+  country:
+    - USA
+    - UK
+    - France
+  imdbrating: 7.6
+  slug: 127-hours-2010

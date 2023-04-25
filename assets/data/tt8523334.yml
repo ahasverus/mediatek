@@ -1,0 +1,28 @@
+- imdbid: tt8523334
+  type: movie
+  title: Nicky Larson et le Parfum de Cupidon
+  year: 2018.0
+  runtime: 91.0
+  director: Philippe Lacheau
+  writer:
+    - Julien Arruti
+    - Pierre Dudan
+    - Tsukasa Hôjô
+  actors:
+    - Philippe Lacheau
+    - Élodie Fontan
+    - Tarek Boudali
+  genre:
+    - Action
+    - Comedy
+    - Crime
+  plot: 'Nicky Larson, the best private investigator in the business, is called for
+    a high-risk mission: to recover the perfume of Cupid, a perfume that would make
+    irresistible the one who uses it.'
+  language:
+    - French
+    - English
+    - Spanish
+  country: France
+  imdbrating: 6.5
+  slug: nicky-larson-et-le-parfum-de-cupidon-2018

@@ -1,0 +1,33 @@
+- imdbid: tt0114709
+  type: movie
+  title: Toy Story
+  year: 1995.0
+  runtime: 81.0
+  director: John Lasseter
+  writer:
+    - John Lasseter
+    - Pete Docter
+    - Andrew Stanton
+    - Joe Ranft
+    - Joss Whedon
+    - Andrew Stanton
+    - Joel Cohen
+    - Alec Sokolow
+  actors:
+    - Tom Hanks
+    - Tim Allen
+    - Don Rickles
+    - Jim Varney
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Pixar
+  plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure
+    supplants him as top toy in a boy's room.
+  language: English
+  country: USA
+  imdbrating: 8.3
+  slug: toy-story-1995

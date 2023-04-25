@@ -1,0 +1,24 @@
+- imdbid: tt0087332
+  type: movie
+  title: Ghostbusters
+  year: 1984.0
+  runtime: 105.0
+  director: Ivan Reitman
+  writer:
+    - Dan Aykroyd
+    - Harold Ramis
+  actors:
+    - Bill Murray
+    - Dan Aykroyd
+    - Sigourney Weaver
+    - Harold Ramis
+  genre:
+    - Action
+    - Comedy
+    - Fantasy
+  plot: Three former parapsychology professors set up shop as a unique ghost removal
+    service.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: ghostbusters-1984

@@ -1,0 +1,28 @@
+- imdbid: tt10341034
+  type: movie
+  title: Boîte noire
+  year: 2021.0
+  runtime: 129.0
+  director: Yann Gozlan
+  writer:
+    - Nicolas Bouvet-Levrard
+    - Yann Gozlan
+    - Jérémie Guez
+  actors:
+    - Pierre Niney
+    - Lou de Laâge
+    - André Dussollier
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: A young and talented black box analyst is on a mission to solve the reason behind
+    the deadly crash of a brand new aircraft.
+  language:
+    - French
+    - English
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.4
+  slug: boite-noire-2021

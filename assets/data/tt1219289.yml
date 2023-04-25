@@ -1,0 +1,29 @@
+- imdbid: tt1219289
+  type: movie
+  title: Limitless
+  year: 2011.0
+  runtime: 105.0
+  director: Neil Burger
+  writer:
+    - Leslie Dixon
+    - Alan Glynn
+  actors:
+    - Bradley Cooper
+    - Robert De Niro
+    - Abbie Cornish
+    - Andrew Howard
+  genre:
+    - Sci-Fi
+    - Thriller
+  plot: With the help of a mysterious pill that enables the user to access 100% of his
+    brain abilities, a struggling writer becomes a financial wizard, but it also puts
+    him in a new world with lots of dangers.
+  language:
+    - English
+    - Russian
+    - Italian
+    - Mandarin
+    - French
+  country: USA
+  imdbrating: 7.4
+  slug: limitless-2011

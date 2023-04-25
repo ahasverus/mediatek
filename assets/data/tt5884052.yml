@@ -1,0 +1,39 @@
+- imdbid: tt5884052
+  type: movie
+  title: Pokémon Detective Pikachu
+  year: 2019.0
+  runtime: 104.0
+  director: Rob Letterman
+  writer:
+    - Dan Hernandez
+    - Benji Samit
+    - Rob Letterman
+    - Derek Connolly
+    - Dan Hernandez
+    - Benji Samit
+    - Nicole Perlman
+    - Satoshi Tajiri
+    - Ken Sugimori
+    - Junichi Masuda
+    - Hiroyuki Jinnai
+  actors:
+    - Ryan Reynolds
+    - Justice Smith
+    - Kathryn Newton
+    - Bill Nighy
+  genre:
+    - Adventure
+    - Comedy
+    - Family
+    - Mystery
+    - Sci-Fi
+  plot: In a world where people collect Pokémon to do battle, a boy comes across an
+    intelligent talking Pikachu who seeks to be a detective.
+  language: English
+  country:
+    - USA
+    - Japan
+    - UK
+    - Canada
+  imdbrating: 6.6
+  slug: pokemon-detective-pikachu-2019

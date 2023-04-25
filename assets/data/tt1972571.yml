@@ -1,0 +1,31 @@
+- imdbid: tt1972571
+  type: movie
+  title: A Most Wanted Man
+  year: 2014.0
+  runtime: 122.0
+  director: Anton Corbijn
+  writer:
+    - Andrew Bovell
+    - John le Carré
+    - Stephen Cornwell
+  actors:
+    - Grigoriy Dobrygin
+    - Philip Seymour Hoffman
+    - Homayoun Ershadi
+    - Mehdi Dehbi
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A Chechen Muslim illegally immigrates to Hamburg, where he gets caught in the
+    international war on terror.
+  language:
+    - Arabic
+    - English
+    - Turkish
+  country:
+    - UK
+    - USA
+    - Germany
+  imdbrating: 6.8
+  slug: a-most-wanted-man-2014

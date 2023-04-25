@@ -1,0 +1,27 @@
+- imdbid: tt4513678
+  type: movie
+  title: 'Ghostbusters: Afterlife'
+  year: 2021.0
+  runtime: 124.0
+  director: Jason Reitman
+  writer:
+    - Gil Kenan
+    - Jason Reitman
+    - Dan Aykroyd
+  actors:
+    - Carrie Coon
+    - Paul Rudd
+    - Finn Wolfhard
+  genre:
+    - Adventure
+    - Comedy
+    - Fantasy
+  plot: When a single mom and her two kids arrive in a small town, they begin to discover
+    their connection to the original Ghostbusters and the secret legacy their grandfather
+    left behind.
+  language: English
+  country:
+    - United States
+    - Canada
+  imdbrating: 7.6
+  slug: ghostbusters-afterlife-2021

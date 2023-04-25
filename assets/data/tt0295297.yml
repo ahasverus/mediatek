@@ -1,0 +1,28 @@
+- imdbid: tt0295297
+  type: movie
+  title: Harry Potter and the Chamber of Secrets
+  year: 2002.0
+  runtime: 161.0
+  director: Chris Columbus
+  writer:
+    - J.K. Rowling
+    - Steve Kloves
+  actors:
+    - Daniel Radcliffe
+    - Rupert Grint
+    - Emma Watson
+    - Richard Griffiths
+  genre:
+    - Adventure
+    - Family
+    - Fantasy
+    - Mystery
+  plot: An ancient prophecy seems to be coming true when a mysterious presence begins
+    stalking the corridors of a school of magic and leaving its victims paralyzed.
+  language: English
+  country:
+    - UK
+    - USA
+    - Germany
+  imdbrating: 7.4
+  slug: harry-potter-and-the-chamber-of-secrets-2002

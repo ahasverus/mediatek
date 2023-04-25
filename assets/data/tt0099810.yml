@@ -1,0 +1,28 @@
+- imdbid: tt0099810
+  type: movie
+  title: The Hunt for Red October
+  year: 1990.0
+  runtime: 135.0
+  director: John McTiernan
+  writer:
+    - Tom Clancy
+    - Larry Ferguson
+    - Donald E. Stewart
+  actors:
+    - Sean Connery
+    - Alec Baldwin
+    - Scott Glenn
+    - Sam Neill
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: In November 1984, the Soviet Union's best submarine Captain in their newest
+    sub violates orders and heads for the U.S. Is he trying to defect or to start a
+    war?
+  language:
+    - English
+    - Russian
+  country: USA
+  imdbrating: 7.6
+  slug: the-hunt-for-red-october-1990

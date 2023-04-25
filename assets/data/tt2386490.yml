@@ -1,0 +1,29 @@
+- imdbid: tt2386490
+  type: movie
+  title: 'How to Train Your Dragon: The Hidden World'
+  year: 2019.0
+  runtime: 104.0
+  director: Dean DeBlois
+  writer:
+    - Dean DeBlois
+    - Cressida Cowell
+  actors:
+    - Jay Baruchel
+    - America Ferrera
+    - F. Murray Abraham
+    - Cate Blanchett
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Family
+    - Fantasy
+  plot: When Hiccup discovers Toothless isn't the only Night Fury, he must seek 'The
+    Hidden World', a secret Dragon Utopia before a hired tyrant named Grimmel finds
+    it first.
+  language: English
+  country:
+    - USA
+    - Japan
+  imdbrating: 7.5
+  slug: how-to-train-your-dragon-the-hidden-world-2019

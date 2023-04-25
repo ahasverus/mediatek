@@ -1,0 +1,23 @@
+- imdbid: tt0857191
+  type: movie
+  title: The Visitor
+  year: 2007.0
+  runtime: 104.0
+  director: Tom McCarthy
+  writer: Tom McCarthy
+  actors:
+    - Richard Jenkins
+    - Haaz Sleiman
+    - Danai Gurira
+    - Hiam Abbass
+  genre: Drama
+  plot: A college professor travels to New York City to attend a conference and finds
+    a young couple living in his apartment.
+  language:
+    - English
+    - French
+    - Arabic
+    - Romanian
+  country: USA
+  imdbrating: 7.6
+  slug: the-visitor-2007

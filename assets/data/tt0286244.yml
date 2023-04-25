@@ -1,0 +1,32 @@
+- imdbid: tt0286244
+  type: movie
+  title: Les Triplettes de Belleville
+  year: 2003.0
+  runtime: 80.0
+  director: Sylvain Chomet
+  writer: Sylvain Chomet
+  actors:
+    - Jean-Claude Donda
+    - Dirk Denoyelle
+    - Monica Viegas
+    - Graziellia de Villa
+  genre:
+    - Animation
+    - Comedy
+    - Drama
+  plot: When her grandson is kidnapped during the Tour de France, Madame Souza and her
+    beloved pooch Bruno team up with the Belleville Sisters--an aged song-and-dance
+    team from the days of Fred Astaire--to rescue him.
+  language:
+    - French
+    - Portuguese
+    - English
+  country:
+    - France
+    - Belgium
+    - Canada
+    - UK
+    - Latvia
+    - USA
+  imdbrating: 7.8
+  slug: les-triplettes-de-belleville-2003

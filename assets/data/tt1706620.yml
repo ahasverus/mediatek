@@ -1,0 +1,37 @@
+- imdbid: tt1706620
+  type: movie
+  title: Snowpiercer
+  year: 2013.0
+  runtime: 126.0
+  director: Bong Joon Ho
+  writer:
+    - Jacques Lob
+    - Benjamin Legrand
+    - Jean-Marc Rochette
+    - Bong Joon Ho
+    - Bong Joon Ho
+    - Kelly Masterson
+  actors:
+    - Chris Evans
+    - Song Kang-Ho
+    - Ed Harris
+    - John Hurt
+  genre:
+    - Action
+    - Drama
+    - Sci-Fi
+  plot: In a future where a failed climate-change experiment has killed all life except
+    for the lucky few who boarded the Snowpiercer, a train that travels around the globe,
+    a new class system emerges.
+  language:
+    - English
+    - Korean
+    - French
+    - Japanese
+    - Czech
+    - German
+  country:
+    - South Korea
+    - Czech Republic
+  imdbrating: 7.1
+  slug: snowpiercer-2013

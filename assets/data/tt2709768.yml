@@ -1,0 +1,31 @@
+- imdbid: tt2709768
+  type: movie
+  title: The Secret Life of Pets
+  year: 2016.0
+  runtime: 87.0
+  director:
+    - Chris Renaud
+    - Yarrow Cheney
+  writer:
+    - Cinco Paul
+    - Ken Daurio
+    - Brian Lynch
+  actors:
+    - Louis C.K.
+    - Eric Stonestreet
+    - Kevin Hart
+    - Jenny Slate
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+  plot: The quiet life of a terrier named Max is upended when his owner takes in Duke,
+    a stray whom Max instantly dislikes.
+  language: English
+  country:
+    - USA
+    - France
+    - Japan
+  imdbrating: 6.5
+  slug: the-secret-life-of-pets-2016

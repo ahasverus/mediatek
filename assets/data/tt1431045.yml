@@ -1,0 +1,26 @@
+- imdbid: tt1431045
+  type: movie
+  title: Deadpool
+  year: 2016.0
+  runtime: 108.0
+  director: Tim Miller
+  writer:
+    - Rhett Reese
+    - Paul Wernick
+  actors:
+    - Ryan Reynolds
+    - Karan Soni
+    - Ed Skrein
+    - Michael Benyaer
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Sci-Fi
+    - Marvel
+  plot: A wisecracking mercenary gets experimented on and becomes immortal but ugly,
+    and sets out to track down the man who ruined his looks.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: deadpool-2016

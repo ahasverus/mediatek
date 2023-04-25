@@ -1,0 +1,26 @@
+- imdbid: tt1661420
+  type: movie
+  title: Polisse
+  year: 2011.0
+  runtime: 127.0
+  director: Maïwenn
+  writer:
+    - Maïwenn
+    - Emmanuelle Bercot
+  actors:
+    - Karin Viard
+    - JoeyStarr
+    - Marina Foïs
+  genre:
+    - Crime
+    - Drama
+  plot: A journalist covering police assigned to a juvenile division enters an affair
+    with one of her subjects.
+  language:
+    - French
+    - Italian
+    - Romanian
+    - Arabic
+  country: France
+  imdbrating: 7.3
+  slug: polisse-2011

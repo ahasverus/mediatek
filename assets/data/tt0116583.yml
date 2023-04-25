@@ -1,0 +1,57 @@
+- imdbid: tt0116583
+  type: movie
+  title: The Hunchback of Notre Dame
+  year: 1996.0
+  runtime: 91.0
+  director:
+    - Gary Trousdale
+    - Kirk Wise
+  writer:
+    - Tab Murphy
+    - Victor Hugo
+    - Tab Murphy
+    - Irene Mecchi
+    - Bob Tzudiker
+    - Noni White
+    - Jonathan Roberts
+    - Kevin Harkey
+    - Gaëtan Brizzi
+    - Paul Brizzi
+    - Ed Gombert
+    - Brenda Chapman
+    - Jeff Snow
+    - Jim Capobianco
+    - Denis Rich
+    - Burny Mattinson
+    - John Sanford
+    - Kelly Wightman
+    - James Fujii
+    - Geefwee Boedoe
+    - Floyd Norman
+    - Francis Glebas
+    - Kirk Hanson
+    - Christine Blum
+    - Sue C. Nichols
+    - Will Finn
+  actors:
+    - Jason Alexander
+    - Mary Kay Bergman
+    - Corey Burton
+    - Jim Cummings
+  genre:
+    - Animation
+    - Drama
+    - Family
+    - Musical
+    - Romance
+    - Disney
+  plot: A deformed bell-ringer must assert his independence from a vicious government
+    minister in order to help his friend, a gypsy dancer.
+  language:
+    - English
+    - Latin
+  country:
+    - USA
+    - France
+  imdbrating: 6.9
+  slug: the-hunchback-of-notre-dame-1996

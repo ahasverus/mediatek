@@ -1,0 +1,27 @@
+- imdbid: tt0187393
+  type: movie
+  title: The Patriot
+  year: 2000.0
+  runtime: 165.0
+  director: Roland Emmerich
+  writer: Robert Rodat
+  actors:
+    - Mel Gibson
+    - Heath Ledger
+    - Joely Richardson
+    - Jason Isaacs
+  genre:
+    - Action
+    - Drama
+    - History
+    - War
+  plot: Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during
+    the American Revolution when a sadistic British officer murders his son.
+  language:
+    - English
+    - French
+  country:
+    - USA
+    - Germany
+  imdbrating: 7.2
+  slug: the-patriot-2000

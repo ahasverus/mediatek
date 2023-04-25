@@ -1,0 +1,26 @@
+- imdbid: tt7888964
+  type: movie
+  title: Nobody
+  year: 2021.0
+  runtime: 92.0
+  director: Ilya Naishuller
+  writer: Derek Kolstad
+  actors:
+    - Bob Odenkirk
+    - Aleksey Serebryakov
+    - Connie Nielsen
+    - Christopher Lloyd
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: A bystander who intervenes to help a woman being harassed by a group of men
+    becomes the target of a vengeful drug lord.
+  language:
+    - Spanish
+    - Russian
+    - English
+  country: USA
+  imdbrating: 7.5
+  slug: nobody-2021

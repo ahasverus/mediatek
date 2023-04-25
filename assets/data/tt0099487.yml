@@ -1,0 +1,26 @@
+- imdbid: tt0099487
+  type: movie
+  title: Edward Scissorhands
+  year: 1990.0
+  runtime: 105.0
+  director: Tim Burton
+  writer:
+    - Tim Burton
+    - Caroline Thompson
+    - Caroline Thompson
+  actors:
+    - Johnny Depp
+    - Winona Ryder
+    - Dianne Wiest
+    - Anthony Michael Hall
+  genre:
+    - Drama
+    - Fantasy
+    - Romance
+  plot: An artificial man, who was incompletely constructed and has scissors for hands,
+    leads a solitary life. Then one day, a suburban lady meets him and introduces him
+    to her world.
+  language: English
+  country: USA
+  imdbrating: 7.9
+  slug: edward-scissorhands-1990

@@ -1,0 +1,29 @@
+- imdbid: tt0357111
+  type: movie
+  title: RRRrrrr!!!
+  year: 2004.0
+  runtime: 98.0
+  director: Alain Chabat
+  writer:
+    - Maurice Barthélémy
+    - Alain Chabat
+    - Marina Foïs
+    - Pierre-François Martin-Laval
+    - Jean-Paul Rouve
+  actors:
+    - Marina Foïs
+    - Gérard Depardieu
+    - Damien Jouillerot
+    - Samir Guesmi
+  genre:
+    - Adventure
+    - Comedy
+    - Crime
+    - Mystery
+    - Sci-Fi
+  plot: A tribe of prehistoric people is puzzled - a murder has happened. The first
+    ever one.
+  language: French
+  country: France
+  imdbrating: 5.9
+  slug: rrrrrrr-2004

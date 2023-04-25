@@ -1,0 +1,57 @@
+- imdbid: tt0114148
+  type: movie
+  title: Pocahontas
+  year: 1995.0
+  runtime: 81.0
+  director:
+    - Mike Gabriel
+    - Eric Goldberg
+  writer:
+    - Carl Binder
+    - Susannah Grant
+    - Philip LaZebnik
+    - Glen Keane
+    - Joe Grant
+    - Ralph Zondag
+    - Burny Mattinson
+    - Ed Gombert
+    - Kaan Kalyon
+    - Francis Glebas
+    - Rob Gibbs
+    - Bruce Morris
+    - Todd Kurosawa
+    - Duncan Marjoribanks
+    - Chris Buck
+    - Andrew Chapman
+    - Randy Cartwright
+    - Will Finn
+    - Broose Johnson
+    - T. Daniel Hofstedt
+    - David Pruiksma
+    - Nik Ranieri
+    - Vincent DeFrances
+    - Tom Mazzocco
+    - Don Dougherty
+    - Jorgen Klubien
+    - Mike Gabriel
+  actors:
+    - Joe Baker
+    - Christian Bale
+    - Irene Bedard
+    - Billy Connolly
+  genre:
+    - Animation
+    - Adventure
+    - Drama
+    - Family
+    - Musical
+    - Romance
+    - Disney
+  plot: An English soldier and the daughter of an Algonquin chief share a romance when
+    English colonists invade seventeenth century Virginia.
+  language:
+    - English
+    - Algonquin
+  country: USA
+  imdbrating: 6.7
+  slug: pocahontas-1995

@@ -1,0 +1,31 @@
+- imdbid: tt0770828
+  type: movie
+  title: Man of Steel
+  year: 2013.0
+  runtime: 143.0
+  director: Zack Snyder
+  writer:
+    - David S. Goyer
+    - David S. Goyer
+    - Christopher Nolan
+    - Jerry Siegel
+    - Joe Shuster
+  actors:
+    - Henry Cavill
+    - Amy Adams
+    - Michael Shannon
+    - Diane Lane
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - DC-Comics
+  plot: An alien child is evacuated from his dying world and sent to Earth to live among
+    humans. His peace is threatened, when other survivors of his home planet invade
+    Earth.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 7.0
+  slug: man-of-steel-2013

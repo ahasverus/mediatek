@@ -1,0 +1,31 @@
+- imdbid: tt0320691
+  type: movie
+  title: Underworld
+  year: 2003.0
+  runtime: 121.0
+  director: Len Wiseman
+  writer:
+    - Kevin Grevioux
+    - Len Wiseman
+    - Danny McBride
+    - Danny McBride
+  actors:
+    - Kate Beckinsale
+    - Scott Speedman
+    - Michael Sheen
+    - Shane Brolly
+  genre:
+    - Action
+    - Fantasy
+    - Thriller
+  plot: Selene, a vampire warrior, is entrenched in a conflict between vampires and
+    werewolves, while falling in love with Michael, a human who is sought by werewolves
+    for unknown reasons.
+  language: English
+  country:
+    - USA
+    - UK
+    - Germany
+    - Hungary
+  imdbrating: 7.0
+  slug: underworld-2003

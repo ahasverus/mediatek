@@ -1,0 +1,47 @@
+- imdbid: tt0095776
+  type: movie
+  title: Oliver & Company
+  year: 1988.0
+  runtime: 74.0
+  director: George Scribner
+  writer:
+    - Jim Cox
+    - Tim Disney
+    - James Mangold
+    - Vance Gerry
+    - Mike Gabriel
+    - Joe Ranft
+    - Jim Mitchell
+    - Chris Bailey
+    - Kirk Wise
+    - David Michener
+    - Roger Allers
+    - Gary Trousdale
+    - Kevin Lima
+    - Michael Cedeno
+    - Peter Young
+    - Leon Joosen
+    - Charles Dickens
+    - Gerrit Graham
+    - Sam Graham
+    - Chris Hubbell
+    - Steve Hulett
+    - Danny Mann
+  actors:
+    - Joey Lawrence
+    - Billy Joel
+    - Cheech Marin
+    - Richard Mulligan
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Musical
+    - Disney
+  plot: A lost and alone kitten joins a gang of dogs engaged in petty larceny in New
+    York City.
+  language: English
+  country: USA
+  imdbrating: 6.7
+  slug: oliver-and-company-1988

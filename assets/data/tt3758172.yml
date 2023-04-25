@@ -1,0 +1,32 @@
+- imdbid: tt3758172
+  type: movie
+  title: Jungle
+  year: 2017.0
+  runtime: 115.0
+  director: Greg McLean
+  writer:
+    - Yossi Ghinsberg
+    - Justin Monjo
+  actors:
+    - Daniel Radcliffe
+    - Thomas Kretschmann
+    - Joel Jackson
+    - Yasmin Kassim
+  genre:
+    - Adventure
+    - Biography
+    - Drama
+    - Thriller
+  plot: A group of friends join a guide for a trek into the Bolivian jungle, searching
+    for an Indian village. The men soon realize that the jungle is a difficult place
+    to be.
+  language:
+    - English
+    - Spanish
+    - German
+  country:
+    - Australia
+    - Colombia
+    - UK
+  imdbrating: 6.7
+  slug: jungle-2017

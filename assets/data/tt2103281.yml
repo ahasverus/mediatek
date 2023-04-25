@@ -1,0 +1,33 @@
+- imdbid: tt2103281
+  type: movie
+  title: Dawn of the Planet of the Apes
+  year: 2014.0
+  runtime: 130.0
+  director: Matt Reeves
+  writer:
+    - Mark Bomback
+    - Rick Jaffa
+    - Amanda Silver
+    - Rick Jaffa
+    - Amanda Silver
+  actors:
+    - Andy Serkis
+    - Jason Clarke
+    - Gary Oldman
+    - Keri Russell
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - Sci-Fi
+  plot: A growing nation of genetically evolved apes led by Caesar is threatened by
+    a band of human survivors of the devastating virus unleashed a decade earlier.
+  language:
+    - English
+    - American Sign Language
+  country:
+    - USA
+    - UK
+    - Canada
+  imdbrating: 7.6
+  slug: dawn-of-the-planet-of-the-apes-2014

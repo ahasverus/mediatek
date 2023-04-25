@@ -1,0 +1,27 @@
+- imdbid: tt14641788
+  type: movie
+  title: Enola Holmes 2
+  year: 2022.0
+  runtime: 129.0
+  director: Harry Bradbeer
+  writer:
+    - Jack Thorne
+    - Harry Bradbeer
+    - Nancy Springer
+  actors:
+    - Millie Bobby Brown
+    - Henry Cavill
+    - David Thewlis
+  genre:
+    - Action
+    - Adventure
+    - Crime
+  plot: Now a detective-for-hire, Enola Holmes takes on her first official case to find
+    a missing girl as the sparks of a dangerous conspiracy ignite a mystery that requires
+    the help of friends - and Sherlock himself - to unravel.
+  language: English
+  country:
+    - United Kingdom
+    - United States
+  imdbrating: 6.8
+  slug: enola-holmes-2-2022

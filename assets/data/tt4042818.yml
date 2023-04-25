@@ -1,0 +1,26 @@
+- imdbid: tt4042818
+  type: movie
+  title: The Death & Life of John F. Donovan
+  year: 2018.0
+  runtime: 123.0
+  director: Xavier Dolan
+  writer:
+    - Xavier Dolan
+    - Jacob Tierney
+  actors:
+    - Kit Harington
+    - Natalie Portman
+    - Jacob Tremblay
+    - Susan Sarandon
+  genre: Drama
+  plot: A decade after the death of an American television star, a young actor reminisces
+    about the written correspondence he shared with him, as well as the impact those
+    letters had on both their lives.
+  language:
+    - English
+    - Czech
+  country:
+    - UK
+    - Canada
+  imdbrating: 6.1
+  slug: the-death-life-of-john-f-donovan-2018

@@ -1,0 +1,30 @@
+- imdbid: tt0396171
+  type: movie
+  title: 'Perfume: The Story of a Murderer'
+  year: 2006.0
+  runtime: 147.0
+  director: Tom Tykwer
+  writer:
+    - Andrew Birkin
+    - Bernd Eichinger
+    - Tom Tykwer
+    - Patrick Süskind
+  actors:
+    - Ben Whishaw
+    - Francesc Albiol
+    - Gonzalo Cunill
+    - Roger Salvany
+  genre:
+    - Crime
+    - Drama
+  plot: Jean-Baptiste Grenouille, born with a superior olfactory sense, creates the
+    world's finest perfume. His work, however, takes a dark turn as he searches for
+    the ultimate scent.
+  language: English
+  country:
+    - Germany
+    - France
+    - Spain
+    - USA
+  imdbrating: 7.5
+  slug: perfume-the-story-of-a-murderer-2006

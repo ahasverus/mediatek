@@ -1,0 +1,26 @@
+- imdbid: tt10618286
+  type: movie
+  title: Mank
+  year: 2020.0
+  runtime: 131.0
+  director: David Fincher
+  writer: Jack Fincher
+  actors:
+    - Gary Oldman
+    - Amanda Seyfried
+    - Lily Collins
+    - Tom Pelphrey
+  genre:
+    - Biography
+    - Comedy
+    - Drama
+  plot: 1930's Hollywood is reevaluated through the eyes of scathing social critic and
+    alcoholic screenwriter Herman J. Mankiewicz as he races to finish the screenplay
+    of Citizen Kane (1941).
+  language:
+    - English
+    - German
+    - Latin
+  country: USA
+  imdbrating: 7.0
+  slug: mank-2020

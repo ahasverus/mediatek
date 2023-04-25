@@ -1,0 +1,26 @@
+- imdbid: tt6160448
+  type: movie
+  title: White Noise
+  year: 2022.0
+  runtime: 136.0
+  director: Noah Baumbach
+  writer:
+    - Noah Baumbach
+    - Don DeLillo
+  actors:
+    - Adam Driver
+    - Greta Gerwig
+    - Don Cheadle
+  genre:
+    - Comedy
+    - Drama
+    - Horror
+  plot: Dramatizes a contemporary American family's attempts to deal with the mundane
+    conflicts of everyday life while grappling with the universal mysteries of love,
+    death, and the possibility of happiness in an uncertain world.
+  language: English
+  country:
+    - United States
+    - United Kingdom
+  imdbrating: 6.6
+  slug: white-noise-2022

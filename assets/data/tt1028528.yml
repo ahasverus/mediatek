@@ -1,0 +1,22 @@
+- imdbid: tt1028528
+  type: movie
+  title: Death Proof
+  year: 2007.0
+  runtime: 113.0
+  director: Quentin Tarantino
+  writer: Quentin Tarantino
+  actors:
+    - Kurt Russell
+    - Zoë Bell
+    - Rosario Dawson
+    - Vanessa Ferlito
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: Two separate sets of voluptuous women are stalked at different times by a scarred
+    stuntman who uses his 'death proof' cars to execute his murderous plans.
+  language: English
+  country: USA
+  imdbrating: 7.0
+  slug: death-proof-2007

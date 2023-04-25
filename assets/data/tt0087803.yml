@@ -1,0 +1,23 @@
+- imdbid: tt0087803
+  type: movie
+  title: '1984'
+  year: 1984.0
+  runtime: 113.0
+  director: Michael Radford
+  writer:
+    - Michael Radford
+    - George Orwell
+  actors:
+    - John Hurt
+    - Richard Burton
+    - Suzanna Hamilton
+    - Cyril Cusack
+  genre:
+    - Drama
+    - Sci-Fi
+  plot: In a totalitarian future society, a man, whose daily work is re-writing history,
+    tries to rebel by falling in love.
+  language: English
+  country: UK
+  imdbrating: 7.1
+  slug: 1984-1984

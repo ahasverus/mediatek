@@ -1,0 +1,29 @@
+- imdbid: tt0417741
+  type: movie
+  title: Harry Potter and the Half-Blood Prince
+  year: 2009.0
+  runtime: 153.0
+  director: David Yates
+  writer:
+    - Steve Kloves
+    - J.K. Rowling
+  actors:
+    - Daniel Radcliffe
+    - Michael Gambon
+    - Dave Legeno
+    - Elarica Johnson
+  genre:
+    - Action
+    - Adventure
+    - Family
+    - Fantasy
+    - Mystery
+  plot: As Harry Potter (Daniel Radcliffe) begins his sixth year at Hogwarts, he discovers
+    an old book marked as 'the property of the Half-Blood Prince' and begins to learn
+    more about Lord Voldemort's (Ralph Fiennes') dark past.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.6
+  slug: harry-potter-and-the-half-blood-prince-2009

@@ -1,0 +1,25 @@
+- imdbid: tt0117665
+  type: movie
+  title: Sleepers
+  year: 1996.0
+  runtime: 147.0
+  director: Barry Levinson
+  writer:
+    - Lorenzo Carcaterra
+    - Barry Levinson
+  actors:
+    - Kevin Bacon
+    - Billy Crudup
+    - Robert De Niro
+    - Ron Eldard
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: After a prank goes disastrously wrong, a group of boys are sent to a detention
+    center where they are brutalized. Thirteen years later, an unexpected random encounter
+    with a former guard gives them a chance for revenge.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: sleepers-1996

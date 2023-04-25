@@ -1,0 +1,33 @@
+- imdbid: tt0460989
+  type: movie
+  title: The Wind that Shakes the Barley
+  year: 2006.0
+  runtime: 127.0
+  director: Ken Loach
+  writer: Paul Laverty
+  actors:
+    - Cillian Murphy
+    - Pádraic Delaney
+    - Liam Cunningham
+    - Orla Fitzgerald
+  genre:
+    - Drama
+    - War
+  plot: Against the backdrop of the Irish War of Independence, two brothers fight a
+    guerrilla war against British forces.
+  language:
+    - English
+    - Irish
+    - Latin
+  country:
+    - Ireland
+    - UK
+    - Germany
+    - Italy
+    - Spain
+    - France
+    - Belgium
+    - Switzerland
+    - Netherlands
+  imdbrating: 7.5
+  slug: the-wind-that-shakes-the-barley-2006

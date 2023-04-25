@@ -1,0 +1,31 @@
+- imdbid: tt4971344
+  type: movie
+  title: The Sisters Brothers
+  year: 2018.0
+  runtime: 122.0
+  director: Jacques Audiard
+  writer:
+    - Jacques Audiard
+    - Thomas Bidegain
+    - Patrick DeWitt
+  actors:
+    - John C. Reilly
+    - Joaquin Phoenix
+    - Jake Gyllenhaal
+    - Riz Ahmed
+  genre:
+    - Crime
+    - Drama
+    - Western
+  plot: In 1850s Oregon, the infamous duo of assassins, Eli Sisters (John C. Reilly)
+    and Charlie Sisters (Joaquin Phoenix), chase a gold prospector and his unexpected
+    ally.
+  language: English
+  country:
+    - France
+    - Spain
+    - Romania
+    - Belgium
+    - USA
+  imdbrating: 7.0
+  slug: the-sisters-brothers-2018

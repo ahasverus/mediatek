@@ -1,0 +1,22 @@
+- imdbid: tt0120601
+  type: movie
+  title: Being John Malkovich
+  year: 1999.0
+  runtime: 113.0
+  director: Spike Jonze
+  writer: Charlie Kaufman
+  actors:
+    - John Cusack
+    - Cameron Diaz
+    - Ned Bellamy
+    - Eric Weinstein
+  genre:
+    - Comedy
+    - Drama
+    - Fantasy
+  plot: A puppeteer discovers a portal that leads literally into the head of movie star
+    John Malkovich.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: being-john-malkovich-1999

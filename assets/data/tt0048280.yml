@@ -1,0 +1,34 @@
+- imdbid: tt0048280
+  type: movie
+  title: Lady and the Tramp
+  year: 1955.0
+  runtime: 76.0
+  director:
+    - Clyde Geronimi
+    - Wilfred Jackson
+    - Hamilton Luske
+  writer:
+    - Ward Greene
+    - Erdman Penner
+    - Joe Rinaldi
+    - Ralph Wright
+    - Don DaGradi
+  actors:
+    - Peggy Lee
+    - Larry Roberts
+    - Bill Baucom
+    - Verna Felton
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Drama
+    - Family
+    - Romance
+    - Disney
+  plot: The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise
+    downtown Mutt.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: lady-and-the-tramp-1955

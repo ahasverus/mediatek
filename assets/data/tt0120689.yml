@@ -1,0 +1,27 @@
+- imdbid: tt0120689
+  type: movie
+  title: The Green Mile
+  year: 1999.0
+  runtime: 189.0
+  director: Frank Darabont
+  writer:
+    - Stephen King
+    - Frank Darabont
+  actors:
+    - Tom Hanks
+    - David Morse
+    - Bonnie Hunt
+    - Michael Clarke Duncan
+  genre:
+    - Crime
+    - Drama
+    - Fantasy
+    - Mystery
+  plot: 'The lives of guards on Death Row are affected by one of their charges: a black
+    man accused of child murder and rape, yet who has a mysterious gift.'
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 8.6
+  slug: the-green-mile-1999

@@ -1,0 +1,24 @@
+- imdbid: tt0095953
+  type: movie
+  title: Rain Man
+  year: 1988.0
+  runtime: 133.0
+  director: Barry Levinson
+  writer:
+    - Barry Morrow
+    - Ronald Bass
+    - Barry Morrow
+  actors:
+    - Dustin Hoffman
+    - Tom Cruise
+    - Valeria Golino
+    - Gerald R. Molen
+  genre: Drama
+  plot: Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother
+    Raymond and a pittance to Charlie; they travel cross-country.
+  language:
+    - English
+    - Italian
+  country: USA
+  imdbrating: 8.0
+  slug: rain-man-1988

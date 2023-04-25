@@ -1,0 +1,31 @@
+- imdbid: tt0097576
+  type: movie
+  title: Indiana Jones and the Last Crusade
+  year: 1989.0
+  runtime: 127.0
+  director: Steven Spielberg
+  writer:
+    - Jeffrey Boam
+    - George Lucas
+    - Menno Meyjes
+    - George Lucas
+    - Philip Kaufman
+  actors:
+    - Harrison Ford
+    - Sean Connery
+    - Denholm Elliott
+    - Alison Doody
+  genre:
+    - Action
+    - Adventure
+  plot: In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing
+    the Holy Grail, Professor Henry 'Indiana' Jones, Jr. finds himself up against Adolf
+    Hitler's Nazis again to stop them from obtaining its powers.
+  language:
+    - English
+    - German
+    - Greek
+    - Arabic
+  country: USA
+  imdbrating: 8.2
+  slug: indiana-jones-and-the-last-crusade-1989

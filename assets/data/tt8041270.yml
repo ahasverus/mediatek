@@ -1,0 +1,28 @@
+- imdbid: tt8041270
+  type: movie
+  title: 'Jurassic World: Dominion'
+  year: 2022.0
+  runtime: 147.0
+  director: Colin Trevorrow
+  writer:
+    - Emily Carmichael
+    - Colin Trevorrow
+    - Derek Connolly
+  actors:
+    - Chris Pratt
+    - Bryce Dallas Howard
+    - Laura Dern
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: Four years after the destruction of Isla Nublar, Biosyn operatives attempt to
+    track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered
+    swarm of giant insects.
+  language: English
+  country:
+    - United States
+    - China
+    - Malta
+  imdbrating: 5.7
+  slug: jurassic-world-dominion-2022

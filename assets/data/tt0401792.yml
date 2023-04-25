@@ -1,0 +1,24 @@
+- imdbid: tt0401792
+  type: movie
+  title: Sin City
+  year: 2005.0
+  runtime: 124.0
+  director:
+    - Frank Miller
+    - Robert Rodriguez
+    - Quentin Tarantino
+  writer: Frank Miller
+  actors:
+    - Jessica Alba
+    - Devon Aoki
+    - Alexis Bledel
+    - Powers Boothe
+  genre:
+    - Crime
+    - Thriller
+  plot: A movie that explores the dark and miserable town, Basin City, and tells the
+    story of three different people, all caught up in violent corruption.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: sin-city-2005

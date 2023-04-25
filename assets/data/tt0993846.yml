@@ -1,0 +1,26 @@
+- imdbid: tt0993846
+  type: movie
+  title: The Wolf of Wall Street
+  year: 2013.0
+  runtime: 180.0
+  director: Martin Scorsese
+  writer:
+    - Terence Winter
+    - Jordan Belfort
+  actors:
+    - Leonardo DiCaprio
+    - Jonah Hill
+    - Margot Robbie
+    - Matthew McConaughey
+  genre:
+    - Biography
+    - Crime
+    - Drama
+  plot: Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker
+    living the high life to his fall involving crime, corruption and the federal government.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 8.2
+  slug: the-wolf-of-wall-street-2013

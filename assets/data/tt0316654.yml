@@ -1,0 +1,32 @@
+- imdbid: tt0316654
+  type: movie
+  title: Spider-Man 2
+  year: 2004.0
+  runtime: 127.0
+  director: Sam Raimi
+  writer:
+    - Stan Lee
+    - Steve Ditko
+    - Alfred Gough
+    - Miles Millar
+    - Michael Chabon
+    - Alvin Sargent
+  actors:
+    - Tobey Maguire
+    - Kirsten Dunst
+    - James Franco
+    - Alfred Molina
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: Peter Parker is beset with troubles in his failing personal life as he battles
+    a brilliant scientist named Doctor Otto Octavius.
+  language:
+    - English
+    - Russian
+    - Chinese
+  country: USA
+  imdbrating: 7.3
+  slug: spider-man-2-2004

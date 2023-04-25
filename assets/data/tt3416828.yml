@@ -1,0 +1,31 @@
+- imdbid: tt3416828
+  type: movie
+  title: 'Ice Age: Collision Course'
+  year: 2016.0
+  runtime: 94.0
+  director:
+    - Mike Thurmeier
+    - Galen T. Chu
+  writer:
+    - Michael J. Wilson
+    - Michael Berg
+    - Yoni Brenner
+    - Aubrey Solomon
+  actors:
+    - Stephanie Beatriz
+    - Robert Cardone
+    - Neil deGrasse Tyson
+    - Adam Devine
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Sci-Fi
+  plot: When Scrat's acorn sends an asteroid to Earth, the Herd must find a way to stop
+    the asteroid from hitting Earth with the help of a returning friend.
+  language: English
+  country: USA
+  imdbrating: 5.7
+  slug: ice-age-collision-course-2016

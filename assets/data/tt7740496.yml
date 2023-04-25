@@ -1,0 +1,29 @@
+- imdbid: tt7740496
+  type: movie
+  title: Nightmare Alley
+  year: 2021.0
+  runtime: 150.0
+  director: Guillermo del Toro
+  writer:
+    - Guillermo del Toro
+    - Kim Morgan
+    - William Lindsay Gresham
+  actors:
+    - Bradley Cooper
+    - Cate Blanchett
+    - Toni Collette
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A grifter working his way up from low-ranking carnival worker to lauded psychic
+    medium matches wits with a psychiatrist bent on exposing him.
+  language:
+    - English
+    - French
+  country:
+    - United States
+    - Mexico
+    - Canada
+  imdbrating: 7.1
+  slug: nightmare-alley-2021

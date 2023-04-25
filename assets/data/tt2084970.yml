@@ -1,0 +1,29 @@
+- imdbid: tt2084970
+  type: movie
+  title: The Imitation Game
+  year: 2014.0
+  runtime: 114.0
+  director: Morten Tyldum
+  writer:
+    - Graham Moore
+    - Andrew Hodges
+  actors:
+    - Benedict Cumberbatch
+    - Keira Knightley
+    - Matthew Goode
+    - Rory Kinnear
+  genre:
+    - Biography
+    - Drama
+    - Thriller
+    - War
+  plot: During World War II, the English mathematical genius Alan Turing tries to crack
+    the German Enigma code with help from fellow mathematicians.
+  language:
+    - English
+    - German
+  country:
+    - UK
+    - USA
+  imdbrating: 8.0
+  slug: the-imitation-game-2014

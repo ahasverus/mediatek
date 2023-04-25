@@ -1,0 +1,27 @@
+- imdbid: tt0110922
+  type: movie
+  title: Le Péril jeune
+  year: 1994.0
+  runtime: 101.0
+  director: Cédric Klapisch
+  writer:
+    - Cédric Klapisch
+    - Santiago Amigorena
+    - Alexis Galmot
+    - Daniel Thieux
+  actors:
+    - Romain Duris
+    - Vincent Elbaz
+    - Nicolas Koretzky
+    - Julien Lambroschini
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: Ten years after their Upper Sixth, Bruno, Momo, Leon and Alain meet together
+    in the waiting room of a maternity hospital. The father of the awaited baby is Tomasi,
+    their best friend at that...
+  language: French
+  country: France
+  imdbrating: 7.3
+  slug: le-peril-jeune-1994

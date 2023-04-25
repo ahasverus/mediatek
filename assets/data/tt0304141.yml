@@ -1,0 +1,28 @@
+- imdbid: tt0304141
+  type: movie
+  title: Harry Potter and the Prisoner of Azkaban
+  year: 2004.0
+  runtime: 142.0
+  director: Alfonso Cuarón
+  writer:
+    - J.K. Rowling
+    - Steve Kloves
+  actors:
+    - Daniel Radcliffe
+    - Richard Griffiths
+    - Pam Ferris
+    - Fiona Shaw
+  genre:
+    - Adventure
+    - Family
+    - Fantasy
+    - Mystery
+  plot: Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry
+    for their third year of study, where they delve into the mystery surrounding an
+    escaped prisoner who poses a dangerous threat to the young wizard.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.9
+  slug: harry-potter-and-the-prisoner-of-azkaban-2004

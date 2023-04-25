@@ -1,0 +1,28 @@
+- imdbid: tt0926084
+  type: movie
+  title: 'Harry Potter and the Deathly Hallows: Part 1'
+  year: 2010.0
+  runtime: 146.0
+  director: David Yates
+  writer:
+    - Steve Kloves
+    - J.K. Rowling
+  actors:
+    - Bill Nighy
+    - Emma Watson
+    - Richard Griffiths
+    - Harry Melling
+  genre:
+    - Adventure
+    - Family
+    - Fantasy
+    - Mystery
+  plot: 'As Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson)
+    race against time and evil to destroy the Horcruxes, they uncover the existence
+    of the three most powerful objects in the wizarding world: the Deathly Hallows.'
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.7
+  slug: harry-potter-and-the-deathly-hallows-part-1-2010

@@ -1,0 +1,28 @@
+- imdbid: tt0118929
+  type: movie
+  title: Dark City
+  year: 1998.0
+  runtime: 100.0
+  director: Alex Proyas
+  writer:
+    - Alex Proyas
+    - Alex Proyas
+    - Lem Dobbs
+    - David S. Goyer
+  actors:
+    - Rufus Sewell
+    - William Hurt
+    - Kiefer Sutherland
+    - Jennifer Connelly
+  genre:
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: A man struggles with memories of his past, which includes a wife he cannot remember,
+    and a nightmarish world, no one else seems to be waking up from.
+  language: English
+  country:
+    - Australia
+    - USA
+  imdbrating: 7.6
+  slug: dark-city-1998

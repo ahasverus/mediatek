@@ -1,0 +1,43 @@
+- imdbid: tt0107952
+  type: movie
+  title: Aladdin and the Return of Jafar
+  year: 1994.0
+  runtime: 69.0
+  director:
+    - Toby Shelton
+    - Tad Stones
+    - Alan Zaslove
+  writer:
+    - Duane Capizzi
+    - Doug Langdale
+    - Mark McCorkle
+    - Robert Schooley
+    - Tad Stones
+    - Kevin Campbell
+    - Mirith J. Colao
+    - Bill Motz
+    - Steve Roberts
+    - Dev Ross
+    - Bob Roth
+    - Jan Strnad
+    - Brian Swenlin
+  actors:
+    - Jason Alexander
+    - Jonathan Freeman
+    - Jeff Bennett
+    - Gilbert Gottfried
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: Jafar comes for revenge on Aladdin, using a foolish thief and Iago's treachery
+    to find a way back into power.
+  language: English
+  country: USA
+  imdbrating: 5.9
+  slug: aladdin-and-the-return-of-jafar-1994

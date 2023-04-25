@@ -1,0 +1,31 @@
+- imdbid: tt1080016
+  type: movie
+  title: 'Ice Age: Dawn of the Dinosaurs'
+  year: 2009.0
+  runtime: 94.0
+  director:
+    - Carlos Saldanha
+    - Mike Thurmeier
+  writer:
+    - Michael Berg
+    - Peter Ackerman
+    - Mike Reiss
+    - Yoni Brenner
+    - Jason Carter Eaton
+  actors:
+    - Eunice Cho
+    - Karen Disher
+    - Harrison Fahn
+    - Maile Flanagan
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: When Sid's attempt to adopt three dinosaur eggs gets him abducted by their real
+    mother to an underground lost world, his friends attempt to rescue him.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: ice-age-dawn-of-the-dinosaurs-2009

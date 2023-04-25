@@ -1,0 +1,29 @@
+- imdbid: tt0112817
+  type: movie
+  title: Dead Man
+  year: 1995.0
+  runtime: 121.0
+  director: Jim Jarmusch
+  writer: Jim Jarmusch
+  actors:
+    - Johnny Depp
+    - Gary Farmer
+    - Crispin Glover
+    - Lance Henriksen
+  genre:
+    - Adventure
+    - Drama
+    - Fantasy
+    - Western
+  plot: On the run after murdering a man, accountant William Blake encounters a strange
+    Native American man named Nobody who prepares him for his journey into the spiritual
+    world.
+  language:
+    - English
+    - Cree
+  country:
+    - USA
+    - Germany
+    - Japan
+  imdbrating: 7.6
+  slug: dead-man-1995

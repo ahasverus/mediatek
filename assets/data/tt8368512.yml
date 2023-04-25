@@ -1,0 +1,23 @@
+- imdbid: tt8368512
+  type: movie
+  title: The Courier
+  year: 2020.0
+  runtime: 112.0
+  director: Dominic Cooke
+  writer: Tom O'Connor
+  actors:
+    - Benedict Cumberbatch
+    - Rachel Brosnahan
+    - Jessie Buckley
+    - Merab Ninidze
+    - Angus Wright
+    - Kirill Pirogov
+    - Keir Hills
+    - Jonathan Harden
+  genre: Thriller
+  plot: Cold War spy Greville Wynne and his Russian source try to put an end to the
+    Cuban Missile Crisis.
+  language: English
+  country: UK
+  imdbrating: 7.3
+  slug: the-courier-2020

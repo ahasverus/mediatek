@@ -1,0 +1,30 @@
+- imdbid: tt0115491
+  type: movie
+  title: Aladdin and the King of Thieves
+  year: 1996.0
+  runtime: 81.0
+  director: Tad Stones
+  writer:
+    - Mark McCorkle
+    - Robert Schooley
+  actors:
+    - Val Bettin
+    - Jim Cummings
+    - Gilbert Gottfried
+    - Linda Larkin
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: The King of Thieves disrupts Aladdin and Jasmine's long-anticipated wedding,
+    looking for an oracle that will lead him to an even bigger treasure. His true identity
+    causes trouble for Aladdin.
+  language: English
+  country: USA
+  imdbrating: 6.4
+  slug: aladdin-and-the-king-of-thieves-1996

@@ -1,0 +1,45 @@
+- imdbid: tt0091149
+  type: movie
+  title: The Great Mouse Detective
+  year: 1986.0
+  runtime: 74.0
+  director:
+    - Ron Clements
+    - Burny Mattinson
+    - David Michener
+    - John Musker
+  writer:
+    - Peter Young
+    - Vance Gerry
+    - Steve Hulett
+    - Ron Clements
+    - John Musker
+    - Bruce Morris
+    - Matthew O'Callaghan
+    - Burny Mattinson
+    - David Michener
+    - Mel Shaw
+    - Eve Titus
+    - Paul Galdone
+  actors:
+    - Vincent Price
+    - Barrie Ingham
+    - Val Bettin
+    - Susanne Pollatschek
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Musical
+    - Mystery
+    - Disney
+  plot: Basil, the rodent Sherlock Holmes, investigates the kidnapping of a toy maker
+    and uncovers its link to his archenemy, Professor Ratigan.
+  language:
+    - English
+    - French
+    - German
+    - Italian
+  country: USA
+  imdbrating: 7.2
+  slug: the-great-mouse-detective-1986

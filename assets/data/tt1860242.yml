@@ -1,0 +1,26 @@
+- imdbid: tt1860242
+  type: movie
+  title: The Highwaymen
+  year: 2019.0
+  runtime: 132.0
+  director: John Lee Hancock
+  writer: John Fusco
+  actors:
+    - Kevin Costner
+    - Woody Harrelson
+    - Kathy Bates
+    - John Carroll Lynch
+  genre:
+    - Biography
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: The untold true story of the legendary detectives who brought down Bonnie and
+    Clyde.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 6.9
+  slug: the-highwaymen-2019

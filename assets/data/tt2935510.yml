@@ -1,0 +1,31 @@
+- imdbid: tt2935510
+  type: movie
+  title: Ad Astra
+  year: 2019.0
+  runtime: 123.0
+  director: James Gray
+  writer:
+    - James Gray
+    - Ethan Gross
+  actors:
+    - Brad Pitt
+    - Tommy Lee Jones
+    - Ruth Negga
+    - Donald Sutherland
+  genre:
+    - Adventure
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: Astronaut Roy McBride undertakes a mission across an unforgiving solar system
+    to uncover the truth about his missing father and his doomed expedition that now,
+    30 years later, threatens the universe.
+  language:
+    - English
+    - Norwegian
+  country:
+    - China
+    - USA
+  imdbrating: 6.6
+  slug: ad-astra-2019

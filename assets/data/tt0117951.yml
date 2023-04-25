@@ -1,0 +1,21 @@
+- imdbid: tt0117951
+  type: movie
+  title: Trainspotting
+  year: 1996.0
+  runtime: 93.0
+  director: Danny Boyle
+  writer:
+    - Irvine Welsh
+    - John Hodge
+  actors:
+    - Ewan McGregor
+    - Ewen Bremner
+    - Jonny Lee Miller
+    - Kevin McKidd
+  genre: Drama
+  plot: Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get
+    out, despite the allure of the drugs and influence of friends.
+  language: English
+  country: UK
+  imdbrating: 8.1
+  slug: trainspotting-1996

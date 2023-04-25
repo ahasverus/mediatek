@@ -1,0 +1,43 @@
+- imdbid: tt0974015
+  type: movie
+  title: Justice League
+  year: 2017.0
+  runtime: 120.0
+  director: Zack Snyder
+  writer:
+    - Jerry Siegel
+    - Joe Shuster
+    - Chris Terrio
+    - Zack Snyder
+    - Chris Terrio
+    - Joss Whedon
+    - Gardner Fox
+    - Bob Kane
+    - Bill Finger
+    - William Moulton Marston
+    - Jack Kirby
+  actors:
+    - Ben Affleck
+    - Henry Cavill
+    - Amy Adams
+    - Gal Gadot
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+    - DC-Comics
+  plot: Fueled by his restored faith in humanity and inspired by Superman's selfless
+    act, Bruce Wayne enlists the help of his new-found ally, Diana Prince, to face an
+    even greater enemy.
+  language:
+    - English
+    - Irish
+    - Russian
+    - Icelandic
+  country:
+    - USA
+    - Canada
+    - UK
+  imdbrating: 6.3
+  slug: justice-league-2017

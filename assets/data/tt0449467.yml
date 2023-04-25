@@ -1,0 +1,34 @@
+- imdbid: tt0449467
+  type: movie
+  title: Babel
+  year: 2006.0
+  runtime: 143.0
+  director: Alejandro G. Iñárritu
+  writer:
+    - Guillermo Arriaga
+    - Guillermo Arriaga
+    - Alejandro G. Iñárritu
+  actors:
+    - Brad Pitt
+    - Cate Blanchett
+    - Mohamed Akhzam
+    - Peter Wight
+  genre: Drama
+  plot: Tragedy strikes a married couple on vacation in the Moroccan desert, touching
+    off an interlocking story involving four different families.
+  language:
+    - English
+    - Arabic
+    - Spanish
+    - Japanese
+    - Berber languages
+    - French
+    - Russian
+    - Japanese Sign Language
+  country:
+    - France
+    - USA
+    - Mexico
+    - Morocco
+  imdbrating: 7.4
+  slug: babel-2006

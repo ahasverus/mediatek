@@ -1,0 +1,26 @@
+- imdbid: tt0066921
+  type: movie
+  title: A Clockwork Orange
+  year: 1971.0
+  runtime: 136.0
+  director: Stanley Kubrick
+  writer:
+    - Stanley Kubrick
+    - Anthony Burgess
+  actors:
+    - Malcolm McDowell
+    - Patrick Magee
+    - Michael Bates
+    - Warren Clarke
+  genre:
+    - Crime
+    - Drama
+    - Sci-Fi
+  plot: In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion
+    experiment, but it doesn't go as planned.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 8.3
+  slug: a-clockwork-orange-1971

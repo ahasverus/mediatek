@@ -1,0 +1,39 @@
+- imdbid: tt0033563
+  type: movie
+  title: Dumbo
+  year: 1941.0
+  runtime: 64.0
+  director:
+    - Samuel Armstrong
+    - Norman Ferguson
+    - Wilfred Jackson
+    - Jack Kinney
+    - Bill Roberts
+    - Ben Sharpsteen
+    - John Elliotte
+  writer:
+    - Joe Grant
+    - Dick Huemer
+    - Otto Englander
+    - Bill Peet
+    - Aurelius Battaglia
+    - Joe Rinaldi
+    - Vernon Stallings
+    - Webb Smith
+  actors:
+    - Herman Bing
+    - Billy Bletcher
+    - Edward Brophy
+    - Hall Johnson Choir
+  genre:
+    - Animation
+    - Drama
+    - Family
+    - Musical
+    - Disney
+  plot: Ridiculed because of his enormous ears, a young circus elephant is assisted
+    by a mouse to achieve his full potential.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: dumbo-1941

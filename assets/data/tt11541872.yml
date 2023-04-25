@@ -1,0 +1,23 @@
+- imdbid: tt11541872
+  type: movie
+  title: Big Bug
+  year: 2022.0
+  runtime: 111.0
+  director: Jean-Pierre Jeunet
+  writer:
+    - Jean-Pierre Jeunet
+    - Guillaume Laurant
+  actors:
+    - Isabelle Nanty
+    - Elsa Zylberstein
+    - Claude Perron
+  genre:
+    - Comedy
+    - Sci-Fi
+  plot: A group of bickering suburbanites find themselves stuck together when an android
+    uprising causes their well intentioned household robots to lock them in for their
+    own safety.
+  language: French
+  country: France
+  imdbrating: 5.4
+  slug: big-bug-2022

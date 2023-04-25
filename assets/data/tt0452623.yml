@@ -1,0 +1,26 @@
+- imdbid: tt0452623
+  type: movie
+  title: Gone Baby Gone
+  year: 2007.0
+  runtime: 114.0
+  director: Ben Affleck
+  writer:
+    - Ben Affleck
+    - Aaron Stockard
+    - Dennis Lehane
+  actors:
+    - Casey Affleck
+    - Michelle Monaghan
+    - Morgan Freeman
+    - Ed Harris
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: Two Boston area detectives investigate a little girl's kidnapping, which ultimately
+    turns into a crisis both professionally and personally.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: gone-baby-gone-2007

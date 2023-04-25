@@ -1,0 +1,30 @@
+- imdbid: tt0117060
+  type: movie
+  title: 'Mission: Impossible'
+  year: 1996.0
+  runtime: 110.0
+  director: Brian De Palma
+  writer:
+    - Bruce Geller
+    - David Koepp
+    - Steven Zaillian
+    - David Koepp
+    - Robert Towne
+  actors:
+    - Tom Cruise
+    - Jon Voight
+    - Emmanuelle Béart
+    - Henry Czerny
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: An American agent, under false suspicion of disloyalty, must discover and expose
+    the real spy without the help of his organization.
+  language:
+    - English
+    - French
+    - Czech
+  country: USA
+  imdbrating: 7.1
+  slug: mission-impossible-1996

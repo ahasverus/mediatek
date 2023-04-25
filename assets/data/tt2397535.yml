@@ -1,0 +1,33 @@
+- imdbid: tt2397535
+  type: movie
+  title: Predestination
+  year: 2014.0
+  runtime: 97.0
+  director:
+    - Michael Spierig
+    - Peter Spierig
+  writer:
+    - Michael Spierig
+    - Peter Spierig
+    - Robert A. Heinlein
+  actors:
+    - Ethan Hawke
+    - Sarah Snook
+    - Christopher Kirby
+    - Christopher Sommers
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: For his final assignment, a top temporal agent must pursue the one criminal
+    that has eluded him throughout time. The chase turns into a unique, surprising and
+    mind-bending exploration of love, fate, identity and time travel taboos.
+  language: English
+  country:
+    - Australia
+    - USA
+  imdbrating: 7.5
+  slug: predestination-2014

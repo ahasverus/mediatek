@@ -1,0 +1,229 @@
+body {
+  background-color: #2A2A2A;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Fredericka the Great', cursive;
+  color: #E6592A;
+  font-size: 52px;
+  text-align: left;
+  padding-left: 34%;
+  /*padding-left: 440px;*/
+  padding-top: 0;
+}
+
+.counter {
+  padding: 0;
+  color: #E6592A;
+  text-align: center;
+}
+
+button {
+  background-color: #E6592A;
+  border: 1px solid #E6592A;
+  border-radius: 5px;
+  color: #ccc;
+  font-size: 14px;
+  margin: 0;
+  padding: 10px 14px;
+  text-decoration: none;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+  background-color: #c64317;
+  border: 1px solid #c64317;
+}
+
+h1 a {
+  color: #E6592A;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  color: #E6592A;
+  text-decoration: none;
+}
+
+footer {
+  color: #E6592A;
+  font-size: 12px;
+  text-align: center;
+  font-style: italic;
+}
+
+
+
+.navbar {
+  overflow: auto;
+  display: block;
+  margin: 20px auto;
+  width: 90%;
+}
+
+.navbar-brand {
+  width: 10%;
+  float: left;
+}
+
+.flex-container {
+  display: flex;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+
+.gallery-content, .gallery-item {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.gallery-item {
+  position: relative;
+  background-color: #2A2A2A;
+}
+
+.gallery-item-img {
+  display: block;
+  width: 98%;
+  height: auto;
+  background-color: #2A2A2A;
+  margin: 1%;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.gallery-item-hidden {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.gallery-item:hover .gallery-item-img {
+  opacity: 0.05;
+}
+
+.gallery-item:hover .gallery-item-hidden {
+  opacity: 1;
+}
+
+.gallery-item-title {
+  color: white;
+  font-size: 14px;
+  margin: 0;
+  padding: 10px 14px;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 100%;
+  left: -22%;
+}
+
+.gallery-item-link {
+  text-align: center;
+  height: 100%;
+}
+
+
+
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-image {
+  margin: auto;
+  display: block;
+  width: 30%;
+  max-width: 700px;
+  float: left;
+  margin: 0 5%;
+  padding: 5px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+
+
+/* Caption of Modal Image */
+.modal-text {
+  margin: auto;
+  display: block;
+  width: 80%;
+  /*max-width: 700px;*/
+  text-align: left;
+  color: #ccc;
+  padding: 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-image, .modal-text {  
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform: scale(0.1)} 
+  to {transform: scale(1)}
+}
+
+/* The Close Button */
+.modal-close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.modal-close:hover,
+.modal-close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-modal-image {
+    width: 100%;
+  }
+}
+
+.logo-imdb {
+  width: 4%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.fab {
+  color: #E6592A;
+}

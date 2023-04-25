@@ -1,0 +1,30 @@
+- imdbid: tt0088748
+  type: movie
+  title: Astérix et la surprise de César
+  year: 1985.0
+  runtime: 79.0
+  director:
+    - Gaëtan Brizzi
+    - Paul Brizzi
+  writer:
+    - René Goscinny
+    - Albert Uderzo
+    - Pierre Tchernia
+  actors:
+    - Roger Carel
+    - Pierre Tornade
+    - Pierre Mondy
+    - Serge Sauvion
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Obelix falls for a new arrival in his home village in Gaul, but is heartbroken
+    when her true love arrives to visit her. However, the lovers are kidnapped by Romans;
+    Asterix and Obelix set ...
+  language: French
+  country: France
+  imdbrating: 6.8
+  slug: asterix-et-la-surprise-de-cesar-1985

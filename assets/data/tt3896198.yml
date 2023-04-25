@@ -1,0 +1,38 @@
+- imdbid: tt3896198
+  type: movie
+  title: Guardians of the Galaxy Vol. 2
+  year: 2017.0
+  runtime: 136.0
+  director: James Gunn
+  writer:
+    - James Gunn
+    - Dan Abnett
+    - Andy Lanning
+    - Steve Englehart
+    - Steve Gan
+    - Jim Starlin
+    - Stan Lee
+    - Larry Lieber
+    - Jack Kirby
+    - Bill Mantlo
+    - Keith Giffen
+    - Steve Gerber
+    - Val Mayerik
+  actors:
+    - Chris Pratt
+    - Zoe Saldana
+    - Dave Bautista
+    - Vin Diesel
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+    - Sci-Fi
+    - Marvel
+  plot: The Guardians struggle to keep together as a team while dealing with their personal
+    family issues, notably Star-Lord's encounter with his father the ambitious celestial
+    being Ego.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: guardians-of-the-galaxy-vol-2-2017

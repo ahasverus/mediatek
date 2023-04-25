@@ -1,0 +1,28 @@
+- imdbid: tt0103874
+  type: movie
+  title: Bram Stoker's Dracula
+  year: 1992.0
+  runtime: 128.0
+  director: Francis Ford Coppola
+  writer:
+    - Bram Stoker
+    - James V. Hart
+  actors:
+    - Gary Oldman
+    - Winona Ryder
+    - Anthony Hopkins
+    - Keanu Reeves
+  genre: Horror
+  plot: The centuries old vampire Count Dracula comes to England to seduce his barrister
+    Jonathan Harker's fiancée Mina Murray and inflict havoc in the foreign land.
+  language:
+    - English
+    - Romanian
+    - Greek
+    - Bulgarian
+    - Latin
+  country:
+    - UK
+    - USA
+  imdbrating: 7.4
+  slug: bram-stroker-s-dracula-1992

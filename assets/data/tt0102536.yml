@@ -1,0 +1,31 @@
+- imdbid: tt0102536
+  type: movie
+  title: Night on Earth
+  year: 1991.0
+  runtime: 129.0
+  director: Jim Jarmusch
+  writer: Jim Jarmusch
+  actors:
+    - Gena Rowlands
+    - Winona Ryder
+    - Lisanne Falk
+    - Alan Randolph Scott
+  genre:
+    - Comedy
+    - Drama
+  plot: An anthology of 5 different cab drivers in 5 American and European cities and
+    their remarkable fares on the same eventful night.
+  language:
+    - English
+    - French
+    - Finnish
+    - Italian
+    - German
+  country:
+    - France
+    - UK
+    - Germany
+    - USA
+    - Japan
+  imdbrating: 7.8
+  slug: night-on-earth-1991

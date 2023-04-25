@@ -1,0 +1,27 @@
+- imdbid: tt0112641
+  type: movie
+  title: Casino
+  year: 1995.0
+  runtime: 178.0
+  director: Martin Scorsese
+  writer:
+    - Nicholas Pileggi
+    - Nicholas Pileggi
+    - Martin Scorsese
+  actors:
+    - Robert De Niro
+    - Sharon Stone
+    - Joe Pesci
+    - James Woods
+  genre:
+    - Crime
+    - Drama
+  plot: 'A tale of greed, deception, money, power, and murder occur between two best
+    friends: a mafia enforcer and a casino executive, compete against each other over
+    a gambling empire, and over a fast living and fast loving socialite.'
+  language: English
+  country:
+    - France
+    - USA
+  imdbrating: 8.2
+  slug: casino-1995

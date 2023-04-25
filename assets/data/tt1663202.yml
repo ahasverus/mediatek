@@ -1,0 +1,34 @@
+- imdbid: tt1663202
+  type: movie
+  title: The Revenant
+  year: 2015.0
+  runtime: 156.0
+  director: Alejandro G. Iñárritu
+  writer:
+    - Mark L. Smith
+    - Alejandro G. Iñárritu
+    - Michael Punke
+  actors:
+    - Leonardo DiCaprio
+    - Tom Hardy
+    - Domhnall Gleeson
+    - Will Poulter
+  genre:
+    - Action
+    - Adventure
+    - Biography
+    - Drama
+    - History
+    - Western
+  plot: A frontiersman on a fur trading expedition in the 1820s fights for survival
+    after being mauled by a bear and left for dead by members of his own hunting team.
+  language:
+    - English
+    - Pawnee
+    - French
+  country:
+    - USA
+    - Hong Kong
+    - Taiwan
+  imdbrating: 8.0
+  slug: the-revenant-2015

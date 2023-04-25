@@ -1,0 +1,31 @@
+- imdbid: tt0112462
+  type: movie
+  title: Batman Forever
+  year: 1995.0
+  runtime: 121.0
+  director: Joel Schumacher
+  writer:
+    - Bob Kane
+    - Lee Batchler
+    - Janet Scott Batchler
+    - Lee Batchler
+    - Janet Scott Batchler
+    - Akiva Goldsman
+  actors:
+    - Val Kilmer
+    - Tommy Lee Jones
+    - Jim Carrey
+    - Nicole Kidman
+  genre:
+    - Action
+    - Adventure
+    - DC-Comics
+  plot: Batman must battle former district attorney Harvey Dent, who is now Two-Face
+    and Edward Nygma, The Riddler with help from an amorous psychologist and a young
+    circus acrobat who becomes his sidekick, Robin.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 5.4
+  slug: batman-forever-1995

@@ -1,0 +1,27 @@
+- imdbid: tt1160419
+  type: movie
+  title: Dune
+  year: 2021.0
+  runtime: 155.0
+  director: Denis Villeneuve
+  writer:
+    - Jon Spaihts
+    - Denis Villeneuve
+    - Eric Roth
+  actors:
+    - Timothée Chalamet
+    - Rebecca Ferguson
+    - Zendaya
+  genre:
+    - Action
+    - Adventure
+    - Drama
+  plot: Feature adaptation of Frank Herbert's science fiction novel, about the son of
+    a noble family entrusted with the protection of the most valuable asset and most
+    vital element in the galaxy.
+  language: English
+  country:
+    - United States
+    - Canada
+  imdbrating: 8.4
+  slug: dune-2021

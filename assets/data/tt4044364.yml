@@ -1,0 +1,27 @@
+- imdbid: tt4044364
+  type: movie
+  title: Citizenfour
+  year: 2014.0
+  runtime: 114.0
+  director: Laura Poitras
+  writer: N/A
+  actors:
+    - Edward Snowden
+    - Glenn Greenwald
+    - William Binney
+    - Jacob Appelbaum
+  genre:
+    - Documentary
+    - Biography
+  plot: A documentarian and a reporter travel to Hong Kong for the first of many meetings
+    with Edward Snowden.
+  language:
+    - English
+    - Portuguese
+    - German
+  country:
+    - USA
+    - Germany
+    - UK
+  imdbrating: 8.0
+  slug: citizenfour-2014

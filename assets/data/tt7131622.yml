@@ -1,0 +1,29 @@
+- imdbid: tt7131622
+  type: movie
+  title: Once Upon a Time... in Hollywood
+  year: 2019.0
+  runtime: 161.0
+  director: Quentin Tarantino
+  writer: Quentin Tarantino
+  actors:
+    - Leonardo DiCaprio
+    - Brad Pitt
+    - Margot Robbie
+    - Emile Hirsch
+  genre:
+    - Comedy
+    - Drama
+  plot: A faded television actor and his stunt double strive to achieve fame and success
+    in the film industry during the final years of Hollywood's Golden Age in 1969 Los
+    Angeles.
+  language:
+    - English
+    - German
+    - Italian
+    - Spanish
+  country:
+    - USA
+    - UK
+    - China
+  imdbrating: 7.7
+  slug: once-upon-a-time-in-hollywood-2019

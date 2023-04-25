@@ -1,0 +1,28 @@
+- imdbid: tt0114746
+  type: movie
+  title: 12 Monkeys
+  year: 1995.0
+  runtime: 129.0
+  director: Terry Gilliam
+  writer:
+    - Chris Marker
+    - David Webb Peoples
+    - Janet Peoples
+  actors:
+    - Joseph Melito
+    - Bruce Willis
+    - Jon Seda
+    - Michael Chance
+  genre:
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: In a future world devastated by disease, a convict is sent back in time to gather
+    information about the man-made virus that wiped out most of the human population
+    on the planet.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 8.0
+  slug: 12-monkeys-1995

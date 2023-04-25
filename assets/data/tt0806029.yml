@@ -1,0 +1,28 @@
+- imdbid: tt0806029
+  type: movie
+  title: L'Affaire Farewell
+  year: 2009.0
+  runtime: 113.0
+  director: Christian Carion
+  writer:
+    - Christian Carion
+    - Serguei Kostine
+    - Eric Raynaud
+  actors:
+    - Guillaume Canet
+    - Emir Kusturica
+    - Alexandra Maria Lara
+    - Ingeborga Dapkunaite
+  genre:
+    - Drama
+    - Romance
+    - Thriller
+  plot: The French intelligence service alerts the U.S. about a Soviet spy operation
+    during the height of the Cold War, which sets off an unfortunate chain of events.
+  language:
+    - French
+    - English
+    - Russian
+  country: France
+  imdbrating: 7.0
+  slug: l-affaire-farewell-2009

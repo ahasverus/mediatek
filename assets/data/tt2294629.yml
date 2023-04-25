@@ -1,0 +1,36 @@
+- imdbid: tt2294629
+  type: movie
+  title: Frozen
+  year: 2013.0
+  runtime: 102.0
+  director:
+    - Chris Buck
+    - Jennifer Lee
+  writer:
+    - Jennifer Lee
+    - Hans Christian Andersen
+    - Chris Buck
+    - Jennifer Lee
+    - Shane Morris
+  actors:
+    - Kristen Bell
+    - Idina Menzel
+    - Jonathan Groff
+    - Josh Gad
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Disney
+  plot: When the newly crowned Queen Elsa accidentally uses her power to turn things
+    into ice to curse her home in infinite winter, her sister Anna teams up with a mountain
+    man, his playful reindeer, and a snowman to change the weather condition.
+  language:
+    - English
+    - Norwegian
+  country: USA
+  imdbrating: 7.4
+  slug: frozen-2013

@@ -1,0 +1,24 @@
+- imdbid: tt4513674
+  type: movie
+  title: Café Society
+  year: 2016.0
+  runtime: 96.0
+  director: Woody Allen
+  writer: Woody Allen
+  actors:
+    - Steve Carell
+    - Sheryl Lee
+    - Todd Weeks
+    - Paul Schackman
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: In the 1930s, a Bronx native moves to Hollywood and falls in love with a young
+    woman who is seeing a married man.
+  language:
+    - English
+    - Hebrew
+  country: USA
+  imdbrating: 6.6
+  slug: cafe-society-2016

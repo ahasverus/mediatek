@@ -1,0 +1,33 @@
+- imdbid: tt0138524
+  type: movie
+  title: Intolerable Cruelty
+  year: 2003.0
+  runtime: 100.0
+  director:
+    - Joel Coen
+    - Ethan Coen
+  writer:
+    - Robert Ramsey
+    - Matthew Stone
+    - John Romano
+    - Robert Ramsey
+    - Matthew Stone
+    - Ethan Coen
+    - Joel Coen
+  actors:
+    - George Clooney
+    - Catherine Zeta-Jones
+    - Geoffrey Rush
+    - Cedric the Entertainer
+  genre:
+    - Comedy
+    - Crime
+    - Romance
+  plot: A beautiful gold digger matches wits with a shrewd Beverly Hills divorce lawyer
+    who is increasingly attracted to her.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 6.2
+  slug: intolerable-cruelty-2003

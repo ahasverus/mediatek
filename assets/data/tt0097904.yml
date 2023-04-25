@@ -1,0 +1,28 @@
+- imdbid: tt0097904
+  type: movie
+  title: Monsieur Hire
+  year: 1989.0
+  runtime: 81.0
+  director: Patrice Leconte
+  writer:
+    - Georges Simenon
+    - Patrice Leconte (scenario
+    - adaptation and dialogue)
+    - Patrick Dewolf (scenario
+    - adaptation and dialogue)
+  actors:
+    - Michel Blanc
+    - Sandrine Bonnaire
+    - Luc Thuillier
+    - André Wilms
+  genre:
+    - Crime
+    - Drama
+    - Romance
+    - Thriller
+  plot: A recluse is accused of murdering a young woman simply because his neighbors
+    think he is strange.
+  language: French
+  country: France
+  imdbrating: 7.6
+  slug: monsieur-hire-1989

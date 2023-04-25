@@ -1,0 +1,32 @@
+- imdbid: tt0110074
+  type: movie
+  title: The Hudsucker Proxy
+  year: 1994.0
+  runtime: 111.0
+  director:
+    - Joel Coen
+    - Ethan Coen
+  writer:
+    - Ethan Coen
+    - Joel Coen
+    - Sam Raimi
+  actors:
+    - Tim Robbins
+    - Jennifer Jason Leigh
+    - Paul Newman
+    - Charles Durning
+  genre:
+    - Comedy
+    - Drama
+    - Fantasy
+  plot: A naive business graduate is installed as president of a manufacturing company
+    as part of a stock scam.
+  language:
+    - English
+    - Finnish
+  country:
+    - UK
+    - Germany
+    - USA
+  imdbrating: 7.2
+  slug: the-hudsucker-proxy-1994

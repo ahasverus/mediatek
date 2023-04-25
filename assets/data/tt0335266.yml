@@ -1,0 +1,27 @@
+- imdbid: tt0335266
+  type: movie
+  title: Lost in Translation
+  year: 2003.0
+  runtime: 102.0
+  director: Sofia Coppola
+  writer: Sofia Coppola
+  actors:
+    - Scarlett Johansson
+    - Bill Murray
+    - Akiko Takeshita
+    - Kazuyoshi Minamimagoe
+  genre:
+    - Drama
+    - Romance
+  plot: A faded movie star and a neglected young woman form an unlikely bond after crossing
+    paths in Tokyo.
+  language:
+    - English
+    - Japanese
+    - German
+    - French
+  country:
+    - USA
+    - Japan
+  imdbrating: 7.7
+  slug: lost-in-translation-2003

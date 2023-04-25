@@ -1,0 +1,234 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #212529 !important;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+html, body, div, img {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.gallery-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.gallery-item {
+  display: block;
+  flex-basis: 100%;
+  padding: 5px;
+  margin: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 0 0 8px 0 rgba(255, 255, 255, 1);
+}
+
+.gallery-item-img {
+  width: 100%;
+}
+
+/* increase images per line as browser gets larger using media queries
+   this first query makes two images per line at 640px width */
+@media only screen and (min-width: 640px) {
+  .gallery-item {
+    flex-basis: 33.333%;
+  }
+}
+
+/* three images per line when browser width exceeds 960px */
+@media only screen and (min-width: 960px) {
+  .gallery-item {
+    flex-basis: 20%;
+  }
+}
+
+/* four images per line when browser width exceeds 1280px */
+@media only screen and (min-width: 1280px) {
+  .gallery-item {
+    flex-basis: 18%;
+  }
+}
+
+/* five images per line when browser width exceeds 1600px */
+@media only screen and (min-width: 1600px) {
+  .gallery-item {
+    flex-basis: 14%;
+  }
+}
+
+.btn {
+  margin: 2px;
+  margin-bottom: 8px;
+  width: 140px;
+}
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  color: #9B9D9E;
+}
+
+.modal-text h1 {
+  text-align: left;
+  color: #E6592A;
+}
+.gallery-title {
+  font-size: 36px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 70px;
+}
+
+.gallery-item {
+  position: relative;
+  background-color: #2A2A2A;
+}
+
+.gallery-item-hidden {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  margin: 0;
+  top: 10%;
+  width: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.gallery-item:hover {
+  cursor: pointer;
+}
+
+.gallery-item:hover .gallery-item-img {
+  opacity: 0.05;
+}
+
+.gallery-item:hover .gallery-item-hidden {
+  opacity: 1;
+}
+
+.gallery-item-title p {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-image {
+  margin: auto;
+  display: block;
+  width: 30%;
+  max-width: 700px;
+  float: left;
+  margin: 0 5%;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 12px 0 rgba(255, 255, 255, 1);
+}
+
+
+
+/* Caption of Modal Image */
+.modal-text {
+  margin: auto;
+  display: block;
+  width: 80%;
+  /*max-width: 700px;*/
+  text-align: left;
+  color: #ccc;
+  padding: 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-image, .modal-text {
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform: scale(0.1)}
+  to {transform: scale(1)}
+}
+
+/* The Close Button */
+.modal-close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.modal-close:hover,
+.modal-close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-modal-image {
+    width: 100%;
+  }
+}
+
+.logo-imdb {
+  width: 4%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.fab {
+  color: #E6592A;
+}
+
+footer {
+  color: #9B9D9E;
+  font-size: 12px;
+  text-align: center;
+  font-style: normal;
+  border-top: 1px solid #9B9D9E;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 10px;
+}

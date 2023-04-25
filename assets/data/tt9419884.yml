@@ -1,0 +1,28 @@
+- imdbid: tt9419884
+  type: movie
+  title: Doctor Strange in the Multiverse of Madness
+  year: 2022.0
+  runtime: 126.0
+  director: Sam Raimi
+  writer:
+    - Michael Waldron
+    - Stan Lee
+    - Steve Ditko
+  actors:
+    - Benedict Cumberbatch
+    - Elizabeth Olsen
+    - Chiwetel Ejiofor
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: Doctor Strange teams up with a mysterious teenage girl from his dreams who can
+    travel across multiverses, to battle multiple threats, including other-universe
+    versions of himself, which threaten to wipe out millions across the mul...
+  language:
+    - English
+    - Spanish
+    - Chinese
+  country: United States
+  imdbrating: 6.9
+  slug: doctor-strange-in-the-multiverse-of-madness-2022

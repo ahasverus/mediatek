@@ -1,0 +1,37 @@
+- imdbid: tt0072901
+  type: movie
+  title: "Astérix: Les 12 travaux d'Astérix"
+  year: 1976.0
+  runtime: 82.0
+  director:
+    - René Goscinny
+    - Henri Gruel
+    - Albert Uderzo
+    - Pierre Watrin
+  writer:
+    - René Goscinny
+    - Albert Uderzo
+    - René Goscinny
+    - Albert Uderzo
+    - Pierre Tchernia
+  actors:
+    - Roger Carel
+    - Jacques Morel
+    - Pierre Tornade
+    - Henri Labussière
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: A group of indomitable Gauls are challenged by Roman Emperor Julius Caesar to
+    accomplish twelve impossible tasks.
+  language:
+    - French
+    - English
+  country:
+    - France
+    - UK
+  imdbrating: 7.7
+  slug: asterix-les-12-travaux-d-asterix-1976

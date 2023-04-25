@@ -1,0 +1,52 @@
+- imdbid: tt0119282
+  type: movie
+  title: Hercules
+  year: 1997.0
+  runtime: 93.0
+  director:
+    - Ron Clements
+    - John Musker
+  writer:
+    - Ron Clements
+    - John Musker
+    - Don McEnery
+    - Bob Shaw
+    - Irene Mecchi
+    - Kaan Kalyon
+    - Kelly Wightman
+    - Randy Cartwright
+    - John Ramirez
+    - Jeff Snow
+    - Vance Gerry
+    - Kirk Hanson
+    - Tamara Lusher
+    - Francis Glebas
+    - Mark Kennedy
+    - Bruce Morris
+    - Don Dougherty
+    - Thom Enriquez
+  actors:
+    - Tate Donovan
+    - Josh Keaton
+    - Roger Bart
+    - Danny DeVito
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: The son of Zeus and Hera is stripped of his immortality as an infant and must
+    become a true hero in order to reclaim it.
+  language:
+    - English
+    - Spanish
+    - Greek
+  country:
+    - USA
+    - France
+  imdbrating: 7.3
+  slug: hercules-1997

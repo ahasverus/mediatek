@@ -1,0 +1,32 @@
+- imdbid: tt1533818
+  type: movie
+  title: L'Homme qui voulait vivre sa vie
+  year: 2010.0
+  runtime: 114.0
+  director: Éric Lartigau
+  writer:
+    - Éric Lartigau (scenario
+    - adaptation and dialogue)
+    - Laurent de Bartillat (scenario
+    - adaptation and dialogue)
+    - Emmanuelle Bercot
+    - Bernard Jeanjean
+    - Douglas Kennedy
+    - Stéphane Cabel
+  actors:
+    - Romain Duris
+    - Marina Foïs
+    - Niels Arestrup
+    - Branka Katic
+  genre:
+    - Drama
+    - Thriller
+  plot: A successful Paris lawyer is forced to re-invent his life after he makes a fatal
+    mistake.
+  language:
+    - French
+    - Serbian
+    - English
+  country: France
+  imdbrating: 6.7
+  slug: l-homme-qui-voulait-vivre-sa-vie-2010

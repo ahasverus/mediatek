@@ -1,0 +1,29 @@
+- imdbid: tt0119174
+  type: movie
+  title: The Game
+  year: 1997.0
+  runtime: 129.0
+  director: David Fincher
+  writer:
+    - John Brancato
+    - Michael Ferris
+  actors:
+    - Michael Douglas
+    - Sean Penn
+    - Deborah Kara Unger
+    - James Rebhorn
+  genre:
+    - Action
+    - Drama
+    - Mystery
+    - Thriller
+  plot: After a wealthy banker is given an opportunity to participate in a mysterious
+    game, his life is turned upside down when he becomes unable to distinguish between
+    the game and reality.
+  language:
+    - English
+    - Cantonese
+    - German
+  country: USA
+  imdbrating: 7.8
+  slug: the-game-1997

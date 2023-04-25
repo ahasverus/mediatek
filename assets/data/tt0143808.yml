@@ -1,0 +1,31 @@
+- imdbid: tt0143808
+  type: movie
+  title: 'Pocahontas II: Journey to a New World'
+  year: 1998.0
+  runtime: 72.0
+  director:
+    - Tom Ellery
+    - Bradley Raymond
+  writer:
+    - Allen Estrin
+    - Cindy Marcus
+    - Flip Kobler
+  actors:
+    - Irene Bedard
+    - Jim Cummings
+    - Donal Gibson
+    - Finola Hughes
+  genre:
+    - Animation
+    - Adventure
+    - Drama
+    - Family
+    - Musical
+    - Romance
+    - Disney
+  plot: Pocahontas sets off on a journey to England with Meeko, Flit, and Percy. Hearing
+    rumors of John Smith's death, Pocahontas tries to prevent war and battle.
+  language: English
+  country: USA
+  imdbrating: 4.9
+  slug: pocahontas-ii-journey-to-a-new-world-1998

@@ -1,0 +1,30 @@
+- imdbid: tt0335245
+  type: movie
+  title: The Ladykillers
+  year: 2004.0
+  runtime: 104.0
+  director:
+    - Ethan Coen
+    - Joel Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+    - William Rose
+  actors:
+    - Tom Hanks
+    - Irma P. Hall
+    - Marlon Wayans
+    - J.K. Simmons
+  genre:
+    - Comedy
+    - Crime
+    - Thriller
+  plot: An eccentric, if not charming Southern professor and his crew pose as a classical
+    ensemble in order to rob a casino, all under the nose of his unsuspecting but sharp
+    old landlady.
+  language:
+    - English
+    - Vietnamese
+  country: USA
+  imdbrating: 6.2
+  slug: the-ladykillers-2004

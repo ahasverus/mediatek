@@ -1,0 +1,40 @@
+- imdbid: tt0101414
+  type: movie
+  title: Beauty and the Beast
+  year: 1991.0
+  runtime: 84.0
+  director:
+    - Gary Trousdale
+    - Kirk Wise
+  writer:
+    - Linda Woolverton
+    - Brenda Chapman
+    - Chris Sanders
+    - Burny Mattinson
+    - Kevin Harkey
+    - Brian Pimental
+    - Bruce Woodside
+    - Joe Ranft
+    - Tom Ellery
+    - Kelly Asbury
+    - Robert Lence
+  actors:
+    - Robby Benson
+    - Jesse Corti
+    - Rex Everhart
+    - Angela Lansbury
+  genre:
+    - Animation
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: A prince cursed to spend his days as a hideous monster sets out to regain his
+    humanity by earning a young woman's love.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 8.0
+  slug: beauty-and-the-beast-1991

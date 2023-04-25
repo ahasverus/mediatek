@@ -1,0 +1,21 @@
+- imdbid: tt0245574
+  type: movie
+  title: Y Tu Mamá También
+  year: 2001.0
+  runtime: 106.0
+  director: Alfonso Cuarón
+  writer:
+    - Carlos Cuarón
+    - Alfonso Cuarón
+  actors:
+    - Daniel Giménez Cacho
+    - Ana López Mercado
+    - Diego Luna
+    - Gael García Bernal
+  genre: Drama
+  plot: In Mexico, two teenage boys and an attractive older woman embark on a road trip
+    and learn a thing or two about life, friendship, sex, and each other.
+  language: Spanish
+  country: Mexico
+  imdbrating: 7.6
+  slug: y-tu-mama-tambien-2001

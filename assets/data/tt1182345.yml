@@ -1,0 +1,30 @@
+- imdbid: tt1182345
+  type: movie
+  title: Moon
+  year: 2009.0
+  runtime: 97.0
+  director: Duncan Jones
+  writer:
+    - Duncan Jones
+    - Nathan Parker
+  actors:
+    - Sam Rockwell
+    - Kevin Spacey
+    - Dominique McElligott
+    - Rosie Shaw
+  genre:
+    - Drama
+    - Mystery
+    - Sci-Fi
+  plot: Astronaut Sam Bell has a quintessentially personal encounter toward the end
+    of his three-year stint on the Moon, where he, working alongside his computer, GERTY,
+    sends back to Earth parcels of a resource that has helped diminish our planet's
+    power problems.
+  language:
+    - English
+    - Spanish
+  country:
+    - UK
+    - USA
+  imdbrating: 7.9
+  slug: moon-2009

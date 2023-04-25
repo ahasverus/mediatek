@@ -1,0 +1,33 @@
+- imdbid: tt0119116
+  type: movie
+  title: The Fifth Element
+  year: 1997.0
+  runtime: 126.0
+  director: Luc Besson
+  writer:
+    - Luc Besson
+    - Robert Mark Kamen
+    - Luc Besson
+  actors:
+    - Bruce Willis
+    - Gary Oldman
+    - Ian Holm
+    - Milla Jovovich
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: In the colorful future, a cab driver unwittingly becomes the central figure
+    in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.
+  language:
+    - English
+    - Swedish
+    - German
+    - Arabic
+    - Egyptian
+  country:
+    - France
+    - UK
+    - USA
+  imdbrating: 7.7
+  slug: the-fifth-element-1997

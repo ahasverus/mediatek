@@ -1,0 +1,25 @@
+- imdbid: tt0115658
+  type: movie
+  title: Bernie
+  year: 1996.0
+  runtime: 87.0
+  director: Albert Dupontel
+  writer:
+    - Albert Dupontel
+    - Albert Dupontel
+    - Gilles Laurent
+  actors:
+    - Claude Perron
+    - Albert Dupontel
+    - Roland Blanche
+    - Hélène Vincent
+  genre:
+    - Comedy
+    - Drama
+  plot: A 30 year old orphan finds his life's official version hard to swallow. His
+    parents couldn't possibly have abandoned him in a trash can as a baby. No, they
+    were victims of a mafia plot and today, if they're still alive, they need his help.
+  language: French
+  country: France
+  imdbrating: 7.2
+  slug: bernie-1996

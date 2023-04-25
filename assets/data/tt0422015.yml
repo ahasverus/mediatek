@@ -1,0 +1,31 @@
+- imdbid: tt0422015
+  type: movie
+  title: Le Couperet
+  year: 2005.0
+  runtime: 117.0
+  director: Costa-Gavras
+  writer:
+    - Donald E. Westlake
+    - Costa-Gavras
+    - Jean-Claude Grumberg
+  actors:
+    - José Garcia
+    - Karin Viard
+    - Geordy Monfils
+    - Christa Théret
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+    - Thriller
+  plot: 'A chemist (Garcia) loses his job to outsourcing. Two years later and still
+    jobless, he hits on a solution: to genuinely eliminate his competition.'
+  language:
+    - French
+    - Dutch
+  country:
+    - Belgium
+    - France
+    - Spain
+  imdbrating: 7.4
+  slug: le-couperet-2005

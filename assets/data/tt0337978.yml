@@ -1,0 +1,31 @@
+- imdbid: tt0337978
+  type: movie
+  title: Live Free or Die Hard
+  year: 2007.0
+  runtime: 128.0
+  director: Len Wiseman
+  writer:
+    - Mark Bomback
+    - Mark Bomback
+    - David Marconi
+    - John Carlin
+    - Roderick Thorp
+  actors:
+    - Bruce Willis
+    - Timothy Olyphant
+    - Justin Long
+    - Maggie Q
+  genre:
+    - Action
+    - Thriller
+  plot: John McClane and a young hacker join forces to take down master cyber-terrorist
+    Thomas Gabriel in Washington D.C.
+  language:
+    - English
+    - Italian
+    - French
+  country:
+    - USA
+    - UK
+  imdbrating: 7.1
+  slug: live-free-or-die-hard-2007

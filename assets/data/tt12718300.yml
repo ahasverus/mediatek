@@ -1,0 +1,23 @@
+- imdbid: tt12718300
+  type: movie
+  title: Confess, Fletch
+  year: 2022.0
+  runtime: 98.0
+  director: Greg Mottola
+  writer:
+    - Greg Mottola
+    - Zev Borow
+    - Gregory McDonald
+  actors:
+    - Jon Hamm
+    - Caitlin Zerra Rose
+    - Roy Wood Jr.
+  genre:
+    - Comedy
+    - Crime
+  plot: After becoming the prime suspect in multiple murders, Fletch strives to prove
+    his innocence while simultaneously searching for his fiancé's stolen art collection.
+  language: English
+  country: United States
+  imdbrating: 6.5
+  slug: confess-fletch-2022

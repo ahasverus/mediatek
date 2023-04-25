@@ -1,0 +1,28 @@
+- imdbid: tt0120755
+  type: movie
+  title: 'Mission: Impossible II'
+  year: 2000.0
+  runtime: 123.0
+  director: John Woo
+  writer:
+    - Bruce Geller
+    - Ronald D. Moore
+    - Brannon Braga
+    - Robert Towne
+  actors:
+    - Tom Cruise
+    - Dougray Scott
+    - Thandie Newton
+    - Ving Rhames
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: IMF agent Ethan Hunt is sent to Sydney to find and destroy a genetically modified
+    disease called 'Chimera'.
+  language: English
+  country:
+    - USA
+    - Germany
+  imdbrating: 6.1
+  slug: mission-impossible-ii-2000

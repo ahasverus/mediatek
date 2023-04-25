@@ -1,0 +1,31 @@
+- imdbid: tt0936501
+  type: movie
+  title: Taken
+  year: 2008.0
+  runtime: 90.0
+  director: Pierre Morel
+  writer:
+    - Luc Besson
+    - Robert Mark Kamen
+  actors:
+    - Liam Neeson
+    - Maggie Grace
+    - Leland Orser
+    - Jon Gries
+  genre:
+    - Action
+    - Adventure
+    - Crime
+    - Thriller
+  plot: A retired CIA agent travels across Europe and relies on his old skills to save
+    his estranged daughter, who has been kidnapped while on a trip to Paris.
+  language:
+    - English
+    - French
+    - Albanian
+    - Arabic
+  country:
+    - France
+    - USA
+  imdbrating: 7.8
+  slug: taken-2008

@@ -1,0 +1,28 @@
+- imdbid: tt0099685
+  type: movie
+  title: Goodfellas
+  year: 1990.0
+  runtime: 146.0
+  director: Martin Scorsese
+  writer:
+    - Nicholas Pileggi
+    - Nicholas Pileggi
+    - Martin Scorsese
+  actors:
+    - Robert De Niro
+    - Ray Liotta
+    - Joe Pesci
+    - Lorraine Bracco
+  genre:
+    - Biography
+    - Crime
+    - Drama
+  plot: The story of Henry Hill and his life in the mob, covering his relationship with
+    his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American
+    crime syndicate.
+  language:
+    - English
+    - Italian
+  country: USA
+  imdbrating: 8.7
+  slug: goodfellas-1990

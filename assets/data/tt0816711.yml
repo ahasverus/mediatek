@@ -1,0 +1,37 @@
+- imdbid: tt0816711
+  type: movie
+  title: World War Z
+  year: 2013.0
+  runtime: 116.0
+  director: Marc Forster
+  writer:
+    - Matthew Michael Carnahan
+    - Drew Goddard
+    - Damon Lindelof
+    - Matthew Michael Carnahan
+    - J. Michael Straczynski
+    - Max Brooks
+  actors:
+    - Brad Pitt
+    - Mireille Enos
+    - Daniella Kertesz
+    - James Badge Dale
+  genre:
+    - Action
+    - Adventure
+    - Horror
+    - Sci-Fi
+  plot: Former United Nations employee Gerry Lane traverses the world in a race against
+    time to stop a zombie pandemic that is toppling armies and governments and threatens
+    to destroy humanity itself.
+  language:
+    - English
+    - Spanish
+    - Hebrew
+    - Arabic
+  country:
+    - USA
+    - UK
+    - Malta
+  imdbrating: 7.0
+  slug: world-war-z-2013

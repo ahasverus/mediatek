@@ -1,0 +1,28 @@
+- imdbid: tt1650554
+  type: movie
+  title: Kick-Ass 2
+  year: 2013.0
+  runtime: 103.0
+  director: Jeff Wadlow
+  writer:
+    - Jeff Wadlow
+    - Mark Millar
+    - John Romita Jr.
+  actors:
+    - Aaron Taylor-Johnson
+    - Chloë Grace Moretz
+    - Christopher Mintz-Plasse
+  genre:
+    - Action
+    - Comedy
+    - Crime
+  plot: Following Kick-Ass' heroics, other citizens are inspired to become masked crusaders.
+    But Red Mist leads his own group of evil supervillains to get revenge, kill Kick-Ass
+    and destroy everything he stands for.
+  language: English
+  country:
+    - United Kingdom
+    - United States
+    - Japan
+  imdbrating: 6.5
+  slug: kick-ass-2-2013

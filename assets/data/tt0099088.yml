@@ -1,0 +1,29 @@
+- imdbid: tt0099088
+  type: movie
+  title: Back to the Future Part III
+  year: 1990.0
+  runtime: 118.0
+  director: Robert Zemeckis
+  writer:
+    - Robert Zemeckis
+    - Bob Gale
+    - Robert Zemeckis
+    - Bob Gale
+    - Bob Gale
+  actors:
+    - Michael J. Fox
+    - Christopher Lloyd
+    - Mary Steenburgen
+    - Thomas F. Wilson
+  genre:
+    - Adventure
+    - Comedy
+    - Sci-Fi
+    - Western
+  plot: Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and
+    must travel back in time to save him. With no fuel readily available for the DeLorean,
+    the two must figure how to escape the Old West before Emmett is murdered.
+  language: English
+  country: USA
+  imdbrating: 7.4
+  slug: back-to-the-future-part-iii-1990

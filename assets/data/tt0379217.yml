@@ -1,0 +1,26 @@
+- imdbid: tt0379217
+  type: movie
+  title: Coffee and Cigarettes
+  year: 2003.0
+  runtime: 95.0
+  director: Jim Jarmusch
+  writer: Jim Jarmusch
+  actors:
+    - Roberto Benigni
+    - Steven Wright
+    - Joie Lee
+    - Cinqué Lee
+  genre:
+    - Comedy
+    - Drama
+    - Music
+  plot: A series of vignettes that all have coffee and cigarettes in common.
+  language:
+    - English
+    - French
+  country:
+    - USA
+    - Japan
+    - Italy
+  imdbrating: 7.1
+  slug: coffee-and-cigarettes-2003

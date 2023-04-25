@@ -1,0 +1,23 @@
+- imdbid: tt9770150
+  type: movie
+  title: Nomadland
+  year: 2020.0
+  runtime: 107.0
+  director: Chloé Zhao
+  writer:
+    - Jessica Bruder
+    - Chloé Zhao
+  actors:
+    - Frances McDormand
+    - Gay DeForest
+    - Patricia Grier
+    - Linda May
+  genre: Drama
+  plot: After losing everything in the Great Recession, a woman embarks on a journey
+    through the American West, living as a van-dwelling modern-day nomad.
+  language: English
+  country:
+    - USA
+    - Germany
+  imdbrating: 7.5
+  slug: nomadland-2020

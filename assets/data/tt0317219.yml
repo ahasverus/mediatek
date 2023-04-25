@@ -1,0 +1,39 @@
+- imdbid: tt0317219
+  type: movie
+  title: Cars
+  year: 2006.0
+  runtime: 117.0
+  director:
+    - John Lasseter
+    - Joe Ranft
+  writer:
+    - John Lasseter
+    - Joe Ranft
+    - Jorgen Klubien
+    - Dan Fogelman
+    - John Lasseter
+    - Joe Ranft
+    - Kiel Murray
+    - Phil Lorin
+    - Jorgen Klubien
+  actors:
+    - Owen Wilson
+    - Paul Newman
+    - Bonnie Hunt
+    - Larry the Cable Guy
+  genre:
+    - Animation
+    - Comedy
+    - Family
+    - Sport
+    - Pixar
+  plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs,
+    where he finds the true meaning of friendship and family.
+  language:
+    - English
+    - Italian
+    - Japanese
+    - Yiddish
+  country: USA
+  imdbrating: 7.1
+  slug: cars-2006

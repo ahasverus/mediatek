@@ -1,0 +1,24 @@
+- imdbid: tt0076759
+  type: movie
+  title: 'Star Wars: Episode IV - A New Hope'
+  year: 1977.0
+  runtime: 121.0
+  director: George Lucas
+  writer: George Lucas
+  actors:
+    - Mark Hamill
+    - Harrison Ford
+    - Carrie Fisher
+    - Peter Cushing
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+  plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and
+    two droids to save the galaxy from the Empire's world-destroying battle station,
+    while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+  language: English
+  country: USA
+  imdbrating: 8.6
+  slug: star-wars-episode-iv-a-new-hope-1977

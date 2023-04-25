@@ -1,0 +1,27 @@
+- imdbid: tt0072353
+  type: movie
+  title: Les Valseuses
+  year: 1974.0
+  runtime: 117.0
+  director: Bertrand Blier
+  writer:
+    - Bertrand Blier
+    - Bertrand Blier
+    - Philippe Dumarçay
+  actors:
+    - Gérard Depardieu
+    - Miou-Miou
+    - Patrick Dewaere
+    - Christian Alers
+  genre:
+    - Action
+    - Comedy
+    - Crime
+    - Drama
+  plot: 'Two whimsical, aimless thugs harass and assault women, steal, murder, and alternately
+    charm, fight, or sprint their way out of trouble. They take whatever the bourgeois
+    characters value: ...'
+  language: French
+  country: France
+  imdbrating: 7.3
+  slug: les-valseuses-1974

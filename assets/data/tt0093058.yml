@@ -1,0 +1,30 @@
+- imdbid: tt0093058
+  type: movie
+  title: Full Metal Jacket
+  year: 1987.0
+  runtime: 116.0
+  director: Stanley Kubrick
+  writer:
+    - Stanley Kubrick
+    - Michael Herr
+    - Gustav Hasford
+    - Gustav Hasford
+  actors:
+    - Matthew Modine
+    - Adam Baldwin
+    - Vincent D'Onofrio
+    - R. Lee Ermey
+  genre:
+    - Drama
+    - War
+  plot: A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has
+    on his fellow recruits from their brutal boot camp training to the bloody street
+    fighting in Hue.
+  language:
+    - English
+    - Vietnamese
+  country:
+    - UK
+    - USA
+  imdbrating: 8.3
+  slug: full-metal-jacket-1987

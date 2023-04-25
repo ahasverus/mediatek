@@ -1,0 +1,29 @@
+- imdbid: tt0378194
+  type: movie
+  title: 'Kill Bill: Vol. 2'
+  year: 2004.0
+  runtime: 137.0
+  director: Quentin Tarantino
+  writer:
+    - Quentin Tarantino
+    - Quentin Tarantino
+    - Uma Thurman
+  actors:
+    - Vivica A. Fox
+    - Ambrosia Kelley
+    - Michael Parks
+    - James Parks
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: The Bride continues her quest of vengeance against her former boss and lover
+    Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.
+  language:
+    - English
+    - Cantonese
+    - Mandarin
+    - Spanish
+  country: USA
+  imdbrating: 8.0
+  slug: kill-bill-vol-2-2004

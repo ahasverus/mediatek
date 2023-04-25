@@ -1,0 +1,26 @@
+- imdbid: tt0241527
+  type: movie
+  title: Harry Potter and the Sorcerer's Stone
+  year: 2001.0
+  runtime: 152.0
+  director: Chris Columbus
+  writer:
+    - J.K. Rowling
+    - Steve Kloves
+  actors:
+    - Richard Harris
+    - Maggie Smith
+    - Robbie Coltrane
+    - Saunders Triplets
+  genre:
+    - Adventure
+    - Family
+    - Fantasy
+  plot: An orphaned boy enrolls in a school of wizardry, where he learns the truth about
+    himself, his family and the terrible evil that haunts the magical world.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 7.6
+  slug: harry-potter-and-the-sorcerer-s-stone-2001

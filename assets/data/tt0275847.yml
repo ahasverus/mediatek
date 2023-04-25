@@ -1,0 +1,34 @@
+- imdbid: tt0275847
+  type: movie
+  title: Lilo & Stitch
+  year: 2002.0
+  runtime: 85.0
+  director:
+    - Dean DeBlois
+    - Chris Sanders
+  writer:
+    - Chris Sanders
+    - Chris Sanders
+    - Dean DeBlois
+  actors:
+    - Daveigh Chase
+    - Chris Sanders
+    - Tia Carrere
+    - David Ogden Stiers
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Drama
+    - Family
+    - Fantasy
+    - Sci-Fi
+    - Disney
+  plot: A Hawaiian girl adopts an unusual pet who is actually a notorious extra-terrestrial
+    fugitive.
+  language:
+    - English
+    - Hawaiian
+  country: USA
+  imdbrating: 7.2
+  slug: lilo-stitch-2002

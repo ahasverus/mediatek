@@ -1,0 +1,24 @@
+- imdbid: tt0120655
+  type: movie
+  title: Dogma
+  year: 1999.0
+  runtime: 130.0
+  director: Kevin Smith
+  writer: Kevin Smith
+  actors:
+    - Bud Cort
+    - Barret Hackney
+    - Jared Pfennigwerth
+    - Kitao Sakurai
+  genre:
+    - Adventure
+    - Comedy
+    - Drama
+    - Fantasy
+  plot: An abortion clinic worker with a special heritage is called upon to save the
+    existence of humanity from being negated by two renegade angels trying to exploit
+    a loop-hole and reenter Heaven.
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: dogma-1999

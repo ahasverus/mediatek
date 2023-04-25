@@ -1,0 +1,32 @@
+- imdbid: tt0359950
+  type: movie
+  title: The Secret Life of Walter Mitty
+  year: 2013.0
+  runtime: 114.0
+  director: Ben Stiller
+  writer:
+    - Steve Conrad
+    - Steve Conrad
+    - James Thurber
+  actors:
+    - Ben Stiller
+    - Kristen Wiig
+    - Jon Daly
+    - Kathryn Hahn
+  genre:
+    - Comedy
+    - Drama
+    - Fantasy
+    - Romance
+  plot: When both he and a colleague are about to lose their job, Walter takes action
+    by embarking on an adventure more extraordinary than anything he could have ever
+    imagined.
+  language:
+    - English
+    - Spanish
+    - Icelandic
+  country:
+    - USA
+    - UK
+  imdbrating: 7.3
+  slug: the-secret-life-of-walter-mitty-2013

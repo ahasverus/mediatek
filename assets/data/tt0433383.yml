@@ -1,0 +1,27 @@
+- imdbid: tt0433383
+  type: movie
+  title: Good Night, and Good Luck.
+  year: 2005.0
+  runtime: 93.0
+  director: George Clooney
+  writer:
+    - George Clooney
+    - Grant Heslov
+  actors:
+    - Jeff Daniels
+    - David Strathairn
+    - Alex Borstein
+    - Rose Abdoo
+  genre:
+    - Biography
+    - Drama
+    - History
+  plot: Broadcast journalist Edward R. Murrow looks to bring down Senator Joseph McCarthy.
+  language: English
+  country:
+    - USA
+    - France
+    - UK
+    - Japan
+  imdbrating: 7.4
+  slug: good-night-and-good-luck-2005

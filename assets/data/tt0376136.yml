@@ -1,0 +1,29 @@
+- imdbid: tt0376136
+  type: movie
+  title: The Rum Diary
+  year: 2011.0
+  runtime: 119.0
+  director: Bruce Robinson
+  writer:
+    - Bruce Robinson
+    - Hunter S. Thompson
+  actors:
+    - Johnny Depp
+    - Aaron Eckhart
+    - Michael Rispoli
+    - Amber Heard
+  genre:
+    - Comedy
+    - Drama
+  plot: American journalist Paul Kemp takes on a freelance job in Puerto Rico for a
+    local newspaper during the 1960s and struggles to find a balance between island
+    culture and the expatriates who live there.
+  language:
+    - English
+    - Spanish
+    - German
+  country:
+    - USA
+    - UK
+  imdbrating: 6.2
+  slug: the-rum-diary-2011

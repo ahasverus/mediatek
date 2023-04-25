@@ -1,0 +1,25 @@
+- imdbid: tt10872600
+  type: movie
+  title: 'Spider-Man: No Way Home'
+  year: 2021.0
+  runtime: 148.0
+  director: Jon Watts
+  writer:
+    - Chris McKenna
+    - Erik Sommers
+    - Stan Lee
+  actors:
+    - Tom Holland
+    - Zendaya
+    - Benedict Cumberbatch
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: With Spider-Man's identity now revealed, Peter asks Doctor Strange for help.
+    When a spell goes wrong, dangerous foes from other worlds start to appear, forcing
+    Peter to discover what it truly means to be Spider-Man.
+  language: English
+  country: United States
+  imdbrating: 8.7
+  slug: spider-man-no-way-home-2021

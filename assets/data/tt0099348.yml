@@ -1,0 +1,29 @@
+- imdbid: tt0099348
+  type: movie
+  title: Dances with Wolves
+  year: 1990.0
+  runtime: 181.0
+  director: Kevin Costner
+  writer:
+    - Michael Blake
+    - Michael Blake
+  actors:
+    - Kevin Costner
+    - Mary McDonnell
+    - Graham Greene
+    - Rodney A. Grant
+  genre:
+    - Adventure
+    - Drama
+    - Western
+  plot: Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends
+    wolves and Indians, making him an intolerable aberration in the military.
+  language:
+    - English
+    - Sioux
+    - Pawnee
+  country:
+    - USA
+    - UK
+  imdbrating: 8.0
+  slug: dances-with-wolves-1990

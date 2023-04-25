@@ -1,0 +1,30 @@
+- imdbid: tt1318514
+  type: movie
+  title: Rise of the Planet of the Apes
+  year: 2011.0
+  runtime: 105.0
+  director: Rupert Wyatt
+  writer:
+    - Rick Jaffa
+    - Amanda Silver
+  actors:
+    - Andy Serkis
+    - Karin Konoval
+    - Terry Notary
+    - Richard Ridings
+  genre:
+    - Action
+    - Drama
+    - Sci-Fi
+    - Thriller
+  plot: A substance designed to help the brain repair itself gives advanced intelligence
+    to a chimpanzee who leads an ape uprising.
+  language:
+    - English
+    - Sign Languages
+  country:
+    - USA
+    - UK
+    - Canada
+  imdbrating: 7.6
+  slug: rise-of-the-planet-of-the-apes-2011

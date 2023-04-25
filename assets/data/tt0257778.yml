@@ -1,0 +1,30 @@
+- imdbid: tt0257778
+  type: movie
+  title: 'The Hunchback of Notre Dame 2: The Secret of the Bell'
+  year: 2002.0
+  runtime: 68.0
+  director: Bradley Raymond
+  writer:
+    - Jule Selbo
+    - Flip Kobler
+    - Cindy Marcus
+  actors:
+    - Jason Alexander
+    - Jennifer Love Hewitt
+    - Tom Hulce
+    - Paul Kandel
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Drama
+    - Family
+    - Musical
+    - Romance
+    - Disney
+  plot: Quasimodo goes into action when a magician seeks to steal one of the bells of
+    Notre Dame.
+  language: English
+  country: USA
+  imdbrating: 4.7
+  slug: the-hunchback-of-notre-dame-2-the-secret-of-the-bell-2002

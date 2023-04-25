@@ -1,0 +1,61 @@
+- imdbid: tt0120762
+  type: movie
+  title: Mulan
+  year: 1998.0
+  runtime: 88.0
+  director:
+    - Tony Bancroft
+    - Barry Cook
+  writer:
+    - Robert D. San Souci
+    - Rita Hsiao
+    - Chris Sanders
+    - Philip LaZebnik
+    - Raymond Singer
+    - Eugenia Bostwick-Singer
+    - Dean DeBlois
+    - John Sanford
+    - Chris Williams
+    - Tim Hodge
+    - Julius Aguimatang
+    - Burny Mattinson
+    - Lorna Cook
+    - Barry Johnson
+    - Thom Enriquez
+    - Ed Gombert
+    - Joe Grant
+    - Floyd Norman
+    - Linda Woolverton
+    - Jodi Ann Johnson
+    - Alan Ormsby
+    - David Reynolds
+    - Don Dougherty
+    - Jorgen Klubien
+    - Denis Rich
+    - Joe Ekers
+    - Theodore Newton
+    - Larry Scholl
+    - Daan Jippes
+    - Frank Nissen
+    - Jeff Snow
+  actors:
+    - Miguel Ferrer
+    - Harvey Fierstein
+    - Freda Foh Shen
+    - June Foray
+  genre:
+    - Animation
+    - Adventure
+    - Family
+    - Fantasy
+    - Musical
+    - War
+    - Disney
+  plot: To save her father from death in the army, a young maiden secretly goes in his
+    place and becomes one of China's greatest heroines in the process.
+  language:
+    - English
+    - Mandarin
+  country: USA
+  imdbrating: 7.6
+  slug: mulan-1998

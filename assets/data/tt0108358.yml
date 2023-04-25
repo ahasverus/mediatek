@@ -1,0 +1,28 @@
+- imdbid: tt0108358
+  type: movie
+  title: Tombstone
+  year: 1993.0
+  runtime: 130.0
+  director:
+    - George P. Cosmatos
+    - Kevin Jarre
+  writer: Kevin Jarre
+  actors:
+    - Kurt Russell
+    - Val Kilmer
+    - Sam Elliott
+    - Bill Paxton
+  genre:
+    - Action
+    - Biography
+    - Drama
+    - History
+    - Western
+  plot: A successful lawman's plans to retire anonymously in Tombstone, Arizona, are
+    disrupted by the kind of outlaws he was famous for eliminating.
+  language:
+    - English
+    - Latin
+  country: USA
+  imdbrating: 7.8
+  slug: tombstone-1993

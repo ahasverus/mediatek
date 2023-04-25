@@ -1,0 +1,29 @@
+- imdbid: tt1212428
+  type: movie
+  title: The Lost City of Z
+  year: 2016.0
+  runtime: 141.0
+  director: James Gray
+  writer:
+    - James Gray
+    - David Grann
+  actors:
+    - Charlie Hunnam
+    - Robert Pattinson
+    - Sienna Miller
+    - Tom Holland
+  genre:
+    - Biography
+    - Drama
+    - History
+  plot: A true-life drama, centering on British explorer Major Percival Fawcett, who
+    disappeared whilst searching for a mysterious city in the Amazon in the 1920s.
+  language:
+    - English
+    - Portuguese
+    - Tupi
+    - Spanish
+    - German
+  country: USA
+  imdbrating: 6.6
+  slug: the-lost-city-of-z-2016

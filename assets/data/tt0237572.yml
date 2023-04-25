@@ -1,0 +1,25 @@
+- imdbid: tt0237572
+  type: movie
+  title: The Pledge
+  year: 2001.0
+  runtime: 124.0
+  director: Sean Penn
+  writer:
+    - Friedrich Dürrenmatt
+    - Jerzy Kromolowski
+    - Mary Olson-Kromolowski
+  actors:
+    - Patricia Clarkson
+    - Beau Daniels
+    - Benicio Del Toro
+    - Dale Dickey
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: A retiring police detective pledges to catch the killer of a young child.
+  language: English
+  country: USA
+  imdbrating: 6.8
+  slug: the-pledge-2001

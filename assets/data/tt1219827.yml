@@ -1,0 +1,39 @@
+- imdbid: tt1219827
+  type: movie
+  title: Ghost in the Shell
+  year: 2017.0
+  runtime: 107.0
+  director: Rupert Sanders
+  writer:
+    - Shirow Masamune
+    - Jamie Moss
+    - William Wheeler
+    - Ehren Kruger
+  actors:
+    - Scarlett Johansson
+    - Pilou Asbæk
+    - Takeshi Kitano
+    - Juliette Binoche
+  genre:
+    - Action
+    - Adventure
+    - Crime
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: 'In the near future, Major Mira Killian is the first of her kind: A human saved
+    from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to
+    stopping the world''s most dangerous criminals.'
+  language:
+    - English
+    - Japanese
+  country:
+    - USA
+    - India
+    - Hong Kong
+    - China
+    - Canada
+    - UK
+  imdbrating: 6.3
+  slug: ghost-in-the-shell-2017

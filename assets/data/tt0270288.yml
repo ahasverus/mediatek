@@ -1,0 +1,32 @@
+- imdbid: tt0270288
+  type: movie
+  title: Confessions of a Dangerous Mind
+  year: 2002.0
+  runtime: 113.0
+  director: George Clooney
+  writer:
+    - Chuck Barris
+    - Charlie Kaufman
+  actors:
+    - Dick Clark
+    - Sam Rockwell
+    - Michelle Sweeney
+    - Drew Barrymore
+  genre:
+    - Biography
+    - Comedy
+    - Crime
+    - Drama
+    - Romance
+    - Thriller
+  plot: An adaptation of the cult memoir of game show impresario Chuck Barris (Sam Rockwell),
+    in which he purports to have been a C.I.A. hitman.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - Germany
+    - Canada
+  imdbrating: 7.0
+  slug: confessions-of-a-dangerous-mind-2002

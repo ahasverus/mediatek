@@ -1,0 +1,25 @@
+- imdbid: tt10016180
+  type: movie
+  title: The Little Things
+  year: 2021.0
+  runtime: 128.0
+  director: John Lee Hancock
+  writer: John Lee Hancock
+  actors:
+    - Denzel Washington
+    - Rami Malek
+    - Jared Leto
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+  plot: Kern County Deputy Sheriff Joe Deacon is sent to Los Angeles for what should
+    have been a quick evidence-gathering assignment. Instead, he becomes embroiled in
+    the search for a serial killer who is terrorizing the city.
+  language:
+    - English
+    - Spanish
+    - Arabic
+  country: United States
+  imdbrating: 6.3
+  slug: the-little-things-2021

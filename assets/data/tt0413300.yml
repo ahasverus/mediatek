@@ -1,0 +1,32 @@
+- imdbid: tt0413300
+  type: movie
+  title: Spider-Man 3
+  year: 2007.0
+  runtime: 139.0
+  director: Sam Raimi
+  writer:
+    - Sam Raimi
+    - Ivan Raimi
+    - Alvin Sargent
+    - Sam Raimi
+    - Ivan Raimi
+    - Stan Lee
+    - Steve Ditko
+  actors:
+    - Tobey Maguire
+    - Kirsten Dunst
+    - James Franco
+    - Thomas Haden Church
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: A strange black entity from another world bonds with Peter Parker and causes
+    inner turmoil as he contends with new villains, temptations, and revenge.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 6.2
+  slug: spider-man-3-2007

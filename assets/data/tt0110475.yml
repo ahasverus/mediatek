@@ -1,0 +1,28 @@
+- imdbid: tt0110475
+  type: movie
+  title: The Mask
+  year: 1994.0
+  runtime: 101.0
+  director: Chuck Russell
+  writer:
+    - Michael Fallon
+    - Mark Verheiden
+    - Mike Werb
+  actors:
+    - Jim Carrey
+    - Peter Riegert
+    - Peter Greene
+    - Amy Yasbeck
+  genre:
+    - Action
+    - Comedy
+    - Crime
+    - Fantasy
+  plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears
+    a mysterious mask.
+  language:
+    - English
+    - Swedish
+  country: USA
+  imdbrating: 6.9
+  slug: the-mask-1994

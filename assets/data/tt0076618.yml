@@ -1,0 +1,38 @@
+- imdbid: tt0076618
+  type: movie
+  title: The Rescuers
+  year: 1977.0
+  runtime: 78.0
+  director:
+    - John Lounsbery
+    - Wolfgang Reitherman
+    - Art Stevens
+  writer:
+    - Margery Sharp
+    - Larry Clemmons
+    - Ken Anderson
+    - Frank Thomas
+    - Vance Gerry
+    - David Michener
+    - Ted Berman
+    - Fred Lucky
+    - Burny Mattinson
+    - Dick Sebast
+  actors:
+    - Bob Newhart
+    - Eva Gabor
+    - Geraldine Page
+    - Joe Flynn
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Disney
+  plot: Two mice of the Rescue Aid Society search for a little girl kidnapped by unscrupulous
+    treasure hunters.
+  language: English
+  country: USA
+  imdbrating: 6.9
+  slug: the-rescuers-1977

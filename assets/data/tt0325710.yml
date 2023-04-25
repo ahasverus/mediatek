@@ -1,0 +1,31 @@
+- imdbid: tt0325710
+  type: movie
+  title: The Last Samurai
+  year: 2003.0
+  runtime: 154.0
+  director: Edward Zwick
+  writer:
+    - John Logan
+    - John Logan
+    - Edward Zwick
+    - Marshall Herskovitz
+  actors:
+    - Ken Watanabe
+    - Tom Cruise
+    - William Atherton
+    - Chad Lindberg
+  genre:
+    - Action
+    - Drama
+    - War
+  plot: An American military advisor embraces the Samurai culture he was hired to destroy
+    after he is captured in battle.
+  language:
+    - English
+    - Japanese
+  country:
+    - USA
+    - New Zealand
+    - Japan
+  imdbrating: 7.7
+  slug: the-last-samurai-2003

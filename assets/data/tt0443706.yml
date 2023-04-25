@@ -1,0 +1,26 @@
+- imdbid: tt0443706
+  type: movie
+  title: Zodiac
+  year: 2007.0
+  runtime: 157.0
+  director: David Fincher
+  writer:
+    - James Vanderbilt
+    - Robert Graysmith
+  actors:
+    - Jake Gyllenhaal
+    - Mark Ruffalo
+    - Anthony Edwards
+    - Robert Downey Jr.
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: In the late 1960s/early 1970s, a San Francisco cartoonist becomes an amateur
+    detective obsessed with tracking down the Zodiac Killer, an unidentified individual
+    who terrorizes Northern California with a killing spree.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: zodiac-2007

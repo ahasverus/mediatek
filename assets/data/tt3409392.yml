@@ -1,0 +1,33 @@
+- imdbid: tt3409392
+  type: movie
+  title: Timbuktu
+  year: 2014.0
+  runtime: 96.0
+  director: Abderrahmane Sissako
+  writer:
+    - Abderrahmane Sissako
+    - Kessen Tall
+  actors:
+    - Ibrahim Ahmed
+    - Abel Jafri
+    - Toulou Kiki
+    - Layla Walet Mohamed
+  genre:
+    - Drama
+    - War
+  plot: A cattle herder and his family who reside in the dunes of Timbuktu find their
+    quiet lives -- which are typically free of the Jihadists determined to control their
+    faith -- abruptly disturbed.
+  language:
+    - French
+    - Arabic
+    - Bambara
+    - English
+    - Songhay
+    - Tamashek
+  country:
+    - Mauritania
+    - France
+    - Qatar
+  imdbrating: 7.1
+  slug: timbuktu-2014

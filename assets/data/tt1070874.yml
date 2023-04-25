@@ -1,0 +1,28 @@
+- imdbid: tt1070874
+  type: movie
+  title: The Trial of the Chicago 7
+  year: 2020.0
+  runtime: 129.0
+  director: Aaron Sorkin
+  writer: Aaron Sorkin
+  actors:
+    - Eddie Redmayne
+    - Alex Sharp
+    - Sacha Baron Cohen
+    - Jeremy Strong
+  genre:
+    - Drama
+    - History
+    - Thriller
+  plot: The story of 7 people on trial stemming from various charges surrounding the
+    uprising at the 1968 Democratic National Convention in Chicago, Illinois.
+  language:
+    - English
+    - Latin
+    - French
+  country:
+    - USA
+    - UK
+    - India
+  imdbrating: 7.8
+  slug: the-trial-of-the-chicago-7-2020

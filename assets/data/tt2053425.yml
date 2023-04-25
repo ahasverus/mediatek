@@ -1,0 +1,30 @@
+- imdbid: tt2053425
+  type: movie
+  title: De rouille et d'os
+  year: 2012.0
+  runtime: 120.0
+  director: Jacques Audiard
+  writer:
+    - Jacques Audiard
+    - Thomas Bidegain
+    - Craig Davidson
+  actors:
+    - Marion Cotillard
+    - Matthias Schoenaerts
+    - Armand Verdure
+    - Céline Sallette
+  genre:
+    - Drama
+    - Romance
+  plot: Put in charge of his young son, Alain leaves Belgium for Antibes to live with
+    his sister and her husband as a family. Alain's bond with Stephanie, a killer whale
+    trainer, grows deeper after Stephanie suffers a horrible accident.
+  language:
+    - French
+    - English
+  country:
+    - France
+    - Belgium
+    - Singapore
+  imdbrating: 7.5
+  slug: de-rouille-et-d-os-2012

@@ -1,0 +1,34 @@
+- imdbid: tt1318517
+  type: movie
+  title: The Man Who Killed Don Quixote
+  year: 2018.0
+  runtime: 132.0
+  director: Terry Gilliam
+  writer:
+    - Terry Gilliam
+    - Tony Grisoni
+    - Miguel de Cervantes y Saavedra
+  actors:
+    - José Luis Ferrer
+    - Ismael Fritschi
+    - Juan López-Tagle
+    - Adam Driver
+  genre:
+    - Adventure
+    - Comedy
+    - Drama
+    - Fantasy
+  plot: Toby, a disillusioned film director, is pulled into a world of time-jumping
+    fantasy when a Spanish cobbler believes himself to be Sancho Panza. He gradually
+    becomes unable to tell dreams from reality.
+  language:
+    - English
+    - Spanish
+  country:
+    - Spain
+    - Belgium
+    - France
+    - UK
+    - Portugal
+  imdbrating: 6.4
+  slug: the-man-who-killed-don-quixote-2018

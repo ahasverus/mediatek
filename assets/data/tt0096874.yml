@@ -1,0 +1,27 @@
+- imdbid: tt0096874
+  type: movie
+  title: Back to the Future Part II
+  year: 1989.0
+  runtime: 108.0
+  director: Robert Zemeckis
+  writer:
+    - Robert Zemeckis
+    - Bob Gale
+    - Robert Zemeckis
+    - Bob Gale
+    - Bob Gale
+  actors:
+    - Michael J. Fox
+    - Christopher Lloyd
+    - Lea Thompson
+    - Thomas F. Wilson
+  genre:
+    - Adventure
+    - Comedy
+    - Sci-Fi
+  plot: After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous
+    changes to 1985...without interfering with his first trip.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: back-to-the-future-part-ii-1989

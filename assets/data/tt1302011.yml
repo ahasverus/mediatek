@@ -1,0 +1,27 @@
+- imdbid: tt1302011
+  type: movie
+  title: Kung Fu Panda 2
+  year: 2011.0
+  runtime: 90.0
+  director: Jennifer Yuh Nelson
+  writer:
+    - Jonathan Aibel
+    - Glenn Berger
+  actors:
+    - Jack Black
+    - Angelina Jolie
+    - Dustin Hoffman
+    - Gary Oldman
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Po and his friends fight to stop a peacock villain from conquering China with
+    a deadly new weapon, but first the Dragon Warrior must come to terms with his past.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: kung-fu-panda-2-2011

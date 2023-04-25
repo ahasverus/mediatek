@@ -1,0 +1,30 @@
+- imdbid: tt0266697
+  type: movie
+  title: 'Kill Bill: Vol. 1'
+  year: 2003.0
+  runtime: 111.0
+  director: Quentin Tarantino
+  writer:
+    - Quentin Tarantino
+    - Quentin Tarantino
+    - Uma Thurman
+  actors:
+    - Uma Thurman
+    - Lucy Liu
+    - Vivica A. Fox
+    - Daryl Hannah
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: After awakening from a four-year coma, a former assassin wreaks vengeance on
+    the team of assassins who betrayed her.
+  language:
+    - English
+    - Japanese
+    - French
+  country:
+    - USA
+    - Japan
+  imdbrating: 8.1
+  slug: kill-bill-vol-1-2003

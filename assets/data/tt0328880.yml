@@ -1,0 +1,58 @@
+- imdbid: tt0328880
+  type: movie
+  title: Brother Bear
+  year: 2003.0
+  runtime: 85.0
+  director:
+    - Aaron Blaise
+    - Robert Walker
+  writer:
+    - Tab Murphy
+    - Lorne Cameron
+    - David Hoselton
+    - Steve Bencich
+    - Ron J. Friedman
+    - Stephen J. Anderson
+    - Stevie Wermers
+    - Kevin Deters
+    - Woody Woodman
+    - Thom Enriquez
+    - Kevin Harkey
+    - Broose Johnson
+    - John Norton
+    - John Puglisi
+    - Tim Hodge
+    - Tom LaBaff
+    - Ray Shenusay
+    - Brian Pimental
+    - Jim Story
+    - Don Dougherty
+    - Don Hall
+    - Samuel Levine
+    - Aurian Redson
+    - Chris Williams
+    - Jeff Hand
+    - Sam Levine
+  actors:
+    - Joaquin Phoenix
+    - Jeremy Suarez
+    - Jason Raize
+    - Rick Moranis
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Disney
+  plot: When a young Inuit hunter needlessly kills a bear, he is magically changed into
+    a bear himself as punishment with a talkative cub being his only guide to changing
+    back.
+  language:
+    - English
+    - Inuktitut
+    - Croatian
+    - Serbian
+  country: USA
+  imdbrating: 6.8
+  slug: brother-bear-2003

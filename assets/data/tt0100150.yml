@@ -1,0 +1,30 @@
+- imdbid: tt0100150
+  type: movie
+  title: Miller's Crossing
+  year: 1990.0
+  runtime: 115.0
+  director:
+    - Joel Coen
+    - Ethan Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+  actors:
+    - Gabriel Byrne
+    - Marcia Gay Harden
+    - John Turturro
+    - Jon Polito
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: Tom Reagan, an advisor to a Prohibition-era crime boss, tries to keep the peace
+    between warring mobs but gets caught in divided loyalties.
+  language:
+    - English
+    - Italian
+    - Irish
+    - Yiddish
+  country: USA
+  imdbrating: 7.8
+  slug: miller-s-crossing-1990

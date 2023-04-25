@@ -1,0 +1,25 @@
+- imdbid: tt0499549
+  type: movie
+  title: Avatar
+  year: 2009.0
+  runtime: 162.0
+  director: James Cameron
+  writer: James Cameron
+  actors:
+    - Sam Worthington
+    - Zoe Saldana
+    - Sigourney Weaver
+    - Stephen Lang
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+  plot: A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes
+    torn between following his orders and protecting the world he feels is his home.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 7.8
+  slug: avatar-2009

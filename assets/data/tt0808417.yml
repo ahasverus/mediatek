@@ -1,0 +1,34 @@
+- imdbid: tt0808417
+  type: movie
+  title: Persepolis
+  year: 2007.0
+  runtime: 96.0
+  director:
+    - Vincent Paronnaud
+    - Marjane Satrapi
+  writer:
+    - Marjane Satrapi
+    - Vincent Paronnaud
+  actors:
+    - Chiara Mastroianni
+    - Danielle Darrieux
+    - Catherine Deneuve
+    - Simon Abkarian
+  genre:
+    - Animation
+    - Biography
+    - Drama
+    - Family
+    - History
+    - War
+  plot: A precocious and outspoken Iranian girl grows up during the Islamic Revolution.
+  language:
+    - French
+    - English
+    - Persian
+    - German
+  country:
+    - France
+    - USA
+  imdbrating: 8.0
+  slug: persepolis-2007

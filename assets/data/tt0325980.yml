@@ -1,0 +1,29 @@
+- imdbid: tt0325980
+  type: movie
+  title: 'Pirates of the Caribbean: The Curse of the Black Pearl'
+  year: 2003.0
+  runtime: 143.0
+  director: Gore Verbinski
+  writer:
+    - Ted Elliott
+    - Terry Rossio
+    - Stuart Beattie
+    - Jay Wolpert
+    - Ted Elliott
+    - Terry Rossio
+  actors:
+    - Johnny Depp
+    - Geoffrey Rush
+    - Orlando Bloom
+    - Keira Knightley
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: Blacksmith Will Turner teams up with eccentric pirate 'Captain' Jack Sparrow
+    to save his love, the governor's daughter, from Jack's former pirate allies, who
+    are now undead.
+  language: English
+  country: USA
+  imdbrating: 8.0
+  slug: pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003

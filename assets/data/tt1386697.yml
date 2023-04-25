@@ -1,0 +1,28 @@
+- imdbid: tt1386697
+  type: movie
+  title: Suicide Squad
+  year: 2016.0
+  runtime: 123.0
+  director: David Ayer
+  writer: David Ayer
+  actors:
+    - Will Smith
+    - Jaime FitzSimons
+    - Ike Barinholtz
+    - Margot Robbie
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+    - DC-Comics
+  plot: 'A secret government agency recruits some of the most dangerous incarcerated
+    super-villains to form a defensive task force. Their first mission: save the world
+    from the apocalypse.'
+  language:
+    - English
+    - Japanese
+    - Spanish
+  country: USA
+  imdbrating: 6.0
+  slug: suicide-squad-2016

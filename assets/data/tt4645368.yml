@@ -1,0 +1,25 @@
+- imdbid: tt4645368
+  type: movie
+  title: Juste la fin du monde
+  year: 2016.0
+  runtime: 97.0
+  director: Xavier Dolan
+  writer:
+    - Xavier Dolan
+    - Jean-Luc Lagarce
+  actors:
+    - Nathalie Baye
+    - Vincent Cassel
+    - Marion Cotillard
+    - Léa Seydoux
+  genre: Drama
+  plot: Louis (Gaspard Ulliel), a terminally ill writer, returns home after a long absence
+    to tell his family that he is dying.
+  language:
+    - French
+    - English
+  country:
+    - Canada
+    - France
+  imdbrating: 6.9
+  slug: juste-la-fin-du-monde-2016

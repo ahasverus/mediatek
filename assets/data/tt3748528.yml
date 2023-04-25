@@ -1,0 +1,27 @@
+- imdbid: tt3748528
+  type: movie
+  title: 'Rogue One: A Star Wars Story'
+  year: 2016.0
+  runtime: 133.0
+  director: Gareth Edwards
+  writer:
+    - Chris Weitz
+    - Tony Gilroy
+    - John Knoll
+    - Gary Whitta
+    - George Lucas
+  actors:
+    - Felicity Jones
+    - Diego Luna
+    - Alan Tudyk
+    - Donnie Yen
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: The daughter of an Imperial scientist joins the Rebel Alliance in a risky move
+    to steal the Death Star plans.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: rogue-one-a-star-wars-story-2016

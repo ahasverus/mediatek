@@ -1,0 +1,31 @@
+- imdbid: tt2660888
+  type: movie
+  title: Star Trek Beyond
+  year: 2016.0
+  runtime: 122.0
+  director: Justin Lin
+  writer:
+    - Simon Pegg
+    - Doug Jung
+    - Gene Roddenberry
+  actors:
+    - Chris Pine
+    - Zachary Quinto
+    - Karl Urban
+    - Zoe Saldana
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: The crew of the USS Enterprise explores the furthest reaches of uncharted space,
+    where they encounter a new ruthless enemy, who puts them, and everything the Federation
+    stands for, to the test.
+  language: English
+  country:
+    - USA
+    - China
+    - United Arab Emirates
+    - Canada
+  imdbrating: 7.1
+  slug: star-trek-beyond-2016

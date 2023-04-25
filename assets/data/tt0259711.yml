@@ -1,0 +1,31 @@
+- imdbid: tt0259711
+  type: movie
+  title: Vanilla Sky
+  year: 2001.0
+  runtime: 136.0
+  director: Cameron Crowe
+  writer:
+    - Alejandro Amenábar
+    - Mateo Gil
+    - Cameron Crowe
+  actors:
+    - Tom Cruise
+    - Penélope Cruz
+    - Cameron Diaz
+    - Kurt Russell
+  genre:
+    - Fantasy
+    - Mystery
+    - Romance
+    - Sci-Fi
+    - Thriller
+  plot: A self-indulgent and vain publishing magnate finds his privileged life upended
+    after a vehicular accident with a resentful lover.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - Spain
+  imdbrating: 6.9
+  slug: vanilla-sky-2001

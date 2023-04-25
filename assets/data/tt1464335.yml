@@ -1,0 +1,28 @@
+- imdbid: tt1464335
+  type: movie
+  title: Uncharted
+  year: 2022.0
+  runtime: 116.0
+  director: Ruben Fleischer
+  writer:
+    - Rafe Judkins
+    - Art Marcum
+    - Matt Holloway
+  actors:
+    - Tom Holland
+    - Mark Wahlberg
+    - Antonio Banderas
+  genre:
+    - Action
+    - Adventure
+  plot: Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor 'Sully'
+    Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years
+    ago by the House of Moncada.
+  language:
+    - English
+    - Spanish
+  country:
+    - United States
+    - Spain
+  imdbrating: 6.6
+  slug: uncharted-2022

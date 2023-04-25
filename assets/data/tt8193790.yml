@@ -1,0 +1,21 @@
+- imdbid: tt8193790
+  type: movie
+  title: Le Daim
+  year: 2019.0
+  runtime: 77.0
+  director: Quentin Dupieux
+  writer: Quentin Dupieux
+  actors:
+    - Jean Dujardin
+    - Adèle Haenel
+    - Albert Delpy
+    - Coralie Russier
+  genre:
+    - Comedy
+    - Horror
+  plot: A man's obsession with his designer deerskin jacket causes him to blow his life
+    savings and turn to crime.
+  language: French
+  country: France
+  imdbrating: 6.8
+  slug: le-daim-2019

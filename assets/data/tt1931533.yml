@@ -1,0 +1,25 @@
+- imdbid: tt1931533
+  type: movie
+  title: Seven Psychopaths
+  year: 2012.0
+  runtime: 110.0
+  director: Martin McDonagh
+  writer: Martin McDonagh
+  actors:
+    - Michael Pitt
+    - Michael Stuhlbarg
+    - Sam Rockwell
+    - Colin Farrell
+  genre:
+    - Comedy
+    - Crime
+  plot: A struggling screenwriter inadvertently becomes entangled in the Los Angeles
+    criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.
+  language:
+    - English
+    - Vietnamese
+  country:
+    - UK
+    - USA
+  imdbrating: 7.2
+  slug: seven-psychopaths-2012

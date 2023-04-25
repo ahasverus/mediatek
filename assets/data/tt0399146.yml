@@ -1,0 +1,28 @@
+- imdbid: tt0399146
+  type: movie
+  title: A History of Violence
+  year: 2005.0
+  runtime: 96.0
+  director: David Cronenberg
+  writer:
+    - John Wagner
+    - Vince Locke
+    - Josh Olson
+  actors:
+    - Viggo Mortensen
+    - Maria Bello
+    - Ed Harris
+    - William Hurt
+  genre:
+    - Drama
+    - Thriller
+    - DC-Comics
+  plot: A mild-mannered man becomes a local hero through an act of violence, which sets
+    off repercussions that will shake his family to its very core in this action thriller.
+  language: English
+  country:
+    - USA
+    - Germany
+    - Canada
+  imdbrating: 7.4
+  slug: a-history-of-violence-2005

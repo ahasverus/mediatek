@@ -1,0 +1,20 @@
+- imdbid: tt14640242
+  type: movie
+  title: Together
+  year: 2021.0
+  runtime: 92.0
+  director:
+    - Stephen Daldry
+    - Justin Martin
+  writer: Dennis Kelly
+  actors:
+    - James McAvoy
+    - Sharon Horgan
+    - Samuel Logan
+  genre: Drama
+  plot: A husband and wife are forced to re-evaluate themselves and their relationship
+    through the reality of the COVID-19 lockdown.
+  language: English
+  country: United Kingdom
+  imdbrating: 7.1
+  slug: together-2021

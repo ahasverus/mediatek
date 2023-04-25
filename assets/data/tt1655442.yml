@@ -1,0 +1,27 @@
+- imdbid: tt1655442
+  type: movie
+  title: The Artist
+  year: 2011.0
+  runtime: 100.0
+  director: Michel Hazanavicius
+  writer: Michel Hazanavicius
+  actors:
+    - Jean Dujardin
+    - Bérénice Bejo
+    - John Goodman
+    - James Cromwell
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: An egomaniacal film star develops a relationship with a young dancer against
+    the backdrop of Hollywood's silent era.
+  language:
+    - English
+    - French
+  country:
+    - France
+    - Belgium
+    - USA
+  imdbrating: 7.9
+  slug: the-artist-2011

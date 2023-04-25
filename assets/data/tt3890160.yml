@@ -1,0 +1,28 @@
+- imdbid: tt3890160
+  type: movie
+  title: Baby Driver
+  year: 2017.0
+  runtime: 113.0
+  director: Edgar Wright
+  writer: Edgar Wright
+  actors:
+    - Ansel Elgort
+    - Jon Bernthal
+    - Jon Hamm
+    - Eiza González
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Music
+    - Thriller
+  plot: After being coerced into working for a crime boss, a young getaway driver finds
+    himself taking part in a heist doomed to fail.
+  language:
+    - English
+    - American Sign Language
+  country:
+    - UK
+    - USA
+  imdbrating: 7.6
+  slug: baby-driver-2017

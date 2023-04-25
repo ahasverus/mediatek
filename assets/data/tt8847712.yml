@@ -1,0 +1,29 @@
+- imdbid: tt8847712
+  type: movie
+  title: The French Dispatch
+  year: 2021.0
+  runtime: 107.0
+  director: Wes Anderson
+  writer:
+    - Wes Anderson
+    - Roman Coppola
+    - Hugo Guinness
+  actors:
+    - Benicio Del Toro
+    - Adrien Brody
+    - Tilda Swinton
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: A love letter to journalists set in an outpost of an American newspaper in a
+    fictional twentieth century French city that brings to life a collection of stories
+    published in 'The French Dispatch Magazine'.
+  language:
+    - English
+    - French
+  country:
+    - United States
+    - Germany
+  imdbrating: 7.5
+  slug: the-french-dispatch-2021

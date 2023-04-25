@@ -1,0 +1,35 @@
+- imdbid: tt0320661
+  type: movie
+  title: Kingdom of Heaven
+  year: 2005.0
+  runtime: 144.0
+  director: Ridley Scott
+  writer: William Monahan
+  actors:
+    - Martin Hancock
+    - Michael Sheen
+    - Nathalie Cox
+    - Eriq Ebouaney
+  genre:
+    - Action
+    - Adventure
+    - Drama
+    - History
+    - War
+  plot: Balian of Ibelin travels to Jerusalem during the Crusades of the 12th century,
+    and there he finds himself as the defender of the city and its people.
+  language:
+    - English
+    - Arabic
+    - Latin
+    - Italian
+  country:
+    - UK
+    - Germany
+    - Spain
+    - Morocco
+    - USA
+    - Italy
+    - France
+  imdbrating: 7.2
+  slug: kingdom-of-heaven-2005

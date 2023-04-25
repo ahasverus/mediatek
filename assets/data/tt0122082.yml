@@ -1,0 +1,30 @@
+- imdbid: tt0122082
+  type: movie
+  title: Gadjo Dilo
+  year: 1997.0
+  runtime: 102.0
+  director: Tony Gatlif
+  writer:
+    - Tony Gatlif
+    - Kits Hilaire
+    - Maigne Jaques
+  actors:
+    - Romain Duris
+    - Rona Hartner
+    - Izidor Serban
+    - Ovidiu Balan
+  genre:
+    - Comedy
+    - Drama
+    - Music
+    - Romance
+  plot: A man is looking for a singer he had heard on cassette. He finds much more.
+  language:
+    - French
+    - Romanian
+    - Romany
+  country:
+    - Romania
+    - France
+  imdbrating: 7.7
+  slug: gadjo-dilo-1997

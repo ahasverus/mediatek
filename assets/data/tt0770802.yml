@@ -1,0 +1,43 @@
+- imdbid: tt0770802
+  type: movie
+  title: Samsara
+  year: 2011.0
+  runtime: 102.0
+  director: Ron Fricke
+  writer:
+    - Ron Fricke
+    - Mark Magidson
+  actors:
+    - Balinese Tari Legong Dancers
+    - Ni Made Megahadi Pratiwi
+    - Puti Sri Candra Dewi
+    - Putu Dinda Pratika
+  genre:
+    - Documentary
+    - Music
+  plot: Filmed over nearly five years in twenty-five countries on five continents, and
+    shot on seventy-millimetre film, Samsara transports us to the varied worlds of sacred
+    grounds, disaster zones, industrial complexes, and natural wonders.
+  language: None
+  country:
+    - USA
+    - Indonesia
+    - Singapore
+    - Thailand
+    - Kenya
+    - Denmark
+    - Brazil
+    - Jordan
+    - United Arab Emirates
+    - Saudi Arabia
+    - South Africa
+    - Italy
+    - Ghana
+    - Egypt
+    - China
+    - Japan
+    - Ethiopia
+    - South Korea
+    - Namibia
+  imdbrating: 8.5
+  slug: samsara-2011

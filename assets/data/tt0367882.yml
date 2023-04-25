@@ -1,0 +1,30 @@
+- imdbid: tt0367882
+  type: movie
+  title: Indiana Jones and the Kingdom of the Crystal Skull
+  year: 2008.0
+  runtime: 122.0
+  director: Steven Spielberg
+  writer:
+    - David Koepp
+    - George Lucas
+    - Jeff Nathanson
+    - George Lucas
+    - Philip Kaufman
+  actors:
+    - Harrison Ford
+    - Cate Blanchett
+    - Karen Allen
+    - Shia LaBeouf
+  genre:
+    - Action
+    - Adventure
+  plot: In 1957, archaeologist and adventurer Dr. Henry 'Indiana' Jones, Jr. is called
+    back into action and becomes entangled in a Soviet plot to uncover the secret behind
+    mysterious artifacts known as the Crystal Skulls.
+  language:
+    - English
+    - German
+    - Russian
+  country: USA
+  imdbrating: 6.1
+  slug: indiana-jones-and-the-kingdom-of-the-crystal-skull-2008

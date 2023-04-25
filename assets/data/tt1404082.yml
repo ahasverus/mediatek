@@ -1,0 +1,24 @@
+- imdbid: tt1404082
+  type: movie
+  title: Tellement proches
+  year: 2009.0
+  runtime: 102.0
+  director:
+    - Olivier Nakache
+    - Éric Toledano
+  writer:
+    - Éric Toledano
+    - Olivier Nakache
+  actors:
+    - Vincent Elbaz
+    - Isabelle Carré
+    - François-Xavier Demaison
+    - Audrey Dana
+  genre: Comedy
+  plot: Ever heard your mother say, 'Be careful, honey, when you marry, you also marry
+    the family'? When Alain married Nathalie, he wasn't quite aware of the extra baggage
+    that came along in the ...
+  language: French
+  country: France
+  imdbrating: 6.5
+  slug: tellement-proches-2009

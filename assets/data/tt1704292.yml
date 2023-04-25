@@ -1,0 +1,27 @@
+- imdbid: tt1704292
+  type: movie
+  title: 'Battlestar Galactica: Blood & Chrome'
+  year: 2012.0
+  runtime: 91.0
+  director: Jonas Pate
+  writer:
+    - Michael Taylor
+    - David Eick
+    - Michael Taylor
+    - David Eick
+    - Bradley Thompson
+    - David Weddle
+    - Glen A. Larson
+  actors:
+    - Luke Pasqualino
+    - Ben Cotton
+    - Lili Bordán
+    - Jill Teed
+  genre:
+    - Action
+    - Sci-Fi
+  plot: The adventures of young William Adama in the First Cylon War.
+  language: English
+  country: USA
+  imdbrating: 7.0
+  slug: battlestar-galactica-blood-and-chrome-2012

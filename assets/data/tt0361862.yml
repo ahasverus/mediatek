@@ -1,0 +1,26 @@
+- imdbid: tt0361862
+  type: movie
+  title: The Machinist
+  year: 2004.0
+  runtime: 101.0
+  director: Brad Anderson
+  writer: Scott Kosar
+  actors:
+    - Christian Bale
+    - Jennifer Jason Leigh
+    - Aitana Sánchez-Gijón
+    - John Sharian
+  genre:
+    - Drama
+    - Thriller
+  plot: An industrial worker who hasn't slept in a year begins to doubt his own sanity.
+  language:
+    - English
+    - Spanish
+  country:
+    - Spain
+    - France
+    - UK
+    - USA
+  imdbrating: 7.7
+  slug: the-machinist-2004

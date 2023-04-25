@@ -1,0 +1,32 @@
+- imdbid: tt1010048
+  type: movie
+  title: Slumdog Millionaire
+  year: 2008.0
+  runtime: 120.0
+  director:
+    - Danny Boyle
+    - Loveleen Tandan
+  writer:
+    - Simon Beaufoy
+    - Vikas Swarup
+  actors:
+    - Dev Patel
+    - Saurabh Shukla
+    - Anil Kapoor
+    - Raj Zutshi
+  genre:
+    - Drama
+    - Romance
+  plot: A Mumbai teenager reflects on his life after being accused of cheating on the
+    Indian version of 'Who Wants to be a Millionaire?'.
+  language:
+    - English
+    - Hindi
+    - French
+    - German
+  country:
+    - UK
+    - France
+    - USA
+  imdbrating: 8.0
+  slug: slumdog-millionaire-2008

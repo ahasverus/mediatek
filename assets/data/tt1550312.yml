@@ -1,0 +1,25 @@
+- imdbid: tt1550312
+  type: movie
+  title: Café de flore
+  year: 2011.0
+  runtime: 120.0
+  director: Jean-Marc Vallée
+  writer: Jean-Marc Vallée
+  actors:
+    - Vanessa Paradis
+    - Kevin Parent
+    - Hélène Florent
+    - Evelyne Brochu
+  genre:
+    - Drama
+    - Romance
+  plot: A love story between a man and woman. And between a mother and her son. A mystical
+    and fantastical odyssey on love.
+  language:
+    - French
+    - English
+  country:
+    - Canada
+    - France
+  imdbrating: 7.4
+  slug: cafe-de-flore-2011

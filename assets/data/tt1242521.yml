@@ -1,0 +1,28 @@
+- imdbid: tt1242521
+  type: movie
+  title: L'Ordre et la morale
+  year: 2011.0
+  runtime: 136.0
+  director: Mathieu Kassovitz
+  writer:
+    - Mathieu Kassovitz
+    - Pierre Geller
+    - Benoit Jaubert
+    - Serge Frydman
+    - Philippe Legorjus
+  actors:
+    - Mathieu Kassovitz
+    - Iabe Lapacas
+    - Malik Zidi
+    - Alexandre Steiger
+  genre:
+    - Action
+    - Drama
+    - History
+  plot: Dissidents in a French overseas territory attack a police station and take hostages.
+  language: French
+  country:
+    - France
+    - New Caledonia
+  imdbrating: 6.9
+  slug: l-ordre-et-la-morale-2011

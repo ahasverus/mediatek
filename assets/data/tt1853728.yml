@@ -1,0 +1,25 @@
+- imdbid: tt1853728
+  type: movie
+  title: Django Unchained
+  year: 2012.0
+  runtime: 165.0
+  director: Quentin Tarantino
+  writer: Quentin Tarantino
+  actors:
+    - Jamie Foxx
+    - Christoph Waltz
+    - Leonardo DiCaprio
+    - Kerry Washington
+  genre:
+    - Drama
+    - Western
+  plot: With the help of a German bounty hunter, a freed slave sets out to rescue his
+    wife from a brutal Mississippi plantation owner.
+  language:
+    - English
+    - German
+    - French
+    - Italian
+  country: USA
+  imdbrating: 8.4
+  slug: django-unchained-2012

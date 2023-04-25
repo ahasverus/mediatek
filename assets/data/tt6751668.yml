@@ -1,0 +1,27 @@
+- imdbid: tt6751668
+  type: movie
+  title: Parasite
+  year: 2019.0
+  runtime: 132.0
+  director: Bong Joon Ho
+  writer:
+    - Bong Joon Ho
+    - Bong Joon Ho
+    - Jin-won Han
+  actors:
+    - Kang-ho Song
+    - Lee Sun-kyun
+    - Cho Yeo-jeong
+    - Choi Woo-sik
+  genre:
+    - Comedy
+    - Drama
+    - Thriller
+  plot: Greed and class discrimination threaten the newly formed symbiotic relationship
+    between the wealthy Park family and the destitute Kim clan.
+  language:
+    - Korean
+    - English
+  country: South Korea
+  imdbrating: 8.6
+  slug: parasite-2019

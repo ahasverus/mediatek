@@ -1,0 +1,27 @@
+- imdbid: tt0166924
+  type: movie
+  title: Mulholland Drive
+  year: 2001.0
+  runtime: 147.0
+  director: David Lynch
+  writer: David Lynch
+  actors:
+    - Naomi Watts
+    - Jeanne Bates
+    - Dan Birnbaum
+    - Laura Harring
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: After a car wreck on the winding Mulholland Drive renders a woman amnesiac,
+    she and a perky Hollywood-hopeful search for clues and answers across Los Angeles
+    in a twisting venture beyond dreams and reality.
+  language:
+    - English
+    - Spanish
+  country:
+    - France
+    - USA
+  imdbrating: 8.0
+  slug: mulholland-drive-2001

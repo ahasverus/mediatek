@@ -1,0 +1,27 @@
+- imdbid: tt0497465
+  type: movie
+  title: Vicky Cristina Barcelona
+  year: 2008.0
+  runtime: 96.0
+  director: Woody Allen
+  writer: Woody Allen
+  actors:
+    - Rebecca Hall
+    - Scarlett Johansson
+    - Christopher Evan Welch
+    - Chris Messina
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: Two friends on a summer holiday in Spain become enamored with the same painter,
+    unaware that his ex-wife, with whom he has a tempestuous relationship, is about
+    to re-enter the picture.
+  language:
+    - English
+    - Spanish
+  country:
+    - Spain
+    - USA
+  imdbrating: 7.1
+  slug: vicky-cristina-barcelona-2008

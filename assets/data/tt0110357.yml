@@ -1,0 +1,61 @@
+- imdbid: tt0110357
+  type: movie
+  title: The Lion King
+  year: 1994.0
+  runtime: 88.0
+  director:
+    - Roger Allers
+    - Rob Minkoff
+  writer:
+    - Irene Mecchi
+    - Jonathan Roberts
+    - Linda Woolverton
+    - Burny Mattinson
+    - Barry Johnson
+    - Lorna Cook
+    - Thom Enriquez
+    - Andy Gaskill
+    - Gary Trousdale
+    - Jim Capobianco
+    - Kevin Harkey
+    - Jorgen Klubien
+    - Chris Sanders
+    - Tom Sito
+    - Larry Leker
+    - Joe Ranft
+    - Rick Maki
+    - Ed Gombert
+    - Francis Glebas
+    - Mark Kausler
+    - J.T. Allen
+    - George Scribner
+    - Miguel Tejada-Flores
+    - Jenny Tripp
+    - Bob Tzudiker
+    - Christopher Vogler
+    - Kirk Wise
+    - Noni White
+    - Brenda Chapman
+  actors:
+    - Rowan Atkinson
+    - Matthew Broderick
+    - Niketa Calame-Harris
+    - Jim Cummings
+  genre:
+    - Animation
+    - Adventure
+    - Drama
+    - Family
+    - Musical
+    - Disney
+  plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused
+    his father's death and flees into exile in despair, only to learn in adulthood his
+    identity and his responsibilities.
+  language:
+    - English
+    - Swahili
+    - Xhosa
+    - Zulu
+  country: USA
+  imdbrating: 8.5
+  slug: the-lion-king-1994

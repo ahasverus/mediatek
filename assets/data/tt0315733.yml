@@ -1,0 +1,22 @@
+- imdbid: tt0315733
+  type: movie
+  title: 21 Grams
+  year: 2003.0
+  runtime: 124.0
+  director: Alejandro G. Iñárritu
+  writer: Guillermo Arriaga
+  actors:
+    - Sean Penn
+    - Naomi Watts
+    - Danny Huston
+    - Carly Nahon
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: A freak accident brings together a critically ill mathematician, a grieving
+    mother, and a born-again ex-con.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: 21-grams-2003

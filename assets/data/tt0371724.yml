@@ -1,0 +1,28 @@
+- imdbid: tt0371724
+  type: movie
+  title: The Hitchhiker's Guide to the Galaxy
+  year: 2005.0
+  runtime: 109.0
+  director: Garth Jennings
+  writer:
+    - Douglas Adams
+    - Douglas Adams
+    - Karey Kirkpatrick
+  actors:
+    - Bill Bailey
+    - Anna Chancellor
+    - Warwick Davis
+    - Yasiin Bey
+  genre:
+    - Adventure
+    - Comedy
+    - Sci-Fi
+  plot: Mere seconds before the Earth is to be demolished by an alien construction crew,
+    journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher
+    penning a new edition of 'The Hitchhiker's Guide to the Galaxy.'
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 6.8
+  slug: the-hitchhiker-s-guide-to-the-galaxy-2005

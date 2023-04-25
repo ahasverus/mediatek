@@ -1,0 +1,24 @@
+- imdbid: tt1440232
+  type: movie
+  title: Les Petits mouchoirs
+  year: 2010.0
+  runtime: 154.0
+  director: Guillaume Canet
+  writer: Guillaume Canet
+  actors:
+    - François Cluzet
+    - Marion Cotillard
+    - Benoît Magimel
+    - Gilles Lellouche
+  genre:
+    - Comedy
+    - Drama
+  plot: A near-fatal accident leaves one friend in the hospital while the rest go on
+    their annual vacation. But their secrets and personal grief threaten to drive them
+    apart.
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.1
+  slug: les-petits-mouchoirs-2010

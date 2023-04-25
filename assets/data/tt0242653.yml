@@ -1,0 +1,30 @@
+- imdbid: tt0242653
+  type: movie
+  title: The Matrix Revolutions
+  year: 2003.0
+  runtime: 129.0
+  director:
+    - Lana Wachowski
+    - Lilly Wachowski
+  writer:
+    - Lilly Wachowski
+    - Lana Wachowski
+    - Lilly Wachowski
+    - Lana Wachowski
+  actors:
+    - Mary Alice
+    - Tanveer K. Atwal
+    - Helmut Bakaitis
+    - Kate Beahan
+  genre:
+    - Action
+    - Sci-Fi
+  plot: The human city of Zion defends itself against the massive invasion of the machines
+    as Neo fights to end the war at another front while also opposing the rogue Agent
+    Smith.
+  language:
+    - English
+    - French
+  country: USA
+  imdbrating: 6.8
+  slug: the-matrix-revolutions-2003

@@ -1,0 +1,26 @@
+- imdbid: tt0119567
+  type: movie
+  title: 'Jurassic Park II: The Lost World'
+  year: 1997.0
+  runtime: 129.0
+  director: Steven Spielberg
+  writer:
+    - Michael Crichton
+    - David Koepp
+  actors:
+    - Jeff Goldblum
+    - Julianne Moore
+    - Pete Postlethwaite
+    - Arliss Howard
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: A research team is sent to the Jurassic Park Site B island to study the dinosaurs
+    there, while an InGen team approaches with another agenda.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 6.6
+  slug: jurassic-park-ii-the-lost-world-1997

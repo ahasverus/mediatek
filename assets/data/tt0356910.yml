@@ -1,0 +1,25 @@
+- imdbid: tt0356910
+  type: movie
+  title: Mr. & Mrs. Smith
+  year: 2005.0
+  runtime: 120.0
+  director: Doug Liman
+  writer: Simon Kinberg
+  actors:
+    - Brad Pitt
+    - Angelina Jolie
+    - Vince Vaughn
+    - Adam Brody
+  genre:
+    - Action
+    - Comedy
+    - Crime
+    - Thriller
+  plot: A bored married couple is surprised to learn that they are both assassins hired
+    by competing agencies to kill each other.
+  language:
+    - English
+    - Spanish
+  country: USA
+  imdbrating: 6.5
+  slug: mr-mrs-smith-2005

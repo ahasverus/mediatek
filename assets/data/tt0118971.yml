@@ -1,0 +1,32 @@
+- imdbid: tt0118971
+  type: movie
+  title: The Devil's Advocate
+  year: 1997.0
+  runtime: 144.0
+  director: Taylor Hackford
+  writer:
+    - Andrew Neiderman
+    - Jonathan Lemkin
+    - Tony Gilroy
+  actors:
+    - Keanu Reeves
+    - Al Pacino
+    - Charlize Theron
+    - Jeffrey Jones
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: An exceptionally adept Florida lawyer is offered a job at a high-end New York
+    City law firm with a high-end boss - the biggest opportunity of his career to date.
+  language:
+    - English
+    - German
+    - Italian
+    - Mandarin
+    - Spanish
+  country:
+    - USA
+    - Germany
+  imdbrating: 7.5
+  slug: the-devil-s-advocate-1997

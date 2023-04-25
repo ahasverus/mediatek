@@ -1,0 +1,24 @@
+- imdbid: tt0365748
+  type: movie
+  title: Shaun of the Dead
+  year: 2004.0
+  runtime: 99.0
+  director: Edgar Wright
+  writer:
+    - Simon Pegg
+    - Edgar Wright
+  actors:
+    - Simon Pegg
+    - Kate Ashfield
+    - Nick Frost
+    - Lucy Davis
+  genre:
+    - Comedy
+    - Horror
+  plot: A man's uneventful life is disrupted by the zombie apocalypse.
+  language: English
+  country:
+    - UK
+    - France
+  imdbrating: 7.9
+  slug: shaun-of-the-dead-2004

@@ -1,0 +1,29 @@
+- imdbid: tt4425200
+  type: movie
+  title: 'John Wick: Chapter 2'
+  year: 2017.0
+  runtime: 122.0
+  director: Chad Stahelski
+  writer:
+    - Derek Kolstad
+    - Derek Kolstad
+  actors:
+    - Keanu Reeves
+    - Riccardo Scamarcio
+    - Ian McShane
+    - Ruby Rose
+  genre:
+    - Action
+    - Crime
+    - Thriller
+  plot: After returning to the criminal underworld to repay a debt, John Wick discovers
+    that a large bounty has been put on his life.
+  language:
+    - English
+    - Italian
+    - Russian
+  country:
+    - Hong Kong
+    - USA
+  imdbrating: 7.5
+  slug: john-wick-chapter-2-2017

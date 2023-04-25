@@ -1,0 +1,21 @@
+- imdbid: tt0113247
+  type: movie
+  title: La Haine
+  year: 1995.0
+  runtime: 98.0
+  director: Mathieu Kassovitz
+  writer: Mathieu Kassovitz
+  actors:
+    - Vincent Cassel
+    - Hubert Koundé
+    - Saïd Taghmaoui
+    - Abdel Ahmed Ghili
+  genre:
+    - Crime
+    - Drama
+  plot: 24 hours in the lives of three young men in the French suburbs the day after
+    a violent riot.
+  language: French
+  country: France
+  imdbrating: 8.1
+  slug: la-haine-1995

@@ -1,0 +1,30 @@
+- imdbid: tt0364569
+  type: movie
+  title: Oldboy
+  year: 2003.0
+  runtime: 120.0
+  director: Chan-wook Park
+  writer:
+    - Garon Tsuchiya
+    - Nobuaki Minegishi
+    - 'Chan-wook Park (character created by: Oldboy'
+    - Vengeance Trilogy)
+    - Chan-wook Park
+    - Joon-hyung Lim
+    - Jo-yun Hwang
+  actors:
+    - Min-sik Choi
+    - Ji-Tae Yoo
+    - Hye-jeong Kang
+    - Dae-han Ji
+  genre:
+    - Action
+    - Drama
+    - Mystery
+    - Thriller
+  plot: After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released,
+    only to find that he must find his captor in five days.
+  language: Korean
+  country: South Korea
+  imdbrating: 8.4
+  slug: oldboy-2003

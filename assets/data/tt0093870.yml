@@ -1,0 +1,25 @@
+- imdbid: tt0093870
+  type: movie
+  title: RoboCop
+  year: 1987.0
+  runtime: 102.0
+  director: Paul Verhoeven
+  writer:
+    - Edward Neumeier
+    - Michael Miner
+  actors:
+    - Peter Weller
+    - Nancy Allen
+    - Dan O'Herlihy
+    - Ronny Cox
+  genre:
+    - Action
+    - Crime
+    - Sci-Fi
+    - Thriller
+  plot: In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to
+    the force as a powerful cyborg haunted by submerged memories.
+  language: English
+  country: USA
+  imdbrating: 7.5
+  slug: robocop-1987

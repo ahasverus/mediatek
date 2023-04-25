@@ -1,0 +1,27 @@
+- imdbid: tt0407887
+  type: movie
+  title: The Departed
+  year: 2006.0
+  runtime: 151.0
+  director: Martin Scorsese
+  writer:
+    - William Monahan
+    - Alan Mak
+    - Felix Chong
+  actors:
+    - Leonardo DiCaprio
+    - Matt Damon
+    - Jack Nicholson
+    - Mark Wahlberg
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: An undercover cop and a mole in the police attempt to identify each other while
+    infiltrating an Irish gang in South Boston.
+  language:
+    - English
+    - Cantonese
+  country: USA
+  imdbrating: 8.5
+  slug: the-departed-2006

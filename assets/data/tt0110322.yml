@@ -1,0 +1,28 @@
+- imdbid: tt0110322
+  type: movie
+  title: Legends of the Fall
+  year: 1994.0
+  runtime: 133.0
+  director: Edward Zwick
+  writer:
+    - Susan Shilliday
+    - William D. Wittliff
+    - Jim Harrison
+  actors:
+    - Brad Pitt
+    - Anthony Hopkins
+    - Aidan Quinn
+    - Julia Ormond
+  genre:
+    - Drama
+    - Romance
+    - War
+    - Western
+  plot: In the early 1900s, three brothers and their father living in the remote wilderness
+    of Montana are affected by betrayal, history, love, nature, and war.
+  language:
+    - English
+    - Cornish
+  country: USA
+  imdbrating: 7.6
+  slug: legends-of-the-fall-1994

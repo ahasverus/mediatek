@@ -1,0 +1,27 @@
+- imdbid: tt0134119
+  type: movie
+  title: The Talented Mr. Ripley
+  year: 1999.0
+  runtime: 139.0
+  director: Anthony Minghella
+  writer:
+    - Patricia Highsmith
+    - Anthony Minghella
+  actors:
+    - Matt Damon
+    - Gwyneth Paltrow
+    - Jude Law
+    - Cate Blanchett
+  genre:
+    - Crime
+    - Drama
+    - Thriller
+  plot: In late 1950s New York, Tom Ripley, a young underachiever, is sent to Italy
+    to retrieve Dickie Greenleaf, a rich and spoiled millionaire playboy. But when the
+    errand fails, Ripley takes extreme measures.
+  language:
+    - English
+    - Italian
+  country: USA
+  imdbrating: 7.4
+  slug: the-talented-mr-ripley-1999

@@ -1,0 +1,29 @@
+- imdbid: tt4034354
+  type: movie
+  title: Swiss Army Man
+  year: 2016.0
+  runtime: 97.0
+  director:
+    - Dan Kwan
+    - Daniel Scheinert
+  writer:
+    - Daniel Scheinert
+    - Dan Kwan
+  actors:
+    - Paul Dano
+    - Daniel Radcliffe
+    - Mary Elizabeth Winstead
+    - Antonia Ribero
+  genre:
+    - Comedy
+    - Drama
+    - Fantasy
+    - Romance
+  plot: A hopeless man stranded on a deserted island befriends a dead body and together
+    they go on a surreal journey to get home.
+  language: English
+  country:
+    - USA
+    - Sweden
+  imdbrating: 7.0
+  slug: swiss-army-man-2016

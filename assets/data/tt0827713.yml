@@ -1,0 +1,23 @@
+- imdbid: tt0827713
+  type: movie
+  title: "J'ai toujours rêvé d'être un gangster"
+  year: 2007.0
+  runtime: 113.0
+  director: Samuel Benchetrit
+  writer: Samuel Benchetrit
+  actors:
+    - Anna Mouglalis
+    - Edouard Baer
+    - Jean Rochefort
+    - Laurent Terzieff
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+  plot: Told in four vignettes, this existential comedy relates the exploits of four
+    aspiring criminals who hope to improve their lot, but find that they might not have
+    what it takes for a life of crime.
+  language: French
+  country: France
+  imdbrating: 7.1
+  slug: i-always-wanted-to-be-a-gangster-2007

@@ -1,0 +1,31 @@
+- imdbid: tt2267968
+  type: movie
+  title: Kung Fu Panda 3
+  year: 2016.0
+  runtime: 95.0
+  director:
+    - Alessandro Carloni
+    - Jennifer Yuh Nelson
+  writer:
+    - Jonathan Aibel
+    - Glenn Berger
+  actors:
+    - Jack Black
+    - Bryan Cranston
+    - Dustin Hoffman
+    - Angelina Jolie
+  genre:
+    - Animation
+    - Action
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: 'Continuing his ''legendary adventures of awesomeness'', Po must face two hugely
+    epic, but different threats: one supernatural and the other a little closer to home.'
+  language: English
+  country:
+    - China
+    - USA
+  imdbrating: 7.1
+  slug: kung-fu-panda-3-2016

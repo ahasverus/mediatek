@@ -1,0 +1,26 @@
+- imdbid: tt4467194
+  type: movie
+  title: Cessez-le-feu
+  year: 2016.0
+  runtime: 103.0
+  director: Emmanuel Courcol
+  writer: Emmanuel Courcol
+  actors:
+    - Romain Duris
+    - Céline Sallette
+    - Grégory Gadebois
+    - Julie-Marie Parmentier
+  genre:
+    - Drama
+    - History
+  plot: In the early 1920s, Georges Laffont, traumatized by the horrific trench warfar,
+    decides to leave his life behind and travel to West Africa into the vast territories
+    of Upper Volta in the ...
+  language:
+    - French
+    - French Sign Language
+  country:
+    - France
+    - Belgium
+  imdbrating: 6.0
+  slug: cessez-le-feu-2016

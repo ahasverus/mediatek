@@ -1,0 +1,32 @@
+- imdbid: tt0118884
+  type: movie
+  title: Contact
+  year: 1997.0
+  runtime: 150.0
+  director: Robert Zemeckis
+  writer:
+    - James V. Hart
+    - Michael Goldenberg
+    - Carl Sagan
+    - Carl Sagan
+    - Ann Druyan
+  actors:
+    - Jena Malone
+    - David Morse
+    - Jodie Foster
+    - Geoffrey Blake
+  genre:
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of
+    extraterrestrial intelligence, sending plans for a mysterious machine.
+  language:
+    - English
+    - Spanish
+    - German
+    - Russian
+  country: USA
+  imdbrating: 7.4
+  slug: contact-1997

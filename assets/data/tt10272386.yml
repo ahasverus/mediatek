@@ -1,0 +1,25 @@
+- imdbid: tt10272386
+  type: movie
+  title: The Father
+  year: 2020.0
+  runtime: 97.0
+  director: Florian Zeller
+  writer:
+    - Christopher Hampton
+    - Florian Zeller
+    - Florian Zeller
+  actors:
+    - Olivia Colman
+    - Anthony Hopkins
+    - Mark Gatiss
+    - Olivia Williams
+  genre: Drama
+  plot: A man refuses all assistance from his daughter as he ages. As he tries to make
+    sense of his changing circumstances, he begins to doubt his loved ones, his own
+    mind and even the fabric of his reality.
+  language: English
+  country:
+    - UK
+    - France
+  imdbrating: 8.3
+  slug: the-father-2020

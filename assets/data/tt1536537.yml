@@ -1,0 +1,32 @@
+- imdbid: tt1536537
+  type: movie
+  title: What Happened to Monday
+  year: 2017.0
+  runtime: 123.0
+  director: Tommy Wirkola
+  writer:
+    - Max Botkin
+    - Kerry Williamson
+  actors:
+    - Noomi Rapace
+    - Glenn Close
+    - Willem Dafoe
+    - Marwan Kenzari
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Mystery
+    - Sci-Fi
+    - Thriller
+  plot: In a world where families are limited to one child due to overpopulation, a
+    set of identical septuplets must avoid being put to a long sleep by the government
+    and dangerous infighting while investigating the disappearance of one of their own.
+  language: English
+  country:
+    - UK
+    - France
+    - USA
+    - Belgium
+  imdbrating: 6.9
+  slug: what-happened-to-monday-2017

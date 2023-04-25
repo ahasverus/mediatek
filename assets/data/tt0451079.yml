@@ -1,0 +1,29 @@
+- imdbid: tt0451079
+  type: movie
+  title: Horton Hears a Who!
+  year: 2008.0
+  runtime: 86.0
+  director:
+    - Jimmy Hayward
+    - Steve Martino
+  writer:
+    - Cinco Paul
+    - Ken Daurio
+    - Dr. Seuss
+  actors:
+    - Jim Carrey
+    - Steve Carell
+    - Carol Burnett
+    - Will Arnett
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+  plot: Horton the Elephant struggles to protect a microscopic community from his neighbors
+    who refuse to believe it exists.
+  language: English
+  country: USA
+  imdbrating: 6.8
+  slug: horton-hears-a-who-2008

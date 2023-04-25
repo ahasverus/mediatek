@@ -1,0 +1,28 @@
+- imdbid: tt0062622
+  type: movie
+  title: '2001: A Space Odyssey'
+  year: 1968.0
+  runtime: 149.0
+  director: Stanley Kubrick
+  writer:
+    - Stanley Kubrick
+    - Arthur C. Clarke
+  actors:
+    - Keir Dullea
+    - Gary Lockwood
+    - William Sylvester
+    - Daniel Richter
+  genre:
+    - Adventure
+    - Sci-Fi
+  plot: After discovering a mysterious artifact buried beneath the Lunar surface, mankind
+    sets off on a quest to find its origins with help from intelligent supercomputer
+    H.A.L. 9000.
+  language:
+    - English
+    - Russian
+  country:
+    - USA
+    - UK
+  imdbrating: 8.3
+  slug: 2001-a-space-odyssey-1968

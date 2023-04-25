@@ -1,0 +1,31 @@
+- imdbid: tt0371606
+  type: movie
+  title: Chicken Little
+  year: 2005.0
+  runtime: 81.0
+  director: Mark Dindal
+  writer:
+    - Mark Dindal
+    - Mark Kennedy
+    - Steve Bencich
+    - Ron J. Friedman
+    - Ron Anderson
+  actors:
+    - Zach Braff
+    - Garry Marshall
+    - Don Knotts
+    - Patrick Stewart
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Sci-Fi
+    - Disney
+  plot: After ruining his reputation with the town, a courageous chicken must come to
+    the rescue of his fellow citizens when aliens start an invasion.
+  language: English
+  country: USA
+  imdbrating: 5.7
+  slug: chicken-little-2005

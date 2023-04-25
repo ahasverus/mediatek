@@ -1,0 +1,27 @@
+- imdbid: tt0399201
+  type: movie
+  title: The Island
+  year: 2005.0
+  runtime: 136.0
+  director: Michael Bay
+  writer:
+    - Caspian Tredwell-Owen
+    - Alex Kurtzman
+    - Roberto Orci
+    - Caspian Tredwell-Owen
+  actors:
+    - Ewan McGregor
+    - Scarlett Johansson
+    - Djimon Hounsou
+    - Sean Bean
+  genre:
+    - Action
+    - Sci-Fi
+    - Thriller
+  plot: A man living in a futuristic sterile colony begins to question his circumscribed
+    existence when his friend is chosen to go to the Island, the last uncontaminated
+    place on earth.
+  language: English
+  country: USA
+  imdbrating: 6.8
+  slug: the-island-2005

@@ -1,0 +1,22 @@
+- imdbid: tt14114802
+  type: movie
+  title: The Outfit
+  year: 2022.0
+  runtime: 105.0
+  director: Graham Moore
+  writer:
+    - Johnathan McClain
+    - Graham Moore
+  actors:
+    - Mark Rylance
+    - Zoey Deutch
+    - Dylan O'Brien
+  genre:
+    - Crime
+    - Drama
+  plot: An expert tailor must outwit a dangerous group of mobsters in order to survive
+    a fateful night.
+  language: English
+  country: United States
+  imdbrating: 7.3
+  slug: the-outfit-2022

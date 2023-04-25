@@ -1,0 +1,60 @@
+- imdbid: tt0032455
+  type: movie
+  title: Fantasia
+  year: 1940.0
+  runtime: 125.0
+  director:
+    - James Algar
+    - Samuel Armstrong
+    - Ford Beebe Jr.
+    - Norman Ferguson
+    - David Hand
+    - Jim Handley
+    - T. Hee
+    - Wilfred Jackson
+    - Hamilton Luske
+    - Bill Roberts
+    - Paul Satterfield
+    - Ben Sharpsteen
+  writer:
+    - Joe Grant
+    - Dick Huemer
+    - Lee Blair
+    - Elmer Plummer
+    - Phil Dike
+    - Sylvia Moberly-Holland
+    - Norman Wright
+    - Albert Heath
+    - Bianca Majolie
+    - Graham Heid
+    - Perce Pearce
+    - Carl Fallberg
+    - William Martin
+    - Leo Thiele
+    - Robert Sterner
+    - John McLeish
+    - Otto Englander
+    - Webb Smith
+    - Erdman Penner
+    - Joseph Sabo
+    - Bill Peet
+    - Vernon Stallings
+    - Campbell Grant
+    - Arthur Heinemann
+    - Phil Dike
+  actors:
+    - Deems Taylor
+    - Leopold Stokowski
+    - The Philadelphia Orchestra
+  genre:
+    - Animation
+    - Family
+    - Fantasy
+    - Music
+    - Disney
+  plot: A collection of animated interpretations of great works of Western classical
+    music.
+  language: English
+  country: USA
+  imdbrating: 7.8
+  slug: fantasia-1940

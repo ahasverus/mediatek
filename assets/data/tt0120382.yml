@@ -1,0 +1,21 @@
+- imdbid: tt0120382
+  type: movie
+  title: The Truman Show
+  year: 1998.0
+  runtime: 103.0
+  director: Peter Weir
+  writer: Andrew Niccol
+  actors:
+    - Jim Carrey
+    - Laura Linney
+    - Noah Emmerich
+    - Natascha McElhone
+  genre:
+    - Comedy
+    - Drama
+    - Sci-Fi
+  plot: An insurance salesman discovers his whole life is actually a reality TV show.
+  language: English
+  country: USA
+  imdbrating: 8.1
+  slug: the-truman-show-1998

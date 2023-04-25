@@ -1,0 +1,29 @@
+- imdbid: tt1211837
+  type: movie
+  title: Doctor Strange
+  year: 2016.0
+  runtime: 115.0
+  director: Scott Derrickson
+  writer:
+    - Jon Spaihts
+    - Scott Derrickson
+    - C. Robert Cargill
+    - Stan Lee
+    - Steve Ditko
+  actors:
+    - Benedict Cumberbatch
+    - Chiwetel Ejiofor
+    - Rachel McAdams
+    - Benedict Wong
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+    - Sci-Fi
+    - Marvel
+  plot: While on a journey of physical and spiritual healing, a brilliant neurosurgeon
+    is drawn into the world of the mystic arts.
+  language: English
+  country: USA
+  imdbrating: 7.5
+  slug: doctor-strange-2016

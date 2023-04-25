@@ -1,0 +1,30 @@
+- imdbid: tt0765429
+  type: movie
+  title: American Gangster
+  year: 2007.0
+  runtime: 157.0
+  director: Ridley Scott
+  writer:
+    - Steven Zaillian
+    - Mark Jacobson
+  actors:
+    - Denzel Washington
+    - Russell Crowe
+    - Chiwetel Ejiofor
+    - Josh Brolin
+  genre:
+    - Biography
+    - Crime
+    - Drama
+    - Thriller
+  plot: An outcast New York City cop is charged with bringing down Harlem drug lord
+    Frank Lucas, whose real life inspired this partly biographical film.
+  language:
+    - English
+    - Thai
+    - Spanish
+  country:
+    - USA
+    - UK
+  imdbrating: 7.8
+  slug: american-gangster-2007

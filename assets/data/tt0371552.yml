@@ -1,0 +1,37 @@
+- imdbid: tt0371552
+  type: movie
+  title: Astérix et les Vikings
+  year: 2006.0
+  runtime: 78.0
+  director:
+    - Stefan Fjeldmark
+    - Jesper Møller
+  writer:
+    - René Goscinny
+    - Albert Uderzo
+    - Jean-Luc Goossens
+    - Stefan Fjeldmark
+    - Philip LaZebnik
+  actors:
+    - Roger Carel
+    - Lorànt Deutsch
+    - Sara Forestier
+    - Jacques Frantz
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Romance
+  plot: The vikings come to Gaul and kidnap the chief's nephew. The chief sends Asterix
+    and Obelix up north to get him back but the nephew has fallen in love with the viking
+    chief's daughter v.v. What to do?
+  language:
+    - French
+    - English
+  country:
+    - France
+    - Denmark
+  imdbrating: 6.1
+  slug: asterix-et-les-vikings-2006

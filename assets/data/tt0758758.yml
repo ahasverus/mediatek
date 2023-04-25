@@ -1,0 +1,28 @@
+- imdbid: tt0758758
+  type: movie
+  title: Into the Wild
+  year: 2007.0
+  runtime: 148.0
+  director: Sean Penn
+  writer:
+    - Sean Penn
+    - Jon Krakauer
+  actors:
+    - Emile Hirsch
+    - Marcia Gay Harden
+    - William Hurt
+    - Jena Malone
+  genre:
+    - Adventure
+    - Biography
+    - Drama
+  plot: After graduating from Emory University, top student and athlete Christopher
+    McCandless abandons his possessions, gives his entire $24,000 savings account to
+    charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher
+    encounters a series of characters that shape his life.
+  language:
+    - English
+    - Danish
+  country: USA
+  imdbrating: 8.1
+  slug: into-the-wild-2007

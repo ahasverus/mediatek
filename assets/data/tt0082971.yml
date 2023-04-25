@@ -1,0 +1,31 @@
+- imdbid: tt0082971
+  type: movie
+  title: Raiders of the Lost Ark
+  year: 1981.0
+  runtime: 115.0
+  director: Steven Spielberg
+  writer:
+    - Lawrence Kasdan
+    - George Lucas
+    - Philip Kaufman
+  actors:
+    - Harrison Ford
+    - Karen Allen
+    - Paul Freeman
+    - Ronald Lacey
+  genre:
+    - Action
+    - Adventure
+  plot: In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government
+    to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome
+    powers.
+  language:
+    - English
+    - German
+    - Hebrew
+    - Spanish
+    - Arabic
+    - Nepali
+  country: USA
+  imdbrating: 8.4
+  slug: raiders-of-the-lost-ark-1981

@@ -1,0 +1,34 @@
+- imdbid: tt0121164
+  type: movie
+  title: Corpse Bride
+  year: 2005.0
+  runtime: 77.0
+  director:
+    - Tim Burton
+    - Mike Johnson
+  writer:
+    - Tim Burton
+    - Carlos Grangel
+    - John August
+    - Caroline Thompson
+    - Pamela Pettler
+  actors:
+    - Johnny Depp
+    - Helena Bonham Carter
+    - Emily Watson
+    - Tracey Ullman
+  genre:
+    - Animation
+    - Drama
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+  plot: When a shy groom practices his wedding vows in the inadvertent presence of a
+    deceased young woman, she rises from the grave assuming he has married her.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 7.3
+  slug: corpse-bride-2005

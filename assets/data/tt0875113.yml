@@ -1,0 +1,25 @@
+- imdbid: tt0875113
+  type: movie
+  title: 99 Francs
+  year: 2007.0
+  runtime: 100.0
+  director: Jan Kounen
+  writer:
+    - Nicolas Charlet
+    - Bruno Lavaine
+    - Jan Kounen
+    - Frédéric Beigbeder
+  actors:
+    - Jean Dujardin
+    - Jocelyn Quivrin
+    - Patrick Mille
+    - Vahina Giocante
+  genre:
+    - Comedy
+    - Drama
+  plot: The life of Octave Parango, a flamboyant ad designer, filled with success, satire,
+    misery and love.
+  language: French
+  country: France
+  imdbrating: 7.3
+  slug: 99-francs-2007

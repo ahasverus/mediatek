@@ -1,0 +1,25 @@
+- imdbid: tt0159097
+  type: movie
+  title: The Virgin Suicides
+  year: 1999.0
+  runtime: 97.0
+  director: Sofia Coppola
+  writer:
+    - Jeffrey Eugenides
+    - Sofia Coppola
+  actors:
+    - James Woods
+    - Kathleen Turner
+    - Kirsten Dunst
+    - Josh Hartnett
+  genre:
+    - Drama
+    - Romance
+  plot: A group of male friends become obsessed with five mysterious sisters who are
+    sheltered by their strict, religious parents in suburban Detroit in the mid 1970s.
+  language: English
+  country:
+    - USA
+    - Canada
+  imdbrating: 7.2
+  slug: the-virgin-suicides-1999

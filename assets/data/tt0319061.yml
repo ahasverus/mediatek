@@ -1,0 +1,27 @@
+- imdbid: tt0319061
+  type: movie
+  title: Big Fish
+  year: 2003.0
+  runtime: 125.0
+  director: Tim Burton
+  writer:
+    - Daniel Wallace
+    - John August
+  actors:
+    - Ewan McGregor
+    - Albert Finney
+    - Billy Crudup
+    - Jessica Lange
+  genre:
+    - Adventure
+    - Drama
+    - Fantasy
+    - Romance
+  plot: A frustrated son tries to determine the fact from fiction in his dying father's
+    life.
+  language:
+    - English
+    - Cantonese
+  country: USA
+  imdbrating: 8.0
+  slug: big-fish-2003

@@ -1,0 +1,21 @@
+- imdbid: tt0898367
+  type: movie
+  title: The Road
+  year: 2009.0
+  runtime: 111.0
+  director: John Hillcoat
+  writer:
+    - Joe Penhall
+    - Cormac McCarthy
+  actors:
+    - Viggo Mortensen
+    - Kodi Smit-McPhee
+    - Robert Duvall
+    - Guy Pearce
+  genre: Drama
+  plot: In a dangerous post-apocalyptic world, an ailing father defends his son as they
+    slowly travel to the sea.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: the-road-2009

@@ -1,0 +1,31 @@
+- imdbid: tt0118843
+  type: movie
+  title: Black Cat, White Cat
+  year: 1998.0
+  runtime: 127.0
+  director: Emir Kusturica
+  writer: Gordan Mihic
+  actors:
+    - Bajram Severdzan
+    - Srdjan 'Zika' Todorovic
+    - Branka Katic
+    - Florijan Ajdini
+  genre:
+    - Comedy
+    - Crime
+    - Romance
+  plot: Matko and his son Zare live on the banks of the Danube river and get by through
+    hustling and basically doing anything to make a living. In order to pay off a business
+    debt Matko agrees to marry off Zare to the sister of a local gangster.
+  language:
+    - Romany
+    - Serbian
+    - Bulgarian
+  country:
+    - Federal Republic of Yugoslavia
+    - France
+    - Germany
+    - Austria
+    - Greece
+  imdbrating: 8.1
+  slug: black-cat-white-cat-1998

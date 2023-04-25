@@ -1,0 +1,26 @@
+- imdbid: tt0338013
+  type: movie
+  title: Eternal Sunshine of the Spotless Mind
+  year: 2004.0
+  runtime: 108.0
+  director: Michel Gondry
+  writer:
+    - Charlie Kaufman
+    - Michel Gondry
+    - Pierre Bismuth
+    - Charlie Kaufman
+  actors:
+    - Jim Carrey
+    - Kate Winslet
+    - Gerry Robert Byrne
+    - Elijah Wood
+  genre:
+    - Drama
+    - Romance
+    - Sci-Fi
+  plot: When their relationship turns sour, a couple undergoes a medical procedure to
+    have each other erased from their memories.
+  language: English
+  country: USA
+  imdbrating: 8.3
+  slug: eternal-sunshine-of-the-spotless-mind-2004

@@ -1,0 +1,31 @@
+- imdbid: tt1663662
+  type: movie
+  title: Pacific Rim
+  year: 2013.0
+  runtime: 131.0
+  director: Guillermo del Toro
+  writer:
+    - Travis Beacham
+    - Guillermo del Toro
+  actors:
+    - Idris Elba
+    - Charlie Hunnam
+    - Rinko Kikuchi
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: As a war between humankind and monstrous sea creatures wages on, a former pilot
+    and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate
+    effort to save the world from the apocalypse.
+  language:
+    - English
+    - Japanese
+    - Cantonese
+    - Mandarin
+  country:
+    - United States
+    - Mexico
+    - Hong Kong
+  imdbrating: 6.9
+  slug: pacific-rim-2013

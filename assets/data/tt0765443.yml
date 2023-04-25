@@ -1,0 +1,32 @@
+- imdbid: tt0765443
+  type: movie
+  title: Eastern Promises
+  year: 2007.0
+  runtime: 100.0
+  director: David Cronenberg
+  writer: Steven Knight
+  actors:
+    - Josef Altin
+    - Mina E. Mina
+    - Aleksandar Mikic
+    - Sarah-Jeanne Labrosse
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: A Russian teenager living in London who dies during childbirth leaves clues
+    to a midwife in her journal that could tie her child to a rape involving a violent
+    Russian mob family.
+  language:
+    - English
+    - Russian
+    - Turkish
+    - Ukrainian
+    - Urdu
+  country:
+    - UK
+    - Canada
+    - USA
+  imdbrating: 7.6
+  slug: eastern-promises-2007

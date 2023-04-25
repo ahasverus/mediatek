@@ -1,0 +1,36 @@
+- imdbid: tt1217209
+  type: movie
+  title: Brave
+  year: 2012.0
+  runtime: 93.0
+  director:
+    - Mark Andrews
+    - Brenda Chapman
+    - Steve Purcell
+  writer:
+    - Brenda Chapman
+    - Mark Andrews
+    - Steve Purcell
+    - Brenda Chapman
+    - Irene Mecchi
+  actors:
+    - Kelly Macdonald
+    - Billy Connolly
+    - Emma Thompson
+    - Julie Walters
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Pixar
+  plot: Determined to make her own path in life, Princess Merida (Kelly Macdonald) defies
+    a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on
+    her bravery and her archery skills to undo a beastly curse.
+  language: English
+  country:
+    - USA
+    - UK
+  imdbrating: 7.1
+  slug: brave-2012

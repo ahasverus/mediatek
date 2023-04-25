@@ -1,0 +1,33 @@
+- imdbid: tt0455590
+  type: movie
+  title: The Last King of Scotland
+  year: 2006.0
+  runtime: 123.0
+  director: Kevin Macdonald
+  writer:
+    - Peter Morgan
+    - Jeremy Brock
+    - Giles Foden
+    - David Fox
+  actors:
+    - Forest Whitaker
+    - James McAvoy
+    - Kerry Washington
+    - Gillian Anderson
+  genre:
+    - Biography
+    - Drama
+    - History
+    - Thriller
+  plot: Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen
+    by his personal physician during the 1970s.
+  language:
+    - English
+    - French
+    - German
+    - Swahili
+  country:
+    - UK
+    - Germany
+  imdbrating: 7.7
+  slug: the-last-king-of-scotland-2006

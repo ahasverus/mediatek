@@ -1,0 +1,26 @@
+- imdbid: tt0991178
+  type: movie
+  title: 'Battlestar Galactica: Razor'
+  year: 2007.0
+  runtime: 101.0
+  director: Félix Enríquez Alcalá
+  writer:
+    - Ronald D. Moore
+    - Michael Taylor
+    - Glen A. Larson
+  actors:
+    - Edward James Olmos
+    - Mary McDonnell
+    - Katee Sackhoff
+    - Jamie Bamber
+  genre:
+    - Action
+    - Drama
+    - Sci-Fi
+    - Thriller
+  plot: A two-hour Battlestar Galactica special that tells the story of the Battlestar
+    Pegasus several months prior to it finding the Galactica.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: battlestar-galactica-razor-2007

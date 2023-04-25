@@ -1,0 +1,21 @@
+- imdbid: tt9244554
+  type: movie
+  title: Last Looks
+  year: 2021.0
+  runtime: 110.0
+  director: Tim Kirkby
+  writer: Howard Michael Gould
+  actors:
+    - Charlie Hunnam
+    - Mel Gibson
+    - Lucy Fry
+  genre:
+    - Action
+    - Crime
+    - Mystery
+  plot: A disgraced ex-cop seeks solace by moving to the woods, but his quiet life comes
+    to an end when a private eye recruits him to investigate a murder.
+  language: English
+  country: United States
+  imdbrating: 5.6
+  slug: last-looks-2021

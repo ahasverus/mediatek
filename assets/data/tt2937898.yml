@@ -1,0 +1,27 @@
+- imdbid: tt2937898
+  type: movie
+  title: A Most Violent Year
+  year: 2014.0
+  runtime: 125.0
+  director: J.C. Chandor
+  writer: J.C. Chandor
+  actors:
+    - Oscar Isaac
+    - Elyes Gabel
+    - Jessica Chastain
+    - Lorna Pruce
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: In New York City 1981, an ambitious immigrant fights to protect his business
+    and family during the most dangerous year in the city's history.
+  language:
+    - English
+    - Spanish
+  country:
+    - USA
+    - United Arab Emirates
+  imdbrating: 7.0
+  slug: a-most-violent-year-2014

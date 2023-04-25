@@ -1,0 +1,25 @@
+- imdbid: tt6443346
+  type: movie
+  title: Black Adam
+  year: 2022.0
+  runtime: 125.0
+  director: Jaume Collet-Serra
+  writer:
+    - Adam Sztykiel
+    - Rory Haines
+    - Sohrab Noshirvani
+  actors:
+    - Dwayne Johnson
+    - Aldis Hodge
+    - Pierce Brosnan
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian
+    gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb,
+    ready to unleash his unique form of justice on the modern world.
+  language: English
+  country: United States
+  imdbrating: 6.6
+  slug: black-adam-2022

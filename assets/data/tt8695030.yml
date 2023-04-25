@@ -1,0 +1,24 @@
+- imdbid: tt8695030
+  type: movie
+  title: The Dead Don't Die
+  year: 2019.0
+  runtime: 104.0
+  director: Jim Jarmusch
+  writer: Jim Jarmusch
+  actors:
+    - Bill Murray
+    - Adam Driver
+    - Tom Waits
+    - Chloë Sevigny
+  genre:
+    - Comedy
+    - Fantasy
+    - Horror
+  plot: The peaceful town of Centerville finds itself battling a zombie horde as the
+    dead start rising from their graves.
+  language: English
+  country:
+    - USA
+    - Sweden
+  imdbrating: 5.5
+  slug: the-dead-don-t-die-2019

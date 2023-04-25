@@ -1,0 +1,26 @@
+- imdbid: tt6095616
+  type: movie
+  title: Mr et Mme Adelman
+  year: 2017.0
+  runtime: 120.0
+  director: Nicolas Bedos
+  writer:
+    - Nicolas Bedos
+    - Doria Tillier
+  actors:
+    - Doria Tillier
+    - Nicolas Bedos
+    - Denis Podalydès
+    - Antoine Gouy
+  genre:
+    - Comedy
+    - Romance
+  plot: For more than 45 years, Sarah and Victor have been together. How did they do
+    it? Who's really Sarah, this enigmatic woman who's always been on the shadow of
+    her husband? Love, ambition and secrets feed this unusual couple's odyssey.
+  language: French
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.3
+  slug: mr-et-mme-adelman-2017

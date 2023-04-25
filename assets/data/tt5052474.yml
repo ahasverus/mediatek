@@ -1,0 +1,33 @@
+- imdbid: tt5052474
+  type: movie
+  title: 'Sicario: Day of the Soldado'
+  year: 2018.0
+  runtime: 122.0
+  director: Stefano Sollima
+  writer: Taylor Sheridan
+  actors:
+    - Benicio Del Toro
+    - Josh Brolin
+    - Isabela Merced
+    - Jeffrey Donovan
+  genre:
+    - Action
+    - Adventure
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+  plot: The drug war on the U.S.-Mexico border has escalated as the cartels have begun
+    trafficking terrorists across the US border. To fight the war, federal agent Matt
+    Graver re-teams with the mercurial Alejandro.
+  language:
+    - English
+    - Spanish
+    - American Sign Language
+    - Arabic
+    - Somali
+  country:
+    - USA
+    - Mexico
+  imdbrating: 7.1
+  slug: sicario-day-of-the-soldado-2018

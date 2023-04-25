@@ -1,0 +1,27 @@
+- imdbid: tt0068646
+  type: movie
+  title: The Godfather
+  year: 1972.0
+  runtime: 175.0
+  director: Francis Ford Coppola
+  writer:
+    - Mario Puzo
+    - Francis Ford Coppola
+    - Mario Puzo
+  actors:
+    - Marlon Brando
+    - Al Pacino
+    - James Caan
+    - Richard S. Castellano
+  genre:
+    - Crime
+    - Drama
+  plot: The aging patriarch of an organized crime dynasty transfers control of his clandestine
+    empire to his reluctant son.
+  language:
+    - English
+    - Italian
+    - Latin
+  country: USA
+  imdbrating: 9.2
+  slug: the-godfather-1972

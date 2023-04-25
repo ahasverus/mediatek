@@ -1,0 +1,25 @@
+- imdbid: tt1483013
+  type: movie
+  title: Oblivion
+  year: 2013.0
+  runtime: 124.0
+  director: Joseph Kosinski
+  writer:
+    - Karl Gajdusek
+    - Michael Arndt
+    - Joseph Kosinski
+  actors:
+    - Tom Cruise
+    - Morgan Freeman
+    - Olga Kurylenko
+    - Andrea Riseborough
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: A veteran assigned to extract Earth's remaining resources begins to question
+    what he knows about his mission and himself.
+  language: English
+  country: USA
+  imdbrating: 7.0
+  slug: oblivion-2013

@@ -1,0 +1,30 @@
+- imdbid: tt0108052
+  type: movie
+  title: Schindler's List
+  year: 1993.0
+  runtime: 195.0
+  director: Steven Spielberg
+  writer:
+    - Thomas Keneally
+    - Steven Zaillian
+  actors:
+    - Liam Neeson
+    - Ben Kingsley
+    - Ralph Fiennes
+    - Caroline Goodall
+  genre:
+    - Biography
+    - Drama
+    - History
+  plot: In German-occupied Poland during World War II, industrialist Oskar Schindler
+    gradually becomes concerned for his Jewish workforce after witnessing their persecution
+    by the Nazis.
+  language:
+    - English
+    - Hebrew
+    - German
+    - Polish
+    - Latin
+  country: USA
+  imdbrating: 8.9
+  slug: schindler-s-list-1993

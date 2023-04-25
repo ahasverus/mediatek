@@ -1,0 +1,24 @@
+- imdbid: tt5027774
+  type: movie
+  title: Three Billboards Outside Ebbing, Missouri
+  year: 2017.0
+  runtime: 115.0
+  director: Martin McDonagh
+  writer: Martin McDonagh
+  actors:
+    - Frances McDormand
+    - Caleb Landry Jones
+    - Kerry Condon
+    - Sam Rockwell
+  genre:
+    - Comedy
+    - Crime
+    - Drama
+  plot: A mother personally challenges the local authorities to solve her daughter's
+    murder when they fail to catch the culprit.
+  language: English
+  country:
+    - UK
+    - USA
+  imdbrating: 8.2
+  slug: three-billboards-outside-ebbing-missouri-2017

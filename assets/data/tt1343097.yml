@@ -1,0 +1,30 @@
+- imdbid: tt1343097
+  type: movie
+  title: "Millénium 3 : La Reine dans le palais des courants d'air"
+  year: 2009.0
+  runtime: 147.0
+  director: Daniel Alfredson
+  writer:
+    - Jonas Frykberg
+    - Stieg Larsson
+    - Ulf Ryberg
+  actors:
+    - Michael Nyqvist
+    - Noomi Rapace
+    - Lena Endre
+    - Annika Hallin
+  genre:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
+  plot: Lisbeth is recovering in a hospital and awaiting trial for three murders when
+    she is released. Mikael must prove her innocence, but Lisbeth must be willing to
+    share the details of her sordid experiences with the court.
+  language: Swedish
+  country:
+    - Sweden
+    - Denmark
+    - Germany
+  imdbrating: 7.3
+  slug: millenium-3-la-reine-dans-le-palais-des-courants-d-air-2009

@@ -1,0 +1,28 @@
+- imdbid: tt0491175
+  type: movie
+  title: Suburbicon
+  year: 2017.0
+  runtime: 105.0
+  director: George Clooney
+  writer:
+    - Joel Coen
+    - Ethan Coen
+    - George Clooney
+    - Grant Heslov
+  actors:
+    - Steve Monroe
+    - Gavin Wilde
+    - Landon Gordon
+    - Hope Banks
+  genre:
+    - Comedy
+    - Thriller
+  plot: As a 1950s suburban community self-destructs, a home invasion has sinister consequences
+    for one seemingly normal family.
+  language: English
+  country:
+    - UK
+    - USA
+    - China
+  imdbrating: 5.7
+  slug: suburbicon-2017

@@ -1,0 +1,31 @@
+- imdbid: tt0119828
+  type: movie
+  title: On connait la chanson
+  year: 1997.0
+  runtime: 120.0
+  director: Alain Resnais
+  writer:
+    - Jean-Pierre Bacri
+    - Agnès Jaoui
+  actors:
+    - Pierre Arditi
+    - Sabine Azéma
+    - Jean-Pierre Bacri
+    - André Dussollier
+  genre:
+    - Comedy
+    - Drama
+    - Musical
+    - Romance
+  plot: A musical story about how people find their love on the streets of beautiful
+    Paris.
+  language:
+    - German
+    - French
+  country:
+    - France
+    - Switzerland
+    - UK
+    - Italy
+  imdbrating: 7.3
+  slug: on-connait-la-chanson-1997

@@ -1,0 +1,32 @@
+- imdbid: tt0253474
+  type: movie
+  title: The Pianist
+  year: 2002.0
+  runtime: 150.0
+  director: Roman Polanski
+  writer:
+    - Ronald Harwood
+    - Wladyslaw Szpilman
+  actors:
+    - Adrien Brody
+    - Emilia Fox
+    - Michal Zebrowski
+    - Ed Stoppard
+  genre:
+    - Biography
+    - Drama
+    - Music
+    - War
+  plot: A Polish Jewish musician struggles to survive the destruction of the Warsaw
+    ghetto of World War II.
+  language:
+    - English
+    - German
+    - Russian
+  country:
+    - UK
+    - France
+    - Poland
+    - Germany
+  imdbrating: 8.5
+  slug: the-pianist-2002

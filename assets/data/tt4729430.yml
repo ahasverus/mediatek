@@ -1,0 +1,32 @@
+- imdbid: tt4729430
+  type: movie
+  title: Klaus
+  year: 2019.0
+  runtime: 96.0
+  director:
+    - Sergio Pablos
+    - Carlos Martínez López
+  writer:
+    - Sergio Pablos
+    - Sergio Pablos
+    - Jim Mahoney
+    - Zach Lewis
+  actors:
+    - Jason Schwartzman
+    - J.K. Simmons
+    - Rashida Jones
+    - Will Sasso
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+  plot: A simple act of kindness always sparks another, even in a frozen, faraway place.
+    When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt
+    an age-old feud and deliver a sleigh full of holiday traditions.
+  language:
+    - English
+    - Saami
+  country: Spain
+  imdbrating: 8.2
+  slug: klaus-2019

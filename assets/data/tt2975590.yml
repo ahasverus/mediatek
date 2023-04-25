@@ -1,0 +1,30 @@
+- imdbid: tt2975590
+  type: movie
+  title: 'Batman v Superman: Dawn of Justice'
+  year: 2016.0
+  runtime: 152.0
+  director: Zack Snyder
+  writer:
+    - Chris Terrio
+    - David S. Goyer
+    - Bob Kane
+    - Bill Finger
+    - Jerry Siegel
+    - Joe Shuster
+    - William Moulton Marston
+  actors:
+    - Ben Affleck
+    - Henry Cavill
+    - Amy Adams
+    - Jesse Eisenberg
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - DC-Comics
+  plot: Fearing that the actions of Superman are left unchecked, Batman takes on the
+    Man of Steel, while the world wrestles with what kind of a hero it really needs.
+  language: English
+  country: USA
+  imdbrating: 6.4
+  slug: batman-v-superman-dawn-of-justice-2016

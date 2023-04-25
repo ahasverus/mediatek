@@ -1,0 +1,29 @@
+- imdbid: tt0079501
+  type: movie
+  title: Mad Max
+  year: 1979.0
+  runtime: 88.0
+  director: George Miller
+  writer:
+    - James McCausland
+    - George Miller
+    - George Miller
+    - Byron Kennedy
+  actors:
+    - Mel Gibson
+    - Joanne Samuel
+    - Hugh Keays-Byrne
+    - Steve Bisley
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Thriller
+  plot: In a self-destructing world, a vengeful Australian policeman sets out to stop
+    a violent motorcycle gang.
+  language: English
+  country:
+    - Australia
+    - USA
+  imdbrating: 6.9
+  slug: mad-max-1979

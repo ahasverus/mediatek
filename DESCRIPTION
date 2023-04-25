@@ -1,0 +1,21 @@
+Package: Movies
+Title: Get Movies Metadata and Covers
+Version: 0.0.1
+Authors@R:
+    person(
+        given  = "Nicolas",
+        family = "Casajus",
+        role   = c("aut", "cre"),
+        email  = "nicolas.casajus@gmail.com"
+    )
+Description: Get Movies Metadata and Covers
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Imports:
+  here,
+  readxl,
+  omdbr
+Remotes: insileco/omdbr

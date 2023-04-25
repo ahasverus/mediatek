@@ -1,0 +1,28 @@
+- imdbid: tt0078788
+  type: movie
+  title: Apocalypse Now
+  year: 1979.0
+  runtime: 147.0
+  director: Francis Ford Coppola
+  writer:
+    - John Milius
+    - Francis Ford Coppola
+    - Michael Herr
+  actors:
+    - Marlon Brando
+    - Martin Sheen
+    - Robert Duvall
+    - Frederic Forrest
+  genre:
+    - Drama
+    - Mystery
+    - War
+  plot: A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade
+    Special Forces Colonel who sees himself as a god.
+  language:
+    - English
+    - French
+    - Vietnamese
+  country: USA
+  imdbrating: 8.4
+  slug: apocalypse-now-1979

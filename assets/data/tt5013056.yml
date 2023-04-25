@@ -1,0 +1,31 @@
+- imdbid: tt5013056
+  type: movie
+  title: Dunkirk
+  year: 2017.0
+  runtime: 106.0
+  director: Christopher Nolan
+  writer: Christopher Nolan
+  actors:
+    - Fionn Whitehead
+    - Damien Bonnard
+    - Aneurin Barnard
+    - Lee Armstrong
+  genre:
+    - Action
+    - Drama
+    - History
+    - Thriller
+    - War
+  plot: Allied soldiers from Belgium, the British Empire, and France are surrounded
+    by the German Army, and evacuated during a fierce battle in World War II.
+  language:
+    - English
+    - French
+    - German
+  country:
+    - UK
+    - Netherlands
+    - France
+    - USA
+  imdbrating: 7.9
+  slug: dunkirk-2017

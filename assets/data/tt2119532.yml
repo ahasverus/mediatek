@@ -1,0 +1,30 @@
+- imdbid: tt2119532
+  type: movie
+  title: Hacksaw Ridge
+  year: 2016.0
+  runtime: 139.0
+  director: Mel Gibson
+  writer:
+    - Robert Schenkkan
+    - Andrew Knight
+  actors:
+    - Andrew Garfield
+    - Richard Pyros
+    - Jacob Warner
+    - Milo Gibson
+  genre:
+    - Biography
+    - Drama
+    - History
+    - War
+  plot: World War II American Army Medic Desmond T. Doss, who served during the Battle
+    of Okinawa, refuses to kill people, and becomes the first man in American history
+    to receive the Medal of Honor without firing a shot.
+  language:
+    - English
+    - Japanese
+  country:
+    - Australia
+    - USA
+  imdbrating: 8.1
+  slug: hacksaw-ridge-2016

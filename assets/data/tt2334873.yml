@@ -1,0 +1,20 @@
+- imdbid: tt2334873
+  type: movie
+  title: Blue Jasmine
+  year: 2013.0
+  runtime: 98.0
+  director: Woody Allen
+  writer: Woody Allen
+  actors:
+    - Cate Blanchett
+    - Joy Carlin
+    - Richard Conti
+    - Glen Caspillo
+  genre: Drama
+  plot: A New York socialite, deeply troubled and in denial, arrives in San Francisco
+    to impose upon her sister. She looks a million, but isn't bringing money, peace,
+    or love...
+  language: English
+  country: USA
+  imdbrating: 7.3
+  slug: blue-jasmine-2013

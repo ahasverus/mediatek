@@ -1,0 +1,32 @@
+- imdbid: tt1809398
+  type: movie
+  title: Unbroken
+  year: 2014.0
+  runtime: 137.0
+  director: Angelina Jolie
+  writer:
+    - Joel Coen
+    - Ethan Coen
+    - Richard LaGravenese
+    - William Nicholson
+    - Laura Hillenbrand
+  actors:
+    - Jack O'Connell
+    - Domhnall Gleeson
+    - Garrett Hedlund
+    - Miyavi
+  genre:
+    - Biography
+    - Drama
+    - Sport
+    - War
+  plot: After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing
+    47 days in a raft with two fellow crewmen before he's caught by the Japanese navy
+    and sent to a prisoner-of-war camp.
+  language:
+    - English
+    - Japanese
+    - Italian
+  country: USA
+  imdbrating: 7.2
+  slug: unbroken-2014

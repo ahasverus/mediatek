@@ -1,0 +1,28 @@
+- imdbid: tt1650048
+  type: movie
+  title: Laurence Anyways
+  year: 2012.0
+  runtime: 168.0
+  director: Xavier Dolan
+  writer:
+    - Xavier Dolan
+    - Xavier Dolan
+  actors:
+    - Melvil Poupaud
+    - Suzanne Clément
+    - Nathalie Baye
+    - Monia Chokri
+  genre:
+    - Drama
+    - Romance
+  plot: A drama that charts ten years in a transgender woman's relationship with her
+    lover.
+  language:
+    - French
+    - English
+    - Latin
+  country:
+    - Canada
+    - France
+  imdbrating: 7.7
+  slug: laurence-anyways-2012

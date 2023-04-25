@@ -1,0 +1,30 @@
+- imdbid: tt3361792
+  type: movie
+  title: Tolkien
+  year: 2019.0
+  runtime: 112.0
+  director: Dome Karukoski
+  writer:
+    - David Gleeson
+    - Stephen Beresford
+  actors:
+    - Nicholas Hoult
+    - Al Bollands
+    - Kallum Tolkien
+    - Craig Roberts
+  genre:
+    - Biography
+    - Drama
+    - Romance
+    - War
+  plot: The formative years of the orphaned author J.R.R. Tolkien as he finds friendship,
+    love and artistic inspiration among a group of fellow outcasts at school.
+  language:
+    - English
+    - Middle English
+    - Old English
+    - Latin
+    - German
+  country: USA
+  imdbrating: 6.8
+  slug: tolkien-2019

@@ -1,0 +1,26 @@
+- imdbid: tt1403865
+  type: movie
+  title: True Grit
+  year: 2010.0
+  runtime: 110.0
+  director:
+    - Ethan Coen
+    - Joel Coen
+  writer:
+    - Joel Coen
+    - Ethan Coen
+    - Charles Portis
+  actors:
+    - Jeff Bridges
+    - Hailee Steinfeld
+    - Matt Damon
+    - Josh Brolin
+  genre:
+    - Drama
+    - Western
+  plot: A stubborn teenager enlists the help of a tough U.S. Marshal to track down her
+    father's murderer.
+  language: English
+  country: USA
+  imdbrating: 7.6
+  slug: true-grit-2010

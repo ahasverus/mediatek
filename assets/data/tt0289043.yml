@@ -1,0 +1,27 @@
+- imdbid: tt0289043
+  type: movie
+  title: 28 Days Later...
+  year: 2002.0
+  runtime: 113.0
+  director: Danny Boyle
+  writer: Alex Garland
+  actors:
+    - Alex Palmer
+    - Bindu De Stoppani
+    - Jukka Hiltunen
+    - David Schneider
+  genre:
+    - Drama
+    - Horror
+    - Sci-Fi
+    - Thriller
+  plot: Four weeks after a mysterious, incurable virus spreads throughout the UK, a
+    handful of survivors try to find sanctuary.
+  language:
+    - English
+    - Spanish
+  country:
+    - UK
+    - Spain
+  imdbrating: 7.6
+  slug: 28-days-later-2002

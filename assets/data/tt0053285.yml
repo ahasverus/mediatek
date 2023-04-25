@@ -1,0 +1,37 @@
+- imdbid: tt0053285
+  type: movie
+  title: Sleeping Beauty
+  year: 1959.0
+  runtime: 75.0
+  director:
+    - Clyde Geronimi
+    - Les Clark
+    - Hamilton Luske
+    - Wolfgang Reitherman
+  writer:
+    - Erdman Penner
+    - Charles Perrault
+    - Joe Rinaldi
+    - Winston Hibler
+    - Bill Peet
+    - Ted Sears
+    - Ralph Wright
+    - Milt Banta
+  actors:
+    - Mary Costa
+    - Bill Shirley
+    - Eleanor Audley
+    - Verna Felton
+  genre:
+    - Animation
+    - Family
+    - Fantasy
+    - Musical
+    - Romance
+    - Disney
+  plot: After being snubbed by the royal family, a malevolent fairy places a curse on
+    a princess which only a prince can break, along with the help of three good fairies.
+  language: English
+  country: USA
+  imdbrating: 7.2
+  slug: sleeping-beauty-1959

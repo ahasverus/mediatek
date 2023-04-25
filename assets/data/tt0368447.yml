@@ -1,0 +1,21 @@
+- imdbid: tt0368447
+  type: movie
+  title: The Village
+  year: 2004.0
+  runtime: 108.0
+  director: M. Night Shyamalan
+  writer: M. Night Shyamalan
+  actors:
+    - Bryce Dallas Howard
+    - Joaquin Phoenix
+    - Adrien Brody
+    - William Hurt
+  genre:
+    - Drama
+    - Mystery
+    - Thriller
+  plot: A series of events tests the beliefs of a small isolated countryside village.
+  language: English
+  country: USA
+  imdbrating: 6.5
+  slug: the-village-2004

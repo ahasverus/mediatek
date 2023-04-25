@@ -1,0 +1,26 @@
+- imdbid: tt2562232
+  type: movie
+  title: Birdman or (The Unexpected Virtue of Ignorance)
+  year: 2014.0
+  runtime: 119.0
+  director: Alejandro G. Iñárritu
+  writer:
+    - Alejandro G. Iñárritu
+    - Nicolás Giacobone
+    - Alexander Dinelaris
+    - Armando Bo
+    - Raymond Carver
+  actors:
+    - Michael Keaton
+    - Emma Stone
+    - Kenny Chin
+    - Jamahl Garrison-Lowe
+  genre:
+    - Comedy
+    - Drama
+  plot: A washed-up superhero actor attempts to revive his fading career by writing,
+    directing, and starring in a Broadway production.
+  language: English
+  country: USA
+  imdbrating: 7.7
+  slug: birdman-or-the-unexpected-virtue-of-ignorance-2014

@@ -1,0 +1,34 @@
+- imdbid: tt1515091
+  type: movie
+  title: 'Sherlock Holmes: A Game of Shadows'
+  year: 2011.0
+  runtime: 129.0
+  director: Guy Ritchie
+  writer:
+    - Michele Mulroney
+    - Kieran Mulroney
+    - Arthur Conan Doyle
+  actors:
+    - Robert Downey Jr.
+    - Jude Law
+    - Noomi Rapace
+    - Rachel McAdams
+  genre:
+    - Action
+    - Adventure
+    - Crime
+    - Mystery
+    - Thriller
+  plot: Detective Sherlock Holmes is on the trail of criminal mastermind Professor Moriarty,
+    who is carrying out a string of random crimes across Europe.
+  language:
+    - English
+    - French
+    - Italian
+    - German
+    - Romany
+  country:
+    - USA
+    - UK
+  imdbrating: 7.5
+  slug: sherlock-holmes-a-game-of-shadows-2011

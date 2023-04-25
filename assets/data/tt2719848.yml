@@ -1,0 +1,31 @@
+- imdbid: tt2719848
+  type: movie
+  title: Everest
+  year: 2015.0
+  runtime: 121.0
+  director: Baltasar Kormákur
+  writer:
+    - William Nicholson
+    - Simon Beaufoy
+  actors:
+    - Jason Clarke
+    - Ang Phula Sherpa
+    - Thomas M. Wright
+    - Martin Henderson
+  genre:
+    - Action
+    - Adventure
+    - Biography
+    - Drama
+    - Thriller
+  plot: The story of New Zealand's Robert 'Rob' Edwin Hall, who on May 10, 1996, together
+    with Scott Fischer, teamed up on a joint expedition to ascend Mount Everest.
+  language:
+    - English
+    - Russian
+  country:
+    - UK
+    - USA
+    - Iceland
+  imdbrating: 7.1
+  slug: everest-2015

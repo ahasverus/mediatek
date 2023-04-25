@@ -1,0 +1,19 @@
+- imdbid: tt0120586
+  type: movie
+  title: American History X
+  year: 1998.0
+  runtime: 119.0
+  director: Tony Kaye
+  writer: David McKenna
+  actors:
+    - Edward Norton
+    - Edward Furlong
+    - Beverly D'Angelo
+    - Jennifer Lien
+  genre: Drama
+  plot: A former neo-nazi skinhead tries to prevent his younger brother from going down
+    the same wrong path that he did.
+  language: English
+  country: USA
+  imdbrating: 8.5
+  slug: american-history-x-1998

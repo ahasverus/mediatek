@@ -1,0 +1,35 @@
+- imdbid: tt2381249
+  type: movie
+  title: 'Mission: Impossible - Rogue Nation'
+  year: 2015.0
+  runtime: 131.0
+  director: Christopher McQuarrie
+  writer:
+    - Christopher McQuarrie
+    - Christopher McQuarrie
+    - Drew Pearce
+    - Bruce Geller
+  actors:
+    - Tom Cruise
+    - Jeremy Renner
+    - Simon Pegg
+    - Rebecca Ferguson
+  genre:
+    - Action
+    - Adventure
+    - Thriller
+  plot: Ethan and his team take on their most impossible mission yet when they have
+    to eradicate an international rogue organization as highly skilled as they are and
+    committed to destroying the IMF.
+  language:
+    - English
+    - Swedish
+    - German
+  country:
+    - USA
+    - China
+    - Hong Kong
+    - Austria
+    - Morocco
+  imdbrating: 7.4
+  slug: mission-impossible-rogue-nation-2015

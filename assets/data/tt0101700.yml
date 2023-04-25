@@ -1,0 +1,28 @@
+- imdbid: tt0101700
+  type: movie
+  title: Delicatessen
+  year: 1991.0
+  runtime: 99.0
+  director:
+    - Marc Caro
+    - Jean-Pierre Jeunet
+  writer:
+    - Jean-Pierre Jeunet
+    - Marc Caro
+    - Gilles Adrien
+    - Gilles Adrien
+    - Jean-Pierre Jeunet
+  actors:
+    - Pascal Benezech
+    - Dominique Pinon
+    - Marie-Laure Dougnac
+    - Jean-Claude Dreyfus
+  genre:
+    - Comedy
+    - Crime
+  plot: Post-apocalyptic surrealist black comedy about the landlord of an apartment
+    building who occasionally prepares a delicacy for his odd tenants.
+  language: French
+  country: France
+  imdbrating: 7.6
+  slug: delicatessen-1991

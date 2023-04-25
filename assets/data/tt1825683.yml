@@ -1,0 +1,33 @@
+- imdbid: tt1825683
+  type: movie
+  title: Black Panther
+  year: 2018.0
+  runtime: 134.0
+  director: Ryan Coogler
+  writer:
+    - Ryan Coogler
+    - Joe Robert Cole
+    - Stan Lee
+    - Jack Kirby
+  actors:
+    - Chadwick Boseman
+    - Michael B. Jordan
+    - Lupita Nyong'o
+    - Danai Gurira
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+    - Marvel
+  plot: T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward
+    to lead his people into a new future and must confront a challenger from his country's
+    past.
+  language:
+    - English
+    - Swahili
+    - Nama
+    - Xhosa
+    - Korean
+  country: USA
+  imdbrating: 7.3
+  slug: black-panther-2018

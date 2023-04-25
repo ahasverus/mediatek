@@ -1,0 +1,29 @@
+- imdbid: tt10838180
+  type: movie
+  title: The Matrix Resurrections
+  year: 2021.0
+  runtime: 148.0
+  director: Lana Wachowski
+  writer:
+    - Lana Wachowski
+    - David Mitchell
+    - Aleksandar Hemon
+  actors:
+    - Keanu Reeves
+    - Carrie-Anne Moss
+    - Yahya Abdul-Mateen II
+  genre:
+    - Action
+    - Sci-Fi
+  plot: 'Return to a world of two realities: one, everyday life; the other, what lies
+    behind it. To find out if his reality is a construct, to truly know himself, Mr.
+    Anderson will have to choose to follow the white rabbit once more.'
+  language:
+    - English
+    - French
+  country:
+    - United States
+    - United Kingdom
+    - Australia
+  imdbrating: 5.9
+  slug: the-matrix-resurrections-2021

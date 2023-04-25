@@ -1,0 +1,23 @@
+- imdbid: tt0238380
+  type: movie
+  title: Equilibrium
+  year: 2002.0
+  runtime: 107.0
+  director: Kurt Wimmer
+  writer: Kurt Wimmer
+  actors:
+    - Christian Bale
+    - Dominic Purcell
+    - Sean Bean
+    - Christian Kahrmann
+  genre:
+    - Action
+    - Drama
+    - Sci-Fi
+    - Thriller
+  plot: In an oppressive future where all forms of feeling are illegal, a man in charge
+    of enforcing the law rises to overthrow the system and state.
+  language: English
+  country: USA
+  imdbrating: 7.4
+  slug: equilibrium-2002

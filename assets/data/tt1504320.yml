@@ -1,0 +1,26 @@
+- imdbid: tt1504320
+  type: movie
+  title: The King's Speech
+  year: 2010.0
+  runtime: 118.0
+  director: Tom Hooper
+  writer: David Seidler
+  actors:
+    - Colin Firth
+    - Helena Bonham Carter
+    - Derek Jacobi
+    - Robert Portal
+  genre:
+    - Biography
+    - Drama
+    - History
+  plot: The story of King George VI, his impromptu ascension to the throne of the British
+    Empire in 1936, and the speech therapist who helped the unsure monarch overcome
+    his stammer.
+  language: English
+  country:
+    - UK
+    - USA
+    - Australia
+  imdbrating: 8.0
+  slug: the-king-s-speech-2010

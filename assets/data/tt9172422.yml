@@ -1,0 +1,27 @@
+- imdbid: tt9172422
+  type: movie
+  title: La Belle Époque
+  year: 2019.0
+  runtime: 115.0
+  director: Nicolas Bedos
+  writer: Nicolas Bedos
+  actors:
+    - Daniel Auteuil
+    - Guillaume Canet
+    - Doria Tillier
+    - Fanny Ardant
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: A couple in crisis. He, disillusioned, sees his life upset the day an entrepreneur
+    offers him to plunge back into the time of his choice.
+  language:
+    - French
+    - English
+    - German
+  country:
+    - France
+    - Belgium
+  imdbrating: 7.4
+  slug: la-belle-epoque-2019

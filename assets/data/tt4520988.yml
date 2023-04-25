@@ -1,0 +1,37 @@
+- imdbid: tt4520988
+  type: movie
+  title: Frozen II
+  year: 2019.0
+  runtime: 103.0
+  director:
+    - Chris Buck
+    - Jennifer Lee
+  writer:
+    - Jennifer Lee
+    - Hans Christian Andersen
+    - Jennifer Lee
+    - Chris Buck
+    - Kristen Anderson-Lopez
+    - Robert Lopez
+    - Marc Smith
+    - Allison Schroeder
+  actors:
+    - Kristen Bell
+    - Idina Menzel
+    - Josh Gad
+    - Jonathan Groff
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+    - Fantasy
+    - Musical
+    - Disney
+  plot: Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient,
+    autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's
+    powers in order to save their kingdom.
+  language: English
+  country: USA
+  imdbrating: 7.0
+  slug: frozen-ii-2019

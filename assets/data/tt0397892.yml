@@ -1,0 +1,30 @@
+- imdbid: tt0397892
+  type: movie
+  title: Bolt
+  year: 2008.0
+  runtime: 96.0
+  director:
+    - Byron Howard
+    - Chris Williams
+  writer:
+    - Dan Fogelman
+    - Chris Williams
+  actors:
+    - John Travolta
+    - Miley Cyrus
+    - Susie Essman
+    - Mark Walton
+  genre:
+    - Animation
+    - Adventure
+    - Comedy
+    - Drama
+    - Family
+    - Disney
+  plot: The canine star of a fictional sci-fi/action show that believes his powers are
+    real embarks on a cross country trek to save his co-star from a threat he believes
+    is just as real.
+  language: English
+  country: USA
+  imdbrating: 6.8
+  slug: bolt-2008
