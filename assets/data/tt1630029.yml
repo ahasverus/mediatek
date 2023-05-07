@@ -1,0 +1,25 @@
+- imdbid: tt1630029
+  type: movie
+  title: 'Avatar: The Way of Water'
+  year: 2022.0
+  runtime: 192.0
+  director: James Cameron
+  writer:
+    - James Cameron
+    - Rick Jaffa
+    - Amanda Silver
+  actors:
+    - Sam Worthington
+    - Zoe Saldana
+    - Sigourney Weaver
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: Jake Sully lives with his newfound family formed on the extrasolar moon Pandora.
+    Once a familiar threat returns to finish what was previously started, Jake must
+    work with Neytiri and the army of the Na'vi race to protect their home.
+  language: English
+  country: United States
+  imdbrating: 7.7
+  slug: avatar-the-way-of-water-2022
