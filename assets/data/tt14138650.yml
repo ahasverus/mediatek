@@ -1,0 +1,27 @@
+- imdbid: tt14138650
+  type: movie
+  title: The Pale Blue Eye
+  year: 2022.0
+  runtime: 128.0
+  director: Scott Cooper
+  writer:
+    - Scott Cooper
+    - Louis Bayard
+  actors:
+    - Christian Bale
+    - Harry Melling
+    - Simon McBurney
+  genre:
+    - Crime
+    - Horror
+    - Mystery
+  plot: A world-weary detective is hired to investigate the murder of a West Point cadet.
+    Stymied by the cadets' code of silence, he enlists one of their own to help unravel
+    the case - a young man the world would come to know as Edgar All...
+  language:
+    - English
+    - French
+    - Latin
+  country: United States
+  imdbrating: 6.6
+  slug: the-pale-blue-eye-2022

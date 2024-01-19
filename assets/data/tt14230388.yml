@@ -1,0 +1,26 @@
+- imdbid: tt14230388
+  type: movie
+  title: Asteroid City
+  year: 2023.0
+  runtime: 105.0
+  director: Wes Anderson
+  writer:
+    - Wes Anderson
+    - Roman Coppola
+  actors:
+    - Jason Schwartzman
+    - Scarlett Johansson
+    - Tom Hanks
+  genre:
+    - Comedy
+    - Drama
+    - Romance
+  plot: Following a writer on his world famous fictional play about a grieving father
+    who travels with his tech-obsessed family to small rural Asteroid City to compete
+    in a junior stargazing event, only to have his world view disrupted fo...
+  language: English
+  country:
+    - United States
+    - Germany
+  imdbrating: 6.6
+  slug: asteroid-city-2023

@@ -1,0 +1,27 @@
+- imdbid: tt1250777
+  type: movie
+  title: Kick-Ass
+  year: 2010.0
+  runtime: 117.0
+  director: Matthew Vaughn
+  writer:
+    - Jane Goldman
+    - Matthew Vaughn
+    - Mark Millar
+  actors:
+    - Aaron Taylor-Johnson
+    - Nicolas Cage
+    - Chloë Grace Moretz
+  genre:
+    - Action
+    - Comedy
+    - Crime
+  plot: Dave Lizewski is an unnoticed high school student and comic book fan who one
+    day decides to become a superhero, even though he has no powers, training or meaningful
+    reason to do so.
+  language: English
+  country:
+    - United Kingdom
+    - United States
+  imdbrating: 7.6
+  slug: kick-ass-2010

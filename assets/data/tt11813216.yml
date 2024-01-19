@@ -1,0 +1,23 @@
+- imdbid: tt11813216
+  type: movie
+  title: The Banshees of Inisherin
+  year: 2022.0
+  runtime: 114.0
+  director: Martin McDonagh
+  writer: Martin McDonagh
+  actors:
+    - Colin Farrell
+    - Brendan Gleeson
+    - Kerry Condon
+  genre:
+    - Comedy
+    - Drama
+  plot: Two lifelong friends find themselves at an impasse when one abruptly ends their
+    relationship, with alarming consequences for both of them.
+  language: English
+  country:
+    - United Kingdom
+    - United States
+    - Ireland
+  imdbrating: 7.7
+  slug: the-banshees-of-inisherin-2022

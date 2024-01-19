@@ -1,0 +1,29 @@
+- imdbid: tt6791350
+  type: movie
+  title: Guardians of the Galaxy Vol. 3
+  year: 2023.0
+  runtime: 150.0
+  director: James Gunn
+  writer:
+    - James Gunn
+    - Jim Starlin
+    - Stan Lee
+  actors:
+    - Chris Pratt
+    - Chukwudi Iwuji
+    - Bradley Cooper
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+  plot: Still reeling from the loss of Gamora, Peter Quill rallies his team to defend
+    the universe and one of their own - a mission that could mean the end of the Guardians
+    if not successful.
+  language: English
+  country:
+    - United States
+    - New Zealand
+    - France
+    - Canada
+  imdbrating: 7.9
+  slug: guardians-of-the-galaxy-vol-3-2023

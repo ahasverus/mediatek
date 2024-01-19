@@ -1,0 +1,26 @@
+- imdbid: tt10954984
+  type: movie
+  title: Nope
+  year: 2022.0
+  runtime: 130.0
+  director: Jordan Peele
+  writer: Jordan Peele
+  actors:
+    - Daniel Kaluuya
+    - Keke Palmer
+    - Brandon Perea
+  genre:
+    - Horror
+    - Mystery
+    - Sci-Fi
+  plot: The residents of a lonely gulch in inland California bear witness to an uncanny
+    and chilling discovery.
+  language:
+    - English
+    - Spanish
+  country:
+    - Canada
+    - Japan
+    - United States
+  imdbrating: 6.8
+  slug: nope-2022

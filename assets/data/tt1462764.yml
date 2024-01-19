@@ -1,0 +1,30 @@
+- imdbid: tt1462764
+  type: movie
+  title: Indiana Jones and the Dial of Destiny
+  year: 2023.0
+  runtime: 154.0
+  director: James Mangold
+  writer:
+    - Jez Butterworth
+    - John-Henry Butterworth
+    - David Koepp
+  actors:
+    - Harrison Ford
+    - Phoebe Waller-Bridge
+    - Antonio Banderas
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: Archaeologist Indiana Jones races against time to retrieve a legendary artifact
+    that can change the course of history.
+  language:
+    - English
+    - German
+    - Greek
+    - Ancient
+    - Spanish
+    - Italian
+  country: United States
+  imdbrating: 6.6
+  slug: indiana-jones-and-the-dial-of-destiny-2023

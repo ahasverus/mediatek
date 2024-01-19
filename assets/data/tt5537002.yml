@@ -1,0 +1,28 @@
+- imdbid: tt5537002
+  type: movie
+  title: Killers of the Flower Moon
+  year: 2023.0
+  runtime: 206.0
+  director: Martin Scorsese
+  writer:
+    - Eric Roth
+    - Martin Scorsese
+    - David Grann
+  actors:
+    - Leonardo DiCaprio
+    - Robert De Niro
+    - Lily Gladstone
+  genre:
+    - Crime
+    - Drama
+    - History
+  plot: When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage
+    people are murdered one by one - until the FBI steps in to unravel the mystery.
+  language:
+    - English
+    - Sioux
+    - Latin
+    - French
+  country: United States
+  imdbrating: 7.8
+  slug: killers-of-the-flower-moon-2023

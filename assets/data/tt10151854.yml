@@ -1,0 +1,24 @@
+- imdbid: tt10151854
+  type: movie
+  title: Shazam! Fury of the Gods
+  year: 2023.0
+  runtime: 130.0
+  director: David F. Sandberg
+  writer:
+    - Henry Gayden
+    - Chris Morgan
+    - Bill Parker
+  actors:
+    - Zachary Levi
+    - Asher Angel
+    - Jack Dylan Grazer
+  genre:
+    - Action
+    - Adventure
+    - Comedy
+  plot: The film continues the story of teenage Billy Batson who, upon reciting the
+    magic word 'SHAZAM!' is transformed into his adult Super Hero alter ego, Shazam.
+  language: English
+  country: United States
+  imdbrating: 6.0
+  slug: shazam-fury-of-the-gods-2023

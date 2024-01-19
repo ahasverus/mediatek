@@ -1,4 +1,4 @@
-check_slugs <- function(path = "/Volumes/movie_files/movies/") {
+check_slugs <- function(path = "D:/Films/movies/") {
 
   # Read Metadata ----
   
@@ -31,7 +31,7 @@ check_slugs <- function(path = "/Volumes/movie_files/movies/") {
   }
 }
 
-check_torrents <- function(path = "/Volumes/movie_files/movies/") {
+check_torrents <- function(path = "D:/Films/movies/") {
   
   ## Read Metadata ----
   

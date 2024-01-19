@@ -1,0 +1,25 @@
+- imdbid: tt11858890
+  type: movie
+  title: The Creator
+  year: 2023.0
+  runtime: 133.0
+  director: Gareth Edwards
+  writer:
+    - Gareth Edwards
+    - Chris Weitz
+  actors:
+    - John David Washington
+    - Madeleine Yuna Voyles
+    - Gemma Chan
+  genre:
+    - Action
+    - Adventure
+    - Drama
+  plot: Against the backdrop of a war between humans and robots with artificial intelligence,
+    a former soldier finds the secret weapon, a robot in the form of a young child.
+  language:
+    - English
+    - Thai
+  country: United States
+  imdbrating: 6.8
+  slug: the-creator-2023

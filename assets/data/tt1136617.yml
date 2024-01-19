@@ -1,0 +1,24 @@
+- imdbid: tt1136617
+  type: movie
+  title: The Killer
+  year: 2023.0
+  runtime: 118.0
+  director: David Fincher
+  writer:
+    - Alexis Nolent
+    - Luc Jacamon
+    - Andrew Kevin Walker
+  actors:
+    - Michael Fassbender
+    - Tilda Swinton
+    - Charles Parnell
+  genre:
+    - Action
+    - Adventure
+    - Crime
+  plot: After a fateful near-miss, an assassin battles his employers and himself, on
+    an international manhunt he insists isn't personal.
+  language: English
+  country: United States
+  imdbrating: 6.8
+  slug: the-killer-2023

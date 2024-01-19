@@ -1,0 +1,25 @@
+- imdbid: tt13349892
+  type: movie
+  title: Kompromat
+  year: 2022.0
+  runtime: 127.0
+  director: Jérôme Salle
+  writer:
+    - Jérôme Salle
+    - Caryl Ferey
+  actors:
+    - Gilles Lellouche
+    - Joanna Kulig
+    - Louis-Do de Lencquesaing
+  genre:
+    - Drama
+    - Thriller
+  plot: A French diplomat must escape an FSB plot in Siberia.
+  language:
+    - French
+    - Russian
+    - Estonian
+    - Spanish
+  country: France
+  imdbrating: 6.4
+  slug: kompromat-2022

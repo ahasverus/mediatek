@@ -1,0 +1,24 @@
+- imdbid: tt13321730
+  type: movie
+  title: The Divide
+  year: 2021.0
+  runtime: 98.0
+  director: Catherine Corsini
+  writer:
+    - Catherine Corsini
+    - Agnès Feuvre
+    - Laurette Polmanss
+  actors:
+    - Valeria Bruni Tedeschi
+    - Marina Foïs
+    - Pio Marmaï
+  genre:
+    - Comedy
+    - Drama
+  plot: Two women on the verge of a breakup, in a hospital, are further stressed on
+    the night of a big demonstration by the overwhelmed staff and by angry, injured
+    protestors who land up besieging the building.
+  language: French
+  country: France
+  imdbrating: 6.6
+  slug: the-divide-2021

@@ -1,0 +1,29 @@
+- imdbid: tt14317880
+  type: movie
+  title: Final Cut
+  year: 2022.0
+  runtime: 112.0
+  director: Michel Hazanavicius
+  writer:
+    - Michel Hazanavicius
+    - Shin'ichirô Ueda
+    - Ryoichi Wada
+  actors:
+    - Romain Duris
+    - Bérénice Bejo
+    - Grégory Gadebois
+  genre:
+    - Comedy
+    - Horror
+  plot: Things go badly for a small film crew shooting a low budget zombie movie when
+    they are attacked by real zombies.
+  language:
+    - French
+    - Japanese
+  country:
+    - France
+    - United States
+    - United Kingdom
+    - Japan
+  imdbrating: 6.4
+  slug: final-cut-2022

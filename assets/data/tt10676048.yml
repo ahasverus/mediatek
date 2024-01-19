@@ -1,0 +1,26 @@
+- imdbid: tt10676048
+  type: movie
+  title: The Marvels
+  year: 2023.0
+  runtime: 105.0
+  director: Nia DaCosta
+  writer:
+    - Nia DaCosta
+    - Megan McDonnell
+    - Elissa Karasik
+  actors:
+    - Brie Larson
+    - Teyonah Parris
+    - Iman Vellani
+  genre:
+    - Action
+    - Adventure
+    - Fantasy
+  plot: Carol Danvers gets her powers entangled with those of Kamala Khan and Monica
+    Rambeau, forcing them to work together to save the universe.
+  language:
+    - English
+    - Urdu
+  country: United States
+  imdbrating: 5.9
+  slug: the-marvels-2023

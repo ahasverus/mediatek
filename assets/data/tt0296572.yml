@@ -1,0 +1,25 @@
+- imdbid: tt0296572
+  type: movie
+  title: The Chronicles of Riddick
+  year: 2004.0
+  runtime: 119.0
+  director: David Twohy
+  writer:
+    - Jim Wheat
+    - Ken Wheat
+    - David Twohy
+  actors:
+    - Vin Diesel
+    - Judi Dench
+    - Colm Feore
+  genre:
+    - Action
+    - Adventure
+    - Sci-Fi
+  plot: The wanted criminal Richard Bruno Riddick arrives on a planet called Helion
+    Prime and finds himself up against an invading empire called the Necromongers, an
+    army that plans to convert or kill all humans in the universe.
+  language: English
+  country: United States
+  imdbrating: 6.6
+  slug: the-chronicles-of-riddick-2004

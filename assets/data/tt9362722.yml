@@ -1,0 +1,28 @@
+- imdbid: tt9362722
+  type: movie
+  title: 'Spider-Man: Across the Spider-Verse'
+  year: 2023.0
+  runtime: 140.0
+  director:
+    - Joaquim Dos Santos
+    - Kemp Powers
+    - Justin K. Thompson
+  writer:
+    - Phil Lord
+    - Christopher Miller
+    - Dave Callaham
+  actors:
+    - Shameik Moore
+    - Hailee Steinfeld
+    - Brian Tyree Henry
+  genre:
+    - Animation
+    - Action
+    - Adventure
+  plot: Miles Morales catapults across the multiverse, where he encounters a team of
+    Spider-People charged with protecting its very existence. When the heroes clash
+    on how to handle a new threat, Miles must redefine what it means to be a ...
+  language: English
+  country: United States
+  imdbrating: 8.6
+  slug: spider-man-across-the-spider-verse-2023

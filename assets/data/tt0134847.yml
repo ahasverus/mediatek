@@ -1,0 +1,26 @@
+- imdbid: tt0134847
+  type: movie
+  title: Pitch Black
+  year: 2000.0
+  runtime: 109.0
+  director: David Twohy
+  writer:
+    - Jim Wheat
+    - Ken Wheat
+    - David Twohy
+  actors:
+    - Radha Mitchell
+    - Cole Hauser
+    - Vin Diesel
+  genre:
+    - Action
+    - Horror
+    - Sci-Fi
+  plot: A transport ship crashes and leaves its crew stranded on a desert planet inhabited
+    by bloodthirsty creatures that come out during an eclipse.
+  language:
+    - English
+    - Arabic
+  country: United States
+  imdbrating: 7.0
+  slug: pitch-black-2000
