@@ -1,0 +1,23 @@
+- imdbid: tt8002382
+  type: movie
+  title: The Marsh King's Daughter
+  year: 2023.0
+  runtime: 109.0
+  director: Neil Burger
+  writer:
+    - Elle Smith
+    - Mark L. Smith
+    - Karen Dionne
+  actors:
+    - Daisy Ridley
+    - Ben Mendelsohn
+    - Brooklynn Prince
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+  plot: A woman seeks revenge against the man who kidnapped her mother.
+  language: English
+  country: United States
+  imdbrating: 5.9
+  slug: the-marsh-king-s-daughter-2023

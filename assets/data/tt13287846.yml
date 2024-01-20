@@ -1,0 +1,27 @@
+- imdbid: tt13287846
+  type: movie
+  title: Napoleon
+  year: 2023.0
+  runtime: 158.0
+  director: Ridley Scott
+  writer: David Scarpa
+  actors:
+    - Joaquin Phoenix
+    - Vanessa Kirby
+    - Tahar Rahim
+  genre:
+    - Action
+    - Adventure
+    - Biography
+  plot: An epic that details the checkered rise and fall of French Emperor Napoleon
+    Bonaparte and his relentless journey to power through the prism of his addictive,
+    volatile relationship with his wife, Josephine.
+  language:
+    - English
+    - French
+    - Russian
+    - German
+    - Italian
+  country: United States
+  imdbrating: 6.5
+  slug: napoleon-2023

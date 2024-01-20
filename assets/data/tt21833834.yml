@@ -1,0 +1,21 @@
+- imdbid: tt21833834
+  type: movie
+  title: Limbo
+  year: 2023.0
+  runtime: 108.0
+  director: Ivan Sen
+  writer: Ivan Sen
+  actors:
+    - Simon Baker
+    - Rob Collins
+    - Natasha Wanganeen
+  genre:
+    - Crime
+    - Drama
+    - Mystery
+  plot: '''Limbo'' follows the investigation of a twenty year-old outback cold case
+    murder by jaded detective Travis Hurley.'
+  language: English
+  country: Australia
+  imdbrating: 6.1
+  slug: limbo-2023
